@@ -1,14 +1,24 @@
 [
   {
-    "id": "1",
-    "mcc": "421",
-    "mnc": "01",
-    "status": "Active"
-  },
-  {
-    "id": "2",
-    "mcc": "422",
-    "mnc": "02",
-    "status": "Offline"
+    "tag_number": "02020",
+    "name": "Motor 1",
+    "mcc": "Main MCC",
+    "feeder": "F1",
+    "rpm": "1450",
+    "current": "10A",
+    "power": "5.5kW",
+    "volt": "400V",
+    "vfd": "No",
+    "pf": "0.85",
+    "freq": "50Hz",
+    "de": "80",
+    "nde": "75",
+    "manfuct": "ABB",
+    "frame": "132M",
+    "sn": "SN12345",
+    "motor_code": "MC001",
+    "de_code": "6308-C3",
+    "nde_code": "6307-C3",
+    "conn_type": "Delta"
   }
 ]
