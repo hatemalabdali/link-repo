@@ -99,8 +99,8 @@
     "vfd": "NO",
     "pf": "0.85",
     "freq": "50 Hz",
-    "de": "6317-C3",
-    "nde": "6317-C3",
+    "de": " Not Found ",
+    "nde": " Not Found ",
     "manfuct": "SIEMENS",
     "frame": "1LG6280-4AA61-Z  280S",
     "sn": "UC1012/078828101",
@@ -108,5 +108,28 @@
     "de_code": "Not Found",
     "nde_code": "Not Found",
     "conn_type": "Delta"
+  },
+{
+    "tag_number": "020702",
+    "name": "RAW SUGAR TRIPPER MOTOR",
+    "mcc": "MCC3C",
+    "feeder": "02 06 A",
+    "rpm": "1460 RPM",
+    "current": "14.9 A",
+    "power": "7.5 kW",
+    "volt": "400 V",
+    "vfd": "NO",
+    "pf": "0.82",
+    "freq": "50 Hz",
+    "de": "6317 C3",
+    "nde": "6317 C3",
+    "manfuct": "SIEMENS",
+    "frame": "Not Found",
+    "sn": " Not Found ",
+    "motor_code": "1053",
+    "de_code": "Not Found",
+    "nde_code": "Not Found",
+    "conn_type": "Delta"
   }
+
 ]
