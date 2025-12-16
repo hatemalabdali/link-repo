@@ -20,5 +20,27 @@
     "de_code": "6308-C3",
     "nde_code": "6307-C3",
     "conn_type": "Delta"
+  }و
+  {
+    "tag_number": "02030",
+    "name": "Motor 2",
+    "mcc": "Main MCC",
+    "feeder": "F1",
+    "rpm": "1450",
+    "current": "10A",
+    "power": "5.5kW",
+    "volt": "400V",
+    "vfd": "No",
+    "pf": "0.85",
+    "freq": "50Hz",
+    "de": "80",
+    "nde": "75",
+    "manfuct": "ABB",
+    "frame": "132M",
+    "sn": "SN12345",
+    "motor_code": "MC001",
+    "de_code": "6308-C3",
+    "nde_code": "6307-C3",
+    "conn_type": "Delta"
   }
 ]
