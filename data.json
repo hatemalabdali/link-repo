@@ -20,7 +20,7 @@
     "de_code": "6308-C3",
     "nde_code": "6307-C3",
     "conn_type": "Delta"
-  },
+  },  <-- هذه الفاصلة ضرورية جداً هنا
   {
     "tag_number": "02030",
     "name": "Motor 2",
