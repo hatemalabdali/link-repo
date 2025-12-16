@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "mcc": "421",
+    "mnc": "01",
+    "status": "Active"
+  },
+  {
+    "id": "2",
+    "mcc": "422",
+    "mnc": "02",
+    "status": "Offline"
+  }
+]
