@@ -22,7 +22,7 @@
     "conn_type": "Delta"
   },  
   {
-    "tag_number": "02040",
+    "tag_number": "02030",
     "name": "Motor 2",
     "mcc": "Main MCC",
     "feeder": "F1",
