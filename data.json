@@ -2472,8 +2472,7 @@
   "current": "275 A",
   "power": "250 kW",
   "volt": "690 V",
-  "vfd": "YES
-  (Likely due to application)",
+  "vfd": "YES (Likely due to application)",
   "pf": "0.8",
   "freq": "50 Hz",
   "de": "6322 /C3",
@@ -2503,7 +2502,7 @@
   "manfuct": "ABB",
   "frame": "M3BP100LD4",
   "sn": "3GE113930P6362050",
-  "motor_code": "S-990 1300018285",
+  "motor_code": "Not Found",
   "de_code": "Not Found",
   "nde_code": "Not Found",
   "conn_type": "STAR"
