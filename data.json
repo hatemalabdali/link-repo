@@ -328,6 +328,29 @@
     "de_code": "Not Found ",
     "nde_code": " Not Found ",
     "conn_type": "DELTA"
+  },
+{
+    "tag_number": "04020",
+    "name": "STIRRES ON MELTER 04-010",
+    "mcc": "MCC5",
+    "feeder": "05 06 B",
+    "rpm": "1450 RPM",
+    "current": "14.9 A",
+    "power": "7.5 kW",
+    "volt": "400 V",
+    "vfd": "NO",
+    "pf": "0.81",
+    "freq": "50 Hz",
+    "de": "6208-2Z/C3",
+    "nde": "6208-2Z/C3",
+    "manfuct": "ABB",
+    "frame": "M3BA 132 MB 4",
+    "sn": "675116",
+    "motor_code": "S-975   1300018270",
+    "de_code": "",
+    "nde_code": "",
+    "conn_type": "STAR"
   }
+
 
 ]
