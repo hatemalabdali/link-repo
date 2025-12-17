@@ -599,7 +599,7 @@
     "mcc": "MCC5",
     "feeder": "02 10 A",
     "rpm": "1450 RPM",
-    "current": 7.6 A",
+    "current": "7.6 A",
     "power": "3.65 kW",
     "volt": "400 V",
     "vfd": "NO",
