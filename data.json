@@ -2472,7 +2472,8 @@
   "current": "275 A",
   "power": "250 kW",
   "volt": "690 V",
-  "vfd": "YES (Likely due to application)",
+  "vfd": "YES
+  (Likely due to application)",
   "pf": "0.8",
   "freq": "50 Hz",
   "de": "6322 /C3",
