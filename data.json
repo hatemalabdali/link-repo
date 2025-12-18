@@ -596,7 +596,7 @@
 {
     "tag_number": "05050",
     "name": "DEDUSTING BLOWER",
-    "mcc": "MCC5",
+    "mcc": "MCC2",
     "feeder": "02 10 A",
     "rpm": "1450 RPM",
     "current": "7.6 A",
