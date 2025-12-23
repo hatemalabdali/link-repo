@@ -7540,7 +7540,9 @@
   "manfuct": "ROSSI",
   "frame": "HBZ71B",
   "sn": "Not Found",
-  "motor_code": "Not Found",
+   "motor_code": "Not Found",
+  "de_code": "Not Found",
+  "nde_code": "Not Found",
   "conn_type": "Star (Y) (Est.)"
 },
 {
@@ -7583,6 +7585,8 @@
   "frame": "MG160MB2-42FF300-H3",
   "sn": "85u17524",
   "motor_code": "Not Found",
+  "de_code": "Not Found",
+  "nde_code": "Not Found",
   "conn_type": "Delta (Δ) (Est.)"
 },
 {
@@ -7602,7 +7606,9 @@
   "manfuct": "CROMPTON GREAVES",
   "frame": "ND160M",
   "sn": "NADH54A",
-  "motor_code": "Not Found",
+   "motor_code": "Not Found",
+  "de_code": "Not Found",
+  "nde_code": "Not Found",
   "conn_type": "Delta (Δ) (Est.)"
 },
 {
@@ -7623,6 +7629,8 @@
   "frame": "MG160MB2-42FF300-H3",
   "sn": "85u17524",
   "motor_code": "Not Found",
+  "de_code": "Not Found",
+  "nde_code": "Not Found",
   "conn_type": "Delta (Δ) (Est.)"
 },
 {
@@ -7642,6 +7650,9 @@
   "manfuct": "CROMPTON GREAVES",
   "frame": "ND160M",
   "sn": "NADH54A",
+   "motor_code": "Not Found",
+  "de_code": "Not Found",
+  "nde_code": "Not Found",
   "conn_type": "Delta (Δ) (Est.)"
 },
 {
@@ -7662,6 +7673,8 @@
   "frame": "1LG6 228-2AA96-Z 225M",
   "sn": "UC 1106/086855410",
   "motor_code": "Not Found",
+  "de_code": "Not Found",
+  "nde_code": "Not Found",
   "conn_type": "Delta (Δ) (Est.)"
 },
 {
@@ -7681,6 +7694,9 @@
   "manfuct": "SIEMENS",
   "frame": "1LG6 228-2AA96-Z 225M",
   "sn": "US 1103/08261405",
+  "motor_code": "Not Found",
+  "de_code": "Not Found",
+  "nde_code": "Not Found",
   "conn_type": "Delta (Δ) (Est.)"
 },
 {
@@ -7699,7 +7715,11 @@
   "nde": "6213C4",
   "manfuct": "SIEMENS",
   "frame": "1LG6 228-2AA96-Z 225M",
-  "sn": "US 1103/081839509"
+  "sn": "US 1103/081839509",
+   "motor_code": "Not Found",
+  "de_code": "Not Found",
+  "nde_code": "Not Found",
+  "conn_type": "Star (Y) (Est.)"
 },
 {
   "tag_number": "01008",
@@ -7719,6 +7739,8 @@
   "frame": "AF 100L/6C-11S+E3",
   "sn": "226815301-50",
   "motor_code": "Not Found",
+  "de_code": "Not Found",
+  "nde_code": "Not Found",
   "conn_type": "Star (Y) (Est.)"
 },
 {
@@ -7739,6 +7761,8 @@
   "frame": "AF 100L/6C-11S+E3",
   "sn": "226941701-36",
   "motor_code": "Not Found",
+  "de_code": "Not Found",
+  "nde_code": "Not Found",
   "conn_type": "Star (Y) (Est.)"
 },
 {
@@ -7759,6 +7783,8 @@
   "frame": "AF 100L/6C-11S+E3",
   "sn": "226941701-51",
   "motor_code": "Not Found",
+  "de_code": "Not Found",
+  "nde_code": "Not Found",
   "conn_type": "Star (Y) (Est.)"
 },
 {
@@ -7778,6 +7804,8 @@
   "frame": "1LA9189-2XA96-Z NO2",
   "sn": "E1109/531578701 010",
   "motor_code": "Not Found",
+  "de_code": "Not Found",
+  "nde_code": "Not Found",
   "conn_type": "Delta (Δ) (Est.)"
 },
 {
@@ -7798,6 +7826,8 @@
   "frame": "1LA9189-2XA96-Z NO2",
   "sn": "E1109/531439801 007",
   "motor_code": "Not Found",
+  "de_code": "Not Found",
+  "nde_code": "Not Found",
   "conn_type": "Delta (Δ) (Est.)"
 },
 {
@@ -7818,6 +7848,8 @@
   "frame": "1LA9189-2XA96-Z NO2",
   "sn": "E1109/531439301 001",
   "motor_code": "Not Found",
+  "de_code": "Not Found",
+  "nde_code": "Not Found",
   "conn_type": "Delta (Δ) (Est.)"
 },
 {
@@ -7838,6 +7870,8 @@
   "frame": "1LA7083-6AA91-Z N02",
   "sn": "E1109/5314245 01023",
   "motor_code": "Not Found",
+  "de_code": "Not Found",
+  "nde_code": "Not Found",
   "conn_type": "Star (Y) (Est.)"
 },
 {
@@ -7858,6 +7892,8 @@
   "frame": "1LA7083-6AA91-Z N03",
   "sn": "E1109/5313578 01015",
   "motor_code": "Not Found",
+  "de_code": "Not Found",
+  "nde_code": "Not Found",
   "conn_type": "Star (Y) (Est.)"
 },
 {
@@ -7878,6 +7914,8 @@
   "frame": "1LA7083-6AA91-Z N04",
   "sn": "E1109/5313578 01008",
   "motor_code": "Not Found",
+  "de_code": "Not Found",
+  "nde_code": "Not Found",
   "conn_type": "Star (Y) (Est.)"
 },
 {
@@ -7898,6 +7936,8 @@
   "frame": "1PC30051CA700A0 132M",
   "sn": "UD 1201/72796402-1",
   "motor_code": "Not Found",
+  "de_code": "Not Found",
+  "nde_code": "Not Found",
   "conn_type": "Delta (Δ) (Est.)"
 },
 {
@@ -7918,6 +7958,8 @@
   "frame": "1PC30051CA700A0 132M",
   "sn": "UD 1201/72602048-4",
   "motor_code": "Not Found",
+  "de_code": "Not Found",
+  "nde_code": "Not Found",
   "conn_type": "Delta (Δ) (Est.)"
 },
   {
