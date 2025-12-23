@@ -7938,8 +7938,8 @@
   "frame": "Not Found",
   "sn": "Not Found",
   "motor_code": "Not Found",
-  "bearing_code_de": "Not Found",
-  "bearing_code_nde": "Not Found",
+  "de_code": "Not Found",
+  "nde_code": "Not Found",
   "conn_type": "Not Found"
 },
   {
@@ -7960,8 +7960,8 @@
   "frame": "Not Found",
   "sn": "Not Found",
   "motor_code": "Not Found",
-  "bearing_code_de": "Not Found",
-  "bearing_code_nde": "Not Found",
+  "de_code": "Not Found",
+  "nde_code": "Not Found",
   "conn_type": "Not Found"
 },
   {
@@ -7982,8 +7982,8 @@
   "frame": "Not Found",
   "sn": "Not Found",
   "motor_code": "Not Found",
-  "bearing_code_de": "Not Found",
-  "bearing_code_nde": "Not Found",
+  "de_code": "Not Found",
+  "nde_code": "Not Found",
   "conn_type": "Not Found"
 },
    {
@@ -8004,8 +8004,8 @@
   "frame": "Not Found",
   "sn": "Not Found",
   "motor_code": "Not Found",
-  "bearing_code_de": "Not Found",
-  "bearing_code_nde": "Not Found",
+  "de_code": "Not Found",
+  "nde_code": "Not Found",
   "conn_type": "Not Found"
 },
   {
@@ -8026,8 +8026,8 @@
   "frame": "M2GP 132 SA4",
   "sn": "Not Found",
   "motor_code": "3GGP 132 210-SDA",
-  "bearing_code_de": "Not Found",
-  "bearing_code_nde": "Not Found",
+  "de_code": "Not Found",
+  "nde_code": "Not Found",
   "conn_type": "Delta (D)"
 },
    {
@@ -8048,8 +8048,8 @@
   "frame": "Not Found",
   "sn": "Not Found",
   "motor_code": "Not Found",
-  "bearing_code_de": "Not Found",
-  "bearing_code_nde": "Not Found",
+  "de_code": "Not Found",
+  "nde_code": "Not Found",
   "conn_type": "Not Found"
 },
    {
@@ -8070,8 +8070,8 @@
   "frame": "Not Found",
   "sn": "Not Found",
   "motor_code": "Not Found",
-  "bearing_code_de": "Not Found",
-  "bearing_code_nde": "Not Found",
+  "de_code": "Not Found",
+  "nde_code": "Not Found",
   "conn_type": "Not Found"
 },
    {
@@ -8092,8 +8092,8 @@
   "frame": "M2GP 132 SA4",
   "sn": "Not Found",
   "motor_code": "3GGP 132 210-SDA",
-  "bearing_code_de": "Not Found",
-  "bearing_code_nde": "Not Found",
+  "de_code": "Not Found",
+  "nde_code": "Not Found",
   "conn_type": "Delta (D)"
 },
    {
@@ -8114,8 +8114,8 @@
   "frame": "M2GP 132 MA4",
   "sn": "33P132310-BDA 452",
   "motor_code": "Not Found",
-  "bearing_code_de": "Not Found",
-  "bearing_code_nde": "Not Found",
+  "de_code": "Not Found",
+  "nde_code": "Not Found",
   "conn_type": "DELTA ∆"
 },
    {
@@ -8137,8 +8137,8 @@
   "frame": "PM 132M",
   "sn": "Not Found",
   "motor_code": "Not Found",
-  "bearing_code_de": "Not Found",
-  "bearing_code_nde": "Not Found",
+  "de_code": "Not Found",
+  "nde_code": "Not Found",
   "conn_type": "DELTA"
 },
    {
@@ -8160,8 +8160,8 @@
   "frame": "M2OA 90 L4A",
   "sn": "3GOAC92501-BSA,158,067,149,002.135",
   "motor_code": "Not Found",
-  "bearing_code_de": "Not Found",
-  "bearing_code_nde": "Not Found",
+  "de_code": "Not Found",
+  "nde_code": "Not Found",
   "conn_type": "STAR Y"
 }
 ]
