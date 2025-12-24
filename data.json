@@ -229,7 +229,7 @@
     "power": "22 kW",
     "volt": "400 V",
     "vfd": "YES",
-    "tag_number": "03410",
+    "pf": "0.84",
     "freq": "50 Hz",
     "de": "6310 2Z/C3 (Est.)",
   "nde": "6209 2Z/C3 (Est.)",
