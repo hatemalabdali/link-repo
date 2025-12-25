@@ -4585,14 +4585,14 @@
   "vfd": "NO",
   "pf": "0.83",
   "freq": "50 Hz",
-  "de": "Not Specified",
-  "nde": "Not Specified",
+  "de": "6306 2RS1/C3 (Est.)",
+  "nde": "6205 2RS1/C3 (Est.)",
   "manfuct": "SEW",
   "frame": "FH77/GII2GD 100L 4/TF/II3GD",
   "sn": "90.1756973101.001.11",
   "motor_code": "2036",
-  "de_code": "Not Found",
-  "nde_code": "Not Found",
+  "de_code": "6306 (Est.)",
+  "nde_code": "6205 (Est.)",
   "conn_type": "DELTA"
 },
 {
