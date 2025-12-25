@@ -4629,14 +4629,14 @@
   "vfd": "NO",
   "pf": "0.78",
   "freq": "50 Hz",
-  "de": "Not Specified",
-  "nde": "Not Specified",
+  "de": "6205 2RSH/C3 (Est.)",
+  "nde": "6205 2RSH/C3 (Est.)",
   "manfuct": "ABB",
   "frame": "M2QA90LA4A",
   "sn": "Not Specified",
   "motor_code": "Not Found",
-  "de_code": "6205 2RSH/C3 (Est.)",
-  "nde_code": "6205 2RSH/C3 (Est.)",
+  "de_code": "Not Specified",
+  "nde_code":"Not Specified",
   "conn_type": "STAR"
 },
 {
