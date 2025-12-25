@@ -7004,7 +7004,7 @@
   "conn_type": "Dahlander (Y/YY)"
 },
 {
-  "tag_number": "13420",
+  "tag_number": "13430",
   "name": "COOLING TOWER FAN",
   "mcc": "MCC2",
   "feeder": "29 18",
@@ -7034,6 +7034,7 @@
   "current": "81.3",
   "power": "45",
   "volt": "400",
+  "vfd": "NO",
   "pf": "0.85",
   "freq": "50 Hz",
   "de": "6313 2Z/C3",
