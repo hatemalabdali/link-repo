@@ -4587,12 +4587,12 @@
   "freq": "50 Hz",
   "de": "6306 2RS1/C3 (Est.)",
   "nde": "6205 2RS1/C3 (Est.)",
-  "manfuct": "SE",
+  "manfuct": "SEW",
   "frame": "FH77/GII2GD 100L 4/TF/II3GD",
   "sn": "90.1756973101.001.11",
   "motor_code": "2036",
-  "de_code": "6306 (Est.)",
-  "nde_code": "6205 (Est.)",
+  "de_code": "Not Found",
+  "nde_code": "Not Found",
   "conn_type": "DELTA"
 },
 {
