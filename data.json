@@ -7987,7 +7987,7 @@
   "motor_code": "S-3781 1300020450  (Est.)",
   "de_code": "Not Found",
   "nde_code": "Not Found",
-  "conn_type": "Not Found"
+  "conn_type": "DELTA"
 },
   {
   "tag_number": "05055",
@@ -8009,7 +8009,7 @@
   "motor_code": "S-975 1300018270 (Est.)",
   "de_code": "Not Found",
   "nde_code": "Not Found",
-  "conn_type": "Not Found"
+  "conn_type": "DELTA "
 },
  {
   "tag_number": "05065",
