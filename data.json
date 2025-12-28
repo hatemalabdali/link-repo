@@ -8296,6 +8296,28 @@
   "de_code": "Not Found",
   "nde_code": "Not Found",
   "conn_type": "STAR (Y)"
+},
+   {
+  "tag_number": "12100",
+  "name": "PACKING VIBRATING TYPE SCREEN",
+  "mcc": "MCC2B",
+  "feeder": "02 14 D",
+  "rpm": "1450 RPM",
+  "current": "4.6 A",
+  "power": "2.2 kW",
+  "volt": "400 V",
+  "pf": "0.78",
+  "freq": "50 Hz",
+  "vfd": "NO",
+  "de": "6206 2Z/C3",
+  "nde": "6205-2Z/C3",
+  "manfuct": "ABB",
+  "frame": "M3GP 100LC 4",
+  "sn": "3G1F1628342688",
+  "motor_code": "Not Found",
+  "de_code": "Not Found",
+  "nde_code": "Not Found",
+  "conn_type": "STAR (Y)"
 }
   
 ]
