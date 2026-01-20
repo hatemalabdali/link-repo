@@ -1,0 +1,22 @@
+[
+  {
+    "code": "P1/L1/07",
+    "type": "SMOKE DETECTOR",
+    "location": "البوابة الرئيسية - مكتب رئيس قسم الترحيل"
+  },
+  {
+    "code": "P1/L1/08",
+    "type": "SMOKE DETECTOR",
+    "location": "البوابة الرئيسية - غرفة الاشعة السينية"
+  },
+  {
+    "code": "P4/L1/57",
+    "type": "SMOKE DETECTOR",
+    "location": "التعبئة - ورشة الكهرباء"
+  },
+  {
+    "code": "P4/L1/03",
+    "type": "MANUAL CALL POINT",
+    "location": "التعبئة - المدخل"
+  }
+]	
