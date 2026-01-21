@@ -1,22 +1,12 @@
 [
-  {
-    "code": "P1/L1/01",
-    "type": "SMOKE DETECTOR",
-    "location": "01"
-  },
-  {
-    "code": "P1/L1/02",
-    "type": "SMOKE DETECTOR",
-    "location": "02"
-  },
-  {
-    "code": "P1/L1/03",
-    "type": "SMOKE DETECTOR",
-    "location": "03"
-  },
-  {
-    "code": "P1/L1/04",
-    "type": "MANUAL CALL POINT",
-    "location": "04"
-  }
-]	
+  { "code": "P1/L1/01", "type": "SMOKE DETECTOR", "location": "البوابة الرئيسية - مكتب رئيس قسم الترحيل" },
+  { "code": "P1/L1/02", "type": "SMOKE DETECTOR", "location": "البوابة الرئيسية - صالة مكتب رئيس قسم الترحيل" },
+  { "code": "P1/L1/03", "type": "SMOKE DETECTOR", "location": "البوابة الرئيسية - غرفة الاشعة السينية" },
+  { "code": "P1/L1/04", "type": "SMOKE DETECTOR", "location": "البوابة الرئيسية - مكتب المبيعات" },
+  { "code": "P1/L1/05", "type": "SMOKE DETECTOR", "location": "مكتب الحراسة" },
+  { "code": "P1/L2/01", "type": "MANUAL CALL POINT", "location": "الإدارة - المدخل الرئيسي" },
+  { "code": "P2/L1/15", "type": "HEAT DETECTOR", "location": "المخازن - المنطقة الشرقية" },
+  { "code": "P3/L1/22", "type": "SOUNDER/FLASHER", "location": "الغلايات - الدور الثاني" },
+  { "code": "P4/L1/57", "type": "SMOKE DETECTOR", "location": "التعبئة - ورشة الكهرباء" },
+  { "code": "P4/L1/01", "type": "SOUNDER", "location": "التعبئة - المدخل" }
+]
