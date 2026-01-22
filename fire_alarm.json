@@ -865,5 +865,41 @@
   { "code": "P7/L2/12", "type": "NAC", "location": "هنجر الخام - الجهة الجنوبية من الداخل" },
   { "code": "P7/L2/17", "type": "NAC", "location": "هنجر الخام - الجهة الجنوبية من الداخل" },
   { "code": "P7/L2/19", "type": "NAC", "location": "هنجر الخام - الجهة الجنوبية من الداخل" },
-  { "code": "P7/L2/16", "type": "MANUAL CALL POINT", "location": "هنجر الخام - الجهة الجنوبية من الداخل" }
+  { "code": "P7/L2/16", "type": "MANUAL CALL POINT", "location": "هنجر الخام - الجهة الجنوبية من الداخل" },
+{ "code": "P7/L2/16", "type": "MANUAL CALL POINT", "location": "هنجر الخام - الجهة الجنوبية من الداخل" },
+{ "code": "P7/L2/15", "type": "MANUAL CALL POINT", "location": "هنجر الخام - الجهة الجنوبية من الداخل" },
+{ "code": "P7/L2/15", "type": "MANUAL CALL POINT", "location": "هنجر الخام - الجهة الجنوبية من الداخل" },
+
+{ "code": "P7/L2/13", "type": "NAC", "location": "هنجر الخام - الجهة الجنوبية من الخارج" },
+{ "code": "P7/L2/13", "type": "NAC", "location": "هنجر الخام - الجهة الجنوبية من الخارج" },
+{ "code": "P7/L2/14", "type": "NAC", "location": "هنجر الخام - الجهة الجنوبية من الخارج" },
+{ "code": "P7/L2/14", "type": "NAC", "location": "هنجر الخام - الجهة الجنوبية من الخارج - جانب المكتب" },
+{ "code": "P7/L2/14", "type": "NAC", "location": "هنجر الخام - الجهة الجنوبية من الخارج - جانب المكتب" },
+
+{ "code": "P7/L2/09", "type": "MANUAL CALL POINT", "location": "هنجر الخام - الجهة الجنوبية من الخارج - جانب المكتب" },
+{ "code": "P7/L2/01", "type": "NAC", "location": "هنجر الخام - الجهة الجنوبية من الخارج - جانب برج 50" },
+{ "code": "P7/L2/02", "type": "MANUAL CALL POINT", "location": "هنجر الخام - الجهة الجنوبية من الخارج - جانب برج 50" },
+
+{ "code": "P7/L2/01", "type": "NAC", "location": "هنجر الخام - الجهة الغربية من الخارج" },
+{ "code": "P7/L2/43", "type": "NAC", "location": "هنجر الخام - الجهة الغربية من الخارج" },
+
+{ "code": "P7/L2/18", "type": "NAC", "location": "هنجر الخام - الجهة الغربية من الداخل" },
+{ "code": "P7/L2/50", "type": "NAC", "location": "هنجر الخام - الجهة الغربية من الداخل" },
+{ "code": "P7/L2/44", "type": "MANUAL CALL POINT", "location": "هنجر الخام - الجهة الغربية من الداخل" },
+{ "code": "P7/L2/15", "type": "MANUAL CALL POINT", "location": "هنجر الخام - الجهة الغربية من الداخل" },
+
+{ "code": "P7/L2/04", "type": "PRESURE SWITCH", "location": "حساس الضغط لمحبس الديلوج - الكونفيرات - هنجر الخام" },
+{ "code": "P7/L2/05", "type": "PRESURE SWITCH", "location": "حساس الضغط لمحبس الديلوج - الكونفيرات - هنجر الخام" },
+
+{ "code": "P7/L2/22", "type": "FLOW SWITCH", "location": "HOSE REEL - هنجر الخام" },
+{ "code": "P7/L2/23", "type": "TAMPER SWITCH", "location": "HOSE REEL - هنجر الخام" },
+
+{ "code": "P7/L2/29", "type": "PRESURE SWITCH", "location": "ZONE 1 - هنجر الخام" },
+{ "code": "P7/L2/30", "type": "TAMPER SWITCH", "location": "ZONE 1 - هنجر الخام" },
+
+{ "code": "P7/L2/20", "type": "PRESURE SWITCH", "location": "MAIN PIPE - هنجر الخام" },
+{ "code": "P7/L2/21", "type": "TAMPER SWITCH", "location": "MAIN PIPE - هنجر الخام" },
+
+{ "code": "P7/L2/03", "type": "CONVEYOR TRIP", "location": "برج 50" }
+
 ]
