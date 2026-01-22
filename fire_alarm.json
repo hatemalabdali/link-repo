@@ -1225,5 +1225,6 @@
 { "code": "P9/L2/13", "type": "SMOKE DETECTOR", "location": "محطة التحلية" },
 { "code": "P9/L2/10", "type": "SMOKE DETECTOR", "location": "محطة التحلية" },
 { "code": "P9/L2/11", "type": "SMOKE DETECTOR", "location": "محطة التحلية" },
-{ "code": "P9/L2/12", "type": "SMOKE DETECTOR", "location": "محطة التحلية" }
+{ "code": "P9/L2/12", "type": "SMOKE DETECTOR", "location": "محطة التحلية" }, { "code": "P9/L2/20", "type": "MANUAL CALL POINT", "location": "محطة التحلية - المدخل بجانب البوابة الشرقية" }
+]
 ]
