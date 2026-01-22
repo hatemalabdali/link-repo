@@ -900,7 +900,7 @@
 { "code": "P7/L2/20", "type": "PRESURE SWITCH", "location": "MAIN PIPE - هنجر الخام" },
 { "code": "P7/L2/21", "type": "TAMPER SWITCH", "location": "MAIN PIPE - هنجر الخام" },
 
-{ "code": "P7/L2/03", "type": "CONVEYOR TRIP", "location": "برج 50" }
+{ "code": "P7/L2/03", "type": "CONVEYOR TRIP", "location": "برج 50" },
 { "code": "P8/L1/15", "type": "SMOKE DETECTOR", "location": "مبنى الإنتاج - غرفة ضواغط CO2" },
 { "code": "P8/L1/14", "type": "SMOKE DETECTOR", "location": "مبنى الإنتاج - غرفة ضواغط CO2" },
 { "code": "P8/L1/13", "type": "SMOKE DETECTOR", "location": "مبنى الإنتاج - غرفة ضواغط CO2" },
