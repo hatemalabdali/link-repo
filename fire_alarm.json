@@ -796,13 +796,13 @@
   { "code": "P7/L1/20", "type": "FM200", "location": "غرفة كهرباء هنجر الخام - تفريغ الغاز" },
   { "code": "P7/L1/08", "type": "MANUAL CALL POINT", "location": "كونفير 70-02" },
   { "code": "P7/L1/04", "type": "MANUAL CALL POINT", "location": "كونفير 60-02" },
-  { "code": "P7/L1/01", "type": "PRESURE SWITCH", "location": "هنجر الخام - ZONE 2" },
+  { "code": "P7/L1/01", "type": "PRESSURE SWITCH", "location": "هنجر الخام - ZONE 2" },
   { "code": "P7/L1/02", "type": "TAMPER SWITCH", "location": "هنجر الخام - ZONE 2" },
   { "code": "P7/L2/24", "type": "MANUAL CALL POINT", "location": "كونفير 10-03" },
   { "code": "P7/L2/26", "type": "LHSD", "location": "كونفير 10-03" },
   { "code": "P7/L2/27", "type": "LHSD", "location": "كونفير 10-03" },
   { "code": "P7/L2/28", "type": "LHSD", "location": "كونفير 10-03" },
-  { "code": "P7/L2/31", "type": "PRESURE SWITCH", "location": "كونفير 10-03" },
+  { "code": "P7/L2/31", "type": "PRESSURE SWITCH", "location": "كونفير 10-03" },
   { "code": "P7/L2/32", "type": "TAMPER SWITCH", "location": "كونفير 10-03" },
   { "code": "P7/L2/33", "type": "LHSD", "location": "كونفير 100-02" },
   { "code": "P7/L2/34", "type": "LHSD", "location": "كونفير 100-02" },
@@ -822,13 +822,13 @@
   { "code": "P7/L2/15", "type": "MANUAL CALL POINT", "location": "هنجر الخام - الجهة الجنوبية من الداخل" },
   { "code": "P7/L2/09", "type": "MANUAL CALL POINT", "location": "هنجر الخام - الجهة الجنوبية من الخارج - جانب المسكب" },
   { "code": "P7/L2/2", "type": "MANUAL CALL POINT", "location": "هنجر الخام - الجهة الجنوبية من الخارج - جانب برج 50" },
-  { "code": "P7/L2/04", "type": "PRESURE SWITCH", "location": "حساس الضغط لمحبس الديلوج 1 لكونفيرات هنجر الخام" },
-  { "code": "P7/L2/05", "type": "PRESURE SWITCH", "location": "حساس الضغط لمحبس الديلوج 2 لكونفيرات هنجر الخام" },
+  { "code": "P7/L2/04", "type": "PRESSURE SWITCH", "location": "حساس الضغط لمحبس الديلوج 1 لكونفيرات هنجر الخام" },
+  { "code": "P7/L2/05", "type": "PRESSURE SWITCH", "location": "حساس الضغط لمحبس الديلوج 2 لكونفيرات هنجر الخام" },
   { "code": "P7/L2/22", "type": "FLOW SWITCH", "location": "HOSE REEL - هنجر الخام" },
   { "code": "P7/L2/23", "type": "TAMPER SWITCH", "location": "HOSE REEL - هنجر الخام" },
-  { "code": "P7/L2/29", "type": "PRESURE SWITCH", "location": "ZONE1 - هنجر الخام" },
+  { "code": "P7/L2/29", "type": "PRESSURE SWITCH", "location": "ZONE1 - هنجر الخام" },
   { "code": "P7/L2/30", "type": "TAMPER SWITCH", "location": "ZONE1 - هنجر الخام" },
-  { "code": "P7/L2/20", "type": "PRESURE SWITCH", "location": "MAIN PIPE - هنجر الخام" },
+  { "code": "P7/L2/20", "type": "PRESSURE SWITCH", "location": "MAIN PIPE - هنجر الخام" },
   { "code": "P7/L2/21", "type": "TAMPER SWITCH", "location": "MAIN PIPE - هنجر الخام" },
   { "code": "P7/L2/03", "type": "CONVEYOR TRIP", "location": "برج 50 و 60" },
 
@@ -888,16 +888,16 @@
 { "code": "P7/L2/44", "type": "MANUAL CALL POINT", "location": "هنجر الخام - الجهة الغربية من الداخل" },
 { "code": "P7/L2/15", "type": "MANUAL CALL POINT", "location": "هنجر الخام - الجهة الغربية من الداخل" },
 
-{ "code": "P7/L2/04", "type": "PRESURE SWITCH", "location": "حساس الضغط لمحبس الديلوج - الكونفيرات - هنجر الخام" },
-{ "code": "P7/L2/05", "type": "PRESURE SWITCH", "location": "حساس الضغط لمحبس الديلوج - الكونفيرات - هنجر الخام" },
+{ "code": "P7/L2/04", "type": "PRESSURE SWITCH", "location": "حساس الضغط لمحبس الديلوج - الكونفيرات - هنجر الخام" },
+{ "code": "P7/L2/05", "type": "PRESSURE SWITCH", "location": "حساس الضغط لمحبس الديلوج - الكونفيرات - هنجر الخام" },
 
 { "code": "P7/L2/22", "type": "FLOW SWITCH", "location": "HOSE REEL - هنجر الخام" },
 { "code": "P7/L2/23", "type": "TAMPER SWITCH", "location": "HOSE REEL - هنجر الخام" },
 
-{ "code": "P7/L2/29", "type": "PRESURE SWITCH", "location": "ZONE 1 - هنجر الخام" },
+{ "code": "P7/L2/29", "type": "PRESSURE SWITCH", "location": "ZONE 1 - هنجر الخام" },
 { "code": "P7/L2/30", "type": "TAMPER SWITCH", "location": "ZONE 1 - هنجر الخام" },
 
-{ "code": "P7/L2/20", "type": "PRESURE SWITCH", "location": "MAIN PIPE - هنجر الخام" },
+{ "code": "P7/L2/20", "type": "PRESSURE SWITCH", "location": "MAIN PIPE - هنجر الخام" },
 { "code": "P7/L2/21", "type": "TAMPER SWITCH", "location": "MAIN PIPE - هنجر الخام" },
 
 { "code": "P7/L2/03", "type": "CONVEYOR TRIP", "location": "برج 50" },
@@ -915,16 +915,16 @@
 
 { "code": "P8/L1/24", "type": "MANUAL CALL POINT", "location": "مبنى الإنتاج - غرفة تحضير الملح" },
 
-{ "code": "P8/L1/04", "type": "PRESURE SWITCH", "location": "MAIN PIPE - مبنى الإنتاج - الدور الأرضي" },
+{ "code": "P8/L1/04", "type": "PRESSURE SWITCH", "location": "MAIN PIPE - مبنى الإنتاج - الدور الأرضي" },
 { "code": "P8/L1/05", "type": "TAMPER SWITCH", "location": "MAIN PIPE - مبنى الإنتاج - الدور الأرضي" },
 
 { "code": "P8/L1/16", "type": "FLOW SWITCH", "location": "HOSE REEL - مبنى الإنتاج - الدور الأرضي" },
 { "code": "P8/L1/17", "type": "TAMPER SWITCH", "location": "HOSE REEL - مبنى الإنتاج - الدور الأرضي" },
 
-{ "code": "P8/L1/07", "type": "PRESURE SWITCH", "location": "ZONE 1 - مبنى الإنتاج - الدور الأرضي" },
+{ "code": "P8/L1/07", "type": "PRESSURE SWITCH", "location": "ZONE 1 - مبنى الإنتاج - الدور الأرضي" },
 { "code": "P8/L1/06", "type": "TAMPER SWITCH", "location": "ZONE 1 - مبنى الإنتاج - الدور الأرضي" },
 
-{ "code": "P8/L1/18", "type": "PRESURE SWITCH", "location": "ZONE 2 - مبنى الإنتاج - الدور الأرضي" },
+{ "code": "P8/L1/18", "type": "PRESSURE SWITCH", "location": "ZONE 2 - مبنى الإنتاج - الدور الأرضي" },
 { "code": "P8/L1/19", "type": "TAMPER SWITCH", "location": "ZONE 2 - مبنى الإنتاج - الدور الأرضي" },
 
 { "code": "P8/L1/33", "type": "SMOKE DETECTOR", "location": "مبنى الإنتاج - الدور الأول - مدخل المكاتب" },
@@ -1024,17 +1024,17 @@
   { "code": "P8/L2/28", "type": "حساسات المحولات", "location": "داخل غرف المحولات" },
   { "code": "P8/L2/28", "type": "حساسات المحولات", "location": "داخل غرف المحولات" },
   { "code": "P8/L2/28", "type": "حساسات المحولات", "location": "داخل غرف المحولات" },
-  { "code": "P8/L2/45", "type": "PRESURE SWITCH", "location": "PROCESS MAIN PIPE" },
+  { "code": "P8/L2/45", "type": "PRESSURE SWITCH", "location": "PROCESS MAIN PIPE" },
   { "code": "P8/L2/45", "type": "TAMPER SWITCH", "location": "PROCESS MAIN PIPE" },
   { "code": "P8/L2/46", "type": "FLOW SWITCH", "location": "HOSE REEL" },
   { "code": "P8/L2/47", "type": "TAMPER SWITCH", "location": "HOSE REEL" },
-  { "code": "P8/L2/10", "type": "PRESURE SWITCH", "location": "DRYING AND COOLING MAIN PIPE" },
+  { "code": "P8/L2/10", "type": "PRESSURE SWITCH", "location": "DRYING AND COOLING MAIN PIPE" },
   { "code": "P8/L2/10", "type": "TAMPER SWITCH", "location": "DRYING AND COOLING MAIN PIPE" },
   { "code": "P8/L2/40", "type": "FLOW SWITCH", "location": "RUN-OFF" },
   { "code": "P8/L2/40", "type": "TAMPER SWITCH", "location": "RUN-OFF" },
-  { "code": "P8/L2/41", "type": "PRESURE SWITCH", "location": "RUN-OFF" },
+  { "code": "P8/L2/41", "type": "PRESSURE SWITCH", "location": "RUN-OFF" },
   { "code": "P8/L2/42", "type": "TAMPER SWITCH", "location": "RUN-OFF" },
-  { "code": "P8/L2/25", "type": "PRESURE SWITCH", "location": "مرشات المحولات" },
+  { "code": "P8/L2/25", "type": "PRESSURE SWITCH", "location": "مرشات المحولات" },
   { "code": "P8/L2/26", "type": "TAMPER SWITCH", "location": "مرشات المحولات" },
   { "code": "P8/L2/25", "type": "FLOW SWITCH", "location": "مرشات المحولات" },
   { "code": "P8/L2/62", "type": "FM200", "location": "غرفة MCC الإنتاج - انذار المرحلة الأولى" },
@@ -1160,7 +1160,7 @@
 { "code": "P8/L3/76", "type": "RM INFRARED BEAM DETECTOR", "location": "الإنتاج السطح العلوي" },
 { "code": "P8/L3/27", "type": "LT INFRARED BEAM DETECTOR", "location": "غرفة تحضير الملح" }, 
 { "code": "P8/L3/27", "type": "RM INFRARED BEAM DETECTOR", "location": "غرفة تحضير الملح" },
-{ "code": "P9/L1/38", "type": "PRESURE SWITCH", "location": "مبنى المغسلة - مفتاح الضغط الخاص بشبكة المرشات" },
+{ "code": "P9/L1/38", "type": "PRESSURE SWITCH", "location": "مبنى المغسلة - مفتاح الضغط الخاص بشبكة المرشات" },
 { "code": "P9/L1/39", "type": "TAMPER SWITCH", "location": "مبنى المغسلة - حساس محبس رقم 139" },
 { "code": "P9/L1/40", "type": "FLOW SWITCH", "location": "مبنى المغسلة - حساس التدفق لخط كبائن الإطفاء" },
 { "code": "P9/L1/41", "type": "TAMPER SWITCH", "location": "مبنى المغسلة - حساس محبس رقم 138" },
@@ -1225,6 +1225,326 @@
 { "code": "P9/L2/13", "type": "SMOKE DETECTOR", "location": "محطة التحلية" },
 { "code": "P9/L2/10", "type": "SMOKE DETECTOR", "location": "محطة التحلية" },
 { "code": "P9/L2/11", "type": "SMOKE DETECTOR", "location": "محطة التحلية" },
-{ "code": "P9/L2/12", "type": "SMOKE DETECTOR", "location": "محطة التحلية" },
-  { "code": "P9/L2/20", "type": "MANUAL CALL POINT", "location": "محطة التحلية - المدخل بجانب البوابة الشرقية" }
+{ "code": "P9/L2/20", "type": "MANUAL CALL POINT", "location": "محطة التحلية – المدخل بجانب البوابة الشرقية" },
+  {
+    "code": "P9/L2/19",
+    "type": "SOUNDER",
+    "location": "محطة التحلية - المدخل بجانب البوابة الشرقية"
+  },
+  {
+    "code": "P9/L2/18",
+    "type": "FLASHER",
+    "location": "محطة التحلية - المدخل بجانب البوابة الشرقية"
+  },
+  {
+    "code": "P9/L2/17",
+    "type": "NAC",
+    "location": "محطة التحلية - المدخل بجانب البوابة الشرقية"
+  },
+  {
+    "code": "P9/L2/21",
+    "type": "PRESSURE SWITCH",
+    "location": "محطة التحلية - مفتاح الضغط الخاص بشبكة المرشات"
+  },
+  {
+    "code": "P9/L2/22",
+    "type": "TAMPER SWITCH",
+    "location": "محطة التحلية - حساس محبس رقم 141 الخاص بمرشات الإطفاء"
+  },
+  {
+    "code": "P9/L2/23",
+    "type": "FLOW SWITCH",
+    "location": "محطة التحلية - حساس التدفق الخاص بـ كبائن الإطفاء"
+  },
+  {
+    "code": "P9/L2/24",
+    "type": "TAMPER SWITCH",
+    "location": "محطة التحلية - حساس محبس رقم 142 الخاص بـ كبائن الإطفاء"
+  },
+  {
+    "code": "P9/L2/01",
+    "type": "FM200",
+    "location": "غرفة الكهرباء - إنذار المرحلة الأولى عند تفعيل NE1"
+  },
+  {
+    "code": "ZONE1",
+    "type": "FM200",
+    "location": "غرفة الكهرباء - إنذار المرحلة الأولى عند تفعيل ZONE1"
+  },
+  {
+    "code": "FM200",
+    "type": "FM200",
+    "location": "غرفة الكهرباء - إنذار لوجود عطل في نظام FM200"
+  },
+  {
+    "code": "FM200",
+    "type": "FM200",
+    "location": "غرفة الكهرباء - انذار المراقبة الاشرافية على أجهزة إطلاق الغاز"
+  },
+  {
+    "code": "FM200",
+    "type": "FM200",
+    "location": "غرفة الكهرباء - إنذار تفريغ غاز FM200"
+  },
+  {
+    "code": "P9/L2/25",
+    "type": "SMOKE DETECTOR",
+    "location": "مضخة الإطفاء"
+  },
+  {
+    "code": "P9/L2/46",
+    "type": "SMOKE DETECTOR",
+    "location": "مضخة الإطفاء"
+  },
+  {
+    "code": "P9/L2/47",
+    "type": "SMOKE DETECTOR",
+    "location": "مضخة الإطفاء"
+  },
+  {
+    "code": "P9/L2/48",
+    "type": "SMOKE DETECTOR",
+    "location": "مضخة الإطفاء"
+  },
+  {
+    "code": "P9/L2/39",
+    "type": "TAMPER SWITCH",
+    "location": "حساس محبس رقم 224 خط السحب لمضخة الديزل"
+  },
+  {
+    "code": "P9/L2/41",
+    "type": "TAMPER SWITCH",
+    "location": "حساس محبس رقم 220 خط التصريف لمضخة الديزل"
+  },
+  {
+    "code": "P9/L2/38",
+    "type": "TAMPER SWITCH",
+    "location": "حساس محبس رقم 224 خط السحب للمضخة الكهربائية"
+  },
+  {
+    "code": "P9/L2/40",
+    "type": "TAMPER SWITCH",
+    "location": "حساس محبس رقم 119 خط التصريف للمضخة الكهربائية"
+  },
+  {
+    "code": "P9/L2/44",
+    "type": "PRESSURE SWITCH",
+    "location": "حساس الضغط لخط المرشات في مضخة الإطفاء"
+  },
+  {
+    "code": "P9/L2/45",
+    "type": "TAMPER SWITCH",
+    "location": "حساس محبس رقم 203 لخط المرشات في مضخة الإطفاء"
+  },
+  {
+    "code": "P9/L2/51",
+    "type": "MANUAL CALL POINT",
+    "location": "مضخة الإطفاء"
+  },
+  {
+    "code": "P9/L2/49",
+    "type": "SOUNDER",
+    "location": "مضخة الإطفاء"
+  },
+  {
+    "code": "P9/L2/50",
+    "type": "FLASHER",
+    "location": "مضخة الإطفاء"
+  },
+  {
+    "code": "P9/L2/52",
+    "type": "NAC",
+    "location": "مضخة الإطفاء"
+  },
+  {
+    "code": "P9/L2/26",
+    "type": "TANK LEVEL",
+    "location": "مستوى المياه عالي في خزان الإطفاء رقم 1"
+  },
+  {
+    "code": "P9/L2/27",
+    "type": "TANK LEVEL",
+    "location": "مستوى المياه قليل في خزان الإطفاء رقم 1"
+  },
+  {
+    "code": "P9/L2/28",
+    "type": "TANK LEVEL",
+    "location": "مستوى المياه عالي في خزان الإطفاء رقم 2"
+  },
+  {
+    "code": "P9/L2/29",
+    "type": "TANK LEVEL",
+    "location": "مستوى المياه قليل في خزان الإطفاء رقم 2"
+  },
+  {
+    "code": "P9/L2/28",
+    "type": "BX-IO3",
+    "location": "مضخة الإطفاء"
+  },
+  {
+    "code": "P9/L2/29",
+    "type": "BX-IO3",
+    "location": "مضخة الإطفاء"
+  },
+  {
+    "code": "P9/L2/30",
+    "type": "BX-IO3",
+    "location": "مضخة الإطفاء - تشغيل المضخة الكهربائية"
+  },
+  {
+    "code": "P9/L2/31",
+    "type": "BX-IO3",
+    "location": "مضخة الإطفاء - أعطال المضخة الكهربائية"
+  },
+  {
+    "code": "P9/L2/32",
+    "type": "BX-IO3",
+    "location": "مضخة الإطفاء - طلب المضخة الكهربائية"
+  },
+  {
+    "code": "P9/L2/33",
+    "type": "BX-IO3",
+    "location": "مضخة الإطفاء - تشغيل المضخة الديزلية"
+  },
+  {
+    "code": "P9/L2/34",
+    "type": "BX-IO3",
+    "location": "مضخة الإطفاء - أعطال المضخة الديزلية"
+  },
+  {
+    "code": "P9/L2/35",
+    "type": "BX-IO3",
+    "location": "مضخة الإطفاء - طلب المضخة الديزلية"
+  },
+  {
+    "code": "P9/L2/36",
+    "type": "BX-IO3",
+    "location": "مضخة الإطفاء - تشغيل المضخة الجوكي رقم 1"
+  },
+  {
+    "code": "P9/L2/37",
+    "type": "BX-IO3",
+    "location": "مضخة الإطفاء - أعطال المضخة الجوكي رقم 1"
+  },
+  {
+    "code": "P9/L2/38",
+    "type": "BX-IO3",
+    "location": "مضخة الإطفاء"
+  },
+  {
+    "code": "P9/L2/39",
+    "type": "BX-IO3",
+    "location": "مضخة الإطفاء"
+  },
+  {
+    "code": "P9/L2/40",
+    "type": "BX-IO3",
+    "location": "مضخة الإطفاء"
+  },
+  {
+    "code": "P9/L2/41",
+    "type": "BX-IO3",
+    "location": "مضخة الإطفاء"
+  },
+  {
+    "code": "P9/L2/42",
+    "type": "BX-IO3",
+    "location": "مضخة الإطفاء - تشغيل المضخة الجوكي رقم 2"
+  },
+  {
+    "code": "P9/L2/43",
+    "type": "BX-IO3",
+    "location": "مضخة الإطفاء - أعطال المضخة الجوكي رقم 2"
+  },
+  {
+    "code": "P9/L2/44",
+    "type": "BX-IO3",
+    "location": "مضخة الإطفاء"
+  },
+  {
+    "code": "P9/L2/45",
+    "type": "BX-IO3",
+    "location": "مضخة الإطفاء"
+  },
+  {
+    "code": "P9/L2/64",
+    "type": "HEAT DETECTOR",
+    "location": "مخزن المواد الكيميائية والإنزيمات"
+  },
+  {
+    "code": "P9/L2/66",
+    "type": "MANUAL CALL POINT",
+    "location": "مخزن المواد الكيميائية والإنزيمات"
+  },
+  {
+    "code": "P9/L2/62",
+    "type": "NAC",
+    "location": "مخزن المواد الكيميائية والإنزيمات - من الخارج"
+  },
+  {
+    "code": "P9/L2/67",
+    "type": "NAC",
+    "location": "مخزن المواد الكيميائية والإنزيمات - من الداخل"
+  },
+  {
+    "code": "P9/L2/65",
+    "type": "HEAT DETECTOR",
+    "location": "سكن عمال المطعم"
+  },
+  {
+    "code": "P9/L2/61",
+    "type": "MANUAL CALL POINT",
+    "location": "سكن عمال المطعم"
+  },
+  {
+    "code": "P9/L2/63",
+    "type": "NAC",
+    "location": "سكن عمال المطعم"
+  },
+  {
+    "code": "P9/L2/65",
+    "type": "HEAT DETECTOR",
+    "location": "مخزن الأحماض"
+  },
+  {
+    "code": "P9/L2/59",
+    "type": "FLOW SWITCH",
+    "location": "مخزن المواد الكيميائية"
+  },
+  {
+    "code": "P9/L2/60",
+    "type": "TAMPER SWITCH",
+    "location": "مخزن المواد الكيميائية"
+  },
+  {
+    "code": "P9/L2/53",
+    "type": "PRESSURE SWITCH",
+    "location": "مخزن المواد الكيميائية"
+  },
+  {
+    "code": "P9/L2/54",
+    "type": "TAMPER SWITCH",
+    "location": "مخزن المواد الكيميائية"
+  },
+  {
+    "code": "P9/L2/55",
+    "type": "FLOW SWITCH",
+    "location": "مخزن المواد الكيميائية"
+  },
+  {
+    "code": "P9/L2/56",
+    "type": "TAMPER SWITCH",
+    "location": "مخزن المواد الكيميائية"
+  },
+  {
+    "code": "P9/L2/57",
+    "type": "FLOW SWITCH",
+    "location": "مخزن المواد الكيميائية"
+  },
+  {
+    "code": "P9/L2/58",
+    "type": "TAMPER SWITCH",
+    "location": "مخزن المواد الكيميائية"
+  }
+
 ]
