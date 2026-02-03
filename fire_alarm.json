@@ -3,8 +3,8 @@
     "code": "P1/L1/07",
     "type": "SMOKE DETECTOR",
     "location": "البوابة الرئيسية - مكتب رئيس قسم الترحيل",
-    "x_pixel": 4500,
-    "y_pixel": 2100,
+    "x_pixel": 184,
+    "y_pixel": 1543,
     "description_new": "مبنى الإدارة - الدور الأرضي - جهة الساعة 2",
     "building_id": "ADM_01"
   },
