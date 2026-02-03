@@ -12,8 +12,8 @@
     "code": "P1/L1/06",
     "type": "SMOKE DETECTOR",
     "location": "البوابة الرئيسية - صالة مكتب رئيس قسم الترحيل",
-    "x_pixel": 4600,
-    "y_pixel": 2200,
+    "x_pixel": 1644,
+    "y_pixel": 2040,
     "description_new": "مبنى الإدارة - الدور الاول - جهة الساعة 3",
     "building_id": "ADM_01"
   },
@@ -21,8 +21,8 @@
     "code": "P1/L1/08",
     "type": "SMOKE DETECTOR",
     "location": "البوابة الرئيسية - غرفة الاشعة السينية",
-    "x_pixel": 4700,
-    "y_pixel": 2300,
+    "x_pixel": 1127,
+    "y_pixel": 4158,
     "description_new": "مبنى التعبئة - الدور الأرضي - جهة الساعة 4",
     "building_id": "ADM_01"
   }
