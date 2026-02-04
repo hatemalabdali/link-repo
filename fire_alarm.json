@@ -1,12 +1,12 @@
 [
   {
     "code": "P1/L1/07",
-    "type": "SMOKE DETECTOR",
-    "location": "البوابة الرئيسية - مكتب رئيس قسم الترحيل",
+    "type": " كاشف دخان SMOKE DETECTOR",
+    "location": "هنجر السحر الخام ",
     "x_pixel": 3200,
-    "y_pixel": 6000,
+    "y_pixel": 5000,
     "description_new": "مبنى الإدارة - الدور الأرضي - جهة الساعة 2",
-    "building_id": "ADM_01"
+    "building_id": "RawSug-01"
   },
   {
     "code": "P1/L1/06",
