@@ -1,7 +1,7 @@
 [
   {
     "code": "P1/L1/07",
-    "type": "SMOKE DETECTOR",
+    "type": "SMOKE DETECTOR حساس دخان",
     "location": "البوابة الرئيسية - مكتب رئيس قسم الترحيل",
     "x_pixel": 4500,
     "y_pixel": 2100,
@@ -10,7 +10,7 @@
   },
   {
     "code": "P1/L1/06",
-    "type": "SOUNDER",
+    "type": "SOUNDER  جرس",
     "location": "البوابة الرئيسية - صالة مكتب رئيس قسم الترحيل",
     "x_pixel": 4600,
     "y_pixel": 2200,
@@ -19,7 +19,7 @@
   },
   {
     "code": "P1/L1/08",
-    "type": "FM200",
+    "type": "FM200 حاوية غاز FM200",
     "location": "البوابة الرئيسية - غرفة الاشعة السينية",
     "x_pixel": 4700,
     "y_pixel": 2300,
