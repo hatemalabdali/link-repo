@@ -12,8 +12,8 @@
     "code": "P1/L1/06",
     "type": "SOUNDER جرس انذار حريق",
     "location": "مبنى الادارة  - صالة مكتب رئيس قسم الترحيل",
-    "x_pixel": 1900,
-    "y_pixel": 2500,
+    "x_pixel": 2000,
+    "y_pixel": 2700,
     "description_new": "مبنى الإدارة - الدور الثاني - جهة الساعة 3",
     "building_id": "BManag-02"
   },
