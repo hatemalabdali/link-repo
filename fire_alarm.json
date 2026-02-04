@@ -4,18 +4,18 @@
     "type": " كاشف دخان SMOKE DETECTOR",
     "location": "هنجر السكر الخام ",
     "x_pixel": 3200,
-    "y_pixel": 1200,
-    "description_new": "مبنى الإدارة - الدور الأرضي - جهة الساعة 2",
+    "y_pixel": 1300,
+    "description_new": "هنجر السكر  - الدور الأرضي - جهة الساعة 2",
     "building_id": "RawSug-01"
   },
   {
     "code": "P1/L1/06",
-    "type": "SOUNDER",
-    "location": "البوابة الرئيسية - صالة مكتب رئيس قسم الترحيل",
-    "x_pixel": 4600,
-    "y_pixel": 2200,
-    "description_new": "مبنى الإدارة - الدور الاول - جهة الساعة 3",
-    "building_id": "ADM_01"
+    "type": "SOUNDER جرس انذار حريق",
+    "location": "مبنى الادارة  - صالة مكتب رئيس قسم الترحيل",
+    "x_pixel": 2500,
+    "y_pixel": 4000,
+    "description_new": "مبنى الإدارة - الدور الثاني - جهة الساعة 3",
+    "building_id": "Banag-02"
   },
   {
     "code": "P1/L1/08",
