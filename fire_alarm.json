@@ -13,17 +13,17 @@
     "type": "SOUNDER جرس انذار حريق",
     "location": "مبنى الادارة  - صالة مكتب رئيس قسم الترحيل",
     "x_pixel": 2000,
-    "y_pixel": 2700,
+    "y_pixel": 2800,
     "description_new": "مبنى الإدارة - الدور الثاني - جهة الساعة 3",
     "building_id": "BManag-02"
   },
   {
     "code": "P1/L1/08",
-    "type": "FM200",
+    "type": "FM200 حاوية غاز اف ام مأتين",
     "location": "البوابة الرئيسية - غرفة الاشعة السينية",
     "x_pixel": 4700,
-    "y_pixel": 2300,
-    "description_new": "مبنى التعبئة - الدور الأرضي - جهة الساعة 4",
-    "building_id": "ADM_01"
+    "y_pixel": 5500,
+    "description_new": "مبنى البوابة الرئيسية - الدور الأرضي - جهة الساعة 4",
+    "building_id": "BMGate-01"
   }
 ]
