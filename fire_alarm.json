@@ -6343,5 +6343,25 @@
     "code": "P9/L0/00",
     "type": "FACP",
     "location": "إدارة السلامة غرفة رجال الاطفاء"
+  },
+  {
+    "code": "P6/L3/35",
+    "type": "FLASHER",
+    "location": "سكن C-VIP - المدخل"
+  },
+  {
+    "code": "P6/L3/36",
+    "type": "SOUNDER",
+    "location": "سكن C-VIP - المدخل"
+  },
+  {
+    "code": "P6/L3/23",
+    "type": "SOUNDER",
+    "location": "سكن C-VIP - الصالة أمام الحمامات"
+  },
+  {
+    "code": "P6/L3/24",
+    "type": "FLASHER",
+    "location": "سكن C-VIP - الصالة أمام الحمامات"
   }
 ]
