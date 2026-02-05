@@ -2,27 +2,27 @@
   {
     "code": "P1/L1/07",
     "type": "SMOKE DETECTOR",
-    "location": "البوابة الرئيسية - مكتب رئيس قسم الترحيل",
-    "x_pixel": 3000,
-    "y_pixel": 3000,
+    "location": " مبنى الإدارة - مكتب رئيس قسم الترحيل",
+    "x_pixel": 2725,
+    "y_pixel": 1942,
     "description_new": "مبنى الإدارة - الدور الأرضي - جهة الساعة 2",
     "building_id": "ADM_01"
   },
   {
     "code": "P1/L1/06",
     "type": "SOUNDER",
-    "location": "البوابة الرئيسية - صالة مكتب رئيس قسم الترحيل",
-    "x_pixel": 4600,
-    "y_pixel": 2200,
-    "description_new": "مبنى الإدارة - الدور الاول - جهة الساعة 3",
+    "location": "هنجر السكر",
+    "x_pixel": 1165,
+    "y_pixel": 3448,
+    "description_new": "هنجر السكر  - الدور الاول - جهة الساعة 3",
     "building_id": "ADM_01"
   },
   {
     "code": "P1/L1/08",
     "type": "FM200",
     "location": "البوابة الرئيسية - غرفة الاشعة السينية",
-    "x_pixel": 4700,
-    "y_pixel": 2300,
+    "x_pixel": 4423,
+    "y_pixel": 1521,
     "description_new": "مبنى التعبئة - الدور الأرضي - جهة الساعة 4",
     "building_id": "ADM_01"
   }
