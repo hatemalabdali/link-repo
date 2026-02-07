@@ -25,5 +25,14 @@
     "y_pixel": 4423,
     "description_new": "لبوابة الرئيسية - الدور الأرضي - جهة الساعة 4",
     "building_id": "ADM_01"
+  },
+   {
+    "code": "p6/l3/32",
+    "type": "حساس دخان SMOKE DETECTOR",
+    "location": "سكن C - غرفة رقم 14",
+    "x_pixel": 361,
+    "y_pixel": 448,
+    "description_new": "سكن الموظفين - العنبر C - غرفة 14",
+    "building_id": "EmpB-VIPC-R14"
   }
 ]
