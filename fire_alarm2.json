@@ -27,6 +27,15 @@
     "building_id": "ADM_01"
   },
    {
+    "code": "P3/L1/08",
+    "type": "FM200",
+    "location": "البوابة الرئيسية - غرفة الاشعة السينية",
+    "x_pixel": 1521,
+    "y_pixel": 4423,
+    "description_new": "لبوابة الرئيسية - الدور الأرضي - جهة الساعة 4",
+    "building_id": "ADM_01"
+  },
+   {
     "code": "p6/l3/32",
     "type": "حساس دخان SMOKE DETECTOR",
     "location": "سكن C - غرفة رقم 14",
