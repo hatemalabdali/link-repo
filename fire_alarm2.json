@@ -27,7 +27,7 @@
     "building_id": "ADM_01"
   },
    {
-    "code": "P6/L2/32",
+    "code": "P6/L3/32",
      "type": "حساس دخان SMOKE DETECTOR",
     "location": "سكن C - غرفة رقم 14",
     "x_pixel": 361,
@@ -36,7 +36,7 @@
     "building_id": "EmpB-VIPC-R14"
   },
    {
-    "code": "P6/L2/23",
+    "code": "P6/L3/23",
      "type": "جرس أنذار   SOUNDER",
     "location": "سكن C -  الصالة بجانب الحمامات ",
     "x_pixel": 361,
