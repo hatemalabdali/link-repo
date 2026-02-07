@@ -28,20 +28,20 @@
   },
    {
     "code": "P6/L2/32",
-    "type": "FM200",
-    "location": "البوابة الرئيسية - غرفة الاشعة السينية",
-    "x_pixel": 1521,
-    "y_pixel": 4423,
-    "description_new": "لبوابة الرئيسية - الدور الأرضي - جهة الساعة 4",
-    "building_id": "ADM_01"
-  },
-   {
-    "code": "P6/L3/32",
-    "type": "حساس دخان SMOKE DETECTOR",
+     "type": "حساس دخان SMOKE DETECTOR",
     "location": "سكن C - غرفة رقم 14",
     "x_pixel": 361,
     "y_pixel": 448,
     "description_new": "سكن الموظفين - العنبر C - غرفة 14",
     "building_id": "EmpB-VIPC-R14"
+  },
+   {
+    "code": "P6/L2/23",
+     "type": "جرس أنذار   SOUNDER",
+    "location": "سكن C -  الصالة بجانب الحمامات ",
+    "x_pixel": 361,
+    "y_pixel": 448,
+    "description_new": "سكن الموظفين - العنبر C -  الباب الخلفي",
+    "building_id": "EmpB-VIPC-D2"
   }
 ]
