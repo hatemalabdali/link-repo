@@ -9,7 +9,7 @@
     "building_id": "ADM_01"
   },
   {
-    "code": "P2/L1/06",
+    "code": "P3/L1/06",
     "type": "SOUNDER",
     "location": "هنجر السكر",
     "x_pixel": 3448,
@@ -39,8 +39,8 @@
     "code": "P6/L3/23",
      "type": "جرس أنذار   SOUNDER",
     "location": "سكن C -  الصالة بجانب الحمامات ",
-    "x_pixel": 361,
-    "y_pixel": 448,
+    "x_pixel": 170,
+    "y_pixel": 484,
     "description_new": "سكن الموظفين - العنبر C -  الباب الخلفي",
     "building_id": "EmpB-VIPC-D2"
   }
