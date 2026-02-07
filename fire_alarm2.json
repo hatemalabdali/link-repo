@@ -1,1 +1,29 @@
-
+[
+  {
+    "code": "P1/L1/07",
+    "type": "SMOKE DETECTOR",
+    "location": " مبنى الإدارة - مكتب رئيس قسم الترحيل",
+    "x_pixel": 1942,
+    "y_pixel": 2725,
+    "description_new": "مبنى الإدارة - الدور الأرضي - جهة الساعة 2",
+    "building_id": "ADM_01"
+  },
+  {
+    "code": "P1/L1/06",
+    "type": "SOUNDER",
+    "location": "هنجر السكر",
+    "x_pixel": 3448,
+    "y_pixel": 1165,
+    "description_new": "هنجر السكر  - الدور الاول - جهة الساعة 3",
+    "building_id": "ADM_01"
+  },
+  {
+    "code": "P1/L1/08",
+    "type": "FM200",
+    "location": "البوابة الرئيسية - غرفة الاشعة السينية",
+    "x_pixel": 1521,
+    "y_pixel": 4423,
+    "description_new": "لبوابة الرئيسية - الدور الأرضي - جهة الساعة 4",
+    "building_id": "ADM_01"
+  }
+]
