@@ -55,35 +55,40 @@
             "type": " كاشف دخان SMOKE DETECTOR ",
             "location": "البوابة الرئيسية - صالة مكتب رئيس قسم الترحيل",
             "x_pixel": 1942,
-            "y_pixel": 2725
+            "y_pixel": 2725,
+            "building_id": "RSUG_01"
         },
         {
             "code": "P1/L1/07",
             "type": " كاشف دخان SMOKE DETECTOR ",
             "location": " مبنى الإدارة - مكتب رئيس قسم الترحيل",
             "x_pixel": 1942,
-            "y_pixel": 2725
+            "y_pixel": 2725,
+             "building_id": "ADM_01"
         },
         {
             "code": "P1/L1/08",
             "type": "FM200",
             "location": "البوابة الرئيسية - غرفة الاشعة السينية",
             "x_pixel": 1521,
-            "y_pixel": 4423
+            "y_pixel": 4423,
+             "building_id": "MGATE_01"
         },
         {
             "code": "P6/L3/32",
             "type": "حساس دخان SMOKE DETECTOR",
             "location": "سكن C - غرفة رقم 14",
             "x_pixel": 361,
-            "y_pixel": 448
+            "y_pixel": 448,
+                "building_id": "EmpB-VIPC-D2"
         },
         {
             "code": "P6/L3/23",
             "type": "جرس أنذار   SOUNDER",
             "location": "سكن C -  الصالة بجانب الحمامات ",
             "x_pixel": 170,
-            "y_pixel": 484
+            "y_pixel": 484,
+                "building_id": "EmpB-VIPC-D2"
         }
     ]
 }
