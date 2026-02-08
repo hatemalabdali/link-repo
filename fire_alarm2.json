@@ -1,47 +1,89 @@
-[
-  {
-    "code": "P1/L1/07",
-    "type": "SMOKE DETECTOR",
-    "location": " مبنى الإدارة - مكتب رئيس قسم الترحيل",
-    "x_pixel": 1942,
-    "y_pixel": 2725,
-    "description_new": "مبنى الإدارة - الدور الأرضي - جهة الساعة 2",
-    "building_id": "ADM_01"
-  },
-  {
-    "code": "P1/L1/06",
-    "type": "SOUNDER",
-    "location": "هنجر السكر",
-    "x_pixel": 3448,
-    "y_pixel": 1165,
-    "description_new": "هنجر السكر  - الدور الاول - جهة الساعة 3",
-    "building_id": "ADM_01"
-  },
-  {
-    "code": "P1/L1/08",
-    "type": "FM200",
-    "location": "البوابة الرئيسية - غرفة الاشعة السينية",
-    "x_pixel": 1521,
-    "y_pixel": 4423,
-    "description_new": "لبوابة الرئيسية - الدور الأرضي - جهة الساعة 4",
-    "building_id": "ADM_01"
-  },
-   {
-    "code": "P6/L3/32",
-     "type": "حساس دخان SMOKE DETECTOR",
-    "location": "سكن C - غرفة رقم 14",
-    "x_pixel": 361,
-    "y_pixel": 448,
-    "description_new": "سكن الموظفين - العنبر C - غرفة 14",
-    "building_id": "EmpB-VIPC-R14"
-  },
-   {
-    "code": "P6/L3/23",
-     "type": "جرس أنذار   SOUNDER",
-    "location": "سكن C -  الصالة بجانب الحمامات ",
-    "x_pixel": 170,
-    "y_pixel": 484,
-    "description_new": "سكن الموظفين - العنبر C -  الباب الخلفي",
-    "building_id": "EmpB-VIPC-D2"
-  }
-]
+{
+    "buildings_config": [
+        {
+            "building_id": "ADM_01",
+            "name": "مبنى الإدارة",
+            "top_left": {
+                "x": 1000,
+                "y": 500
+            },
+            "bottom_right": {
+                "x": 2000,
+                "y": 1500
+            }
+        },
+        {
+            "building_id": "MGATE_01",
+            "name": " البوابة الرئيسية ",
+            "top_left": {
+                "x": 1000,
+                "y": 500
+            },
+            "bottom_right": {
+                "x": 2000,
+                "y": 1500
+            }
+        },
+        {
+            "building_id": "RSUG_01",
+            "name": "هنجر السكر الخام",
+            "top_left": {
+                "x": 1000,
+                "y": 500
+            },
+            "bottom_right": {
+                "x": 2000,
+                "y": 1500
+            }
+        },
+        {
+            "building_id": " EmpB-VIPC-R14",
+            "name": "سكن الموظفين - العنبر C ",
+            "top_left": {
+                "x": 500,
+                "y": 2000
+            },
+            "bottom_right": {
+                "x": 1200,
+                "y": 2800
+            }
+        }
+    ],
+    "devices": [
+        {
+            "code": "P1/L1/06",
+            "type": " كاشف دخان SMOKE DETECTOR ",
+            "location": "البوابة الرئيسية - صالة مكتب رئيس قسم الترحيل",
+            "x_pixel": 1942,
+            "y_pixel": 2725
+        },
+        {
+            "code": "P1/L1/07",
+            "type": " كاشف دخان SMOKE DETECTOR ",
+            "location": " مبنى الإدارة - مكتب رئيس قسم الترحيل",
+            "x_pixel": 1942,
+            "y_pixel": 2725
+        },
+        {
+            "code": "P1/L1/08",
+            "type": "FM200",
+            "location": "البوابة الرئيسية - غرفة الاشعة السينية",
+            "x_pixel": 1521,
+            "y_pixel": 4423
+        },
+        {
+            "code": "P6/L3/32",
+            "type": "حساس دخان SMOKE DETECTOR",
+            "location": "سكن C - غرفة رقم 14",
+            "x_pixel": 361,
+            "y_pixel": 448
+        },
+        {
+            "code": "P6/L3/23",
+            "type": "جرس أنذار   SOUNDER",
+            "location": "سكن C -  الصالة بجانب الحمامات ",
+            "x_pixel": 170,
+            "y_pixel": 484
+        }
+    ]
+}
