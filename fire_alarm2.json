@@ -1,30 +1,41 @@
 [
     {
-        "code": "P1/L1/06",
-        "type": "SMOKE DETECTOR",
-        "location": " مبنى الإدارة - مكتب رئيس قسم الترحيل",
-        "x_pixel": 1942,
-        "y_pixel": 2725,
-        "description_new": "مبنى الإدارة - الدور الأرضي - جهة الساعة 2",
-        "building_id": "ADM_01"
-    },
-    {
         "code": "P1/L1/07",
         "type": "SMOKE DETECTOR",
         "location": " مبنى الإدارة - مكتب رئيس قسم الترحيل",
         "x_pixel": 1942,
         "y_pixel": 2725,
         "description_new": "مبنى الإدارة - الدور الأرضي - جهة الساعة 2",
-        "building_id": "ADM_01"
+        "building_id": "ADM_01",
+        "entrance_direction": "0",
+        "name": "مبنى الإدارة",
+        "top_left": {
+            "x": 1824,
+            "y": 1695
+        },
+        "bottom_right": {
+            "x": 2124,
+            "y": 2774
+        }
     },
     {
         "code": "P1/L1/06",
         "type": "SOUNDER",
-        "location": "هنجر السكر",
+        "nlocatione": "هنجر السكر الخام",
         "x_pixel": 3448,
         "y_pixel": 1165,
         "description_new": "هنجر السكر  - الدور الاول - جهة الساعة 3",
-        "building_id": "ADM_01"
+        "building_id": "RSUG_01",
+         "entrance_direction": "360",
+            "name": " البوابة الرئيسية ",
+            "top_left": {
+                "x": 1512,
+                "y": 4415
+            },
+            "bottom_right": {
+                "x": 1579,
+                "y": 4467
+            }
     },
     {
         "code": "P1/L1/08",
@@ -33,7 +44,17 @@
         "x_pixel": 1521,
         "y_pixel": 4423,
         "description_new": "لبوابة الرئيسية - الدور الأرضي - جهة الساعة 4",
-        "building_id": "ADM_01"
+        "building_id": "MGATE_01",
+         "name": "هنجر السكر الخام",
+            "entrance_direction": "360",
+            "top_left": {
+                "x": 2515,
+                "y": 1042
+            },
+            "bottom_right": {
+                "x": 4100,
+                "y": 1457
+            }
     },
     {
         "code": "P6/L3/32",
@@ -42,7 +63,17 @@
         "x_pixel": 361,
         "y_pixel": 448,
         "description_new": "سكن الموظفين - العنبر C - غرفة 14",
-        "building_id": "EmpB-VIPC-R14"
+        "building_id": "EmpB-VIPC-R14",
+         "name": "سكن الموظفين - العنبر C ",
+            "entrance_direction": "90",
+            "top_left": {
+                "x": 139,
+                "y": 437
+            },
+            "bottom_right": {
+                "x": 412,
+                "y": 502
+            }
     },
     {
         "code": "P6/L3/23",
@@ -51,6 +82,16 @@
         "x_pixel": 170,
         "y_pixel": 484,
         "description_new": "سكن الموظفين - العنبر C -  الباب الخلفي",
-        "building_id": "EmpB-VIPC-D2"
+        "building_id": "EmpB-VIPC-D2",
+         "name": "سكن الموظفين - العنبر C ",
+            "entrance_direction": "90",
+            "top_left": {
+                "x": 139,
+                "y": 437
+            },
+            "bottom_right": {
+                "x": 412,
+                "y": 502
+            }
     }
 ]
