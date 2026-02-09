@@ -1,5 +1,20 @@
 [
     {
+        "code": "P1/L1/06",
+        "type": "SOUNDER",
+        "location": "هنجر السكر الخام",
+        "x_pixel": 3448,
+        "y_pixel": 1165,
+        "description_new": "هنجر السكر  - الدور الاول - جهة الساعة 3",
+        "building_id": "RSUG_01",
+        "entrance_direction": "360",
+        "name": " البوابة الرئيسية ",
+         "top_left_x": 2515,
+        "top_left_y": 1042,
+        "bottom_right_x": 4100,
+        "bottom_right_y": 1457
+    },
+    {
         "code": "P1/L1/07",
         "type": "SMOKE DETECTOR",
         "location": " مبنى الإدارة - مكتب رئيس قسم الترحيل",
@@ -15,21 +30,6 @@
         "bottom_right_y": 2774
     },
     {
-        "code": "P1/L1/06",
-        "type": "SOUNDER",
-        "location": "هنجر السكر الخام",
-        "x_pixel": 3448,
-        "y_pixel": 1165,
-        "description_new": "هنجر السكر  - الدور الاول - جهة الساعة 3",
-        "building_id": "RSUG_01",
-        "entrance_direction": "360",
-        "name": " البوابة الرئيسية ",
-        "top_left_x": 1512,
-        "top_left_y": 4415,
-        "bottom_right_x": 1579,
-        "bottom_right_y": 4467
-    },
-    {
         "code": "P1/L1/08",
         "type": "FM200",
         "location": "البوابة الرئيسية - غرفة الاشعة السينية",
@@ -39,25 +39,10 @@
         "building_id": "MGATE_01",
         "name": "هنجر السكر الخام",
         "entrance_direction": "360",
-        "top_left_x": 2515,
-        "top_left_y": 1042,
-        "bottom_right_x": 4100,
-        "bottom_right_y": 1457
-    },
-    {
-        "code": "P6/L3/32",
-        "type": "حساس دخان SMOKE DETECTOR",
-        "location": "سكن C - غرفة رقم 14",
-        "x_pixel": 361,
-        "y_pixel": 448,
-        "description_new": "سكن الموظفين - العنبر C - غرفة 14",
-        "building_id": "EmpB-VIPC-R14",
-        "name": "سكن الموظفين - العنبر C ",
-        "entrance_direction": "90",
-        "top_left_x": 139,
-        "top_left_y": 437,
-        "bottom_right_x": 412,
-        "bottom_right_y": 502
+        "top_left_x": 1512,
+        "top_left_y": 4415,
+        "bottom_right_x": 1579,
+        "bottom_right_y": 4467
     },
     {
         "code": "P6/L3/23",
@@ -67,6 +52,21 @@
         "y_pixel": 484,
         "description_new": "سكن الموظفين - العنبر C -  الباب الخلفي",
         "building_id": "EmpB-VIPC-D2",
+        "name": "سكن الموظفين - العنبر C ",
+        "entrance_direction": "90",
+        "top_left_x": 139,
+        "top_left_y": 437,
+        "bottom_right_x": 412,
+        "bottom_right_y": 502
+    },
+    {
+        "code": "P6/L3/32",
+        "type": "حساس دخان SMOKE DETECTOR",
+        "location": "سكن C - غرفة رقم 14",
+        "x_pixel": 361,
+        "y_pixel": 448,
+        "description_new": "سكن الموظفين - العنبر C - غرفة 14",
+        "building_id": "EmpB-VIPC-R14",
         "name": "سكن الموظفين - العنبر C ",
         "entrance_direction": "90",
         "top_left_x": 139,
