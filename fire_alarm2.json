@@ -7,7 +7,7 @@
         "y_pixel": 1165,
         "gate_x": 2512,
         "gate_y": 1109,
-        "g_angle": 90
+        "g_angle": 270
     },
     {
         "code": "P1/L1/07",
@@ -17,7 +17,7 @@
         "y_pixel": 2725,
         "gate_x": 1920,
         "gate_y": 2690,
-        "g_angle": 90
+        "g_angle": 180
     },
     {
         "code": "P1/L1/08",
@@ -27,7 +27,7 @@
         "y_pixel": 4423,
         "gate_x": 1501,
         "gate_y": 4448,
-        "g_angle": 90
+        "g_angle": 270
     },
     {
         "code": "P6/L3/23",
@@ -37,7 +37,7 @@
         "y_pixel": 484,
         "gate_x": 176,
         "gate_y": 496,
-        "g_angle": 90
+        "g_angle": 0
     },
     {
         "code": "P6/L3/32",
@@ -47,6 +47,6 @@
         "y_pixel": 448,
         "gate_x": 176,
         "gate_y": 496,
-        "g_angle": 90
+        "g_angle": 0
     }
 ]
