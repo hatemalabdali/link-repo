@@ -5,14 +5,8 @@
         "location": "هنجر السكر الخام",
         "x_pixel": 3448,
         "y_pixel": 1165,
-        "description_new": "هنجر السكر  - الدور الاول - جهة الساعة 3",
-        "building_id": "RSUG_01",
-        "entrance_direction": "90",
-        "name": " البوابة الرئيسية ",
-         "top_left_x": 2515,
-        "top_left_y": 1042,
-        "bottom_right_x": 4100,
-        "bottom_right_y": 1457
+        "gate_x": 2512,
+        "gate_y": 1109
     },
     {
         "code": "P1/L1/07",
@@ -20,14 +14,8 @@
         "location": " مبنى الإدارة - مكتب رئيس قسم الترحيل",
         "x_pixel": 1942,
         "y_pixel": 2725,
-        "description_new": "مبنى الإدارة - الدور الأرضي - جهة الساعة 2",
-        "building_id": "ADM_01",
-        "entrance_direction": "0",
-        "name": "مبنى الإدارة",
-       "top_left_x": 1824,
-        "top_left_y": 2694,
-        "bottom_right_x": 2124,
-        "bottom_right_y": 2774
+        "gate_x": 1920,
+        "gate_y": 2690
     },
     {
         "code": "P1/L1/08",
@@ -35,14 +23,8 @@
         "location": "البوابة الرئيسية - غرفة الاشعة السينية",
         "x_pixel": 1521,
         "y_pixel": 4423,
-        "description_new": "لبوابة الرئيسية - الدور الأرضي - جهة الساعة 4",
-        "building_id": "MGATE_01",
-        "name": "هنجر السكر الخام",
-        "entrance_direction": "360",
-        "top_left_x": 1512,
-        "top_left_y": 4415,
-        "bottom_right_x": 1579,
-        "bottom_right_y": 4467
+       "gate_x": 1497,
+        "gate_y": 1109
     },
     {
         "code": "P6/L3/23",
@@ -50,14 +32,8 @@
         "location": "سكن C -  الصالة بجانب الحمامات ",
         "x_pixel": 170,
         "y_pixel": 484,
-        "description_new": "سكن الموظفين - العنبر C -  الباب الخلفي",
-        "building_id": "EmpB-VIPC-D2",
-        "name": "سكن الموظفين - العنبر C ",
-        "entrance_direction": "0",
-        "top_left_x": 139,
-        "top_left_y": 437,
-        "bottom_right_x": 412,
-        "bottom_right_y": 502
+        "gate_x": 176,
+        "gate_y": 496
     },
     {
         "code": "P6/L3/32",
@@ -65,13 +41,7 @@
         "location": "سكن C - غرفة رقم 14",
         "x_pixel": 361,
         "y_pixel": 448,
-        "description_new": "سكن الموظفين - العنبر C - غرفة 14",
-        "building_id": "EmpB-VIPC-R14",
-        "name": "سكن الموظفين - العنبر C ",
-        "entrance_direction": "0",
-        "top_left_x": 139,
-        "top_left_y": 437,
-        "bottom_right_x": 412,
-        "bottom_right_y": 502
+        "gate_x": 176,
+        "gate_y": 496
     }
 ]
