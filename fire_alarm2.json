@@ -37,7 +37,7 @@
         "y_pixel": 484,
         "gate_x": 176,
         "gate_y": 496,
-        "g_angle": 180
+        "g_angle": 270
     },
     {
         "code": "P6/L3/32",
@@ -47,6 +47,6 @@
         "y_pixel": 448,
         "gate_x": 176,
         "gate_y": 496,
-        "g_angle": 180
+        "g_angle": 270
     }
 ]
