@@ -1,74 +1,52 @@
-{
-  "buildings": [
+[
     {
-      "building_id": "RAW SUGAR STORE",
-      "location_name": "هنجر السكر الخام",
-      "gate_x": 2512,
-      "gate_y": 1109,
-      "g_angle": 90
+        "code": "P1/L1/06",
+        "type": "ؤؤؤؤؤؤؤؤؤؤؤؤؤؤؤؤؤؤؤؤؤؤؤؤ",
+        "location": "هنجر السكر الخام",
+        "x_pixel": 3448,
+        "y_pixel": 1165,
+        "gate_x": 2512,
+        "gate_y": 1109,
+        "g_angle": 90
     },
     {
-      "building_id": "MANAGMENT BUILDING",
-      "location_name": "مبنى الإدارة",
-      "gate_x": 1920,
-      "gate_y": 2690,
-      "g_angle": 180
+        "code": "P1/L1/07",
+        "type": "SMOKE DETECTOR",
+        "location": " مبنى الإدارة - مكتب رئيس قسم الترحيل",
+        "x_pixel": 1942,
+        "y_pixel": 2725,
+        "gate_x": 1920,
+        "gate_y": 2690,
+        "g_angle": 180
     },
     {
-      "building_id": "MAIN GATE",
-      "location_name": "البوابة الرئيسية",
-      "gate_x": 1501,
-      "gate_y": 4448,
-      "g_angle": 90
+        "code": "P1/L1/08",
+        "type": "FM200",
+        "location": "البوابة الرئيسية - غرفة الاشعة السينية",
+        "x_pixel": 1521,
+        "y_pixel": 4423,
+        "gate_x": 1501,
+        "gate_y": 4448,
+        "g_angle": 90
     },
     {
-      "building_id": "C HOUSE",
-      "location_name": "سكن C",
-      "gate_x": 176,
-      "gate_y": 496,
-      "g_angle": 0
+        "code": "P6/L3/23",
+        "type": "جرس أنذار   SOUNDER",
+        "location": "سكن C -  الصالة بجانب الحمامات ",
+        "x_pixel": 170,
+        "y_pixel": 484,
+        "gate_x": 176,
+        "gate_y": 496,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L3/32",
+        "type": "حساس دخان SMOKE DETECTOR",
+        "location": "سكن C - غرفة رقم 14",
+        "x_pixel": 361,
+        "y_pixel": 448,
+        "gate_x": 176,
+        "gate_y": 496,
+        "g_angle": 0
     }
-  ],
-  "devices": [
-    {
-      "code": "P1/L1/06",
-      "building_ref": "B1",
-      "type": "SOUNDER",
-      "sub_location": "هنجر السكر الخام",
-      "x_pixel": 3448,
-      "y_pixel": 1165
-    },
-    {
-      "code": "P1/L1/07",
-      "building_ref": "B2",
-      "type": "SMOKE DETECTOR",
-      "sub_location": "مكتب رئيس قسم الترحيل",
-      "x_pixel": 1942,
-      "y_pixel": 2725
-    },
-    {
-      "code": "P1/L1/08",
-      "building_ref": "B3",
-      "type": "FM200",
-      "sub_location": "غرفة الاشعة السينية",
-      "x_pixel": 1521,
-      "y_pixel": 4423
-    },
-    {
-      "code": "P6/L3/23",
-      "building_ref": "B4",
-      "type": "جرس أنذار SOUNDER",
-      "sub_location": "الصالة بجانب الحمامات",
-      "x_pixel": 170,
-      "y_pixel": 484
-    },
-    {
-      "code": "P6/L3/32",
-      "building_ref": "B4",
-      "type": "حساس دخان SMOKE DETECTOR",
-      "sub_location": "غرفة رقم 14",
-      "x_pixel": 361,
-      "y_pixel": 448
-    }
-  ]
-}
+]
