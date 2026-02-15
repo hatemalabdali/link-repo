@@ -1,17 +1,47 @@
 [
     {
+        "code": "P1/L1/01",
+        "type": "NAC",
+        "location": "البوابة الرئيسية",
+        "x_pixel": 1541,
+        "y_pixel": 4448,
+        "gate_x": 1501,
+        "gate_y": 4448,
+        "g_angle": 90
+    },
+    {
+        "code": "P1/L1/02",
+        "type": "MANUAL CALL POINT",
+        "location": "البوابة الرئيسية - مكتب المبيعات",
+        "x_pixel": 1541,
+        "y_pixel": 4448,
+        "gate_x": 1501,
+        "gate_y": 4448,
+        "g_angle": 90
+    },
+    {
         "code": "P1/L1/03",
-        "type": "SMOKE DETECTOR",
+        "type": "FLASHER",
         "location": "البوابة الرئيسية - مكتب الحراسة",
-        "x_pixel": 1578,
-        "y_pixel": 4460,
+        "x_pixel": 1541,
+        "y_pixel": 4448,
+        "gate_x": 1501,
+        "gate_y": 4448,
+        "g_angle": 90
+    },
+    {
+        "code": "P1/L1/04",
+        "type": "جرس أنذار   SOUNDER",
+        "location": "البوابة الرئيسية - مكتب المبيعات",
+        "x_pixel": 1541,
+        "y_pixel": 4448,
         "gate_x": 1501,
         "gate_y": 4448,
         "g_angle": 90
     },
     {
         "code": "P1/L1/05",
-        "type": "SMOKE DETECTOR",
+        "type": "حساس دخان SMOKE DETECTOR",
         "location": "البوابة الرئيسية - مكتب المبيعات",
         "x_pixel": 1541,
         "y_pixel": 4448,
@@ -21,7 +51,7 @@
     },
     {
         "code": "P1/L1/06",
-        "type": "SOUNDER",
+        "type": "جرس أنذار   SOUNDER",
         "location": "هنجر السكر الخام",
         "x_pixel": 3448,
         "y_pixel": 1165,
@@ -31,7 +61,7 @@
     },
     {
         "code": "P1/L1/07",
-        "type": "SMOKE DETECTOR",
+        "type": "حساس دخان SMOKE DETECTOR",
         "location": " مبنى الإدارة - مكتب رئيس قسم الترحيل",
         "x_pixel": 1942,
         "y_pixel": 2725,
@@ -51,7 +81,7 @@
     },
     {
         "code": "P1/L1/09",
-        "type": "SOUNDER",
+        "type": "جرس أنذار   SOUNDER",
         "location": "البوابة الرئيسية - غرفة الاشعة السينية",
         "x_pixel": 1578,
         "y_pixel": 4447,
@@ -70,8 +100,18 @@
         "y_pixel": 4447
     },
     {
+        "code": "P1/L1/11",
+        "type": "MANUAL CALL POINT",
+        "location": "البوابة الرئيسية - غرفة الاشعة السينية",
+        "gate_x": 1501,
+        "gate_y": 4448,
+        "g_angle": 90,
+        "x_pixel": 1578,
+        "y_pixel": 4447
+    },
+    {
         "code": "P1/L1/12",
-        "type": "SMOKE DETECTOR",
+        "type": "حساس دخان SMOKE DETECTOR",
         "location": "البوابة الرئيسية - مكتب أستقبال الزوار",
         "x_pixel": 1578,
         "y_pixel": 4447,
@@ -81,7 +121,7 @@
     },
     {
         "code": "P1/L1/13",
-        "type": "SMOKE DETECTOR",
+        "type": "حساس دخان SMOKE DETECTOR",
         "location": "البوابة الرئيسية - مكتب الحراسة",
         "x_pixel": 1578,
         "y_pixel": 4447,
@@ -91,7 +131,7 @@
     },
     {
         "code": "P1/L1/14",
-        "type": "SMOKE DETECTOR",
+        "type": "حساس دخان SMOKE DETECTOR",
         "location": "البوابة الرئيسية -صالة مكتب الحراسة",
         "x_pixel": 1578,
         "y_pixel": 4447,
@@ -101,10 +141,30 @@
     },
     {
         "code": "P1/L1/18",
-        "type": "SMOKE DETECTOR",
+        "type": "حساس دخان SMOKE DETECTOR",
         "location": "البوابة الرئيسية - مكتب رقابة البوابة",
         "x_pixel": 1578,
         "y_pixel": 4447,
+        "gate_x": 1501,
+        "gate_y": 4448,
+        "g_angle": 90
+    },
+    {
+        "code": "P1/L1/19",
+        "type": "FM200",
+        "location": "غرفة سنترال البوابة - انذار المرحلة الأولى",
+        "x_pixel": 1541,
+        "y_pixel": 4448,
+        "gate_x": 1501,
+        "gate_y": 4448,
+        "g_angle": 90
+    },
+    {
+        "code": "P1/L1/21",
+        "type": "FM200",
+        "location": "غرفة سنترال البوابة - انذار بوجود عطل",
+        "x_pixel": 1541,
+        "y_pixel": 4448,
         "gate_x": 1501,
         "gate_y": 4448,
         "g_angle": 90
