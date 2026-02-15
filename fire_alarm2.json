@@ -1,5 +1,95 @@
 [
     {
+        "code": "P1/L0/00",
+        "type": "FACP",
+        "location": "البوابة غرفة استقبال الزوار",
+        "x_pixel": 1541,
+        "y_pixel": 4448,
+        "gate_x": 1501,
+        "gate_y": 4448,
+        "g_angle": 90
+    },
+    {
+        "code": "P2/L0/00",
+        "type": "FACP",
+        "location": "صالة إدارة المبيعات براس عيسى بجانب المدخل",
+        "x_pixel": 1541,
+        "y_pixel": 4448,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P3/L0/00",
+        "type": "FACP",
+        "location": "الإدارة العليا الدور الأرضي بجانب مكتب الاستقبال",
+        "x_pixel": 1942,
+        "y_pixel": 2725,
+        "gate_x": 1920,
+        "gate_y": 2690,
+        "g_angle": 180
+    },
+    {
+        "code": "P4/L0/00",
+        "type": "FACP",
+        "location": "التعبئة الدور الأول غرفة الصيانة بجانب MCC",
+        "x_pixel": 1975,
+        "y_pixel": 1782,
+        "gate_x": 1968,
+        "gate_y": 1673,
+        "g_angle": 180
+    },
+    {
+        "code": "P5/L0/00",
+        "type": "FACP",
+        "location": "مخزن قطع الغيار والمهمات داخل المكاتب",
+        "x_pixel": 1564,
+        "y_pixel": 713,
+        "gate_x": 1485,
+        "gate_y": 710,
+        "g_angle": 90
+    },
+    {
+        "code": "P6/L0/00",
+        "type": "FACP",
+        "location": "سكن B الصالة بجانب الحمامات",
+        "x_pixel": 627,
+        "y_pixel": 288,
+        "gate_x": 517,
+        "gate_y": 317,
+        "g_angle": 0
+    },
+    {
+        "code": "P7/L0/00",
+        "type": "FACP",
+        "location": "داخل غرفة كهرباء الهنجر الخام",
+        "x_pixel": 2502,
+        "y_pixel": 1193,
+        "gate_x": 2471,
+        "gate_y": 1196,
+        "g_angle": 90
+    },
+    {
+        "code": "P8/L0/00",
+        "type": "FACP",
+        "location": "الإنتاج الدور الرابع غرفة تحكم الإنتاج DCS",
+        "x_pixel": 2158,
+        "y_pixel": 822,
+        "gate_x": 2112,
+        "gate_y": 803,
+        "g_angle": 90
+    },
+    {
+        "code": "P9/L0/00",
+        "type": "FACP",
+        "location": "إدارة السلامة غرفة رجال الاطفاء",
+        "x_pixel": 1181,
+        "y_pixel": 504,
+        "gate_x": 1165,
+        "gate_y": 493,
+        "g_angle": 180
+    },
+    {
         "code": "P1/L1/01",
         "type": "NAC",
         "location": "البوابة الرئيسية",
@@ -650,9 +740,429 @@
         "g_angle": 0
     },
     {
+        "code": "P2/L2/04",
+        "type": "SOUNDER",
+        "location": "مبنى ورشة الكهرباء - الصالة",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L2/05",
+        "type": "MANUAL CALL POINT",
+        "location": "مبنى ورشة الكهرباء - المدخل",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L2/50",
+        "type": "PRESSURE SWITCH",
+        "location": "حساس الضغط ZONE 1",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L2/51",
+        "type": "TAMPER SWITCH",
+        "location": "راس عيسى - تامبر سويتش ZONE 1",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L2/52",
+        "type": "PRESSURE SWITCH",
+        "location": "حساس الضغط ZONE 2",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L2/53",
+        "type": "TAMPER SWITCH",
+        "location": "راس عيسى - تامبر سويتش ZONE 2",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L2/54",
+        "type": "PRESSURE SWITCH",
+        "location": "حساس الضغط ZONE 3",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L2/55",
+        "type": "TAMPER SWITCH",
+        "location": "راس عيسى - تامبر سويتش ZONE 3",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L2/56",
+        "type": "FLOW SWITCH",
+        "location": "HOSE REEL",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L2/57",
+        "type": "TAMPER SWITCH",
+        "location": "راس عيسى - تامبر سويتش HOSE REEL",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L2/58",
+        "type": "FLOW SWITCH",
+        "location": "HOSE REEL - ZONE 4",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L2/59",
+        "type": "TAMPER SWITCH",
+        "location": "راس عيسى - تامبر سويتش ZONE 4",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L2/60",
+        "type": "FLOW SWITCH",
+        "location": "HOSE REEL - ZONE 5",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L2/61",
+        "type": "TAMPER SWITCH",
+        "location": "راس عيسى - تامبر سويتش ZONE 5",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L2/62",
+        "type": "FLOW SWITCH",
+        "location": "HOSE REEL - ZONE 6",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L2/63",
+        "type": "TAMPER SWITCH",
+        "location": "راس عيسى - تامبر سويتش ZONE 6",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
         "code": "P3/L1/01",
         "type": "حساس دخان SMOKE DETECTOR",
         "location": "المستودع الجديد - مكتب أمين المستودع",
+        "x_pixel": 1942,
+        "y_pixel": 2725,
+        "gate_x": 1920,
+        "gate_y": 2690,
+        "g_angle": 180
+    },
+    {
+        "code": "P3/L1/02",
+        "type": "SMOKE DETECTOR",
+        "location": "المستودع الجديد - صالة الاستقبال",
+        "x_pixel": 1942,
+        "y_pixel": 2725,
+        "gate_x": 1920,
+        "gate_y": 2690,
+        "g_angle": 180
+    },
+    {
+        "code": "P3/L1/03/1",
+        "type": "BEAM DETECTOR",
+        "location": "المستودع الجديد - الجهة الشمالية",
+        "x_pixel": 1942,
+        "y_pixel": 2725,
+        "gate_x": 1920,
+        "gate_y": 2690,
+        "g_angle": 180
+    },
+    {
+        "code": "P3/L1/03/2",
+        "type": "SMOKE DETECTOR",
+        "location": "الإدارة العليا - الدور الأرضي - مكتب مدير الموارد البشرية - فوق السقف المستعار",
+        "x_pixel": 1942,
+        "y_pixel": 2725,
+        "gate_x": 1920,
+        "gate_y": 2690,
+        "g_angle": 180
+    },
+    {
+        "code": "P3/L1/04/1",
+        "type": "BEAM DETECTOR",
+        "location": "المستودع الجديد - الجهة الجنوبية",
+        "x_pixel": 1942,
+        "y_pixel": 2725,
+        "gate_x": 1920,
+        "gate_y": 2690,
+        "g_angle": 180
+    },
+    {
+        "code": "P3/L1/04/2",
+        "type": "SMOKE DETECTOR",
+        "location": "الإدارة العليا - الدور الأرضي - مكتب مدير الموارد البشرية - تحت السقف المستعار",
+        "x_pixel": 1942,
+        "y_pixel": 2725,
+        "gate_x": 1920,
+        "gate_y": 2690,
+        "g_angle": 180
+    },
+    {
+        "code": "P3/L1/05/1",
+        "type": "SOUNDER/FLASHER",
+        "location": "المستودع الجديد - الوسط",
+        "x_pixel": 1942,
+        "y_pixel": 2725,
+        "gate_x": 1920,
+        "gate_y": 2690,
+        "g_angle": 180
+    },
+    {
+        "code": "P3/L1/05/2",
+        "type": "SMOKE DETECTOR",
+        "location": "الإدارة العليا - الدور الأرضي - قسم الموارد البشرية - فوق السقف المستعار",
+        "x_pixel": 1942,
+        "y_pixel": 2725,
+        "gate_x": 1920,
+        "gate_y": 2690,
+        "g_angle": 180
+    },
+    {
+        "code": "P3/L1/06/1",
+        "type": "MANUAL CALL POINT",
+        "location": "المستودع الجديد - مخرج الطوارئ",
+        "x_pixel": 1942,
+        "y_pixel": 2725,
+        "gate_x": 1920,
+        "gate_y": 2690,
+        "g_angle": 180
+    },
+    {
+        "code": "P3/L1/06/2",
+        "type": "SMOKE DETECTOR",
+        "location": "الإدارة العليا - الدور الأرضي - قسم الموارد البشرية - تحت السقف المستعار",
+        "x_pixel": 1942,
+        "y_pixel": 2725,
+        "gate_x": 1920,
+        "gate_y": 2690,
+        "g_angle": 180
+    },
+    {
+        "code": "P3/L1/07",
+        "type": "SMOKE DETECTOR",
+        "location": "الإدارة العليا - الدور الأرضي - مكتب الموارد البشرية - فوق السقف المستعار",
+        "x_pixel": 1942,
+        "y_pixel": 2725,
+        "gate_x": 1920,
+        "gate_y": 2690,
+        "g_angle": 180
+    },
+    {
+        "code": "P3/L1/08",
+        "type": "SMOKE DETECTOR",
+        "location": "الإدارة العليا - الدور الأرضي - مكتب الموارد البشرية - تحت السقف المستعار",
+        "x_pixel": 1942,
+        "y_pixel": 2725,
+        "gate_x": 1920,
+        "gate_y": 2690,
+        "g_angle": 180
+    },
+    {
+        "code": "P3/L1/09",
+        "type": "SMOKE DETECTOR",
+        "location": "الإدارة العليا - الدور الأرضي - مكتب التدريب والتطوير - فوق السقف المستعار",
+        "x_pixel": 1942,
+        "y_pixel": 2725,
+        "gate_x": 1920,
+        "gate_y": 2690,
+        "g_angle": 180
+    },
+    {
+        "code": "P3/L1/10",
+        "type": "SMOKE DETECTOR",
+        "location": "الإدارة العليا - الدور الأرضي - مكتب التدريب والتطوير - تحت السقف المستعار",
+        "x_pixel": 1942,
+        "y_pixel": 2725,
+        "gate_x": 1920,
+        "gate_y": 2690,
+        "g_angle": 180
+    },
+    {
+        "code": "P3/L1/100/1",
+        "type": "SMOKE DETECTOR",
+        "location": "الإدارة العليا - الدور الأول - البوفيه - فوق السقف",
+        "x_pixel": 1942,
+        "y_pixel": 2725,
+        "gate_x": 1920,
+        "gate_y": 2690,
+        "g_angle": 180
+    },
+    {
+        "code": "P3/L1/100/2",
+        "type": "SMOKE DETECTOR",
+        "location": "الإدارة العليا - الدور الأول - البوفيه - فوق السقف",
+        "x_pixel": 1942,
+        "y_pixel": 2725,
+        "gate_x": 1920,
+        "gate_y": 2690,
+        "g_angle": 180
+    },
+    {
+        "code": "P3/L1/101/1",
+        "type": "SMOKE DETECTOR",
+        "location": "الإدارة العليا - الدور الأول - البوفيه - تحت السقف",
+        "x_pixel": 1942,
+        "y_pixel": 2725,
+        "gate_x": 1920,
+        "gate_y": 2690,
+        "g_angle": 180
+    },
+    {
+        "code": "P3/L1/101/2",
+        "type": "SMOKE DETECTOR",
+        "location": "الإدارة العليا - الدور الأول - البوفيه - تحت السقف",
+        "x_pixel": 1942,
+        "y_pixel": 2725,
+        "gate_x": 1920,
+        "gate_y": 2690,
+        "g_angle": 180
+    },
+    {
+        "code": "P3/L1/102",
+        "type": "FLOW SWITCH",
+        "location": "حساس التدفق لخط كبائن الإدارة العليا - الدور الأول",
+        "x_pixel": 1942,
+        "y_pixel": 2725,
+        "gate_x": 1920,
+        "gate_y": 2690,
+        "g_angle": 180
+    },
+    {
+        "code": "P3/L1/103",
+        "type": "TAMPER SWITCH",
+        "location": "حساس محبس خط كبائن الإدارة العليا - الدور الأول",
+        "x_pixel": 1942,
+        "y_pixel": 2725,
+        "gate_x": 1920,
+        "gate_y": 2690,
+        "g_angle": 180
+    },
+    {
+        "code": "P3/L1/104/1",
+        "type": "SMOKE DETECTOR",
+        "location": "الإدارة العليا - الدور الأول - الاستراحة - تحت السقف",
+        "x_pixel": 1942,
+        "y_pixel": 2725,
+        "gate_x": 1920,
+        "gate_y": 2690,
+        "g_angle": 180
+    },
+    {
+        "code": "P3/L1/104/2",
+        "type": "SMOKE DETECTOR",
+        "location": "الإدارة العليا - الدور الأول - الاستراحة - تحت السقف",
+        "x_pixel": 1942,
+        "y_pixel": 2725,
+        "gate_x": 1920,
+        "gate_y": 2690,
+        "g_angle": 180
+    },
+    {
+        "code": "P3/L1/105/1",
+        "type": "SMOKE DETECTOR",
+        "location": "الإدارة العليا - الدور الأول - الاستراحة - فوق السقف",
+        "x_pixel": 1942,
+        "y_pixel": 2725,
+        "gate_x": 1920,
+        "gate_y": 2690,
+        "g_angle": 180
+    },
+    {
+        "code": "P3/L1/105/2",
+        "type": "SMOKE DETECTOR",
+        "location": "الإدارة العليا - الدور الأول - الاستراحة - فوق السقف",
+        "x_pixel": 1942,
+        "y_pixel": 2725,
+        "gate_x": 1920,
+        "gate_y": 2690,
+        "g_angle": 180
+    },
+    {
+        "code": "P3/L1/106/1",
+        "type": "SMOKE DETECTOR",
+        "location": "الإدارة العليا - الدور الأول - الأرشيف - تحت السقف",
+        "x_pixel": 1942,
+        "y_pixel": 2725,
+        "gate_x": 1920,
+        "gate_y": 2690,
+        "g_angle": 180
+    },
+    {
+        "code": "P3/L1/106",
+        "type": "SMOKE DETECTOR",
+        "location": "الإدارة العليا - الدور الأول - الأرشيف - تحت السقف",
+        "x_pixel": 1942,
+        "y_pixel": 2725,
+        "gate_x": 1920,
+        "gate_y": 2690,
+        "g_angle": 180
+    },
+    {
+        "code": "P3/L1/11",
+        "type": "SMOKE DETECTOR",
+        "location": "الإدارة العليا - الدور الأرضي - غرفة الكاميرات - فوق السقف المستعار",
         "x_pixel": 1942,
         "y_pixel": 2725,
         "gate_x": 1920,
