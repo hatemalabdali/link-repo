@@ -200,6 +200,456 @@
         "g_angle": 0
     },
     {
+        "code": "P2/L1/02",
+        "type": "SMOKE DETECTOR",
+        "location": "إدارة المبيعات والشؤون الإدارية - الصالة",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L1/03",
+        "type": "SOUNDER",
+        "location": "إدارة المبيعات والشؤون الإدارية - الصالة",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L1/04",
+        "type": "FLASHER",
+        "location": "إدارة المبيعات والشؤون الإدارية - الصالة",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L1/05",
+        "type": "MANUAL CALL POINT",
+        "location": "إدارة المبيعات والشؤون الإدارية - الصالة",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L1/06",
+        "type": "SMOKE DETECTOR",
+        "location": "إدارة المبيعات والشؤون الإدارية - الصالة",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L1/07",
+        "type": "SMOKE DETECTOR",
+        "location": "إدارة المبيعات والشؤون الإدارية - الصالة",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L1/26",
+        "type": "SMOKE DETECTOR",
+        "location": "إدارة المبيعات والشؤون الإدارية - قسم المبيعات",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L1/27",
+        "type": "SMOKE DETECTOR",
+        "location": "إدارة المبيعات والشؤون الإدارية - قسم المبيعات",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L1/32",
+        "type": "FLASHER",
+        "location": "إدارة المبيعات والشؤون الإدارية - صالة مدير المبيعات",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L1/33",
+        "type": "SOUNDER",
+        "location": "إدارة المبيعات والشؤون الإدارية - مدير المبيعات",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L1/34",
+        "type": "MANUAL CALL POINT",
+        "location": "إدارة المبيعات والشؤون الإدارية - صالة مدير المبيعات",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L1/35",
+        "type": "SMOKE DETECTOR",
+        "location": "إدارة المبيعات والشؤون الإدارية - مدير المبيعات",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L1/36",
+        "type": "SMOKE DETECTOR",
+        "location": "إدارة المبيعات والشؤون الإدارية - مدير المبيعات",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L1/37",
+        "type": "SMOKE DETECTOR",
+        "location": "إدارة المبيعات والشؤون الإدارية - سكرتير مدير المبيعات",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L1/38",
+        "type": "SMOKE DETECTOR",
+        "location": "إدارة المبيعات والشؤون الإدارية - سكرتير مدير المبيعات",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L1/39",
+        "type": "SMOKE DETECTOR",
+        "location": "إدارة المبيعات والشؤون الإدارية - اخصائي التأمين",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L1/40",
+        "type": "SMOKE DETECTOR",
+        "location": "إدارة المبيعات والشؤون الإدارية - اخصائي التأمين",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L1/41",
+        "type": "SMOKE DETECTOR",
+        "location": "إدارة المبيعات والشؤون الإدارية - ادمن المبيعات",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L1/42",
+        "type": "SMOKE DETECTOR",
+        "location": "إدارة المبيعات والشؤون الإدارية - ادمن المبيعات",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L1/43",
+        "type": "SMOKE DETECTOR",
+        "location": "إدارة المبيعات والشؤون الإدارية - الصالة أمام المكاتب",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L1/44",
+        "type": "SMOKE DETECTOR",
+        "location": "إدارة المبيعات والشؤون الإدارية - الصالة أمام المكاتب",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L1/45",
+        "type": "SMOKE DETECTOR",
+        "location": "إدارة المبيعات والشؤون الإدارية - محاسب المبيعات",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L1/46",
+        "type": "SMOKE DETECTOR",
+        "location": "إدارة المبيعات والشؤون الإدارية - محاسب المبيعات",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L1/47",
+        "type": "SMOKE DETECTOR",
+        "location": "إدارة المبيعات والشؤون الإدارية - ادمن افير",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L1/48",
+        "type": "SMOKE DETECTOR",
+        "location": "إدارة المبيعات والشؤون الإدارية - ادمن افير",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L1/49",
+        "type": "SMOKE DETECTOR",
+        "location": "إدارة المبيعات والشؤون الإدارية - الصالة أمام المكاتب",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L1/50",
+        "type": "SMOKE DETECTOR",
+        "location": "إدارة المبيعات والشؤون الإدارية - الصالة أمام المكاتب",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L1/51",
+        "type": "SMOKE DETECTOR",
+        "location": "إدارة المبيعات والشؤون الإدارية - الخدمات المشتركة",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L1/52",
+        "type": "SMOKE DETECTOR",
+        "location": "إدارة المبيعات والشؤون الإدارية - الخدمات المشتركة",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L1/53",
+        "type": "SMOKE DETECTOR",
+        "location": "إدارة المبيعات والشؤون الإدارية - مكتب مشرف الحركة",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L1/54",
+        "type": "SMOKE DETECTOR",
+        "location": "إدارة المبيعات والشؤون الإدارية - مكتب مشرف الحركة",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L1/55",
+        "type": "SMOKE DETECTOR",
+        "location": "إدارة المبيعات والشؤون الإدارية - الصالة أمام المكاتب",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L1/56",
+        "type": "SMOKE DETECTOR",
+        "location": "إدارة المبيعات والشؤون الإدارية - الصالة أمام المكاتب",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L1/57",
+        "type": "SMOKE DETECTOR",
+        "location": "إدارة المبيعات والشؤون الإدارية - أرشيف 1",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L1/58",
+        "type": "SMOKE DETECTOR",
+        "location": "إدارة المبيعات والشؤون الإدارية - أرشيف 1",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L1/59",
+        "type": "SMOKE DETECTOR",
+        "location": "إدارة المبيعات والشؤون الإدارية - أرشيف المبيعات",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L1/60",
+        "type": "SMOKE DETECTOR",
+        "location": "إدارة المبيعات والشؤون الإدارية - أرشيف المبيعات",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L1/61",
+        "type": "SMOKE DETECTOR",
+        "location": "إدارة المبيعات والشؤون الإدارية - الصالة أمام المكاتب",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L1/62",
+        "type": "SMOKE DETECTOR",
+        "location": "إدارة المبيعات والشؤون الإدارية - الصالة أمام المكاتب",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L1/63",
+        "type": "SMOKE DETECTOR",
+        "location": "إدارة المبيعات والشؤون الإدارية - البوفية",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L1/64",
+        "type": "SMOKE DETECTOR",
+        "location": "إدارة المبيعات والشؤون الإدارية - البوفية",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L1/65",
+        "type": "NAC",
+        "location": "إدارة المبيعات والشؤون الإدارية - خارج البوابة",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L2/01",
+        "type": "SMOKE DETECTOR",
+        "location": "مبنى ورشة الكهرباء - مكتب المشرف",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L2/02",
+        "type": "SMOKE DETECTOR",
+        "location": "مبنى ورشة الكهرباء - مكتب المهندسين",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L2/03",
+        "type": "SMOKE DETECTOR",
+        "location": "مبنى ورشة الكهرباء - المستودع",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
         "code": "P3/L1/01",
         "type": "حساس دخان SMOKE DETECTOR",
         "location": "المستودع الجديد - مكتب أمين المستودع",
