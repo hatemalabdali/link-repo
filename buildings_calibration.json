@@ -8,6 +8,14 @@
     "scaleY": 0.13611922
   },
   {
+  "calibrationKey": "p1_main_gate_floor_1",
+  "calX": 1544.25,
+  "calY": 4456.0,
+  "rotation": 89.75,
+  "scaleX": 0.08222152,
+  "scaleY": 0.12141661
+},
+  {
     "calibrationKey": "p3_sugar_adminstration_floor_0",
     "calX": 900.0,
     "calY": 3140.0,
