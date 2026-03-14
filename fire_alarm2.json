@@ -3666,7 +3666,7 @@
 
 
     {
-        "code": "P4/L1/01/D1",
+        "code": "P4/L1/01-D1",
         "type": "BEAM DETECTOR",
         "location": "2222222222222",
         "x_pixel": 1942,
@@ -3676,7 +3676,7 @@
         "g_angle": 180
     },
     {
-        "code": "P4/L1/01/D2",
+        "code": "P4/L1/01-D2",
         "type": "BEAM DETECTOR",
         "location": "2222222222222",
         "x_pixel": 1942,
