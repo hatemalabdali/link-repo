@@ -1,11 +1,11 @@
 [
   {
     "calibrationKey": "p1_main_gate_floor_0",
-    "calX": 3903.5,
-    "calY": 2109.2,
-    "rotation": 45.0,
-    "scaleX": 1.2,
-    "scaleY": 1.1
+    "calX": 2472.25,
+    "calY": 3615.45,
+    "rotation": -92.0,
+    "scaleX": 1.9735686,
+    "scaleY": 1.8091056
   },
   {
     "calibrationKey": "p3_sugar_adminstration_floor_0",
@@ -14,5 +14,13 @@
     "rotation": 0.0,
     "scaleX": 1.0,
     "scaleY": 1.0
+  },
+  {
+    "calibrationKey": "p3_diesel_faul_station",
+    "calX": 2275.75,
+    "calY": 3313.25,
+    "rotation": 0.0,
+    "scaleX": 0.50546074,
+    "scaleY": 0.50546074
   }
 ]
