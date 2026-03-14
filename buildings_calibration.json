@@ -1,11 +1,11 @@
 [
   {
     "calibrationKey": "p1_main_gate_floor_0",
-    "calX": 2472.25,
-    "calY": 3615.45,
-    "rotation": -92.0,
-    "scaleX": 1.9735686,
-    "scaleY": 1.8091056
+    "calX": 1545.25,
+    "calY": 4452.95,
+    "rotation": 88.5,
+    "scaleX": 0.10028307,
+    "scaleY": 0.13611922
   },
   {
     "calibrationKey": "p3_sugar_adminstration_floor_0",
