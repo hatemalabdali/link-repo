@@ -1,0 +1,18 @@
+[
+  {
+    "calibrationKey": "P1",
+    "calX": 1245.5,
+    "calY": 850.2,
+    "rotation": 45.0,
+    "scaleX": 1.2,
+    "scaleY": 1.1
+  },
+  {
+    "calibrationKey": "P2",
+    "calX": 900.0,
+    "calY": 1100.0,
+    "rotation": 0.0,
+    "scaleX": 1.0,
+    "scaleY": 1.0
+  }
+]
