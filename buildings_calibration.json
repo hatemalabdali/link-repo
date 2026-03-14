@@ -1,6 +1,6 @@
 [
   {
-    "calibrationKey": "P1",
+    "calibrationKey": "p1_main_gate_floor_0",
     "calX": 1245.5,
     "calY": 850.2,
     "rotation": 45.0,
@@ -8,7 +8,7 @@
     "scaleY": 1.1
   },
   {
-    "calibrationKey": "P2",
+    "calibrationKey": "p3_sugar_adminstration_floor_0",
     "calX": 900.0,
     "calY": 1100.0,
     "rotation": 0.0,
