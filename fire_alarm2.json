@@ -3535,8 +3535,8 @@
         "location": "دخل غرفة مشرف محطة الوقود",
         "x_pixel": 124,
         "y_pixel": 2745,
-        "gate_x": 1920,
-        "gate_y": 2690,
+        "gate_x": 130,
+        "gate_y": 2748,
         "g_angle": 180
     },
     {
@@ -3545,8 +3545,8 @@
         "location": "دخل غرفة مشرف محطة الوقود",
         "x_pixel": 123,
         "y_pixel": 2743,
-        "gate_x": 1920,
-        "gate_y": 2690,
+        "gate_x": 130,
+        "gate_y": 2748,
         "g_angle": 180
     },
     {
@@ -3555,8 +3555,8 @@
         "location": "دخل غرفة مشرف محطة الوقود",
         "x_pixel": 126,
         "y_pixel": 2743,
-        "gate_x": 1920,
-        "gate_y": 2690,
+        "gate_x": 130,
+        "gate_y": 2748,
         "g_angle": 180
     },
     {
@@ -3565,8 +3565,8 @@
         "location": " محطة الديزل FAUL STATION",
         "x_pixel": 121,
         "y_pixel": 2763,
-        "gate_x": 1920,
-        "gate_y": 2690,
+        "gate_x": 130,
+        "gate_y": 2748,
         "g_angle": 180
     },
     {
@@ -3575,8 +3575,8 @@
         "location": " محطة الديزل FAUL STATION",
         "x_pixel": 206,
         "y_pixel": 2857,
-        "gate_x": 1920,
-        "gate_y": 2690,
+        "gate_x": 130,
+        "gate_y": 2748,
         "g_angle": 180
     },
     {
@@ -3585,8 +3585,8 @@
         "location": "خارج غرفة محطة الوقود",
         "x_pixel": 145,
         "y_pixel": 2736,
-        "gate_x": 1920,
-        "gate_y": 2690,
+        "gate_x": 130,
+        "gate_y": 2748,
         "g_angle": 180
     },
     {
@@ -3595,8 +3595,8 @@
         "location": "حساس التدفق لشبكة محطة الوقود ",
         "x_pixel": 139,
         "y_pixel": 2739,
-        "gate_x": 1920,
-        "gate_y": 2690,
+        "gate_x": 130,
+        "gate_y": 2748,
         "g_angle": 180
     },
     {
@@ -3605,8 +3605,8 @@
         "location": "حساس محبس خط شبكة محطة الوقود",
         "x_pixel": 139,
         "y_pixel": 2736,
-        "gate_x": 1920,
-        "gate_y": 2690,
+        "gate_x": 130,
+        "gate_y": 2748,
         "g_angle": 180
     },
     {
@@ -3615,8 +3615,8 @@
         "location": "خارج غرفة محطة الوقود",
         "x_pixel": 148,
         "y_pixel": 2735,
-        "gate_x": 1920,
-        "gate_y": 2690,
+        "gate_x": 130,
+        "gate_y": 2748,
         "g_angle": 180
     },
     {
@@ -3625,8 +3625,8 @@
         "location": "داخل غرفة مشرف محطة الوقود",
         "x_pixel": 128,
         "y_pixel": 2737,
-        "gate_x": 1920,
-        "gate_y": 2690,
+        "gate_x": 130,
+        "gate_y": 2748,
         "g_angle": 180
     },
     {
