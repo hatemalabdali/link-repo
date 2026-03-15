@@ -69,16 +69,7 @@
         "gate_y": 1196,
         "g_angle": 90
     },
-    {
-        "code": "P8/L1/FACP",
-        "type": "FACP",
-        "location": "الإنتاج الدور الرابع غرفة تحكم الإنتاج DCS",
-        "x_pixel": 2158,
-        "y_pixel": 822,
-        "gate_x": 2112,
-        "gate_y": 803,
-        "g_angle": 90
-    },
+   
     {
         "code": "P9/L1/FACP",
         "type": "FACP",
