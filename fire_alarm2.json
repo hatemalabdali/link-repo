@@ -1585,9 +1585,9 @@
         "location": "راس عيسى - مبنى الاكسترودر",
         "x_pixel": 904,
 "y_pixel": 3847,
-        "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
+        "gate_x": 1098,
+"gate_y": 3684,
+        "g_angle": 180
     },
     {
         "code": "P2/L3/01 NCA-01",
