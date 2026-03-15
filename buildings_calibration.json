@@ -71,6 +71,14 @@
   "rotation": 0.0,
   "scaleX": 0.14762194,
   "scaleY": 0.14762194
+},
+{
+  "calibrationKey": "p2_ras_esa_store",
+  "calX": 1275.25,
+  "calY": 3512.25,
+  "rotation": 0.0,
+  "scaleX": 0.05317859,
+  "scaleY": 0.05317859
 }
  
 ]
