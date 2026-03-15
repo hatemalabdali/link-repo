@@ -39,12 +39,12 @@
     "scaleX": 0.50546074,
     "scaleY": 0.50546074
   },
-  {
+ {
   "calibrationKey": "p3_diesel_faul_station",
-  "calX": 202.875,
-  "calY": 2821.5,
+  "calX": 175.375,
+  "calY": 2788.375,
   "rotation": -94.375,
-  "scaleX": 0.12724423,
-  "scaleY": 0.12724423
-},
+  "scaleX": 0.06431064,
+  "scaleY": 0.08615268
+}
 ]
