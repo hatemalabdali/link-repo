@@ -1,12 +1,12 @@
 [
   {
-    "calibrationKey": "p1_main_gate_floor_0",
-    "calX": 1545.25,
-    "calY": 4452.95,
-    "rotation": 88.5,
-    "scaleX": 0.10028307,
-    "scaleY": 0.13611922
-  },
+  "calibrationKey": "p1_main_gate_floor_0",
+  "calX": 1544.375,
+  "calY": 4452.95,
+  "rotation": 88.5,
+  "scaleX": 0.09469967,
+  "scaleY": 0.12091339
+},
   {
   "calibrationKey": "p1_main_gate_floor_1",
   "calX": 1544.25,
