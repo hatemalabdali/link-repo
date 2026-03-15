@@ -1150,7 +1150,7 @@
         "g_angle": 0
     },
      {
-        "code": "P2/L1/65 NAC-03",
+        "code": "P2/L1/65 NAC-3",
         "type": "NAC",
         "location": "راس عيسى - مبنى الاكسترودر",
         "x_pixel": 1087,
@@ -1160,7 +1160,7 @@
         "g_angle": 0
     },
     {
-        "code": "P2/L1/65 NAC-04",
+        "code": "P2/L1/65 NAC-4",
         "type": "NAC",
         "location": "راس عيسى - مبنى الاكسترودر",
         "x_pixel": 904,
