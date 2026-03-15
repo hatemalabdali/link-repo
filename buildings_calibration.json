@@ -1,49 +1,43 @@
 [
-{
+  {
   "calibrationKey": "p1_main_gate_floor_0",
-  "calX": 1545.0,
-  "calY": 4456.2,
+  "calX": 1544.375,
+  "calY": 4452.95,
   "rotation": 88.5,
-  "scaleX": 0.043360874,
-  "scaleY": 0.06433275
+  "scaleX": 0.09469967,
+  "scaleY": 0.12091339
+},
+  {
+  "calibrationKey": "p1_main_gate_floor_1",
+  "calX": 1544.25,
+  "calY": 4456.0,
+  "rotation": 89.75,
+  "scaleX": 0.08222152,
+  "scaleY": 0.12141661
 },
  {
-  "calibrationKey": "p1_main_gate_floor_1",
-  "calX": 1545.0,
-  "calY": 4456.2,
-  "rotation": 88.5,
-  "scaleX": 0.043360874,
-  "scaleY": 0.06433275
-},{
   "calibrationKey": "p3_sugar_adminstration_floor_0",
-  "calX": 1981.5,
+  "calX": 1979.375,
   "calY": 2719.375,
   "rotation": 179.25,
-  "scaleX": 0.06250913,
-  "scaleY": 0.06958279
+  "scaleX": 0.11350126,
+  "scaleY": 0.12634523
 },
 {
   "calibrationKey": "p3_sugar_adminstration_floor_1",
   "calX": 1978.5,
   "calY": 2719.125,
   "rotation": -181.0,
-  "scaleX": 0.11204579,
-  "scaleY": 0.12116199
+  "scaleX": 0.05823404,
+  "scaleY": 0.06297208
 },
   {
-    "calibrationKey": "p3_diesel_faul_station",
-    "calX": 2275.75,
-    "calY": 3313.25,
-    "rotation": 0.0,
-    "scaleX": 0.50546074,
-    "scaleY": 0.50546074
-  },
- {
   "calibrationKey": "p3_diesel_faul_station",
   "calX": 175.375,
-  "calY": 2788.375,
-  "rotation": -94.375,
-  "scaleX": 0.06431064,
-  "scaleY": 0.08615268
+  "calY": 2785.25,
+  "rotation": -92.125,
+  "scaleX": 0.03626098,
+  "scaleY": 0.04857642
 }
+ 
 ]
