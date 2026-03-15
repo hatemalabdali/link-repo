@@ -3547,7 +3547,7 @@
         "y_pixel": 2743,
         "gate_x": 130,
         "gate_y": 2748,
-        "g_angle": 180
+        "g_angle": -12
     },
     {
         "code": "P3/L2/03",
@@ -3557,7 +3557,7 @@
         "y_pixel": 2743,
         "gate_x": 130,
         "gate_y": 2748,
-        "g_angle": 180
+        "g_angle": -12
     },
     {
         "code": "P3/L2/04",
@@ -3567,7 +3567,7 @@
         "y_pixel": 2763,
         "gate_x": 130,
         "gate_y": 2748,
-        "g_angle": 180
+        "g_angle": -12
     },
     {
         "code": "P3/L2/05",
@@ -3577,7 +3577,7 @@
         "y_pixel": 2857,
         "gate_x": 130,
         "gate_y": 2748,
-        "g_angle": 180
+        "g_angle": -12
     },
     {
         "code": "P3/L2/06",
@@ -3587,7 +3587,7 @@
         "y_pixel": 2736,
         "gate_x": 130,
         "gate_y": 2748,
-        "g_angle": 180
+        "g_angle": -12
     },
     {
         "code": "P3/L2/07",
@@ -3597,7 +3597,7 @@
         "y_pixel": 2739,
         "gate_x": 130,
         "gate_y": 2748,
-        "g_angle": 180
+        "g_angle": -12
     },
     {
         "code": "P3/L2/08",
@@ -3607,7 +3607,7 @@
         "y_pixel": 2736,
         "gate_x": 130,
         "gate_y": 2748,
-        "g_angle": 180
+        "g_angle": -12
     },
     {
         "code": "P3/L2/09 NAC-01",
@@ -3617,7 +3617,7 @@
         "y_pixel": 2735,
         "gate_x": 130,
         "gate_y": 2748,
-        "g_angle": 180
+        "g_angle": -12
     },
     {
         "code": "P3/L2/10",
@@ -3627,7 +3627,7 @@
         "y_pixel": 2737,
         "gate_x": 130,
         "gate_y": 2748,
-        "g_angle": 180
+        "g_angle": -12
     },
     {
         "code": "P4/L1/01-D1",
