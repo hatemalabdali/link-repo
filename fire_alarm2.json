@@ -1149,6 +1149,26 @@
         "gate_y": 4075,
         "g_angle": 0
     },
+     {
+        "code": "P2/L1/65 NAC-03",
+        "type": "NAC",
+        "location": "راس عيسى - مبنى الاكسترودر",
+        "x_pixel": 1087,
+"y_pixel": 3682,
+       "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L1/65 NAC-04",
+        "type": "NAC",
+        "location": "راس عيسى - مبنى الاكسترودر",
+        "x_pixel": 904,
+"y_pixel": 3847,
+        "gate_x": 1098,
+"gate_y": 3684,
+        "g_angle": 180
+    },
     {
         "code": "P2/L2/20",
         "type": "SOUNDER",
@@ -1569,26 +1589,7 @@
         "gate_y": 4075,
         "g_angle": 0
     },
-    {
-        "code": "P2/L2/65 NAC-03",
-        "type": "NAC",
-        "location": "راس عيسى - مبنى الاكسترودر",
-        "x_pixel": 1087,
-"y_pixel": 3682,
-       "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
-    },
-    {
-        "code": "P2/L2/65 NAC-04",
-        "type": "NAC",
-        "location": "راس عيسى - مبنى الاكسترودر",
-        "x_pixel": 904,
-"y_pixel": 3847,
-        "gate_x": 1098,
-"gate_y": 3684,
-        "g_angle": 180
-    },
+   
     {
         "code": "P2/L3/01 NCA-01",
         "type": "NAC",
