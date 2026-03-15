@@ -55,6 +55,22 @@
   "rotation": -1.125,
   "scaleX": 0.12965733,
   "scaleY": 0.12965733
+},
+{
+  "calibrationKey": "p2_ras_easa_production_1",
+  "calX": 1099.125,
+  "calY": 4188.25,
+  "rotation": 0.0,
+  "scaleX": 0.13404922,
+  "scaleY": 0.13710295
+},
+{
+  "calibrationKey": "p2_ras_easa_production_2",
+  "calX": 647.5,
+  "calY": 4159.5,
+  "rotation": 0.0,
+  "scaleX": 0.14762194,
+  "scaleY": 0.14762194
 }
  
 ]
