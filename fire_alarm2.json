@@ -1,6 +1,6 @@
 [
     {
-        "code": "P1/L0/00",
+        "code": "P1/L1/FACP",
         "type": "FACP",
         "location": "البوابة غرفة استقبال الزوار",
         "x_pixel": 1541,
@@ -10,7 +10,7 @@
         "g_angle": 90
     },
     {
-        "code": "P2/L0/00",
+        "code": "P2/L1/FACP",
         "type": "FACP",
         "location": "صالة إدارة المبيعات براس عيسى بجانب المدخل",
         "x_pixel": 1541,
@@ -20,7 +20,7 @@
         "g_angle": 0
     },
     {
-        "code": "P3/L0/00",
+        "code": "P3/L1/FACP",
         "type": "FACP",
         "location": "الإدارة العليا الدور الأرضي بجانب مكتب الاستقبال",
         "x_pixel": 1942,
@@ -30,7 +30,7 @@
         "g_angle": 180
     },
     {
-        "code": "P4/L0/00",
+        "code": "P4/L1/FACP",
         "type": "FACP",
         "location": "التعبئة الدور الأول غرفة الصيانة بجانب MCC",
         "x_pixel": 1975,
@@ -40,7 +40,7 @@
         "g_angle": 180
     },
     {
-        "code": "P5/L0/00",
+        "code": "P5/L1/FACP",
         "type": "FACP",
         "location": "مخزن قطع الغيار والمهمات داخل المكاتب",
         "x_pixel": 1564,
@@ -50,7 +50,7 @@
         "g_angle": 90
     },
     {
-        "code": "P6/L0/00",
+        "code": "P6/L1/FACP",
         "type": "FACP",
         "location": "سكن B الصالة بجانب الحمامات",
         "x_pixel": 627,
@@ -60,7 +60,7 @@
         "g_angle": 0
     },
     {
-        "code": "P7/L0/00",
+        "code": "P7/L1/FACP",
         "type": "FACP",
         "location": "داخل غرفة كهرباء الهنجر الخام",
         "x_pixel": 2502,
@@ -70,7 +70,7 @@
         "g_angle": 90
     },
     {
-        "code": "P8/L0/00",
+        "code": "P8/L1/FACP",
         "type": "FACP",
         "location": "الإنتاج الدور الرابع غرفة تحكم الإنتاج DCS",
         "x_pixel": 2158,
@@ -80,7 +80,7 @@
         "g_angle": 90
     },
     {
-        "code": "P9/L0/00",
+        "code": "P9/L1/FACP",
         "type": "FACP",
         "location": "إدارة السلامة غرفة رجال الاطفاء",
         "x_pixel": 1181,
@@ -2891,20 +2891,20 @@
     },
     {
         "code": "P3/L1/120",
-        "type": "SOUNDER",
+        "type": "FLASHER",
         "location": "الإدارة العليا - الدور الارضي- المدخل الرئيسي للمبنى",
-        "x_pixel": 1942,
-        "y_pixel": 2725,
+        "x_pixel": 1926,
+        "y_pixel": 2665,
         "gate_x": 1916,
         "gate_y": 2660,
         "g_angle": 180
     },
     {
         "code": "P3/L1/121",
-        "type": "FLASHER",
+        "type": "SOUNDER",
         "location": "الإدارة العليا - الدور الارضي- المدخل الرئيسي للمبنى",
-        "x_pixel": 1942,
-        "y_pixel": 2725,
+        "x_pixel": 1924,
+        "y_pixel": 2665,
         "gate_x": 1916,
         "gate_y": 2660,
         "g_angle": 180
@@ -2913,8 +2913,8 @@
         "code": "P3/L1/122",
         "type": "MANUAL CALL POINT",
         "location": "الإدارة العليا - الدور الارضي- المدخل الرئيسي للمبنى",
-        "x_pixel": 1942,
-        "y_pixel": 2725,
+        "x_pixel": 1925,
+        "y_pixel": 2663,
         "gate_x": 1916,
         "gate_y": 2660,
         "g_angle": 180
