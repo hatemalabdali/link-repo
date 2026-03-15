@@ -23,6 +23,14 @@
   "scaleX": 0.11350126,
   "scaleY": 0.10943798
 },
+{
+  "calibrationKey": "p3_sugar_adminstration_floor_1",
+  "calX": 1979.5,
+  "calY": 2715.875,
+  "rotation": -181.0,
+  "scaleX": 0.112992615,
+  "scaleY": 0.121011205
+},
   {
     "calibrationKey": "p3_diesel_faul_station",
     "calX": 2275.75,
