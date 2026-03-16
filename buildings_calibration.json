@@ -1,19 +1,19 @@
 [
-  {
+ {
   "calibrationKey": "p1_main_gate_floor_0",
   "calX": 1544.375,
   "calY": 4452.95,
   "rotation": 88.5,
-  "scaleX": 0.09469967,
-  "scaleY": 0.12091339
+  "scaleX": 0.05030688,
+  "scaleY": 0.064232215
 },
   {
   "calibrationKey": "p1_main_gate_floor_1",
-  "calX": 1544.25,
-  "calY": 4456.0,
-  "rotation": 89.75,
-  "scaleX": 0.08222152,
-  "scaleY": 0.12141661
+  "calX": 1544.375,
+  "calY": 4452.95,
+  "rotation": 88.5,
+  "scaleX": 0.05030688,
+  "scaleY": 0.064232215
 },
  {
   "calibrationKey": "p3_sugar_adminstration_floor_0",
