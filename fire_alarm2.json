@@ -1589,6 +1589,16 @@
         "g_angle": 0
     },
     {
+        "code": "P2/L3/01",
+        "type": "OUTPUT MODULE",
+        "location": "راس عيسى - مبنى الانتاج 2",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
         "code": "P2/L3/01 NAC-1",
         "type": "NAC",
         "location": "راس عيسى - مبنى الانتاج 2",
@@ -1651,6 +1661,16 @@
     {
         "code": "P2/L3/04",
         "type": "MANUAL CALL POINT",
+        "location": "راس عيسى - مبنى الانتاج 2",
+        "x_pixel": 1131,
+        "y_pixel": 3721,
+        "gate_x": 1284,
+        "gate_y": 4075,
+        "g_angle": 0
+    },
+    {
+        "code": "P2/L3/05",
+        "type": "OUTPUT MODULE",
         "location": "راس عيسى - مبنى الانتاج 2",
         "x_pixel": 1131,
         "y_pixel": 3721,
