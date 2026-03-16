@@ -1593,9 +1593,9 @@
         "type": "OUTPUT MODULE",
         "location": "راس عيسى - مبنى الانتاج 2",
         "x_pixel": 855,
-"y_pixel": 4042,
+        "y_pixel": 4042,
         "gate_x": 670,
-"gate_y": 3986,
+        "gate_y": 3986,
         "g_angle": 180
     },
     {
@@ -1603,499 +1603,499 @@
         "type": "NAC",
         "location": "راس عيسى - مبنى الانتاج 2",
         "x_pixel": 861,
-"y_pixel": 4084,
-        "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
+        "y_pixel": 4084,
+        "gate_x": 670,
+        "gate_y": 3986,
+        "g_angle": 180
     },
     {
         "code": "P2/L3/01 NAC-2",
         "type": "NAC",
         "location": "راس عيسى - مبنى الانتاج 2",
-       "x_pixel": 676,
-"y_pixel": 3985,
-        "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
+        "x_pixel": 676,
+        "y_pixel": 3985,
+        "gate_x": 670,
+        "gate_y": 3986,
+        "g_angle": 180
     },
     {
         "code": "P2/L3/01 NAC-3",
         "type": "NAC",
         "location": "راس عيسى - مبنى الانتاج 2",
         "x_pixel": 561,
-"y_pixel": 3985,
-        "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
+        "y_pixel": 3985,
+        "gate_x": 670,
+        "gate_y": 3986,
+        "g_angle": 180
     },
     {
         "code": "P2/L3/01 NAC-4",
         "type": "NAC",
         "location": "راس عيسى - مبنى الانتاج 2",
-       "x_pixel": 427,
-"y_pixel": 4095,
-        "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
+        "x_pixel": 427,
+        "y_pixel": 4095,
+        "gate_x": 670,
+        "gate_y": 3986,
+        "g_angle": 180
     },
     {
         "code": "P2/L3/02",
         "type": "FLASHER",
         "location": "راس عيسى - مبنى الانتاج 2",
-       "x_pixel": 850,
-"y_pixel": 4082,
-        "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
+        "x_pixel": 850,
+        "y_pixel": 4082,
+        "gate_x": 670,
+        "gate_y": 3986,
+        "g_angle": 180
     },
     {
         "code": "P2/L3/03",
         "type": "SOUNDER",
         "location": "راس عيسى - مبنى الانتاج 2",
         "x_pixel": 850,
-"y_pixel": 4086,
-        "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
+        "y_pixel": 4086,
+        "gate_x": 670,
+        "gate_y": 3986,
+        "g_angle": 180
     },
     {
         "code": "P2/L3/04",
         "type": "MANUAL CALL POINT",
         "location": "راس عيسى - مبنى الانتاج 2",
         "x_pixel": 855,
-"y_pixel": 4084,
-        "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
+        "y_pixel": 4084,
+        "gate_x": 670,
+        "gate_y": 3986,
+        "g_angle": 180
     },
     {
         "code": "P2/L3/05",
         "type": "OUTPUT MODULE",
         "location": "راس عيسى - مبنى الانتاج 2",
         "x_pixel": 855,
-"y_pixel": 4135,
-        "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
+        "y_pixel": 4135,
+        "gate_x": 670,
+        "gate_y": 3986,
+        "g_angle": 180
     },
     {
         "code": "P2/L3/05 NAC-1",
         "type": "NAC",
         "location": "راس عيسى - مبنى الانتاج 2",
         "x_pixel": 860,
-"y_pixel": 4152,
-        "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
+        "y_pixel": 4152,
+        "gate_x": 670,
+        "gate_y": 3986,
+        "g_angle": 180
     },
     {
         "code": "P2/L3/05 NAC-2",
         "type": "NAC",
         "location": "راس عيسى - مبنى الانتاج 2",
         "x_pixel": 786,
-"y_pixel": 4337,
-        "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
+        "y_pixel": 4337,
+        "gate_x": 670,
+        "gate_y": 3986,
+        "g_angle": 180
     },
     {
         "code": "P2/L3/05 NAC-3",
         "type": "NAC",
         "location": "راس عيسى - مبنى الانتاج 2",
-       "x_pixel": 561,
-"y_pixel": 4337,
-        "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
+        "x_pixel": 561,
+        "y_pixel": 4337,
+        "gate_x": 670,
+        "gate_y": 3986,
+        "g_angle": 180
     },
     {
         "code": "P2/L3/05 NAC-4",
         "type": "NAC",
         "location": "راس عيسى - مبنى الانتاج 2",
         "x_pixel": 427,
-"y_pixel": 4237,
-        "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
+        "y_pixel": 4237,
+        "gate_x": 670,
+        "gate_y": 3986,
+        "g_angle": 180
     },
     {
         "code": "P2/L3/06",
         "type": "FLASHER",
         "location": "راس عيسى - مبنى الانتاج 2",
         "x_pixel": 850,
-"y_pixel": 4150,
-        "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
+        "y_pixel": 4150,
+        "gate_x": 670,
+        "gate_y": 3986,
+        "g_angle": 180
     },
     {
         "code": "P2/L3/07",
         "type": "SOUNDER",
         "location": "راس عيسى - مبنى الانتاج 2",
         "x_pixel": 850,
-"y_pixel": 4155,
-        "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
+        "y_pixel": 4155,
+        "gate_x": 670,
+        "gate_y": 3986,
+        "g_angle": 180
     },
     {
         "code": "P2/L3/08",
         "type": "MANUAL CALL POINT",
         "location": "راس عيسى - مبنى الانتاج 2",
-       "x_pixel": 855,
-"y_pixel": 4152,
-        "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
+        "x_pixel": 855,
+        "y_pixel": 4152,
+        "gate_x": 670,
+        "gate_y": 3986,
+        "g_angle": 180
     },
     {
         "code": "P2/L3/09",
         "type": "OUTPUT/INPUT MODULE",
         "location": "راس عيسى - مبنى الانتاج 2",
         "x_pixel": 850,
-"y_pixel": 4333,
-        "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
+        "y_pixel": 4333,
+        "gate_x": 670,
+        "gate_y": 3986,
+        "g_angle": 180
     },
     {
         "code": "P2/L3/10",
         "type": "MANUAL CALL POINT",
         "location": "راس عيسى - مبنى الانتاج 2",
         "x_pixel": 786,
-"y_pixel": 4332,
-        "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
+        "y_pixel": 4332,
+        "gate_x": 670,
+        "gate_y": 3986,
+        "g_angle": 180
     },
     {
         "code": "P2/L3/11",
         "type": "FLASHER",
         "location": "راس عيسى - مبنى الانتاج 2",
-       "x_pixel": 788,
-"y_pixel": 4327,
-        "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
+        "x_pixel": 788,
+        "y_pixel": 4327,
+        "gate_x": 670,
+        "gate_y": 3986,
+        "g_angle": 180
     },
     {
         "code": "P2/L3/12",
         "type": "SOUNDER",
         "location": "راس عيسى - مبنى الانتاج 2",
         "x_pixel": 783,
-"y_pixel": 4327,
-        "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
+        "y_pixel": 4327,
+        "gate_x": 670,
+        "gate_y": 3986,
+        "g_angle": 180
     },
     {
         "code": "P2/L3/13",
         "type": "FLASHER",
         "location": "راس عيسى - مبنى الانتاج 2",
         "x_pixel": 563,
-"y_pixel": 4327,
-        "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
+        "y_pixel": 4327,
+        "gate_x": 670,
+        "gate_y": 3986,
+        "g_angle": 180
     },
     {
         "code": "P2/L3/14",
         "type": "SOUNDER",
         "location": "راس عيسى - مبنى الانتاج 2",
         "x_pixel": 559,
-"y_pixel": 4327,
-        "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
+        "y_pixel": 4327,
+        "gate_x": 670,
+        "gate_y": 3986,
+        "g_angle": 180
     },
     {
         "code": "P2/L3/15",
         "type": "MANUAL CALL POINT",
         "location": "راس عيسى - مبنى الانتاج 2",
         "x_pixel": 560,
-"y_pixel": 4332,
-        "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
+        "y_pixel": 4332,
+        "gate_x": 670,
+        "gate_y": 3986,
+        "g_angle": 180
     },
     {
         "code": "P2/L3/16",
         "type": "OUTPUT/INPUT MODULE",
         "location": "راس عيسى - مبنى الانتاج 2",
-       "x_pixel": 441,
-"y_pixel": 4332,
-        "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
+        "x_pixel": 441,
+        "y_pixel": 4332,
+        "gate_x": 670,
+        "gate_y": 3986,
+        "g_angle": 180
     },
     {
         "code": "P2/L3/17",
         "type": "FLASHER",
         "location": "راس عيسى - مبنى الانتاج 2",
         "x_pixel": 437,
-"y_pixel": 4239,
-        "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
+        "y_pixel": 4239,
+        "gate_x": 670,
+        "gate_y": 3986,
+        "g_angle": 180
     },
     {
         "code": "P2/L3/18",
         "type": "SOUNDER",
         "location": "راس عيسى - مبنى الانتاج 2",
         "x_pixel": 437,
-"y_pixel": 4235,
-        "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
+        "y_pixel": 4235,
+        "gate_x": 670,
+        "gate_y": 3986,
+        "g_angle": 180
     },
     {
         "code": "P2/L3/19",
         "type": "MANUAL CALL POINT",
         "location": "راس عيسى - مبنى الانتاج 2",
         "x_pixel": 432,
-"y_pixel": 4237,
-        "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
+        "y_pixel": 4237,
+        "gate_x": 670,
+        "gate_y": 3986,
+        "g_angle": 180
     },
     {
         "code": "P2/L3/20",
         "type": "OUTPUT/INPUT MODULE",
         "location": "راس عيسى - مبنى الانتاج 2",
         "x_pixel": 432,
-"y_pixel": 4177,
-        "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
+        "y_pixel": 4177,
+        "gate_x": 670,
+        "gate_y": 3986,
+        "g_angle": 180
     },
     {
         "code": "P2/L3/21",
         "type": "OUTPUT/INPUT MODULE",
         "location": "راس عيسى - مبنى الانتاج 2",
         "x_pixel": 432,
-"y_pixel": 4171,
-        "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
+        "y_pixel": 4171,
+        "gate_x": 670,
+        "gate_y": 3986,
+        "g_angle": 180
     },
     {
         "code": "P2/L3/22",
         "type": "OUTPUT/INPUT MODULE",
         "location": "راس عيسى - مبنى الانتاج 2",
-       "x_pixel": 432,
-"y_pixel": 4165,
-        "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
+        "x_pixel": 432,
+        "y_pixel": 4165,
+        "gate_x": 670,
+        "gate_y": 3986,
+        "g_angle": 180
     },
     {
         "code": "P2/L3/23",
         "type": "OUTPUT/INPUT MODULE",
         "location": "راس عيسى - مبنى الانتاج 2",
         "x_pixel": 432,
-"y_pixel": 4159,
-        "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
+        "y_pixel": 4159,
+        "gate_x": 670,
+        "gate_y": 3986,
+        "g_angle": 180
     },
     {
         "code": "P2/L3/24",
         "type": "OUTPUT/INPUT MODULE",
         "location": "راس عيسى - مبنى الانتاج 2",
         "x_pixel": 432,
-"y_pixel": 4153,
-        "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
+        "y_pixel": 4153,
+        "gate_x": 670,
+        "gate_y": 3986,
+        "g_angle": 180
     },
     {
         "code": "P2/L3/25",
         "type": "OUTPUT/INPUT MODULE",
         "location": "راس عيسى - مبنى الانتاج 2",
         "x_pixel": 432,
-"y_pixel": 4147,
-        "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
+        "y_pixel": 4147,
+        "gate_x": 670,
+        "gate_y": 3986,
+        "g_angle": 180
     },
     {
         "code": "P2/L3/26",
         "type": "SOUNDER",
         "location": "راس عيسى - مبنى الانتاج 2",
-       "x_pixel": 437,
-"y_pixel": 4097,
-        "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
+        "x_pixel": 437,
+        "y_pixel": 4097,
+        "gate_x": 670,
+        "gate_y": 3986,
+        "g_angle": 180
     },
     {
         "code": "P2/L3/27",
         "type": "FLASHER",
         "location": "راس عيسى - مبنى الانتاج 2",
-       "x_pixel": 437,
-"y_pixel": 4092,
-        "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
+        "x_pixel": 437,
+        "y_pixel": 4092,
+        "gate_x": 670,
+        "gate_y": 3986,
+        "g_angle": 180
     },
     {
         "code": "P2/L3/28",
         "type": "MANUAL CALL POINT",
         "location": "راس عيسى - مبنى الانتاج 2",
         "x_pixel": 433,
-"y_pixel": 4095,
-        "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
+        "y_pixel": 4095,
+        "gate_x": 670,
+        "gate_y": 3986,
+        "g_angle": 180
     },
     {
         "code": "P2/L3/29",
         "type": "OUTPUT/INPUT MODULE",
         "location": "راس عيسى - مبنى الانتاج 2",
         "x_pixel": 435,
-"y_pixel": 3990,
-        "gate_y": 4075,
-        "g_angle": 0
+        "y_pixel": 3990,
+        "gate_y": 3986,
+        "g_angle": 180
     },
     {
         "code": "P2/L3/30",
         "type": "BEAM DETECTOR",
         "location": "راس عيسى - مبنى الانتاج 2",
         "x_pixel": 465,
-"y_pixel": 3991,
-        "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
+        "y_pixel": 3991,
+        "gate_x": 670,
+        "gate_y": 3986,
+        "g_angle": 180
     },
     {
         "code": "P2/L3/31",
         "type": "BEAM DETECTOR",
         "location": "راس عيسى - مبنى الانتاج 2",
         "x_pixel": 525,
-"y_pixel": 3991,
-        "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
+        "y_pixel": 3991,
+        "gate_x": 670,
+        "gate_y": 3986,
+        "g_angle": 180
     },
     {
         "code": "P2/L3/32",
         "type": "FLASHER",
         "location": "راس عيسى - مبنى الانتاج 2",
-       "x_pixel": 559,
-"y_pixel": 3995,
-        "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
+        "x_pixel": 559,
+        "y_pixel": 3995,
+        "gate_x": 670,
+        "gate_y": 3986,
+        "g_angle": 180
     },
     {
         "code": "P2/L3/33",
         "type": "SOUNDER",
         "location": "راس عيسى - مبنى الانتاج 2",
         "x_pixel": 563,
-"y_pixel": 3995,
-        "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
+        "y_pixel": 3995,
+        "gate_x": 670,
+        "gate_y": 3986,
+        "g_angle": 180
     },
     {
         "code": "P2/L3/34",
         "type": "MANUAL CALL POINT",
         "location": "راس عيسى - مبنى الانتاج 2",
         "x_pixel": 561,
-"y_pixel": 3990,
-        "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
+        "y_pixel": 3990,
+        "gate_x": 670,
+        "gate_y": 3986,
+        "g_angle": 180
     },
     {
         "code": "P2/L3/35",
         "type": "BEAM DETECTOR",
         "location": "راس عيسى - مبنى الانتاج 2",
         "x_pixel": 584,
-"y_pixel": 3991,
-        "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
+        "y_pixel": 3991,
+        "gate_x": 670,
+        "gate_y": 3986,
+        "g_angle": 180
     },
     {
         "code": "P2/L3/36",
         "type": "SOUNDER",
         "location": "راس عيسى - مبنى الانتاج 2",
-       "x_pixel": 644,
-"y_pixel": 3991,
-        "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
+        "x_pixel": 644,
+        "y_pixel": 3991,
+        "gate_x": 670,
+        "gate_y": 3986,
+        "g_angle": 180
     },
     {
         "code": "P2/L3/37",
         "type": "FLASHER",
         "location": "راس عيسى - مبنى الانتاج 2",
         "x_pixel": 674,
-"y_pixel": 3995,
-        "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
+        "y_pixel": 3995,
+        "gate_x": 670,
+        "gate_y": 3986,
+        "g_angle": 180
     },
     {
         "code": "P2/L3/38",
         "type": "MANUAL CALL POINT",
         "location": "راس عيسى - مبنى الانتاج 2",
-       "x_pixel": 677,
-"y_pixel": 3991,
-        "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
+        "x_pixel": 677,
+        "y_pixel": 3991,
+        "gate_x": 670,
+        "gate_y": 3986,
+        "g_angle": 180
     },
     {
         "code": "P2/L3/39",
         "type": "BEAM DETECTOR",
         "location": "راس عيسى - مبنى الانتاج 2",
-       "x_pixel": 644,
-"y_pixel": 3991,
-        "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
+        "x_pixel": 644,
+        "y_pixel": 3991,
+        "gate_x": 670,
+        "gate_y": 3986,
+        "g_angle": 180
     },
     {
         "code": "P2/L3/40",
         "type": "BEAM DETECTOR",
         "location": "راس عيسى - مبنى الانتاج 2",
-       "x_pixel": 704,
-"y_pixel": 3991,
-        "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
+        "x_pixel": 704,
+        "y_pixel": 3991,
+        "gate_x": 670,
+        "gate_y": 3986,
+        "g_angle": 180
     },
     {
         "code": "P2/L3/41",
         "type": "BEAM DETECTOR",
         "location": "راس عيسى - مبنى الانتاج 2",
-       "x_pixel": 763,
-"y_pixel": 3991,
-        "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
+        "x_pixel": 763,
+        "y_pixel": 3991,
+        "gate_x": 670,
+        "gate_y": 3986,
+        "g_angle": 180
     },
     {
         "code": "P2/L3/42",
         "type": "BEAM DETECTOR",
         "location": "راس عيسى - مبنى الانتاج 2",
         "x_pixel": 823,
-"y_pixel": 3991,
-        "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
+        "y_pixel": 3991,
+        "gate_x": 670,
+        "gate_y": 3986,
+        "g_angle": 180
     },
     {
         "code": "P2/L3/43",
         "type": "OUTPUT/INPUT MODULE",
         "location": "راس عيسى - مبنى الانتاج 2",
         "x_pixel": 850,
-"y_pixel": 3990,
-        "gate_x": 1284,
-        "gate_y": 4075,
-        "g_angle": 0
+        "y_pixel": 3990,
+        "gate_x": 670,
+        "gate_y": 3986,
+        "g_angle": 180
     },
     {
         "code": "P2/L4/01",
