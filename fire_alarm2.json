@@ -1339,7 +1339,7 @@
         "g_angle": 0
     },
     {
-        "code": "P2/L2/36 NAC-01",
+        "code": "P2/L2/36 NAC-1",
         "type": "NAC",
         "location": "راس عيسى - مبنى الانتاج 1",
         "x_pixel": 1303,
@@ -1349,7 +1349,7 @@
         "g_angle": 0
     },
     {
-        "code": "P2/L2/36 NAC-02",
+        "code": "P2/L2/36 NAC-2",
         "type": "NAC",
         "location": "راس عيسى - مبنى الانتاج 1",
         "x_pixel": 1067,
@@ -1359,7 +1359,7 @@
         "g_angle": 0
     },
     {
-        "code": "P2/L2/36 NAC-03",
+        "code": "P2/L2/36 NAC-3",
         "type": "NAC",
         "location": "راس عيسى - مبنى الانتاج 1",
         "x_pixel": 902,
@@ -2258,7 +2258,7 @@
         "g_angle": 0
     },
     {
-        "code": "P2/L4/16 NAC-01",
+        "code": "P2/L4/16 NAC-1",
         "type": "NAC",
         "location": "راس عيسى - مخزن قطع الغيار",
         "x_pixel": 1131,
@@ -2308,7 +2308,7 @@
         "g_angle": 180
     },
     {
-        "code": "P3/L1/01 NAC-01",
+        "code": "P3/L1/01 NAC-1",
         "type": "NAC",
         "location": "الإدارة العليا - الدور الأرضي - صالة المدخل الرئيسي",
         "x_pixel": 1925,
@@ -2318,7 +2318,7 @@
         "g_angle": 180
     },
     {
-        "code": "P3/L1/01 NAC-02",
+        "code": "P3/L1/01 NAC-2",
         "type": "NAC",
         "location": "الإدارة العليا - الدور الأرضي -  المدخل الخلفي",
         "x_pixel": 2133,
@@ -3617,7 +3617,7 @@
         "g_angle": -12
     },
     {
-        "code": "P3/L2/09 NAC-01",
+        "code": "P3/L2/09 NAC-1",
         "type": "NAC",
         "location": "خارج غرفة محطة الوقود",
         "x_pixel": 148,
