@@ -79,6 +79,199 @@
   "rotation": 0.0,
   "scaleX": 0.05317859,
   "scaleY": 0.05317859
+},
+{
+  "calibrationKey": "p4_packing_building_level_0_at_4_3_m",
+  "calX": 1953.125,
+  "calY": 1676.25,
+  "rotation": 179.0,
+  "scaleX": 0.11140071,
+  "scaleY": 0.14637342
+},
+{
+  "calibrationKey": "p4_packing_building_level_1_at_8_3_m",
+  "calX": 1970.5,
+  "calY": 1735.875,
+  "rotation": 178.75,
+  "scaleX": 0.09806337,
+  "scaleY": 0.09539313
+},
+{
+  "calibrationKey": "p4_packing_building_level_2_at_14_3_m",
+  "calX": 1973.0,
+  "calY": 1708.875,
+  "rotation": -182.0,
+  "scaleX": 0.078678966,
+  "scaleY": 0.0929536
+},
+{
+  "calibrationKey": "p4_packing_building_level_3_at_16_8_m",
+  "calX": 1970.125,
+  "calY": 1705.375,
+  "rotation": 180.125,
+  "scaleX": 0.079480976,
+  "scaleY": 0.090278395
+},
+{
+  "calibrationKey": "p4_packing_building_level_4_at_20_m",
+  "calX": 1965.5,
+  "calY": 1709.5,
+  "rotation": 180.0,
+  "scaleX": 0.07782074,
+  "scaleY": 0.090953656
+},
+{
+  "calibrationKey": "p4_sugar_finished_product_store",
+  "calX": 1620.625,
+  "calY": 1762.125,
+  "rotation": -271.75,
+  "scaleX": 0.07394506,
+  "scaleY": 0.07532845
+},
+{
+  "calibrationKey": "p4_lime_stone_store",
+  "calX": 1252.625,
+  "calY": 623.25,
+  "rotation": -91.0,
+  "scaleX": 0.09519685,
+  "scaleY": 0.09519685
+},
+{
+  "calibrationKey": "p4_mosque",
+  "calX": 1660.0,
+  "calY": 2081.875,
+  "rotation": -19.5,
+  "scaleX": 0.05592397,
+  "scaleY": 0.05592397
+},
+{
+  "calibrationKey": "p4_silo_low_level",
+  "calX": 2128.0,
+  "calY": 1349.5,
+  "rotation": 0.0,
+  "scaleX": 0.16487888,
+  "scaleY": 0.16487888
+},
+{
+  "calibrationKey": "p4_silo_low_level",
+  "calX": 1928.75,
+  "calY": 1346.125,
+  "rotation": -632.625,
+  "scaleX": 0.03300579,
+  "scaleY": 0.03300579
+},
+{
+  "calibrationKey": "p4_on_top_of_silos_convetors",
+  "calX": 2094.0,
+  "calY": 1363.0,
+  "rotation": 89.375,
+  "scaleX": 0.031217752,
+  "scaleY": 0.030388143
+},
+{
+  "calibrationKey": "p4_silos_high_level",
+  "calX": 2128.0,
+  "calY": 1435.25,
+  "rotation": 0.0,
+  "scaleX": 0.12696913,
+  "scaleY": 0.12696913
+},
+{
+  "calibrationKey": "p4_silos_high_level",
+  "calX": 1995.75,
+  "calY": 1402.0,
+  "rotation": 89.875,
+  "scaleX": 0.031439897,
+  "scaleY": 0.031439897
+},
+{
+  "calibrationKey": "p4_convyeor_belt_from_silos",
+  "calX": 1941.875,
+  "calY": 1506.875,
+  "rotation": -100.25,
+  "scaleX": 0.080361016,
+  "scaleY": 0.080361016
+},
+{
+  "calibrationKey": "p5_canteen_building_above_false",
+  "calX": 1607.875,
+  "calY": 1340.75,
+  "rotation": -179.25,
+  "scaleX": 0.04911454,
+  "scaleY": 0.04911454
+},
+{
+  "calibrationKey": "p5_canteen_building_below_false",
+  "calX": 1607.75,
+  "calY": 1339.875,
+  "rotation": -179.625,
+  "scaleX": 0.049460378,
+  "scaleY": 0.049460378
+},
+{
+  "calibrationKey": "p5_clinc_building_above_false",
+  "calX": 1616.25,
+  "calY": 1112.0,
+  "rotation": -180.875,
+  "scaleX": 0.057855472,
+  "scaleY": 0.057855472
+},
+
+{
+  "calibrationKey": "p5_clinc_building_below_false",
+  "calX": 1615.625,
+  "calY": 1099.875,
+  "rotation": -181.125,
+  "scaleX": 0.05874584,
+  "scaleY": 0.05874584
+},
+{
+  "calibrationKey": "p5_workshop_spare_part_store_level_0",
+  "calX": 1577.625,
+  "calY": 757.5,
+  "rotation": -270.125,
+  "scaleX": 0.06473794,
+  "scaleY": 0.06473794
+},
+{
+  "calibrationKey": "p5_workshop_spare_part_store_level_1",
+  "calX": 1570.0,
+  "calY": 758.375,
+  "rotation": -269.5,
+  "scaleX": 0.065067545,
+  "scaleY": 0.065067545
+},
+{
+  "calibrationKey": "p5_auxilary_chemical_store",
+  "calX": 850.25,
+  "calY": 554.875,
+  "rotation": -197.25,
+  "scaleX": 0.03552542,
+  "scaleY": 0.03552542
+},
+{
+  "calibrationKey": "p6_workers_accommodation_a",
+  "calX": 642.625,
+  "calY": 160.25,
+  "rotation": 0.0,
+  "scaleX": 0.04849772,
+  "scaleY": 0.04849772
+},
+{
+  "calibrationKey": "p6_workers_accommodation_b",
+  "calX": 631.125,
+  "calY": 296.125,
+  "rotation": 0.0,
+  "scaleX": 0.050287683,
+  "scaleY": 0.050287683
+},
+{
+  "calibrationKey": "p6_workers_accommodation_c",
+  "calX": 290.0,
+  "calY": 470.75,
+  "rotation": 0.0,
+  "scaleX": 0.05005731,
+  "scaleY": 0.05005731
 }
  
 ]
