@@ -43,10 +43,10 @@
         "code": "P5/L1/FACP",
         "type": "FACP",
         "location": "مخزن قطع الغيار والمهمات داخل المكاتب",
-        "x_pixel": 1564,
-        "y_pixel": 713,
-        "gate_x": 1485,
-        "gate_y": 710,
+        "x_pixel": 1504,
+        "y_pixel": 899,
+        "gate_x": 1503,
+        "gate_y": 865,
         "g_angle": 90
     },
     {
@@ -3674,5 +3674,377 @@
         "gate_x": 1920,
         "gate_y": 2690,
         "g_angle": 180
+    },
+    
+    {
+        "code": "P5/L1/01",
+        "type": "SMOKE DETECTOR",
+        "location": "مخزن قطع الغيار والمهمات",
+        "x_pixel": 1508,
+"y_pixel": 872,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L1/02",
+        "type": "SMOKE DETECTOR",
+        "location": "مخزن قطع الغيار والمهمات",
+        "x_pixel": 1522,
+"y_pixel": 923,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L1/03",
+        "type": "SMOKE DETECTOR",
+        "location": "مخزن قطع الغيار والمهمات",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L1/04",
+        "type": "SMOKE DETECTOR",
+        "location": "مخزن قطع الغيار والمهمات",
+        "x_pixel": 1522,
+"y_pixel": 882,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L1/05",
+        "type": "SOUNDER",
+        "location": "مخزن قطع الغيار والمهمات - البوابة الغربية من الداخل",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L1/06",
+        "type": "FLASHER",
+        "location": "مخزن قطع الغيار والمهمات - البوابة الغربية من الداخل",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L1/07",
+        "type": "MANUAL CALL POINT",
+        "location": "مخزن قطع الغيار والمهمات - البوابة الغربية من الداخل",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L1/08 NAC-01",
+        "type": "NAC",
+        "location": "البوابة الشرقية للورشة الفنية من الخارج",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L1/08 NAC-02",
+        "type": "NAC",
+        "location": "البوابة الغربية للورشة الفنية من الخارج",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L1/08 NAC-03",
+        "type": "NAC",
+        "location": "مخزن قطع الغيار والمهمات - البوابة الشرقية من الخارج",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L1/08 NAC-04",
+        "type": "NAC",
+        "location": "مخزن قطع الغيار والمهمات - الجهة الغربية",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L1/09",
+        "type": "SMOKE DETECTOR",
+        "location": "مخزن قطع الغيار والمهمات",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L1/10",
+        "type": "SMOKE DETECTOR",
+        "location": "مخزن قطع الغيار والمهمات",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L1/11",
+        "type": "SMOKE DETECTOR",
+        "location": "مخزن قطع الغيار والمهمات",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L1/12",
+        "type": "SMOKE DETECTOR",
+        "location": "مخزن قطع الغيار والمهمات",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L1/13",
+        "type": "SOUNDER",
+        "location": "مخزن قطع الغيار والمهمات - البوابة الشرقية من الداخل",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L1/14",
+        "type": "FLASHER",
+        "location": "مخزن قطع الغيار والمهمات - البوابة الشرقية من الداخل",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L1/15",
+        "type": "MANUAL CALL POINT",
+        "location": "مخزن قطع الغيار والمهمات - البوابة الشرقية من الداخل",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L1/16",
+        "type": "SMOKE DETECTOR",
+        "location": "الورشة الفنية",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L1/17",
+        "type": "SMOKE DETECTOR",
+        "location": "الورشة الفنية",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L1/18",
+        "type": "SOUNDER",
+        "location": "البوابة الشرقية للورشة الفنية من الداخل",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L1/19",
+        "type": "FLASHER",
+        "location": "البوابة الشرقية للورشة الفنية من الداخل",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L1/20",
+        "type": "MANUAL CALL POINT",
+        "location": "البوابة الشرقية للورشة الفنية من الداخل",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L1/21",
+        "type": "SMOKE DETECTOR",
+        "location": "الورشة الفنية",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L1/22",
+        "type": "SMOKE DETECTOR",
+        "location": "الورشة الفنية",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L1/23",
+        "type": "SMOKE DETECTOR",
+        "location": "الورشة الفنية",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L1/24",
+        "type": "SOUNDER",
+        "location": "البوابة الغربية للورشة الفنية من الداخل(داخل مخزن الحديد)",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L1/25",
+        "type": "FLASHER",
+        "location": "البوابة الغربية للورشة الفنية من الداخل(داخل مخزن الحديد)",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L1/26",
+        "type": "MANUAL CALL POINT",
+        "location": "البوابة الغربية للورشة الفنية من الداخل",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L1/27",
+        "type": "PRESURE SWITCH",
+        "location": "الخط الرئيسي لمرشات الورشة ومخزن قطع الغيار",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L1/28",
+        "type": "TAMPER SWITCH",
+        "location": "الخط الرئيسي لمرشات الورشة ومخزن قطع الغيار",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L1/29",
+        "type": "FLOW SWITCH",
+        "location": "خط مخزن قطع الغيار والمهمات",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L1/30",
+        "type": "TAMPER SWITCH",
+        "location": "خط مخزن قطع الغيار والمهمات",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L1/31",
+        "type": "FLOW SWITCH",
+        "location": "خط الورشة الفنية",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L1/32",
+        "type": "TAMPER SWITCH",
+        "location": "خط الورشة الفنية",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L1/33",
+        "type": "FLOW SWITCH",
+        "location": "الخط الرئيسي للورشة ومخزن قطع الغيار",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L1/34",
+        "type": "TAMPER SWITCH",
+        "location": "الخط الرئيسي للورشة ومخزن قطع الغيار",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
     }
+
 ]
