@@ -3700,8 +3700,8 @@
         "code": "P5/L1/03",
         "type": "SMOKE DETECTOR",
         "location": "مخزن قطع الغيار والمهمات",
-        "x_pixel": 555555555,
-        "y_pixel": 66666666,
+        "x_pixel": 1522,
+"y_pixel": 935,
         "gate_x": 1503,
         "gate_y": 865,
         "g_angle": 90
