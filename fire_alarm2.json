@@ -4880,16 +4880,208 @@
 
 
 
- {
-        "code": "P5/L2/73",
-        "type": "FLASHER",
-        "location": "مدخل صالة vip",
-        "x_pixel": 1529,
-        "y_pixel": 1362,
-        "gate_x": 1699,
-        "gate_y": 1278,
-        "g_angle": 270
-    },
+ 
+  {
+    "code": "P5/L2/73",
+    "type": "SMOKE DETECTOR",
+    "location": "المطعم - فوق السقف المستعار - صالة vip",
+    "x_pixel": 1549,
+"y_pixel": 1280,
+    "gate_x": 1699,
+    "gate_y": 1278,
+    "g_angle": 270
+  },
+  {
+    "code": "P5/L2/74",
+    "type": "SMOKE DETECTOR",
+    "location": "المطعم - فوق السقف المستعار صالة الطعام الكبيره",
+    "x_pixel": 1592,
+"y_pixel": 1280,
+    "gate_x": 1699,
+    "gate_y": 1278,
+    "g_angle": 270
+  },
+  {
+    "code": "P5/L2/75",
+    "type": "SMOKE DETECTOR",
+    "location": "المطعم - فوق السقف المستعار -صالة الطعام الكبيره",
+    "x_pixel": 1636,
+"y_pixel": 1280,
+    "gate_x": 1699,
+    "gate_y": 1278,
+    "g_angle": 270
+  },
+  {
+    "code": "P5/L2/76",
+    "type": "SMOKE DETECTOR",
+    "location": "المطعم - فوق السقف المستعار -صالة الطعام الكبيره",
+    "x_pixel": 1680,
+"y_pixel": 1280,
+    "gate_x": 1699,
+    "gate_y": 1278,
+    "g_angle": 270
+  },
+  {
+    "code": "P5/L2/77",
+    "type": "SMOKE DETECTOR",
+    "location": "المطعم - فوق السقف المستعار -صالة الطعام الكبيره",
+    "x_pixel": 1680,
+"y_pixel": 1332,
+    "gate_x": 1699,
+    "gate_y": 1278,
+    "g_angle": 270
+  },
+  {
+    "code": "P5/L2/78",
+    "type": "SMOKE DETECTOR",
+    "location": "المطعم - فوق السقف المستعار -صالة الطعام الكبيره",
+    "x_pixel": 1636,
+"y_pixel": 1333,
+    "gate_x": 1699,
+    "gate_y": 1278,
+    "g_angle": 270
+  },
+  {
+    "code": "P5/L2/79",
+    "type": "SMOKE DETECTOR",
+    "location": "المطعم - فوق السقف المستعار - صالة الطعام الكبيره",
+    "x_pixel": 1593,
+"y_pixel": 1333,
+    "gate_x": 1699,
+    "gate_y": 1278,
+    "g_angle": 270
+  },
+  {
+    "code": "P5/L2/80",
+    "type": "SMOKE DETECTOR",
+    "location": "المطعم - فوق السقف المستعار - صالة vip",
+    "x_pixel": 1549,
+"y_pixel": 1333,
+    "gate_x": 1699,
+    "gate_y": 1278,
+    "g_angle": 270
+  },
+  {
+    "code": "P5/L2/81",
+    "type": "SMOKE DETECTOR",
+    "location": "المطعم - فوق السقف المستعار - الصالة",
+   "x_pixel": 1660,
+"y_pixel": 1364,
+    "gate_x": 1699,
+    "gate_y": 1278,
+    "g_angle": 270
+  },
+  {
+    "code": "P5/L2/82",
+    "type": "SMOKE DETECTOR",
+    "location": "المطعم - فوق السقف المستعار - الصالة",
+    "x_pixel": 1687,
+"y_pixel": 1363,
+    "gate_x": 1699,
+    "gate_y": 1278,
+    "g_angle": 270
+  },
+  {
+    "code": "P5/L2/83",
+    "type": "SMOKE DETECTOR",
+    "location": "المطعم - فوق السقف المستعار - الحمامات",
+    "x_pixel": 1688,
+"y_pixel": 1394,
+    "gate_x": 1699,
+    "gate_y": 1278,
+    "g_angle": 270
+  },
+  {
+    "code": "P5/L2/84",
+    "type": "SMOKE DETECTOR",
+    "location": "المطعم - فوق السقف المستعار - إدارة المطعم",
+    "x_pixel": 1660,
+"y_pixel": 1394,
+    "gate_x": 1699,
+    "gate_y": 1278,
+    "g_angle": 270
+  },
+  {
+    "code": "P5/L2/85",
+    "type": "HEAT DETECTOR",
+    "location": "المطعم - فوق السقف المستعار - مغسلة الصحون",
+    "x_pixel": 1631,
+"y_pixel": 1373,
+    "gate_x": 1699,
+    "gate_y": 1278,
+    "g_angle": 270
+  },
+  {
+    "code": "P5/L2/86",
+    "type": "HEAT DETECTOR",
+    "location": "المطعم - فوق السقف المستعار - مغسلة الصحون",
+    "x_pixel": 1631,
+"y_pixel": 1402,
+    "gate_x": 1699,
+    "gate_y": 1278,
+    "g_angle": 270
+  },
+  {
+    "code": "P5/L2/87",
+    "type": "HEAT DETECTOR",
+    "location": "المطعم - فوق السقف المستعار -المطبخ",
+    "x_pixel": 1602,
+"y_pixel": 1402,
+    "gate_x": 1699,
+    "gate_y": 1278,
+    "g_angle": 270
+  },
+  {
+    "code": "P5/L2/88",
+    "type": "HEAT DETECTOR",
+    "location": "المطعم - فوق السقف المستعار -المطبخ",
+   "x_pixel": 1602,
+"y_pixel": 1373,
+    "gate_x": 1699,
+    "gate_y": 1278,
+    "g_angle": 270
+  },
+  {
+    "code": "P5/L2/89",
+    "type": "HEAT DETECTOR",
+    "location": "المطعم - فوق السقف المستعار -المطبخ",
+    "x_pixel": 1573,
+"y_pixel": 1373,
+    "gate_x": 1699,
+    "gate_y": 1278,
+    "g_angle": 270
+  },
+  {
+    "code": "P5/L2/90",
+    "type": "HEAT DETECTOR",
+    "location": "المطعم - فوق السقف المستعار - المطبخ",
+    "x_pixel": 1573,
+"y_pixel": 1402,
+    "gate_x": 1699,
+    "gate_y": 1278,
+    "g_angle": 270
+  },
+  {
+    "code": "P5/L2/91",
+    "type": "HEAT DETECTOR",
+    "location": "المطعم - فوق السقف المستعار - الموفا",
+    "x_pixel": 1574,
+"y_pixel": 1432,
+    "gate_x": 1699,
+    "gate_y": 1278,
+    "g_angle": 270
+  },
+  {
+    "code": "P5/L2/92",
+    "type": "SMOKE DETECTOR",
+    "location": "المطعم - فوق السقف المستعار - المخزن",
+    "x_pixel": 1544,
+"y_pixel": 1394,
+    "gate_x": 1699,
+    "gate_y": 1278,
+    "g_angle": 270
+  },
+
 
 
 
