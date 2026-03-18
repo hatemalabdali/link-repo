@@ -4876,9 +4876,24 @@
         "g_angle": 270
     },
 
-
-
     
+
+
+
+ {
+        "code": "P5/L2/73",
+        "type": "FLASHER",
+        "location": "مدخل صالة vip",
+        "x_pixel": 1529,
+        "y_pixel": 1362,
+        "gate_x": 1699,
+        "gate_y": 1278,
+        "g_angle": 270
+    },
+
+
+
+
     {
         "code": "P5/L3/54",
         "type": "OUTPUT/INPUT MODULE",
