@@ -5287,7 +5287,7 @@
     },
     
   {
-    "code": "P6/L1/01 NAC-01",
+    "code": "P6/L1/01 NAC-1",
     "type": "NAC",
     "location": "مدخل سكن B - العادي",
     "x_pixel": 519,
@@ -5297,7 +5297,7 @@
     "g_angle": 0
   },
   {
-    "code": "P6/L1/01 NAC-02",
+    "code": "P6/L1/01 NAC-2",
     "type": "NAC",
     "location": "سكن - VIP-B - المدخل",
     "x_pixel": 772,
