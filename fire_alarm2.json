@@ -6044,5 +6044,15 @@
         "gate_x": 528,
         "gate_y": 183,
         "g_angle": 0
+    },
+    {
+        "code": "P6/L3/01",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن A - الصالة امام الحمامات",
+        "x_pixel": 528,
+        "y_pixel": 166,
+        "gate_x": 528,
+        "gate_y": 183,
+        "g_angle": 0
     }
 ]
