@@ -4152,7 +4152,7 @@
         "x_pixel": 555555555,
         "y_pixel": 66666666,
        "gate_x": 1639,
-"gate_y": 1059,
+        "gate_y": 1059,
         "g_angle": 180
     },
     {
@@ -4161,9 +4161,9 @@
         "location": "الصيدلية",
         "x_pixel": 555555555,
         "y_pixel": 66666666,
-        "gate_x": 1503,
-        "gate_y": 865,
-        "g_angle": 90
+        "gate_x": 1639,
+        "gate_y": 1059,
+        "g_angle": 180
     },
     {
         "code": "P5/L2/03",
@@ -4171,9 +4171,9 @@
         "location": "غرفة IT",
         "x_pixel": 555555555,
         "y_pixel": 66666666,
-        "gate_x": 1503,
-        "gate_y": 865,
-        "g_angle": 90
+        "gate_x": 1639,
+        "gate_y": 1059,
+        "g_angle": 180
     },
     {
         "code": "P5/L2/04",
@@ -4181,9 +4181,9 @@
         "location": "عيادة الاسنان",
         "x_pixel": 555555555,
         "y_pixel": 66666666,
-        "gate_x": 1503,
-        "gate_y": 865,
-        "g_angle": 90
+        "gate_x": 1639,
+        "gate_y": 1059,
+        "g_angle": 180
     },
     {
         "code": "P5/L2/05",
@@ -4191,9 +4191,9 @@
         "location": "غرفة التعقيم",
         "x_pixel": 555555555,
         "y_pixel": 66666666,
-        "gate_x": 1503,
-        "gate_y": 865,
-        "g_angle": 90
+       "gate_x": 1639,
+        "gate_y": 1059,
+        "g_angle": 180
     },
     {
         "code": "P5/L2/06",
@@ -4201,9 +4201,9 @@
         "location": "طبيب الشركة",
         "x_pixel": 555555555,
         "y_pixel": 66666666,
-        "gate_x": 1503,
-        "gate_y": 865,
-        "g_angle": 90
+        "gate_x": 1639,
+        "gate_y": 1059,
+        "g_angle": 180
     },
     {
         "code": "P5/L2/07",
@@ -4211,9 +4211,9 @@
         "location": "الطوارئ",
         "x_pixel": 555555555,
         "y_pixel": 66666666,
-        "gate_x": 1503,
-        "gate_y": 865,
-        "g_angle": 90
+        "gate_x": 1639,
+        "gate_y": 1059,
+        "g_angle": 180
     },
     {
         "code": "P5/L2/08",
@@ -4221,9 +4221,9 @@
         "location": "غرفة",
         "x_pixel": 555555555,
         "y_pixel": 66666666,
-        "gate_x": 1503,
-        "gate_y": 865,
-        "g_angle": 90
+       "gate_x": 1639,
+        "gate_y": 1059,
+        "g_angle": 180
     },
     {
         "code": "P5/L2/09",
@@ -4231,9 +4231,9 @@
         "location": "غرفة",
         "x_pixel": 555555555,
         "y_pixel": 66666666,
-        "gate_x": 1503,
-        "gate_y": 865,
-        "g_angle": 90
+        "gate_x": 1639,
+        "gate_y": 1059,
+        "g_angle": 180
     },
     {
         "code": "P5/L2/10",
@@ -4241,9 +4241,9 @@
         "location": "غرفة",
         "x_pixel": 555555555,
         "y_pixel": 66666666,
-        "gate_x": 1503,
-        "gate_y": 865,
-        "g_angle": 90
+        "gate_x": 1639,
+        "gate_y": 1059,
+        "g_angle": 180
     },
     {
         "code": "P5/L2/11",
@@ -4251,9 +4251,9 @@
         "location": "غرفة",
         "x_pixel": 555555555,
         "y_pixel": 66666666,
-        "gate_x": 1503,
-        "gate_y": 865,
-        "g_angle": 90
+        "gate_x": 1639,
+        "gate_y": 1059,
+        "g_angle": 180
     },
     {
         "code": "P5/L2/12",
@@ -4261,9 +4261,9 @@
         "location": "حساس الضغط لخط مرشات العيادة",
         "x_pixel": 555555555,
         "y_pixel": 66666666,
-        "gate_x": 1503,
-        "gate_y": 865,
-        "g_angle": 90
+       "gate_x": 1639,
+        "gate_y": 1059,
+        "g_angle": 180
     },
     {
         "code": "P5/L2/13",
@@ -4271,9 +4271,9 @@
         "location": "حساس محبس رقم ..... لخط مرشات العيادة",
         "x_pixel": 555555555,
         "y_pixel": 66666666,
-        "gate_x": 1503,
-        "gate_y": 865,
-        "g_angle": 90
+        "gate_x": 1639,
+        "gate_y": 1059,
+        "g_angle": 180
     },
     {
         "code": "P5/L2/14",
@@ -4281,9 +4281,9 @@
         "location": "حساس التدفق لخط كبائن الإطفاء في العيادة",
         "x_pixel": 555555555,
         "y_pixel": 66666666,
-        "gate_x": 1503,
-        "gate_y": 865,
-        "g_angle": 90
+        "gate_x": 1639,
+        "gate_y": 1059,
+        "g_angle": 180
     },
     {
         "code": "P5/L2/15",
@@ -4291,9 +4291,9 @@
         "location": "حساس محبس خط كبائن الإطفاء في العيادة",
         "x_pixel": 555555555,
         "y_pixel": 66666666,
-        "gate_x": 1503,
-        "gate_y": 865,
-        "g_angle": 90
+        "gate_x": 1639,
+        "gate_y": 1059,
+        "g_angle": 180
     },
     {
         "code": "P5/L2/16",
@@ -4301,9 +4301,9 @@
         "location": "غرفة",
         "x_pixel": 555555555,
         "y_pixel": 66666666,
-        "gate_x": 1503,
-        "gate_y": 865,
-        "g_angle": 90
+       "gate_x": 1639,
+        "gate_y": 1059,
+        "g_angle": 180
     },
     {
         "code": "P5/L2/17",
@@ -4311,9 +4311,9 @@
         "location": "غرفة",
         "x_pixel": 555555555,
         "y_pixel": 66666666,
-        "gate_x": 1503,
-        "gate_y": 865,
-        "g_angle": 90
+        "gate_x": 1639,
+        "gate_y": 1059,
+        "g_angle": 180
     },
     {
         "code": "P5/L2/18",
@@ -4321,9 +4321,9 @@
         "location": "غرفة",
         "x_pixel": 555555555,
         "y_pixel": 66666666,
-        "gate_x": 1503,
-        "gate_y": 865,
-        "g_angle": 90
+        "gate_x": 1639,
+        "gate_y": 1059,
+        "g_angle": 180
     },
     {
         "code": "P5/L2/19",
@@ -4331,9 +4331,9 @@
         "location": "غرفة",
         "x_pixel": 555555555,
         "y_pixel": 66666666,
-        "gate_x": 1503,
-        "gate_y": 865,
-        "g_angle": 90
+        "gate_x": 1639,
+        "gate_y": 1059,
+        "g_angle": 180
     },
     {
         "code": "P5/L2/20",
@@ -4341,9 +4341,9 @@
         "location": "المختبر",
         "x_pixel": 555555555,
         "y_pixel": 66666666,
-        "gate_x": 1503,
-        "gate_y": 865,
-        "g_angle": 90
+        "gate_x": 1639,
+        "gate_y": 1059,
+        "g_angle": 180
     },
     {
         "code": "P5/L2/21",
@@ -4351,9 +4351,9 @@
         "location": "مدخل العيادة",
         "x_pixel": 555555555,
         "y_pixel": 66666666,
-        "gate_x": 1503,
-        "gate_y": 865,
-        "g_angle": 90
+       "gate_x": 1639,
+        "gate_y": 1059,
+        "g_angle": 180
     },
     {
         "code": "P5/L2/22",
@@ -4361,9 +4361,9 @@
         "location": "العيادة الممر بين الغرف",
         "x_pixel": 555555555,
         "y_pixel": 66666666,
-        "gate_x": 1503,
-        "gate_y": 865,
-        "g_angle": 90
+       "gate_x": 1639,
+        "gate_y": 1059,
+        "g_angle": 180
     },
     {
         "code": "P5/L2/23",
@@ -4371,9 +4371,9 @@
         "location": "العيادة الممر بين الغرف",
         "x_pixel": 555555555,
         "y_pixel": 66666666,
-        "gate_x": 1503,
-        "gate_y": 865,
-        "g_angle": 90
+        "gate_x": 1639,
+        "gate_y": 1059,
+        "g_angle": 180
     },
     {
         "code": "P5/L2/24",
@@ -4381,9 +4381,9 @@
         "location": "العيادة الممر بين الغرف",
         "x_pixel": 555555555,
         "y_pixel": 66666666,
-        "gate_x": 1503,
-        "gate_y": 865,
-        "g_angle": 90
+        "gate_x": 1639,
+        "gate_y": 1059,
+        "g_angle": 180
     },
     {
         "code": "P5/L2/25",
@@ -4391,9 +4391,9 @@
         "location": "مدخل العيادة",
         "x_pixel": 555555555,
         "y_pixel": 66666666,
-        "gate_x": 1503,
-        "gate_y": 865,
-        "g_angle": 90
+       "gate_x": 1639,
+        "gate_y": 1059,
+        "g_angle": 180
     },
     {
         "code": "P5/L2/26",
@@ -4401,9 +4401,9 @@
         "location": "مدخل العيادة",
         "x_pixel": 555555555,
         "y_pixel": 66666666,
-        "gate_x": 1503,
-        "gate_y": 865,
-        "g_angle": 90
+       "gate_x": 1639,
+        "gate_y": 1059,
+        "g_angle": 180
     },
     {
         "code": "P5/L2/27",
@@ -4411,9 +4411,9 @@
         "location": "مدخل العيادة",
         "x_pixel": 555555555,
         "y_pixel": 66666666,
-        "gate_x": 1503,
-        "gate_y": 865,
-        "g_angle": 90
+        "gate_x": 1639,
+        "gate_y": 1059,
+        "g_angle": 180
     },
 
 
