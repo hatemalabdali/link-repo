@@ -4415,6 +4415,94 @@
         "gate_y": 1059,
         "g_angle": 180
     },
+
+
+
+
+
+
+
+    {
+        "code": "P5/L2/28",
+        "type": "SMOKE DETECTOR",
+        "location": "العيادة فوق السق المستعار ",
+        "x_pixel": 1656,
+        "y_pixel": 1107,
+        "gate_x": 1639,
+        "gate_y": 1059,
+        "g_angle": 180
+    },
+    {
+        "code": "P5/L2/29",
+        "type": "SMOKE DETECTOR",
+        "location": "العيادة فوق السق المستعار ",
+        "x_pixel": 1656,
+        "y_pixel": 1107,
+        "gate_x": 1639,
+        "gate_y": 1059,
+        "g_angle": 180
+    },
+    {
+        "code": "P5/L2/30",
+        "type": "SMOKE DETECTOR",
+        "location": "العيادة فوق السق المستعار ",
+        "x_pixel": 1656,
+        "y_pixel": 1107,
+        "gate_x": 1639,
+        "gate_y": 1059,
+        "g_angle": 180
+    },
+    {
+        "code": "P5/L2/31",
+        "type": "SMOKE DETECTOR",
+        "location": "العيادة فوق السق المستعار ",
+        "x_pixel": 1656,
+        "y_pixel": 1107,
+        "gate_x": 1639,
+        "gate_y": 1059,
+        "g_angle": 180
+    },
+    {
+        "code": "P5/L2/32",
+        "type": "SMOKE DETECTOR",
+        "location": "العيادة فوق السق المستعار ",
+        "x_pixel": 1656,
+        "y_pixel": 1107,
+        "gate_x": 1639,
+        "gate_y": 1059,
+        "g_angle": 180
+    },
+    {
+        "code": "P5/L2/33",
+        "type": "SMOKE DETECTOR",
+        "location": "العيادة فوق السق المستعار ",
+        "x_pixel": 1656,
+        "y_pixel": 1107,
+        "gate_x": 1639,
+        "gate_y": 1059,
+        "g_angle": 180
+    },
+    {
+        "code": "P5/L2/34",
+        "type": "SMOKE DETECTOR",
+        "location": "العيادة فوق السق المستعار ",
+        "x_pixel": 1656,
+        "y_pixel": 1107,
+        "gate_x": 1639,
+        "gate_y": 1059,
+        "g_angle": 180
+    },
+
+
+
+
+
+
+
+
+
+
+
     {
         "code": "P5/L3/54",
         "type": "OUTPUT/INPUT MODULE",
