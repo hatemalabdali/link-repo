@@ -3781,7 +3781,7 @@
         "location": "البوابة الشرقية للورشة الفنية من الخارج",
         "x_pixel": 1692,
         "y_pixel": 677,
-       "gate_x": 1687,
+        "gate_x": 1687,
         "gate_y": 693,
         "g_angle": 270
     },
@@ -3871,7 +3871,7 @@
         "location": "الورشة الفنية",
         "x_pixel": 1641,
         "y_pixel": 739,
-       "gate_x": 1687,
+        "gate_x": 1687,
         "gate_y": 693,
         "g_angle": 270
     },
@@ -3901,7 +3901,7 @@
         "location": "البوابة الشرقية للورشة الفنية من الداخل",
         "x_pixel": 1685,
         "y_pixel": 678,
-       "gate_x": 1687,
+        "gate_x": 1687,
         "gate_y": 693,
         "g_angle": 270
     },
@@ -3921,7 +3921,7 @@
         "location": "الورشة الفنية",
         "x_pixel": 1555,
         "y_pixel": 587,
-       "gate_x": 1687,
+        "gate_x": 1687,
         "gate_y": 693,
         "g_angle": 270
     },
@@ -4011,7 +4011,7 @@
         "location": "خط الورشة الفنية",
         "x_pixel": 1503,
         "y_pixel": 750,
-       "gate_x": 1687,
+        "gate_x": 1687,
         "gate_y": 693,
         "g_angle": 270
     },
@@ -4050,8 +4050,8 @@
         "type": "ALARM INFRARED BEAM DETECTOR",
         "location": "الورشة الفنية - الجهة الجنوبية",
         "x_pixel": 1521,
-"y_pixel": 760,
-         "gate_x": 1687,
+        "y_pixel": 760,
+        "gate_x": 1687,
         "gate_y": 693,
         "g_angle": 270
     },
@@ -4060,7 +4060,7 @@
         "type": "ALARM INFRARED BEAM DETECTOR",
         "location": "الورشة الفنية - الجهة الجنوبية",
         "x_pixel": 1568,
-"y_pixel": 759,
+        "y_pixel": 759,
         "gate_x": 1687,
         "gate_y": 693,
         "g_angle": 270
@@ -4070,7 +4070,7 @@
         "type": "ALARM INFRARED BEAM DETECTOR",
         "location": "الورشة الفنية - الجهة الجنوبية",
         "x_pixel": 1615,
-"y_pixel": 759,
+        "y_pixel": 759,
         "gate_x": 1687,
         "gate_y": 693,
         "g_angle": 270
@@ -4080,7 +4080,7 @@
         "type": "ALARM INFRARED BEAM DETECTOR",
         "location": "الورشة الفنية - الجهة الجنوبية",
         "x_pixel": 1662,
-"y_pixel": 759,
+        "y_pixel": 759,
         "gate_x": 1687,
         "gate_y": 693,
         "g_angle": 270
@@ -4100,7 +4100,7 @@
         "type": "ALARM INFRARED BEAM DETECTOR",
         "location": "مخزن قطع الغيار والمهمات - الجهة الشمالية",
         "x_pixel": 1662,
-"y_pixel": 767,
+        "y_pixel": 767,
         "gate_x": 1503,
         "gate_y": 865,
         "g_angle": 90
@@ -4109,8 +4109,8 @@
         "code": "P5/L1/40",
         "type": "ALARM INFRARED BEAM DETECTOR",
         "location": "مخزن قطع الغيار والمهمات - الجهة الشمالية",
-       "x_pixel": 1615,
-"y_pixel": 767,
+        "x_pixel": 1615,
+        "y_pixel": 767,
         "gate_x": 1503,
         "gate_y": 865,
         "g_angle": 90
@@ -4120,7 +4120,7 @@
         "type": "ALARM INFRARED BEAM DETECTOR",
         "location": "مخزن قطع الغيار والمهمات - الجهة الشمالية",
         "x_pixel": 1568,
-"y_pixel": 768,
+        "y_pixel": 768,
         "gate_x": 1503,
         "gate_y": 865,
         "g_angle": 90
@@ -4129,10 +4129,141 @@
         "code": "P5/L1/42",
         "type": "ALARM INFRARED BEAM DETECTOR",
         "location": "مخزن قطع الغيار والمهمات - الجهة الشمالية",
-       "x_pixel": 1521,
-"y_pixel": 768,
+        "x_pixel": 1521,
+        "y_pixel": 768,
         "gate_x": 1503,
         "gate_y": 865,
         "g_angle": 90
+    },
+
+
+
+
+
+
+
+
+
+
+    
+    {
+        "code": "P5/L3/54",
+        "type": "SMOKE DETECTOR",
+        "location": "مخزن الكيماويات",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 934,
+        "gate_y": 494,
+        "g_angle": 270
+    },
+    {
+        "code": "P5/L3/61",
+        "type": "SMOKE DETECTOR",
+        "location": "مخزن الكيماويات",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 270
+    },
+    {
+        "code": "P5/L3/65/D1",
+        "type": "SMOKE DETECTOR",
+        "location": "مخزن الكيماويات",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 270
+    },
+    {
+        "code": "P5/L3/65/D2",
+        "type": "SMOKE DETECTOR",
+        "location": "مخزن الكيماويات",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 270
+    },
+    {
+        "code": "P5/L3/65/D3",
+        "type": "SMOKE DETECTOR",
+        "location": "مخزن الكيماويات",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 270
+    },
+    {
+        "code": "P5/L3/65/D4",
+        "type": "SMOKE DETECTOR",
+        "location": "مخزن الكيماويات",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 270
+    },
+    {
+        "code": "P5/L3/66/D1",
+        "type": "SMOKE DETECTOR",
+        "location": "مخزن الكيماويات",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 270
+    },
+    {
+        "code": "P5/L3/66/D2",
+        "type": "SMOKE DETECTOR",
+        "location": "مخزن الكيماويات",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 270
+    },
+    {
+        "code": "P5/L3/66/D3",
+        "type": "SMOKE DETECTOR",
+        "location": "مخزن الكيماويات",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 270
+    },
+    {
+        "code": "P5/L3/66/D4",
+        "type": "SMOKE DETECTOR",
+        "location": "مخزن الكيماويات",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 270
+    },
+    {
+        "code": "P5/L3/67/D1",
+        "type": "SMOKE DETECTOR",
+        "location": "مخزن الكيماويات",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 270
+    },
+    {
+        "code": "P5/L3/68/NAC-01",
+        "type": "NAC",
+        "location": "مخزن الكيماويات",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 270
     }
 ]
