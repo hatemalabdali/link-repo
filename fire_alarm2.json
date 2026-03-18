@@ -6425,8 +6425,43 @@
         "gate_y": 493,
         "g_angle": 0
     },
+
+
+
+
+
+
+
+
+    
      {
         "code": "P7/L1/01",
+        "type": "MANUAL CALL POINT",
+        "location": "سكن - VIP-C - المدخل",
+        "x_pixel": 404,
+        "y_pixel": 462,
+        "gate_x": 174,
+        "gate_y": 493,
+        "g_angle": 0
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     {
+        "code": "P7/L2/15",
         "type": "MANUAL CALL POINT",
         "location": "سكن - VIP-C - المدخل",
         "x_pixel": 404,
