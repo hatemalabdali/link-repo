@@ -4135,6 +4135,301 @@
         "gate_y": 865,
         "g_angle": 90
     },
+
+
+
+
+
+
+
+
+
+    
+    {
+        "code": "P5/L2/01 NAC-1",
+        "type": "NAC",
+        "location": "خارج العيادة",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L2/02",
+        "type": "SMOKE DETECTOR",
+        "location": "الصيدلية",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L2/03",
+        "type": "SMOKE DETECTOR",
+        "location": "غرفة IT",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L2/04",
+        "type": "SMOKE DETECTOR",
+        "location": "عيادة الاسنان",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L2/05",
+        "type": "SMOKE DETECTOR",
+        "location": "غرفة التعقيم",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L2/06",
+        "type": "SMOKE DETECTOR",
+        "location": "طبيب الشركة",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L2/07",
+        "type": "SMOKE DETECTOR",
+        "location": "الطوارئ",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L2/08",
+        "type": "SMOKE DETECTOR",
+        "location": "غرفة",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L2/09",
+        "type": "SMOKE DETECTOR",
+        "location": "غرفة",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L2/10",
+        "type": "SMOKE DETECTOR",
+        "location": "غرفة",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L2/11",
+        "type": "SMOKE DETECTOR",
+        "location": "غرفة",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L2/12",
+        "type": "PRESURE SWITCH",
+        "location": "حساس الضغط لخط مرشات العيادة",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L2/13",
+        "type": "TAMPER SWITCH",
+        "location": "حساس محبس رقم ..... لخط مرشات العيادة",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L2/14",
+        "type": "FLOW SWITCH",
+        "location": "حساس التدفق لخط كبائن الإطفاء في العيادة",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L2/15",
+        "type": "TAMPER SWITCH",
+        "location": "حساس محبس خط كبائن الإطفاء في العيادة",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L2/16",
+        "type": "SMOKE DETECTOR",
+        "location": "غرفة",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L2/17",
+        "type": "SMOKE DETECTOR",
+        "location": "غرفة",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L2/18",
+        "type": "SMOKE DETECTOR",
+        "location": "غرفة",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L2/19",
+        "type": "SMOKE DETECTOR",
+        "location": "غرفة",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L2/20",
+        "type": "SMOKE DETECTOR",
+        "location": "المختبر",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L2/21",
+        "type": "SMOKE DETECTOR",
+        "location": "مدخل العيادة",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L2/22",
+        "type": "SMOKE DETECTOR",
+        "location": "العيادة الممر بين الغرف",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L2/23",
+        "type": "SMOKE DETECTOR",
+        "location": "العيادة الممر بين الغرف",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L2/24",
+        "type": "SMOKE DETECTOR",
+        "location": "العيادة الممر بين الغرف",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L2/25",
+        "type": "MANUAL CALL POINT",
+        "location": "مدخل العيادة",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L2/26",
+        "type": "FLASHER",
+        "location": "مدخل العيادة",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L2/27",
+        "type": "SOUNDER",
+        "location": "مدخل العيادة",
+        "x_pixel": 555555555,
+        "y_pixel": 66666666,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     {
         "code": "P5/L3/54",
         "type": "OUTPUT/INPUT MODULE",
