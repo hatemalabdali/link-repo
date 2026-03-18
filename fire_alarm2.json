@@ -4415,19 +4415,12 @@
         "gate_y": 1059,
         "g_angle": 180
     },
-
-
-
-
-
-
-
     {
         "code": "P5/L2/28",
         "type": "SMOKE DETECTOR",
         "location": "العيادة فوق السق المستعار ",
-        "x_pixel": 1656,
-        "y_pixel": 1107,
+        "x_pixel": 1640,
+        "y_pixel": 1098,
         "gate_x": 1639,
         "gate_y": 1059,
         "g_angle": 180
@@ -4436,8 +4429,8 @@
         "code": "P5/L2/29",
         "type": "SMOKE DETECTOR",
         "location": "العيادة فوق السق المستعار ",
-        "x_pixel": 1656,
-        "y_pixel": 1107,
+        "x_pixel": 1592,
+        "y_pixel": 1098,
         "gate_x": 1639,
         "gate_y": 1059,
         "g_angle": 180
@@ -4446,8 +4439,8 @@
         "code": "P5/L2/30",
         "type": "SMOKE DETECTOR",
         "location": "العيادة فوق السق المستعار ",
-        "x_pixel": 1656,
-        "y_pixel": 1107,
+        "x_pixel": 1544,
+        "y_pixel": 1099,
         "gate_x": 1639,
         "gate_y": 1059,
         "g_angle": 180
@@ -4456,8 +4449,8 @@
         "code": "P5/L2/31",
         "type": "SMOKE DETECTOR",
         "location": "العيادة فوق السق المستعار ",
-        "x_pixel": 1656,
-        "y_pixel": 1107,
+        "x_pixel": 1544,
+        "y_pixel": 1135,
         "gate_x": 1639,
         "gate_y": 1059,
         "g_angle": 180
@@ -4466,8 +4459,8 @@
         "code": "P5/L2/32",
         "type": "SMOKE DETECTOR",
         "location": "العيادة فوق السق المستعار ",
-        "x_pixel": 1656,
-        "y_pixel": 1107,
+        "x_pixel": 1592,
+        "y_pixel": 1134,
         "gate_x": 1639,
         "gate_y": 1059,
         "g_angle": 180
@@ -4476,8 +4469,8 @@
         "code": "P5/L2/33",
         "type": "SMOKE DETECTOR",
         "location": "العيادة فوق السق المستعار ",
-        "x_pixel": 1656,
-        "y_pixel": 1107,
+        "x_pixel": 1640,
+        "y_pixel": 1134,
         "gate_x": 1639,
         "gate_y": 1059,
         "g_angle": 180
@@ -4486,23 +4479,12 @@
         "code": "P5/L2/34",
         "type": "SMOKE DETECTOR",
         "location": "العيادة فوق السق المستعار ",
-        "x_pixel": 1656,
-        "y_pixel": 1107,
+        "x_pixel": 1688,
+        "y_pixel": 1133,
         "gate_x": 1639,
         "gate_y": 1059,
         "g_angle": 180
     },
-
-
-
-
-
-
-
-
-
-
-
     {
         "code": "P5/L3/54",
         "type": "OUTPUT/INPUT MODULE",
