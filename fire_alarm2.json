@@ -4486,6 +4486,34 @@
         "g_angle": 180
     },
     {
+        "code": "P5/L2/35",
+        "type": "SMOKE DETECTOR",
+        "location": "العيادة فوق السق المستعار ",
+        "x_pixel": 1688,
+        "y_pixel": 1097,
+        "gate_x": 1639,
+        "gate_y": 1059,
+        "g_angle": 180
+    },
+
+
+
+
+
+    {
+        "code": "P5/L2/36",
+        "type": "SMOKE DETECTOR",
+        "location": "العيادة فوق السق المستعار ",
+        "x_pixel": 1688,
+        "y_pixel": 1097,
+        "gate_x": 1639,
+        "gate_y": 1059,
+        "g_angle": 90
+    },
+
+
+
+    {
         "code": "P5/L3/54",
         "type": "OUTPUT/INPUT MODULE",
         "location": "مخزن الكيماويات",
