@@ -4145,16 +4145,16 @@
 
 
 
-    
+
     {
         "code": "P5/L3/54",
         "type": "SMOKE DETECTOR",
         "location": "مخزن الكيماويات",
         "x_pixel": 555555555,
         "y_pixel": 66666666,
-        "gate_x": 934,
-        "gate_y": 494,
-        "g_angle": 270
+        "gate_x": 936,
+"gate_y": 492,
+        "g_angle": 330
     },
     {
         "code": "P5/L3/61",
