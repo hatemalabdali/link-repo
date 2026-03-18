@@ -272,6 +272,23 @@
   "rotation": 0.0,
   "scaleX": 0.05005731,
   "scaleY": 0.05005731
+},
+{
+  "calibrationKey": "p7_raw_sugar_store",
+  "calX": 2128.0,
+  "calY": 2256.0,
+  "rotation": 0.0,
+  "scaleX": 1.0,
+  "scaleY": 1.0
+},
+
+{
+  "calibrationKey": "p7_raw_sugar_store1",
+  "calX": 2879.0,
+  "calY": 1280.5,
+  "rotation": 0.0,
+  "scaleX": 0.13502994,
+  "scaleY": 0.13502994
 }
  
 ]
