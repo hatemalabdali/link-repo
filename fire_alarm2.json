@@ -54,7 +54,7 @@
         "type": "FACP",
         "location": "سكن B الصالة بجانب الحمامات",
         "x_pixel": 506,
-"y_pixel": 309,
+        "y_pixel": 309,
         "gate_x": 512,
         "gate_y": 319,
         "g_angle": 0
@@ -5285,396 +5285,764 @@
         "gate_y": 492,
         "g_angle": 236
     },
-    
-  {
-    "code": "P6/L1/01 NAC-1",
-    "type": "NAC",
-    "location": "مدخل سكن B - العادي",
-    "x_pixel": 519,
-"y_pixel": 322,
-    "gate_x": 512,
-    "gate_y": 319,
-    "g_angle": 0
-  },
-  {
-    "code": "P6/L1/01 NAC-2",
-    "type": "NAC",
-    "location": "سكن - VIP-B - المدخل",
-    "x_pixel": 772,
-"y_pixel": 298,
-    "gate_x": 512,
-    "gate_y": 319,
-    "g_angle": 0
-  },
-  {
-    "code": "P6/L1/02",
-    "type": "SOUNDER",
-    "location": "مدخل سكن B - العادي",
-   "x_pixel": 506,
-"y_pixel": 289,
-    "gate_x": 512,
-    "gate_y": 319,
-    "g_angle": 0
-  },
-  {
-    "code": "P6/L1/03",
-    "type": "FLASHER",
-    "location": "مدخل سكن B - العادي",
-    "x_pixel": 506,
-"y_pixel": 285,
-    "gate_x": 512,
-    "gate_y": 319,
-    "g_angle": 0
-  },
-  {
-    "code": "P6/L1/04",
-    "type": "SMOKE DETECTOR",
-    "location": "سكن B - غرفة رقم 20",
-    "x_pixel": 532,
-"y_pixel": 270,
-    "gate_x": 512,
-    "gate_y": 319,
-    "g_angle": 0
-  },
-  {
-    "code": "P6/L1/05",
-    "type": "SMOKE DETECTOR",
-    "location": "سكن B - غرفة رقم 19",
-   "x_pixel": 552,
-"y_pixel": 270,
-    "gate_x": 512,
-    "gate_y": 319,
-    "g_angle": 0
-  },
-  {
-    "code": "P6/L1/06",
-    "type": "SMOKE DETECTOR",
-    "location": "سكن B - غرفة رقم 18",
-    "x_pixel": 571,
-"y_pixel": 270,
-    "gate_x": 512,
-    "gate_y": 319,
-    "g_angle": 0
-  },
-  {
-    "code": "P6/L1/07",
-    "type": "SMOKE DETECTOR",
-    "location": "سكن B - غرفة رقم 17",
-   "x_pixel": 590,
-"y_pixel": 270,
-    "gate_x": 512,
-    "gate_y": 319,
-    "g_angle": 0
-  },
-  {
-    "code": "P6/L1/08",
-    "type": "SMOKE DETECTOR",
-    "location": "سكن B - غرفة رقم 16",
-   "x_pixel": 610,
-"y_pixel": 270,
-    "gate_x": 512,
-    "gate_y": 319,
-    "g_angle": 0
-  },
-  {
-    "code": "P6/L1/09",
-    "type": "SMOKE DETECTOR",
-    "location": "سكن B - غرفة رقم 15",
-    "x_pixel": 629,
-"y_pixel": 270,
-    "gate_x": 512,
-    "gate_y": 319,
-    "g_angle": 0
-  },
-  {
-    "code": "P6/L1/10",
-    "type": "SMOKE DETECTOR",
-    "location": "سكن B - غرفة رقم 14",
-    "x_pixel": 649,
-"y_pixel": 270,
-    "gate_x": 512,
-    "gate_y": 319,
-    "g_angle": 0
-  },
-  {
-    "code": "P6/L1/11",
-    "type": "SMOKE DETECTOR",
-    "location": "سكن B- الاستراحة",
-   "x_pixel": 682,
-"y_pixel": 270,
-    "gate_x": 512,
-    "gate_y": 319,
-    "g_angle": 0
-  },
-  {
-    "code": "P6/L1/12",
-    "type": "SMOKE DETECTOR",
-    "location": "سكن - VIP-B - غرفة رقم 13",
-    "x_pixel": 715,
-"y_pixel": 270,
-    "gate_x": 512,
-    "gate_y": 319,
-    "g_angle": 0
-  },
-  {
-    "code": "P6/L1/13",
-    "type": "SMOKE DETECTOR",
-    "location": "سكن - VIP-B - غرفة رقم 12",
-    "x_pixel": 750,
-"y_pixel": 270,
-    "gate_x": 512,
-    "gate_y": 319,
-    "g_angle": 0
-  },
-  {
-    "code": "P6/L1/14",
-    "type": "SOUNDER",
-    "location": "سكن - VIP-B - المدخل",
-    "x_pixel": 751,
-"y_pixel": 290,
-    "gate_x": 512,
-    "gate_y": 319,
-    "g_angle": 0
-  },
-  {
-    "code": "P6/L1/15",
-    "type": "FLASHER",
-    "location": "سكن - VIP-B - المدخل",
-    "x_pixel": 755,
-"y_pixel": 290,
-    "gate_x": 512,
-    "gate_y": 319,
-    "g_angle": 0
-  },
-  {
-    "code": "P6/L1/16",
-    "type": "MANUAL CALL POINT",
-    "location": "سكن - VIP-B - المدخل",
-    "x_pixel": 753,
-"y_pixel": 285,
-    "gate_x": 512,
-    "gate_y": 319,
-    "g_angle": 0
-  },
-  {
-    "code": "P6/L1/17",
-    "type": "FLOW SWITCH",
-    "location": "حساس التدفق لخط كبائن الإطفاء في السكن B",
-   "x_pixel": 773,
-"y_pixel": 284,
-    "gate_x": 512,
-    "gate_y": 319,
-    "g_angle": 0
-  },
-  {
-    "code": "P6/L1/18",
-    "type": "TAMPER SWITCH",
-    "location": "حساس محبس لخط كبائن الإطفاء في السكن B",
-    "x_pixel": 773,
-"y_pixel": 290,
-    "gate_x": 512,
-    "gate_y": 319,
-    "g_angle": 0
-  },
-  {
-    "code": "P6/L1/19",
-    "type": "SMOKE DETECTOR",
-    "location": "سكن - VIP-B - غرفة رقم 11",
-    "x_pixel": 748,
-"y_pixel": 307,
-    "gate_x": 512,
-    "gate_y": 319,
-    "g_angle": 0
-  },
-  {
-    "code": "P6/L1/20",
-    "type": "SMOKE DETECTOR",
-    "location": "سكن - VIP-B - الصالة - بجانب الغرفة رقم 11",
-    "x_pixel": 738,
-"y_pixel": 289,
-    "gate_x": 512,
-    "gate_y": 319,
-    "g_angle": 0
-  },
-  {
-    "code": "P6/L1/21",
-    "type": "SMOKE DETECTOR",
-    "location": "سكن - VIP-B - الصالة - بجانب الغرفة رقم 10",
-    "x_pixel": 718,
-"y_pixel": 288,
-    "gate_x": 512,
-    "gate_y": 319,
-    "g_angle": 0
-  },
-  {
-    "code": "P6/L1/22",
-    "type": "SMOKE DETECTOR",
-    "location": "سكن B- الصالة أمام الاستراحة",
-    "x_pixel": 675,
-"y_pixel": 288,
-    "gate_x": 512,
-    "gate_y": 319,
-    "g_angle": 0
-  },
-  {
-    "code": "P6/L1/23",
-    "type": "SMOKE DETECTOR",
-    "location": "سكن B - الصالة بجانب الغرفة رقم 15",
-    "x_pixel": 631,
-"y_pixel": 288,
-    "gate_x": 512,
-    "gate_y": 319,
-    "g_angle": 0
-  },
-  {
-    "code": "P6/L1/24",
-    "type": "SMOKE DETECTOR",
-    "location": "سكن B - الصالة بجانب الغرفة رقم 17",
-    "x_pixel": 588,
-"y_pixel": 288,
-    "gate_x": 512,
-    "gate_y": 319,
-    "g_angle": 0
-  },
-  {
-    "code": "P6/L1/25",
-    "type": "SMOKE DETECTOR",
-    "location": "سكن B - الصالة بجانب الغرفة رقم 19",
-    "x_pixel": 544,
-"y_pixel": 288,
-    "gate_x": 512,
-    "gate_y": 319,
-    "g_angle": 0
-  },
-  {
-    "code": "P6/L1/26",
-    "type": "SMOKE DETECTOR",
-    "location": "سكن B - الصالة امام الحمامات",
-    "x_pixel": 512,
-"y_pixel": 301,
-    "gate_x": 512,
-    "gate_y": 319,
-    "g_angle": 0
-  },
-  {
-    "code": "P6/L1/27",
-    "type": "SMOKE DETECTOR",
-    "location": "سكن B - غرفة رقم 1",
-    "x_pixel": 532,
-"y_pixel": 307,
-    "gate_x": 512,
-    "gate_y": 319,
-    "g_angle": 0
-  },
-  {
-    "code": "P6/L1/28",
-    "type": "SMOKE DETECTOR",
-    "location": "سكن B - غرفة رقم 2",
-   "x_pixel": 552,
-"y_pixel": 307,
-    "gate_x": 512,
-    "gate_y": 319,
-    "g_angle": 0
-  },
-  {
-    "code": "P6/L1/29",
-    "type": "SMOKE DETECTOR",
-    "location": "سكن B - غرفة رقم 3",
-    "x_pixel": 571,
-"y_pixel": 307,
-    "gate_x": 512,
-    "gate_y": 319,
-    "g_angle": 0
-  },
-  {
-    "code": "P6/L1/30",
-    "type": "SMOKE DETECTOR",
-    "location": "سكن B - غرفة رقم 4",
-    "x_pixel": 590,
-"y_pixel": 307,
-    "gate_x": 512,
-    "gate_y": 319,
-    "g_angle": 0
-  },
-  {
-    "code": "P6/L1/31",
-    "type": "SMOKE DETECTOR",
-    "location": "سكن B - غرفة رقم 5",
-    "x_pixel": 610,
-"y_pixel": 307,
-    "gate_x": 512,
-    "gate_y": 319,
-    "g_angle": 0
-  },
-  {
-    "code": "P6/L1/32",
-    "type": "SMOKE DETECTOR",
-    "location": "سكن B - غرفة رقم 6",
-    "x_pixel": 629,
-"y_pixel": 307,
-    "gate_x": 512,
-    "gate_y": 319,
-    "g_angle": 0
-  },
-  {
-    "code": "P6/L1/33",
-    "type": "SMOKE DETECTOR",
-    "location": "سكن B - غرفة رقم 7",
-    "x_pixel": 649,
-"y_pixel": 307,
-    "gate_x": 512,
-    "gate_y": 319,
-    "g_angle": 0
-  },
-  {
-    "code": "P6/L1/34",
-    "type": "SMOKE DETECTOR",
-    "location": "سكن B - غرفة رقم 8",
-    "x_pixel": 668,
-"y_pixel": 307,
-    "gate_x": 512,
-    "gate_y": 319,
-    "g_angle": 0
-  },
-  {
-    "code": "P6/L1/35",
-    "type": "SMOKE DETECTOR",
-    "location": "سكن B - غرفة رقم 9",
-    "x_pixel": 688,
-"y_pixel": 307,
-    "gate_x": 512,
-    "gate_y": 319,
-    "g_angle": 0
-  },
-  {
-    "code": "P6/L1/36",
-    "type": "SMOKE DETECTOR",
-    "location": "سكن - VIP-B - غرفة رقم 10",
-    "x_pixel": 708,
-"y_pixel": 307,
-    "gate_x": 512,
-    "gate_y": 319,
-    "g_angle": 0
-  },
-  {
-    "code": "P6/L1/37",
-    "type": "MANUAL CALL POINT",
-    "location": "مدخل سكن B - العادي",
-    "x_pixel": 519,
-"y_pixel": 316,
-    "gate_x": 512,
-    "gate_y": 319,
-    "g_angle": 0
-  },
-   {
-    "code": "P6/L2/01",
-    "type": "MANUAL CALL POINT",
-    "location": "مدخل سكن B - العادي",
-    "x_pixel": 519,
-"y_pixel": 316,
-    "gate_x": 512,
-    "gate_y": 319,
-    "g_angle": 0
-  }
-
+    {
+        "code": "P6/L1/01 NAC-1",
+        "type": "NAC",
+        "location": "مدخل سكن B - العادي",
+        "x_pixel": 519,
+        "y_pixel": 322,
+        "gate_x": 512,
+        "gate_y": 319,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L1/01 NAC-2",
+        "type": "NAC",
+        "location": "سكن - VIP-B - المدخل",
+        "x_pixel": 772,
+        "y_pixel": 298,
+        "gate_x": 512,
+        "gate_y": 319,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L1/02",
+        "type": "SOUNDER",
+        "location": "مدخل سكن B - العادي",
+        "x_pixel": 506,
+        "y_pixel": 289,
+        "gate_x": 512,
+        "gate_y": 319,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L1/03",
+        "type": "FLASHER",
+        "location": "مدخل سكن B - العادي",
+        "x_pixel": 506,
+        "y_pixel": 285,
+        "gate_x": 512,
+        "gate_y": 319,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L1/04",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن B - غرفة رقم 20",
+        "x_pixel": 532,
+        "y_pixel": 270,
+        "gate_x": 512,
+        "gate_y": 319,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L1/05",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن B - غرفة رقم 19",
+        "x_pixel": 552,
+        "y_pixel": 270,
+        "gate_x": 512,
+        "gate_y": 319,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L1/06",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن B - غرفة رقم 18",
+        "x_pixel": 571,
+        "y_pixel": 270,
+        "gate_x": 512,
+        "gate_y": 319,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L1/07",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن B - غرفة رقم 17",
+        "x_pixel": 590,
+        "y_pixel": 270,
+        "gate_x": 512,
+        "gate_y": 319,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L1/08",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن B - غرفة رقم 16",
+        "x_pixel": 610,
+        "y_pixel": 270,
+        "gate_x": 512,
+        "gate_y": 319,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L1/09",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن B - غرفة رقم 15",
+        "x_pixel": 629,
+        "y_pixel": 270,
+        "gate_x": 512,
+        "gate_y": 319,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L1/10",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن B - غرفة رقم 14",
+        "x_pixel": 649,
+        "y_pixel": 270,
+        "gate_x": 512,
+        "gate_y": 319,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L1/11",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن B- الاستراحة",
+        "x_pixel": 682,
+        "y_pixel": 270,
+        "gate_x": 512,
+        "gate_y": 319,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L1/12",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن - VIP-B - غرفة رقم 13",
+        "x_pixel": 715,
+        "y_pixel": 270,
+        "gate_x": 512,
+        "gate_y": 319,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L1/13",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن - VIP-B - غرفة رقم 12",
+        "x_pixel": 750,
+        "y_pixel": 270,
+        "gate_x": 512,
+        "gate_y": 319,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L1/14",
+        "type": "SOUNDER",
+        "location": "سكن - VIP-B - المدخل",
+        "x_pixel": 751,
+        "y_pixel": 290,
+        "gate_x": 512,
+        "gate_y": 319,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L1/15",
+        "type": "FLASHER",
+        "location": "سكن - VIP-B - المدخل",
+        "x_pixel": 755,
+        "y_pixel": 290,
+        "gate_x": 512,
+        "gate_y": 319,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L1/16",
+        "type": "MANUAL CALL POINT",
+        "location": "سكن - VIP-B - المدخل",
+        "x_pixel": 753,
+        "y_pixel": 285,
+        "gate_x": 512,
+        "gate_y": 319,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L1/17",
+        "type": "FLOW SWITCH",
+        "location": "حساس التدفق لخط كبائن الإطفاء في السكن B",
+        "x_pixel": 773,
+        "y_pixel": 284,
+        "gate_x": 512,
+        "gate_y": 319,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L1/18",
+        "type": "TAMPER SWITCH",
+        "location": "حساس محبس لخط كبائن الإطفاء في السكن B",
+        "x_pixel": 773,
+        "y_pixel": 290,
+        "gate_x": 512,
+        "gate_y": 319,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L1/19",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن - VIP-B - غرفة رقم 11",
+        "x_pixel": 748,
+        "y_pixel": 307,
+        "gate_x": 512,
+        "gate_y": 319,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L1/20",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن - VIP-B - الصالة - بجانب الغرفة رقم 11",
+        "x_pixel": 738,
+        "y_pixel": 289,
+        "gate_x": 512,
+        "gate_y": 319,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L1/21",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن - VIP-B - الصالة - بجانب الغرفة رقم 10",
+        "x_pixel": 718,
+        "y_pixel": 288,
+        "gate_x": 512,
+        "gate_y": 319,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L1/22",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن B- الصالة أمام الاستراحة",
+        "x_pixel": 675,
+        "y_pixel": 288,
+        "gate_x": 512,
+        "gate_y": 319,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L1/23",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن B - الصالة بجانب الغرفة رقم 15",
+        "x_pixel": 631,
+        "y_pixel": 288,
+        "gate_x": 512,
+        "gate_y": 319,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L1/24",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن B - الصالة بجانب الغرفة رقم 17",
+        "x_pixel": 588,
+        "y_pixel": 288,
+        "gate_x": 512,
+        "gate_y": 319,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L1/25",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن B - الصالة بجانب الغرفة رقم 19",
+        "x_pixel": 544,
+        "y_pixel": 288,
+        "gate_x": 512,
+        "gate_y": 319,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L1/26",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن B - الصالة امام الحمامات",
+        "x_pixel": 512,
+        "y_pixel": 301,
+        "gate_x": 512,
+        "gate_y": 319,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L1/27",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن B - غرفة رقم 1",
+        "x_pixel": 532,
+        "y_pixel": 307,
+        "gate_x": 512,
+        "gate_y": 319,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L1/28",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن B - غرفة رقم 2",
+        "x_pixel": 552,
+        "y_pixel": 307,
+        "gate_x": 512,
+        "gate_y": 319,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L1/29",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن B - غرفة رقم 3",
+        "x_pixel": 571,
+        "y_pixel": 307,
+        "gate_x": 512,
+        "gate_y": 319,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L1/30",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن B - غرفة رقم 4",
+        "x_pixel": 590,
+        "y_pixel": 307,
+        "gate_x": 512,
+        "gate_y": 319,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L1/31",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن B - غرفة رقم 5",
+        "x_pixel": 610,
+        "y_pixel": 307,
+        "gate_x": 512,
+        "gate_y": 319,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L1/32",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن B - غرفة رقم 6",
+        "x_pixel": 629,
+        "y_pixel": 307,
+        "gate_x": 512,
+        "gate_y": 319,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L1/33",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن B - غرفة رقم 7",
+        "x_pixel": 649,
+        "y_pixel": 307,
+        "gate_x": 512,
+        "gate_y": 319,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L1/34",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن B - غرفة رقم 8",
+        "x_pixel": 668,
+        "y_pixel": 307,
+        "gate_x": 512,
+        "gate_y": 319,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L1/35",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن B - غرفة رقم 9",
+        "x_pixel": 688,
+        "y_pixel": 307,
+        "gate_x": 512,
+        "gate_y": 319,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L1/36",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن - VIP-B - غرفة رقم 10",
+        "x_pixel": 708,
+        "y_pixel": 307,
+        "gate_x": 512,
+        "gate_y": 319,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L1/37",
+        "type": "MANUAL CALL POINT",
+        "location": "مدخل سكن B - العادي",
+        "x_pixel": 519,
+        "y_pixel": 316,
+        "gate_x": 512,
+        "gate_y": 319,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L2/01",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن A - غرفة رقم 20",
+        "x_pixel": 547,
+        "y_pixel": 135,
+        "gate_x": 528,
+        "gate_y": 183,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L2/02",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن A - غرفة رقم 19",
+        "x_pixel": 566,
+        "y_pixel": 135,
+        "gate_x": 528,
+        "gate_y": 183,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L2/03",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن A - غرفة رقم 18",
+        "x_pixel": 585,
+        "y_pixel": 135,
+        "gate_x": 528,
+        "gate_y": 183,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L2/04",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن A - غرفة رقم 17",
+        "x_pixel": 604,
+        "y_pixel": 135,
+        "gate_x": 528,
+        "gate_y": 183,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L2/05",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن A - غرفة رقم 16",
+        "x_pixel": 623,
+        "y_pixel": 135,
+        "gate_x": 528,
+        "gate_y": 183,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L2/06",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن A - غرفة رقم 15",
+        "x_pixel": 642,
+        "y_pixel": 135,
+        "gate_x": 528,
+        "gate_y": 183,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L2/07",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن A - غرفة رقم 14",
+        "x_pixel": 661,
+        "y_pixel": 135,
+        "gate_x": 528,
+        "gate_y": 183,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L2/08",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن A- الاستراحة",
+        "x_pixel": 694,
+        "y_pixel": 135,
+        "gate_x": 528,
+        "gate_y": 183,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L2/09",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن - VIP-A - غرفة رقم 13",
+        "x_pixel": 726,
+        "y_pixel": 135,
+        "gate_x": 528,
+        "gate_y": 183,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L2/10",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن - VIP-A - غرفة رقم 12",
+        "x_pixel": 760,
+        "y_pixel": 135,
+        "gate_x": 528,
+        "gate_y": 183,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L2/11",
+        "type": "FLASHER",
+        "location": "سكن - VIP-A - المدخل",
+        "x_pixel": 758,
+        "y_pixel": 155,
+        "gate_x": 528,
+        "gate_y": 183,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L2/12",
+        "type": "MANUAL CALL POINT",
+        "location": "سكن - VIP-A - المدخل",
+        "x_pixel": 760,
+        "y_pixel": 150,
+        "gate_x": 528,
+        "gate_y": 183,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L2/13",
+        "type": "SOUNDER",
+        "location": "سكن - VIP-A - المدخل",
+        "x_pixel": 763,
+        "y_pixel": 155,
+        "gate_x": 528,
+        "gate_y": 183,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L2/14",
+        "type": "FLOW SWITCH",
+        "location": "حساس التدفق لخط كبائن الإطفاء في السكن A",
+        "x_pixel": 780,
+        "y_pixel": 149,
+        "gate_x": 528,
+        "gate_y": 183,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L2/15",
+        "type": "TAMPER SWITCH",
+        "location": "حساس محبس لخط كبائن الإطفاء في السكن A",
+        "x_pixel": 780,
+        "y_pixel": 155,
+        "gate_x": 528,
+        "gate_y": 183,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L2/16",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن - VIP-A - غرفة رقم 11",
+        "x_pixel": 757,
+        "y_pixel": 171,
+        "gate_x": 528,
+        "gate_y": 183,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L2/17",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن - VIP-A - الصالة - بجانب الغرفة رقم 11",
+        "x_pixel": 748,
+        "y_pixel": 153,
+        "gate_x": 528,
+        "gate_y": 183,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L2/18",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن - VIP-A - الصالة - بجانب الغرفة رقم 10",
+        "x_pixel": 728,
+        "y_pixel": 153,
+        "gate_x": 528,
+        "gate_y": 183,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L2/19",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن A- الصالة أمام الاستراحة",
+        "x_pixel": 686,
+        "y_pixel": 153,
+        "gate_x": 528,
+        "gate_y": 183,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L2/20",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن A - الصالة بجانب الغرفة رقم 15",
+        "x_pixel": 644,
+        "y_pixel": 153,
+        "gate_x": 528,
+        "gate_y": 183,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L2/21",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن A - الصالة بجانب الغرفة رقم 17",
+        "x_pixel": 601,
+        "y_pixel": 153,
+        "gate_x": 528,
+        "gate_y": 183,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L2/22",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن A - الصالة بجانب الغرفة رقم 19",
+        "x_pixel": 559,
+        "y_pixel": 153,
+        "gate_x": 528,
+        "gate_y": 183,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L2/23",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن A - غرفة رقم 1",
+        "x_pixel": 547,
+        "y_pixel": 171,
+        "gate_x": 528,
+        "gate_y": 183,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L2/24",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن A - غرفة رقم 2",
+        "x_pixel": 566,
+        "y_pixel": 171,
+        "gate_x": 528,
+        "gate_y": 183,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L2/25",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن A - غرفة رقم 3",
+        "x_pixel": 585,
+        "y_pixel": 171,
+        "gate_x": 528,
+        "gate_y": 183,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L2/26",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن A - غرفة رقم 4",
+        "x_pixel": 603,
+        "y_pixel": 171,
+        "gate_x": 528,
+        "gate_y": 183,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L2/27",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن A - غرفة رقم 5",
+        "x_pixel": 622,
+        "y_pixel": 171,
+        "gate_x": 528,
+        "gate_y": 183,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L2/28",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن A - غرفة رقم 6",
+        "x_pixel": 641,
+        "y_pixel": 170,
+        "gate_x": 528,
+        "gate_y": 183,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L2/29",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن A - غرفة رقم 7",
+        "x_pixel": 661,
+        "y_pixel": 170,
+        "gate_x": 528,
+        "gate_y": 183,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L2/30",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن A - غرفة رقم 8",
+        "x_pixel": 680,
+        "y_pixel": 171,
+        "gate_x": 528,
+        "gate_y": 183,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L2/31",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن A - غرفة رقم 9",
+        "x_pixel": 699,
+        "y_pixel": 171,
+        "gate_x": 528,
+        "gate_y": 183,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L2/32",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن - VIP-A - غرفة رقم 10",
+        "x_pixel": 719,
+        "y_pixel": 170,
+        "gate_x": 528,
+        "gate_y": 183,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L2/33",
+        "type": "SOUNDER",
+        "location": "مدخل سكن A - العادي",
+        "x_pixel": 536,
+        "y_pixel": 175,
+        "gate_x": 528,
+        "gate_y": 183,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L2/34",
+        "type": "FLASHER",
+        "location": "مدخل سكن A - العادي",
+        "x_pixel": 532,
+        "y_pixel": 175,
+        "gate_x": 528,
+        "gate_y": 183,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L2/35",
+        "type": "MANUAL CALL POINT",
+        "location": "مدخل سكن A - العادي",
+        "x_pixel": 534,
+        "y_pixel": 180,
+        "gate_x": 528,
+        "gate_y": 183,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L2/36",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن A - الصالة امام الحمامات",
+        "x_pixel": 528,
+        "y_pixel": 166,
+        "gate_x": 528,
+        "gate_y": 183,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L2/37 NAC-1",
+        "type": "NAC",
+        "location": "مدخل سكن A- العادي",
+        "x_pixel": 525,
+        "y_pixel": 186,
+        "gate_x": 528,
+        "gate_y": 183,
+        "g_angle": 0
+    },
+    {
+        "code": "P6/L2/37 NAC-2",
+        "type": "NAC",
+        "location": "سكن - VIP-A - المدخل",
+        "x_pixel": 780,
+        "y_pixel": 162,
+        "gate_x": 528,
+        "gate_y": 183,
+        "g_angle": 0
+    }
 ]
