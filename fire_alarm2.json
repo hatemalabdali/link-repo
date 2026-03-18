@@ -4135,135 +4135,214 @@
         "gate_y": 865,
         "g_angle": 90
     },
-
-
-
-
-
-
-
-
-
-
-
     {
         "code": "P5/L3/54",
-        "type": "SMOKE DETECTOR",
+        "type": "OUTPUT/INPUT MODULE",
         "location": "مخزن الكيماويات",
-        "x_pixel": 555555555,
-        "y_pixel": 66666666,
+        "x_pixel": 827,
+        "y_pixel": 516,
         "gate_x": 936,
-"gate_y": 492,
+        "gate_y": 492,
+        "g_angle": 236
+    },
+    {
+        "code": "P5/L3/55",
+        "type": "OUTPUT/INPUT MODULE",
+        "location": "مخزن الكيماويات",
+        "x_pixel": 827,
+        "y_pixel": 514,
+        "gate_x": 936,
+        "gate_y": 492,
+        "g_angle": 236
+    },
+    {
+        "code": "P5/L3/56",
+        "type": "OUTPUT/INPUT MODULE",
+        "location": "مخزن الكيماويات",
+        "x_pixel": 830,
+        "y_pixel": 513,
+        "gate_x": 936,
+        "gate_y": 492,
+        "g_angle": 236
+    },
+    {
+        "code": "P5/L3/57",
+        "type": "OUTPUT/INPUT MODULE",
+        "location": "مخزن الكيماويات",
+        "x_pixel": 830,
+        "y_pixel": 515,
+        "gate_x": 936,
+        "gate_y": 492,
+        "g_angle": 236
+    },
+    {
+        "code": "P5/L3/58",
+        "type": "OUTPUT/INPUT MODULE",
+        "location": "مخزن الكيماويات",
+        "x_pixel": 834,
+        "y_pixel": 512,
+        "gate_x": 936,
+        "gate_y": 492,
+        "g_angle": 236
+    },
+    {
+        "code": "P5/L3/59",
+        "type": "OUTPUT/INPUT MODULE",
+        "location": "مخزن الكيماويات",
+        "x_pixel": 834,
+        "y_pixel": 512,
+        "gate_x": 936,
+        "gate_y": 492,
+        "g_angle": 236
+    },
+    {
+        "code": "P5/L3/60",
+        "type": "OUTPUT/INPUT MODULE",
+        "location": "مخزن الكيماويات",
+        "x_pixel": 837,
+        "y_pixel": 511,
+        "gate_x": 936,
+        "gate_y": 492,
         "g_angle": 236
     },
     {
         "code": "P5/L3/61",
-        "type": "SMOKE DETECTOR",
+        "type": "OUTPUT/INPUT MODULE",
         "location": "مخزن الكيماويات",
-        "x_pixel": 555555555,
-        "y_pixel": 66666666,
+        "x_pixel": 838,
+        "y_pixel": 513,
         "gate_x": 936,
-"gate_y": 492,
+        "gate_y": 492,
+        "g_angle": 236
+    },
+    {
+        "code": "P5/L3/62 NAC-1",
+        "type": "NAC",
+        "location": "مخزن الكيماويات",
+        "x_pixel": 945,
+        "y_pixel": 548,
+        "gate_x": 936,
+        "gate_y": 492,
+        "g_angle": 236
+    },
+    {
+        "code": "P5/L3/63",
+        "type": "MANUAL CALL POINT",
+        "location": "مخزن الكيماويات",
+        "x_pixel": 949,
+        "y_pixel": 547,
+        "gate_x": 936,
+        "gate_y": 492,
+        "g_angle": 236
+    },
+    {
+        "code": "P5/L3/64",
+        "type": "SOUNDER",
+        "location": "مخزن الكيماويات",
+        "x_pixel": 949,
+        "y_pixel": 526,
+        "gate_x": 936,
+        "gate_y": 492,
         "g_angle": 236
     },
     {
         "code": "P5/L3/65-D1",
-        "type": "SMOKE DETECTOR",
+        "type": "MULTI SENSOR DETECTOR",
         "location": "مخزن الكيماويات",
-        "x_pixel": 555555555,
-        "y_pixel": 66666666,
+        "x_pixel": 915,
+        "y_pixel": 509,
         "gate_x": 936,
-"gate_y": 492,
+        "gate_y": 492,
         "g_angle": 236
     },
     {
         "code": "P5/L3/65-D2",
-        "type": "SMOKE DETECTOR",
+        "type": "MULTI SENSOR DETECTOR",
         "location": "مخزن الكيماويات",
-        "x_pixel": 555555555,
-        "y_pixel": 66666666,
-       "gate_x": 936,
-"gate_y": 492,
+        "x_pixel": 930,
+        "y_pixel": 556,
+        "gate_x": 936,
+        "gate_y": 492,
         "g_angle": 236
     },
     {
         "code": "P5/L3/65-D3",
-        "type": "SMOKE DETECTOR",
+        "type": "MULTI SENSOR DETECTOR",
         "location": "مخزن الكيماويات",
-        "x_pixel": 555555555,
-        "y_pixel": 66666666,
+        "x_pixel": 883,
+        "y_pixel": 571,
         "gate_x": 936,
-"gate_y": 492,
+        "gate_y": 492,
         "g_angle": 236
     },
     {
         "code": "P5/L3/65-D4",
-        "type": "SMOKE DETECTOR",
+        "type": "MULTI SENSOR DETECTOR",
         "location": "مخزن الكيماويات",
-        "x_pixel": 555555555,
-        "y_pixel": 66666666,
+        "x_pixel": 868,
+        "y_pixel": 523,
         "gate_x": 936,
-"gate_y": 492,
+        "gate_y": 492,
         "g_angle": 236
     },
     {
         "code": "P5/L3/66-D1",
-        "type": "SMOKE DETECTOR",
+        "type": "MULTI SENSOR DETECTOR",
         "location": "مخزن الكيماويات",
-        "x_pixel": 555555555,
-        "y_pixel": 66666666,
+        "x_pixel": 823,
+        "y_pixel": 537,
         "gate_x": 936,
-"gate_y": 492,
+        "gate_y": 492,
         "g_angle": 236
     },
     {
         "code": "P5/L3/66-D2",
-        "type": "SMOKE DETECTOR",
+        "type": "MULTI SENSOR DETECTOR",
         "location": "مخزن الكيماويات",
-        "x_pixel": 555555555,
-        "y_pixel": 66666666,
-       "gate_x": 936,
-"gate_y": 492,
+        "x_pixel": 838,
+        "y_pixel": 585,
+        "gate_x": 936,
+        "gate_y": 492,
         "g_angle": 236
     },
     {
         "code": "P5/L3/66-D3",
-        "type": "SMOKE DETECTOR",
+        "type": "MULTI SENSOR DETECTOR",
         "location": "مخزن الكيماويات",
-        "x_pixel": 555555555,
-        "y_pixel": 66666666,
+        "x_pixel": 791,
+        "y_pixel": 599,
         "gate_x": 936,
-"gate_y": 492,
+        "gate_y": 492,
         "g_angle": 236
     },
     {
         "code": "P5/L3/66-D4",
-        "type": "SMOKE DETECTOR",
+        "type": "MULTI SENSOR DETECTOR",
         "location": "مخزن الكيماويات",
-        "x_pixel": 555555555,
-        "y_pixel": 66666666,
-       "gate_x": 936,
-"gate_y": 492,
+        "x_pixel": 776,
+        "y_pixel": 552,
+        "gate_x": 936,
+        "gate_y": 492,
         "g_angle": 236
     },
     {
         "code": "P5/L3/67-D1",
-        "type": "SMOKE DETECTOR",
+        "type": "MANUAL CALL POINT",
         "location": "مخزن الكيماويات",
-        "x_pixel": 555555555,
-        "y_pixel": 66666666,
+        "x_pixel": 754,
+        "y_pixel": 554,
         "gate_x": 936,
-"gate_y": 492,
+        "gate_y": 492,
         "g_angle": 236
     },
     {
         "code": "P5/L3/68/NAC-01",
         "type": "NAC",
         "location": "مخزن الكيماويات",
-        "x_pixel": 555555555,
-        "y_pixel": 66666666,
-       "gate_x": 936,
-"gate_y": 492,
+        "x_pixel": 756,
+        "y_pixel": 553,
+        "gate_x": 936,
+        "gate_y": 492,
         "g_angle": 236
     }
 ]
