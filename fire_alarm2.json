@@ -5665,6 +5665,16 @@
     "gate_x": 512,
     "gate_y": 319,
     "g_angle": 0
+  },
+   {
+    "code": "P6/L2/01",
+    "type": "MANUAL CALL POINT",
+    "location": "مدخل سكن B - العادي",
+    "x_pixel": 519,
+"y_pixel": 316,
+    "gate_x": 512,
+    "gate_y": 319,
+    "g_angle": 0
   }
 
 ]
