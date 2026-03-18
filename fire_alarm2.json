@@ -3696,16 +3696,6 @@
         "g_angle": 90
     },
     {
-        "code": "P5/L1/03",
-        "type": "SMOKE DETECTOR",
-        "location": "مخزن قطع الغيار والمهمات",
-        "x_pixel": 1522,
-        "y_pixel": 935,
-        "gate_x": 1503,
-        "gate_y": 865,
-        "g_angle": 90
-    },
-    {
         "code": "P5/L1/04",
         "type": "SMOKE DETECTOR",
         "location": "مخزن قطع الغيار والمهمات",
@@ -3761,9 +3751,9 @@
         "location": "البوابة الغربية للورشة الفنية من الخارج",
         "x_pixel": 1496,
         "y_pixel": 679,
-        "gate_x": 1503,
-        "gate_y": 865,
-        "g_angle": 90
+        "gate_x": 1687,
+        "gate_y": 693,
+        "g_angle": 270
     },
     {
         "code": "P5/L1/08 NAC-2",
@@ -3791,9 +3781,9 @@
         "location": "البوابة الشرقية للورشة الفنية من الخارج",
         "x_pixel": 1692,
         "y_pixel": 677,
-        "gate_x": 1503,
-        "gate_y": 865,
-        "g_angle": 90
+       "gate_x": 1687,
+        "gate_y": 693,
+        "g_angle": 270
     },
     {
         "code": "P5/L1/09",
@@ -3871,9 +3861,9 @@
         "location": "الورشة الفنية",
         "x_pixel": 1670,
         "y_pixel": 738,
-        "gate_x": 1503,
-        "gate_y": 865,
-        "g_angle": 90
+        "gate_x": 1687,
+        "gate_y": 693,
+        "g_angle": 270
     },
     {
         "code": "P5/L1/17",
@@ -3881,9 +3871,9 @@
         "location": "الورشة الفنية",
         "x_pixel": 1641,
         "y_pixel": 739,
-        "gate_x": 1503,
-        "gate_y": 865,
-        "g_angle": 90
+       "gate_x": 1687,
+        "gate_y": 693,
+        "g_angle": 270
     },
     {
         "code": "P5/L1/18",
@@ -3891,9 +3881,9 @@
         "location": "البوابة الشرقية للورشة الفنية من الداخل",
         "x_pixel": 1681,
         "y_pixel": 680,
-        "gate_x": 1503,
-        "gate_y": 865,
-        "g_angle": 90
+        "gate_x": 1687,
+        "gate_y": 693,
+        "g_angle": 270
     },
     {
         "code": "P5/L1/19",
@@ -3901,9 +3891,9 @@
         "location": "البوابة الشرقية للورشة الفنية من الداخل",
         "x_pixel": 1681,
         "y_pixel": 676,
-        "gate_x": 1503,
-        "gate_y": 865,
-        "g_angle": 90
+        "gate_x": 1687,
+        "gate_y": 693,
+        "g_angle": 270
     },
     {
         "code": "P5/L1/20",
@@ -3911,9 +3901,9 @@
         "location": "البوابة الشرقية للورشة الفنية من الداخل",
         "x_pixel": 1685,
         "y_pixel": 678,
-        "gate_x": 1503,
-        "gate_y": 865,
-        "g_angle": 90
+       "gate_x": 1687,
+        "gate_y": 693,
+        "g_angle": 270
     },
     {
         "code": "P5/L1/21",
@@ -3921,9 +3911,9 @@
         "location": "الورشة الفنية",
         "x_pixel": 1597,
         "y_pixel": 586,
-        "gate_x": 1503,
-        "gate_y": 865,
-        "g_angle": 90
+        "gate_x": 1687,
+        "gate_y": 693,
+        "g_angle": 270
     },
     {
         "code": "P5/L1/22",
@@ -3931,9 +3921,9 @@
         "location": "الورشة الفنية",
         "x_pixel": 1555,
         "y_pixel": 587,
-        "gate_x": 1503,
-        "gate_y": 865,
-        "g_angle": 90
+       "gate_x": 1687,
+        "gate_y": 693,
+        "g_angle": 270
     },
     {
         "code": "P5/L1/23",
@@ -3941,9 +3931,9 @@
         "location": "الورشة الفنية",
         "x_pixel": 1513,
         "y_pixel": 587,
-        "gate_x": 1503,
-        "gate_y": 865,
-        "g_angle": 90
+        "gate_x": 1687,
+        "gate_y": 693,
+        "g_angle": 270
     },
     {
         "code": "P5/L1/24",
@@ -3951,9 +3941,9 @@
         "location": "البوابة الغربية للورشة الفنية من الداخل(داخل مخزن الحديد)",
         "x_pixel": 1507,
         "y_pixel": 728,
-        "gate_x": 1503,
-        "gate_y": 865,
-        "g_angle": 90
+        "gate_x": 1687,
+        "gate_y": 693,
+        "g_angle": 270
     },
     {
         "code": "P5/L1/25",
@@ -3961,9 +3951,9 @@
         "location": "البوابة الغربية للورشة الفنية من الداخل(داخل مخزن الحديد)",
         "x_pixel": 1508,
         "y_pixel": 732,
-        "gate_x": 1503,
-        "gate_y": 865,
-        "g_angle": 90
+        "gate_x": 1687,
+        "gate_y": 693,
+        "g_angle": 270
     },
     {
         "code": "P5/L1/26",
@@ -3971,9 +3961,9 @@
         "location": "البوابة الغربية للورشة الفنية من الداخل",
         "x_pixel": 1503,
         "y_pixel": 730,
-        "gate_x": 1503,
-        "gate_y": 865,
-        "g_angle": 90
+        "gate_x": 1687,
+        "gate_y": 693,
+        "g_angle": 270
     },
     {
         "code": "P5/L1/27",
@@ -3981,9 +3971,9 @@
         "location": "الخط الرئيسي لمرشات الورشة ومخزن قطع الغيار",
         "x_pixel": 1513,
         "y_pixel": 743,
-        "gate_x": 1503,
-        "gate_y": 865,
-        "g_angle": 90
+        "gate_x": 1687,
+        "gate_y": 693,
+        "g_angle": 270
     },
     {
         "code": "P5/L1/28",
@@ -3991,9 +3981,9 @@
         "location": "الخط الرئيسي لمرشات الورشة ومخزن قطع الغيار",
         "x_pixel": 1509,
         "y_pixel": 743,
-        "gate_x": 1503,
-        "gate_y": 865,
-        "g_angle": 90
+        "gate_x": 1687,
+        "gate_y": 693,
+        "g_angle": 270
     },
     {
         "code": "P5/L1/29",
@@ -4021,9 +4011,9 @@
         "location": "خط الورشة الفنية",
         "x_pixel": 1503,
         "y_pixel": 750,
-        "gate_x": 1503,
-        "gate_y": 865,
-        "g_angle": 90
+       "gate_x": 1687,
+        "gate_y": 693,
+        "g_angle": 270
     },
     {
         "code": "P5/L1/32",
@@ -4031,9 +4021,9 @@
         "location": "خط الورشة الفنية",
         "x_pixel": 1506,
         "y_pixel": 750,
-        "gate_x": 1503,
-        "gate_y": 865,
-        "g_angle": 90
+        "gate_x": 1687,
+        "gate_y": 693,
+        "g_angle": 270
     },
     {
         "code": "P5/L1/33",
@@ -4041,9 +4031,9 @@
         "location": "الخط الرئيسي للورشة ومخزن قطع الغيار",
         "x_pixel": 1510,
         "y_pixel": 749,
-        "gate_x": 1503,
-        "gate_y": 865,
-        "g_angle": 90
+        "gate_x": 1687,
+        "gate_y": 693,
+        "g_angle": 270
     },
     {
         "code": "P5/L1/34",
@@ -4054,5 +4044,95 @@
         "gate_x": 1687,
         "gate_y": 693,
         "g_angle": 270
+    },
+    {
+        "code": "P5/L1/35",
+        "type": "ALARM INFRARED BEAM DETECTOR",
+        "location": "الورشة الفنية - الجهة الجنوبية",
+        "x_pixel": 1521,
+"y_pixel": 760,
+         "gate_x": 1687,
+        "gate_y": 693,
+        "g_angle": 270
+    },
+    {
+        "code": "P5/L1/36",
+        "type": "ALARM INFRARED BEAM DETECTOR",
+        "location": "الورشة الفنية - الجهة الجنوبية",
+        "x_pixel": 1568,
+"y_pixel": 759,
+        "gate_x": 1687,
+        "gate_y": 693,
+        "g_angle": 270
+    },
+    {
+        "code": "P5/L1/37",
+        "type": "ALARM INFRARED BEAM DETECTOR",
+        "location": "الورشة الفنية - الجهة الجنوبية",
+        "x_pixel": 1615,
+"y_pixel": 759,
+        "gate_x": 1687,
+        "gate_y": 693,
+        "g_angle": 270
+    },
+    {
+        "code": "P5/L1/38",
+        "type": "ALARM INFRARED BEAM DETECTOR",
+        "location": "الورشة الفنية - الجهة الجنوبية",
+        "x_pixel": 1662,
+"y_pixel": 759,
+        "gate_x": 1687,
+        "gate_y": 693,
+        "g_angle": 270
+    },
+    {
+        "code": "P5/L1/03",
+        "type": "SMOKE DETECTOR",
+        "location": "مخزن قطع الغيار والمهمات",
+        "x_pixel": 1522,
+        "y_pixel": 935,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L1/39",
+        "type": "ALARM INFRARED BEAM DETECTOR",
+        "location": "مخزن قطع الغيار والمهمات - الجهة الشمالية",
+        "x_pixel": 1662,
+"y_pixel": 767,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L1/40",
+        "type": "ALARM INFRARED BEAM DETECTOR",
+        "location": "مخزن قطع الغيار والمهمات - الجهة الشمالية",
+       "x_pixel": 1615,
+"y_pixel": 767,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L1/41",
+        "type": "ALARM INFRARED BEAM DETECTOR",
+        "location": "مخزن قطع الغيار والمهمات - الجهة الشمالية",
+        "x_pixel": 1568,
+"y_pixel": 768,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
+    },
+    {
+        "code": "P5/L1/42",
+        "type": "ALARM INFRARED BEAM DETECTOR",
+        "location": "مخزن قطع الغيار والمهمات - الجهة الشمالية",
+       "x_pixel": 1521,
+"y_pixel": 768,
+        "gate_x": 1503,
+        "gate_y": 865,
+        "g_angle": 90
     }
 ]
