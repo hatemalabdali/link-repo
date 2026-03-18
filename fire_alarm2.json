@@ -5295,5 +5295,15 @@
         "gate_x": 936,
         "gate_y": 492,
         "g_angle": 236
+    },
+     {
+        "code": "P6/L1/01",
+        "type": "NAC",
+        "location": "مخزن الكيماويات",
+        "x_pixel": 756,
+        "y_pixel": 553,
+        "gate_x": 936,
+        "gate_y": 492,
+        "g_angle": 236
     }
 ]
