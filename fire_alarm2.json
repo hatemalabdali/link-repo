@@ -4135,23 +4135,23 @@
         "gate_y": 865,
         "g_angle": 90
     },
-
-
-
-
-
-
-
-
-
-
+    {
+        "code": "P5/L2/01",
+        "type": "OUTPUT/INPUT MODULE",
+        "location": "داخل العبادة بجانب البزابة الرئيسية ",
+        "x_pixel": 1659,
+        "y_pixel": 1085,
+        "gate_x": 1639,
+        "gate_y": 1059,
+        "g_angle": 180
+    },
     {
         "code": "P5/L2/01 NAC-1",
         "type": "NAC",
         "location": "خارج العيادة",
-        "x_pixel": 555555555,
-        "y_pixel": 66666666,
-       "gate_x": 1639,
+        "x_pixel": 1659,
+        "y_pixel": 1080,
+        "gate_x": 1639,
         "gate_y": 1059,
         "g_angle": 180
     },
@@ -4159,8 +4159,8 @@
         "code": "P5/L2/02",
         "type": "SMOKE DETECTOR",
         "location": "الصيدلية",
-        "x_pixel": 555555555,
-        "y_pixel": 66666666,
+        "x_pixel": 1668,
+        "y_pixel": 1095,
         "gate_x": 1639,
         "gate_y": 1059,
         "g_angle": 180
@@ -4169,8 +4169,8 @@
         "code": "P5/L2/03",
         "type": "SMOKE DETECTOR",
         "location": "غرفة IT",
-        "x_pixel": 555555555,
-        "y_pixel": 66666666,
+        "x_pixel": 1684,
+        "y_pixel": 1095,
         "gate_x": 1639,
         "gate_y": 1059,
         "g_angle": 180
@@ -4179,8 +4179,8 @@
         "code": "P5/L2/04",
         "type": "SMOKE DETECTOR",
         "location": "عيادة الاسنان",
-        "x_pixel": 555555555,
-        "y_pixel": 66666666,
+        "x_pixel": 1695,
+        "y_pixel": 1134,
         "gate_x": 1639,
         "gate_y": 1059,
         "g_angle": 180
@@ -4189,9 +4189,9 @@
         "code": "P5/L2/05",
         "type": "SMOKE DETECTOR",
         "location": "غرفة التعقيم",
-        "x_pixel": 555555555,
-        "y_pixel": 66666666,
-       "gate_x": 1639,
+        "x_pixel": 1665,
+        "y_pixel": 1135,
+        "gate_x": 1639,
         "gate_y": 1059,
         "g_angle": 180
     },
@@ -4199,8 +4199,8 @@
         "code": "P5/L2/06",
         "type": "SMOKE DETECTOR",
         "location": "طبيب الشركة",
-        "x_pixel": 555555555,
-        "y_pixel": 66666666,
+        "x_pixel": 1640,
+        "y_pixel": 1135,
         "gate_x": 1639,
         "gate_y": 1059,
         "g_angle": 180
@@ -4209,8 +4209,8 @@
         "code": "P5/L2/07",
         "type": "SMOKE DETECTOR",
         "location": "الطوارئ",
-        "x_pixel": 555555555,
-        "y_pixel": 66666666,
+        "x_pixel": 1616,
+        "y_pixel": 1135,
         "gate_x": 1639,
         "gate_y": 1059,
         "g_angle": 180
@@ -4219,9 +4219,9 @@
         "code": "P5/L2/08",
         "type": "SMOKE DETECTOR",
         "location": "غرفة",
-        "x_pixel": 555555555,
-        "y_pixel": 66666666,
-       "gate_x": 1639,
+        "x_pixel": 1595,
+        "y_pixel": 1135,
+        "gate_x": 1639,
         "gate_y": 1059,
         "g_angle": 180
     },
@@ -4229,8 +4229,8 @@
         "code": "P5/L2/09",
         "type": "SMOKE DETECTOR",
         "location": "غرفة",
-        "x_pixel": 555555555,
-        "y_pixel": 66666666,
+        "x_pixel": 1573,
+        "y_pixel": 1136,
         "gate_x": 1639,
         "gate_y": 1059,
         "g_angle": 180
@@ -4239,8 +4239,8 @@
         "code": "P5/L2/10",
         "type": "SMOKE DETECTOR",
         "location": "غرفة",
-        "x_pixel": 555555555,
-        "y_pixel": 66666666,
+        "x_pixel": 1552,
+        "y_pixel": 1136,
         "gate_x": 1639,
         "gate_y": 1059,
         "g_angle": 180
@@ -4249,8 +4249,8 @@
         "code": "P5/L2/11",
         "type": "SMOKE DETECTOR",
         "location": "غرفة",
-        "x_pixel": 555555555,
-        "y_pixel": 66666666,
+        "x_pixel": 1531,
+        "y_pixel": 1137,
         "gate_x": 1639,
         "gate_y": 1059,
         "g_angle": 180
@@ -4259,9 +4259,9 @@
         "code": "P5/L2/12",
         "type": "PRESURE SWITCH",
         "location": "حساس الضغط لخط مرشات العيادة",
-        "x_pixel": 555555555,
-        "y_pixel": 66666666,
-       "gate_x": 1639,
+        "x_pixel": 1520,
+        "y_pixel": 1121,
+        "gate_x": 1639,
         "gate_y": 1059,
         "g_angle": 180
     },
@@ -4269,8 +4269,8 @@
         "code": "P5/L2/13",
         "type": "TAMPER SWITCH",
         "location": "حساس محبس رقم ..... لخط مرشات العيادة",
-        "x_pixel": 555555555,
-        "y_pixel": 66666666,
+        "x_pixel": 1520,
+        "y_pixel": 1118,
         "gate_x": 1639,
         "gate_y": 1059,
         "g_angle": 180
@@ -4279,8 +4279,8 @@
         "code": "P5/L2/14",
         "type": "FLOW SWITCH",
         "location": "حساس التدفق لخط كبائن الإطفاء في العيادة",
-        "x_pixel": 555555555,
-        "y_pixel": 66666666,
+        "x_pixel": 1520,
+        "y_pixel": 1114,
         "gate_x": 1639,
         "gate_y": 1059,
         "g_angle": 180
@@ -4289,8 +4289,8 @@
         "code": "P5/L2/15",
         "type": "TAMPER SWITCH",
         "location": "حساس محبس خط كبائن الإطفاء في العيادة",
-        "x_pixel": 555555555,
-        "y_pixel": 66666666,
+        "x_pixel": 1520,
+        "y_pixel": 1110,
         "gate_x": 1639,
         "gate_y": 1059,
         "g_angle": 180
@@ -4299,9 +4299,9 @@
         "code": "P5/L2/16",
         "type": "SMOKE DETECTOR",
         "location": "غرفة",
-        "x_pixel": 555555555,
-        "y_pixel": 66666666,
-       "gate_x": 1639,
+        "x_pixel": 1530,
+        "y_pixel": 1100,
+        "gate_x": 1639,
         "gate_y": 1059,
         "g_angle": 180
     },
@@ -4309,8 +4309,8 @@
         "code": "P5/L2/17",
         "type": "SMOKE DETECTOR",
         "location": "غرفة",
-        "x_pixel": 555555555,
-        "y_pixel": 66666666,
+        "x_pixel": 1551,
+        "y_pixel": 1097,
         "gate_x": 1639,
         "gate_y": 1059,
         "g_angle": 180
@@ -4319,8 +4319,8 @@
         "code": "P5/L2/18",
         "type": "SMOKE DETECTOR",
         "location": "غرفة",
-        "x_pixel": 555555555,
-        "y_pixel": 66666666,
+        "x_pixel": 1573,
+        "y_pixel": 1097,
         "gate_x": 1639,
         "gate_y": 1059,
         "g_angle": 180
@@ -4329,8 +4329,8 @@
         "code": "P5/L2/19",
         "type": "SMOKE DETECTOR",
         "location": "غرفة",
-        "x_pixel": 555555555,
-        "y_pixel": 66666666,
+        "x_pixel": 1594,
+        "y_pixel": 1096,
         "gate_x": 1639,
         "gate_y": 1059,
         "g_angle": 180
@@ -4339,8 +4339,8 @@
         "code": "P5/L2/20",
         "type": "SMOKE DETECTOR",
         "location": "المختبر",
-        "x_pixel": 555555555,
-        "y_pixel": 66666666,
+        "x_pixel": 1615,
+        "y_pixel": 1096,
         "gate_x": 1639,
         "gate_y": 1059,
         "g_angle": 180
@@ -4349,9 +4349,9 @@
         "code": "P5/L2/21",
         "type": "SMOKE DETECTOR",
         "location": "مدخل العيادة",
-        "x_pixel": 555555555,
-        "y_pixel": 66666666,
-       "gate_x": 1639,
+        "x_pixel": 1644,
+        "y_pixel": 1096,
+        "gate_x": 1639,
         "gate_y": 1059,
         "g_angle": 180
     },
@@ -4359,9 +4359,9 @@
         "code": "P5/L2/22",
         "type": "SMOKE DETECTOR",
         "location": "العيادة الممر بين الغرف",
-        "x_pixel": 555555555,
-        "y_pixel": 66666666,
-       "gate_x": 1639,
+        "x_pixel": 1564,
+        "y_pixel": 1116,
+        "gate_x": 1639,
         "gate_y": 1059,
         "g_angle": 180
     },
@@ -4369,8 +4369,8 @@
         "code": "P5/L2/23",
         "type": "SMOKE DETECTOR",
         "location": "العيادة الممر بين الغرف",
-        "x_pixel": 555555555,
-        "y_pixel": 66666666,
+        "x_pixel": 1619,
+        "y_pixel": 1115,
         "gate_x": 1639,
         "gate_y": 1059,
         "g_angle": 180
@@ -4379,8 +4379,8 @@
         "code": "P5/L2/24",
         "type": "SMOKE DETECTOR",
         "location": "العيادة الممر بين الغرف",
-        "x_pixel": 555555555,
-        "y_pixel": 66666666,
+        "x_pixel": 1674,
+        "y_pixel": 1115,
         "gate_x": 1639,
         "gate_y": 1059,
         "g_angle": 180
@@ -4389,9 +4389,9 @@
         "code": "P5/L2/25",
         "type": "MANUAL CALL POINT",
         "location": "مدخل العيادة",
-        "x_pixel": 555555555,
-        "y_pixel": 66666666,
-       "gate_x": 1639,
+        "x_pixel": 1659,
+        "y_pixel": 1109,
+        "gate_x": 1639,
         "gate_y": 1059,
         "g_angle": 180
     },
@@ -4399,9 +4399,9 @@
         "code": "P5/L2/26",
         "type": "FLASHER",
         "location": "مدخل العيادة",
-        "x_pixel": 555555555,
-        "y_pixel": 66666666,
-       "gate_x": 1639,
+        "x_pixel": 1656,
+        "y_pixel": 1110,
+        "gate_x": 1639,
         "gate_y": 1059,
         "g_angle": 180
     },
@@ -4409,27 +4409,12 @@
         "code": "P5/L2/27",
         "type": "SOUNDER",
         "location": "مدخل العيادة",
-        "x_pixel": 555555555,
-        "y_pixel": 66666666,
+        "x_pixel": 1656,
+        "y_pixel": 1107,
         "gate_x": 1639,
         "gate_y": 1059,
         "g_angle": 180
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     {
         "code": "P5/L3/54",
         "type": "OUTPUT/INPUT MODULE",
