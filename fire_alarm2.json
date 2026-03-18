@@ -4506,7 +4506,7 @@
         "g_angle": 270
     },
     {
-        "code": "P5/L2/37 NAC-01",
+        "code": "P5/L2/37 NAC-1",
         "type": "NAC",
         "location": "مدخل المطعم الغربي",
         "x_pixel": 1523,
@@ -4516,7 +4516,7 @@
         "g_angle": 270
     },
     {
-        "code": "P5/L2/37 NAC-02",
+        "code": "P5/L2/37 NAC-2",
         "type": "NAC",
         "location": "مدخل صالة الطعام الكبيرة",
         "x_pixel": 1701,
@@ -6257,7 +6257,7 @@
     "g_angle": 0
   },
   {
-    "code": "P6/L3/22 NAC-01",
+    "code": "P6/L3/22 NAC-1",
     "type": "NAC",
     "location": "مدخل سكن C - العادي",
     "x_pixel": 1111,
@@ -6267,7 +6267,7 @@
     "g_angle": 0
   },
   {
-    "code": "P6/L3/22 NAC-02",
+    "code": "P6/L3/22 NAC-2",
     "type": "NAC",
     "location": "سكن - VIP-C - المدخل",
     "x_pixel": 1111,
