@@ -6489,8 +6489,8 @@
     "code": "P7/L1/06",
     "type": "LHSD",
     "location": "كونفير 02-60",
-    "x_pixel": 1111,
-    "y_pixel": 22222,
+    "x_pixel": 2629,
+"y_pixel": 1283,
     "gate_x": 2562,
     "gate_y": 1160,
     "g_angle": 90
@@ -6499,8 +6499,8 @@
     "code": "P7/L1/07",
     "type": "LHSD",
     "location": "كونفير 02-60",
-    "x_pixel": 1111,
-    "y_pixel": 22222,
+    "x_pixel": 2634,
+"y_pixel": 1283,
     "gate_x": 2562,
     "gate_y": 1160,
     "g_angle": 90
@@ -6509,8 +6509,8 @@
     "code": "P7/L1/08-D1",
     "type": "MANUAL CALL POINT",
     "location": "كونفير 02-70",
-    "x_pixel": 1111,
-    "y_pixel": 22222,
+    "x_pixel": 2796,
+"y_pixel": 1266,
     "gate_x": 2562,
     "gate_y": 1160,
     "g_angle": 90
@@ -6519,8 +6519,8 @@
     "code": "P7/L1/08-D2",
     "type": "MANUAL CALL POINT",
     "location": "كونفير 02-70",
-    "x_pixel": 1111,
-    "y_pixel": 22222,
+   "x_pixel": 3050,
+"y_pixel": 1265,
     "gate_x": 2562,
     "gate_y": 1160,
     "g_angle": 90
