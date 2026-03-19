@@ -6468,7 +6468,7 @@
   {
     "code": "P7/L1/04",
     "type": "MANUAL CALL POINT",
-    "location": "كونفير 02-60",
+    "location": "كونفير 02-060",
     "x_pixel": 2522,
 "y_pixel": 1244,
     "gate_x": 2562,
@@ -6478,7 +6478,7 @@
   {
     "code": "P7/L1/05 NAC-1",
     "type": "NAC",
-    "location": "كونفير 02-60",
+    "location": "كونفير 02-060",
     "x_pixel": 2522,
 "y_pixel": 1249,
     "gate_x": 2562,
@@ -6488,7 +6488,7 @@
   {
     "code": "P7/L1/06",
     "type": "LHSD",
-    "location": "كونفير 02-60",
+    "location": "كونفير 02-060",
     "x_pixel": 2536,
 "y_pixel": 1283,
     "gate_x": 2562,
@@ -6498,7 +6498,7 @@
   {
     "code": "P7/L1/07",
     "type": "LHSD",
-    "location": "كونفير 02-60",
+    "location": "كونفير 02-060",
     "x_pixel": 2543,
 "y_pixel": 1283,
     "gate_x": 2562,
@@ -6508,7 +6508,7 @@
   {
     "code": "P7/L1/08-D1",
     "type": "MANUAL CALL POINT",
-    "location": "كونفير 02-70",
+    "location": "كونفير 02-070",
     "x_pixel": 2764,
 "y_pixel": 1259,
     "gate_x": 2562,
@@ -6518,7 +6518,7 @@
   {
     "code": "P7/L1/08-D2",
     "type": "MANUAL CALL POINT",
-    "location": "كونفير 02-70",
+    "location": "كونفير 02-070",
    "x_pixel": 3115,
 "y_pixel": 1259,
     "gate_x": 2562,
@@ -6528,7 +6528,7 @@
   {
     "code": "P7/L1/08-D3",
     "type": "MANUAL CALL POINT",
-    "location": "كونفير 02-70",
+    "location": "كونفير 02-070",
     "x_pixel": 3437,
 "y_pixel": 1265,
     "gate_x": 2562,
@@ -6538,7 +6538,7 @@
   {
     "code": "P7/L1/08-D4",
     "type": "MANUAL CALL POINT",
-    "location": "كونفير 02-70",
+    "location": "كونفير 02-070",
    "x_pixel": 3809,
 "y_pixel": 1268,
     "gate_x": 2562,
@@ -6548,7 +6548,7 @@
   {
     "code": "P7/L1/09",
     "type": "LHSD",
-    "location": "كونفير 02-70",
+    "location": "كونفير 02-070",
     "x_pixel": 2567,
 "y_pixel": 1254,
     "gate_x": 2562,
@@ -6558,7 +6558,7 @@
   {
     "code": "P7/L1/10 NAC-1",
     "type": "NAC",
-    "location": "كونفير 02-70",
+    "location": "كونفير 02-070",
     "x_pixel": 2566,
 "y_pixel": 1254,
     "gate_x": 2562,
@@ -6568,7 +6568,7 @@
   {
     "code": "P7/L1/11 NAC-1",
     "type": "NAC",
-    "location": "كونفير 02-70",
+    "location": "كونفير 02-070",
     "x_pixel": 2765,
 "y_pixel": 1253,
     "gate_x": 2562,
@@ -6578,7 +6578,7 @@
   {
     "code": "P7/L1/12 NAC-1",
     "type": "NAC",
-    "location": "كونفير 02-70",
+    "location": "كونفير 02-070",
     "x_pixel": 3115,
 "y_pixel": 1253,
     "gate_x": 2562,
@@ -6588,7 +6588,7 @@
   {
     "code": "P7/L1/13 NAC-1",
     "type": "NAC",
-    "location": "كونفير 02-70",
+    "location": "كونفير 02-070",
     "x_pixel": 3437,
 "y_pixel": 1259,
     "gate_x": 2562,
@@ -6598,7 +6598,7 @@
   {
     "code": "P7/L1/14 NAC-1",
     "type": "NAC",
-    "location": "كونفير 02-70",
+    "location": "كونفير 02-070",
     "x_pixel": 3810,
 "y_pixel": 1262,
     "gate_x": 2562,
@@ -6608,7 +6608,7 @@
   {
     "code": "P7/L1/15",
     "type": "LHSD",
-    "location": "كونفير 02-70",
+    "location": "كونفير 02-070",
     "x_pixel": 3594,
 "y_pixel": 1261,
     "gate_x": 2562,
@@ -6728,7 +6728,7 @@
   {
     "code": "P7/L2/06",
     "type": "LHSD",
-    "location": "كونفير 02-50",
+    "location": "كونفير 02-050",
     "x_pixel": 3022,
 "y_pixel": 1447,
     "gate_x": 2562,
@@ -6738,7 +6738,7 @@
   {
     "code": "P7/L2/07",
     "type": "LHSD",
-    "location": "كونفير 02-50",
+    "location": "كونفير 02-050",
     "x_pixel": 3022,
 "y_pixel": 1455,
     "gate_x": 2562,
@@ -6748,7 +6748,7 @@
   {
     "code": "P7/L2/08",
     "type": "LHSD",
-    "location": "كونفير 02-50",
+    "location": "كونفير 02-050",
     "x_pixel": 3022,
 "y_pixel": 1462,
     "gate_x": 2562,
@@ -6900,8 +6900,8 @@
     "code": "P7/L2/17-D1",
     "type": "NAC",
     "location": "هنجر الخام - الجهة الجنوبية من الداخل",
-    "x_pixel": 1111,
-    "y_pixel": 22222,
+   "x_pixel": 3479,
+"y_pixel": 1440,
     "gate_x": 2562,
     "gate_y": 1160,
     "g_angle": 90
@@ -6910,8 +6910,8 @@
     "code": "P7/L2/17-D2",
     "type": "NAC",
     "location": "هنجر الخام - الجهة الجنوبية من الداخل",
-    "x_pixel": 1111,
-    "y_pixel": 22222,
+    "x_pixel": 3839,
+"y_pixel": 1441,
     "gate_x": 2562,
     "gate_y": 1160,
     "g_angle": 90
@@ -6920,8 +6920,8 @@
     "code": "P7/L2/17-D3",
     "type": "NAC",
     "location": "هنجر الخام - الجهة الجنوبية من الداخل",
-    "x_pixel": 1111,
-    "y_pixel": 22222,
+   "x_pixel": 4120,
+"y_pixel": 1421,
     "gate_x": 2562,
     "gate_y": 1160,
     "g_angle": 90
@@ -6930,8 +6930,8 @@
     "code": "P7/L2/18 NAC-1",
     "type": "NAC",
     "location": "هنجر الخام - الجهة الغربية من الداخل",
-    "x_pixel": 1111,
-    "y_pixel": 22222,
+    "x_pixel": 2573,
+"y_pixel": 1337,
     "gate_x": 2562,
     "gate_y": 1160,
     "g_angle": 90
@@ -6940,48 +6940,98 @@
     "code": "P7/L2/19 NAC-1",
     "type": "NAC",
     "location": "هنجر الخام - الجهة الجنوبية من الداخل",
-    "x_pixel": 1111,
-    "y_pixel": 22222,
+    "x_pixel": 2806,
+"y_pixel": 1423,
     "gate_x": 2562,
     "gate_y": 1160,
     "g_angle": 90
   },
   {
     "code": "P7/L2/20",
-    "type": "PRESURE SWITCH",
+    "type": "OUTPUT/INPUT MODULE",
     "location": "هنجر الخام - MAIN PIPE",
-    "x_pixel": 1111,
-    "y_pixel": 22222,
+    "x_pixel": 2567,
+"y_pixel": 1117,
     "gate_x": 2562,
     "gate_y": 1160,
     "g_angle": 90
   },
   {
     "code": "P7/L2/21",
-    "type": "TAMPER SWITCH",
+    "type": "OUTPUT/INPUT MODULE",
     "location": "هنجر الخام - MAIN PIPE",
-    "x_pixel": 1111,
-    "y_pixel": 22222,
+    "x_pixel": 2566,
+"y_pixel": 1110,
     "gate_x": 2562,
     "gate_y": 1160,
     "g_angle": 90
   },
   {
     "code": "P7/L2/22",
-    "type": "FLOW SWITCH",
+    "type": "OUTPUT/INPUT MODULE",
     "location": "هنجر الخام - HOSE REEL",
-    "x_pixel": 1111,
-    "y_pixel": 22222,
+    "x_pixel": 2566,
+"y_pixel": 1103,
     "gate_x": 2562,
     "gate_y": 1160,
     "g_angle": 90
   },
   {
     "code": "P7/L2/23",
-    "type": "TAMPER SWITCH",
+    "type": "OUTPUT/INPUT MODULE",
     "location": "هنجر الخام - HOSE REEL",
-    "x_pixel": 1111,
-    "y_pixel": 22222,
+    "x_pixel": 2566,
+"y_pixel": 1096,
+    "gate_x": 2562,
+    "gate_y": 1160,
+    "g_angle": 90
+  },
+  {
+    "code": "P7/L2/24",
+    "type": "OUTPUT/INPUT MODULE",
+    "location": "كونفير  03-010",
+    "x_pixel": 2577,
+"y_pixel": 1084,
+    "gate_x": 2562,
+    "gate_y": 1160,
+    "g_angle": 90
+  },
+  {
+    "code": "P7/L2/25",
+    "type": "OUTPUT/INPUT MODULE",
+    "location": "كونفير  03-010",
+    "x_pixel": 2583,
+"y_pixel": 1084,
+    "gate_x": 2562,
+    "gate_y": 1160,
+    "g_angle": 90
+  },
+  {
+    "code": "P7/L2/26",
+    "type": "OUTPUT/INPUT MODULE",
+    "location": "كونفير  03-010",
+    "x_pixel": 2591,
+"y_pixel": 1080,
+    "gate_x": 2562,
+    "gate_y": 1160,
+    "g_angle": 90
+  },
+  {
+    "code": "P7/L2/27",
+    "type": "OUTPUT/INPUT MODULE",
+    "location": "كونفير  03-010",
+    "x_pixel": 2584,
+"y_pixel": 1080,
+    "gate_x": 2562,
+    "gate_y": 1160,
+    "g_angle": 90
+  },
+  {
+    "code": "P7/L2/28",
+    "type": "OUTPUT/INPUT MODULE",
+    "location": "كونفير  03-010",
+    "x_pixel": 2583,
+"y_pixel": 1076,
     "gate_x": 2562,
     "gate_y": 1160,
     "g_angle": 90
@@ -6990,8 +7040,8 @@
     "code": "P7/L2/29",
     "type": "PRESURE SWITCH",
     "location": "هنجر الخام - ZONE1",
-    "x_pixel": 1111,
-    "y_pixel": 22222,
+    "x_pixel": 2602,
+"y_pixel": 1076,
     "gate_x": 2562,
     "gate_y": 1160,
     "g_angle": 90
@@ -7000,12 +7050,69 @@
     "code": "P7/L2/30",
     "type": "TAMPER SWITCH",
     "location": "هنجر الخام - ZONE1",
-    "x_pixel": 1111,
-    "y_pixel": 22222,
+    "x_pixel": 2610,
+"y_pixel": 1076,
     "gate_x": 2562,
     "gate_y": 1160,
     "g_angle": 90
   },
+  
+  
+  {
+    "code": "P7/L2/31",
+    "type": "OUTPUT/INPUT MODULE",
+    "location": "كونفير  03-010",
+    "x_pixel": 2616,
+"y_pixel": 1076,
+    "gate_x": 2562,
+    "gate_y": 1160,
+    "g_angle": 90
+  },
+  {
+    "code": "P7/L2/32",
+    "type": "OUTPUT/INPUT MODULE",
+    "location": "كونفير  03-010",
+    "x_pixel": 2624,
+"y_pixel": 1076,
+    "gate_x": 2562,
+    "gate_y": 1160,
+    "g_angle": 90
+  },
+  {
+    "code": "P7/L2/33",
+    "type": "OUTPUT/INPUT MODULE",
+    "location": "كونفير 02-100",
+    "x_pixel": 2635,
+"y_pixel": 1084,
+    "gate_x": 2562,
+    "gate_y": 1160,
+    "g_angle": 90
+  },
+  {
+    "code": "P7/L2/34",
+    "type": "OUTPUT/INPUT MODULE",
+    "location": "كونفير 02-100",
+   "x_pixel": 2635,
+"y_pixel": 1080,
+    "gate_x": 2562,
+    "gate_y": 1160,
+    "g_angle": 90
+  },
+  {
+    "code": "P7/L2/35",
+    "type": "OUTPUT/INPUT MODULE",
+    "location": "كونفير 02-100",
+   "x_pixel": 2635,
+"y_pixel": 1076,
+    "gate_x": 2562,
+    "gate_y": 1160,
+    "g_angle": 90
+  },
+
+
+
+
+
   {
     "code": "P7/L2/39 NAC-1",
     "type": "NAC",
