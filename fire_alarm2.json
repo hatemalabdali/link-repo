@@ -6440,9 +6440,9 @@
         "location": "سكن - VIP-C - المدخل",
         "x_pixel": 404,
         "y_pixel": 462,
-        "gate_x": 174,
-        "gate_y": 493,
-        "g_angle": 0
+        "gate_x": 2562,
+        "gate_y": 1160,
+        "g_angle": 90
     },
 
 
@@ -6466,8 +6466,8 @@
         "location": "سكن - VIP-C - المدخل",
         "x_pixel": 404,
         "y_pixel": 462,
-        "gate_x": 174,
-        "gate_y": 493,
-        "g_angle": 0
+        "gate_x": 2562,
+        "gate_y": 1160,
+        "g_angle": 90
     }
 ]
