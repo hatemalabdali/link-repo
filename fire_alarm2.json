@@ -6989,7 +6989,7 @@
   {
     "code": "P7/L2/24",
     "type": "OUTPUT/INPUT MODULE",
-    "location": "كونفير  03-010",
+    "location": "كونفير  010-03",
     "x_pixel": 2577,
 "y_pixel": 1084,
     "gate_x": 2562,
@@ -6999,7 +6999,7 @@
   {
     "code": "P7/L2/25",
     "type": "OUTPUT/INPUT MODULE",
-    "location": "كونفير  03-010",
+    "location": "كونفير  010-03",
     "x_pixel": 2583,
 "y_pixel": 1084,
     "gate_x": 2562,
@@ -7009,7 +7009,7 @@
   {
     "code": "P7/L2/26",
     "type": "OUTPUT/INPUT MODULE",
-    "location": "كونفير  03-010",
+    "location": "كونفير  010-03",
     "x_pixel": 2591,
 "y_pixel": 1080,
     "gate_x": 2562,
@@ -7019,7 +7019,7 @@
   {
     "code": "P7/L2/27",
     "type": "OUTPUT/INPUT MODULE",
-    "location": "كونفير  03-010",
+    "location": "كونفير  010-03",
     "x_pixel": 2584,
 "y_pixel": 1080,
     "gate_x": 2562,
@@ -7029,7 +7029,7 @@
   {
     "code": "P7/L2/28",
     "type": "OUTPUT/INPUT MODULE",
-    "location": "كونفير  03-010",
+    "location": "كونفير  010-03",
     "x_pixel": 2583,
 "y_pixel": 1076,
     "gate_x": 2562,
@@ -7061,7 +7061,7 @@
   {
     "code": "P7/L2/31",
     "type": "OUTPUT/INPUT MODULE",
-    "location": "كونفير  03-010",
+    "location": "كونفير  010-03",
     "x_pixel": 2616,
 "y_pixel": 1076,
     "gate_x": 2562,
@@ -7071,7 +7071,7 @@
   {
     "code": "P7/L2/32",
     "type": "OUTPUT/INPUT MODULE",
-    "location": "كونفير  03-010",
+    "location": "كونفير  010-03",
     "x_pixel": 2624,
 "y_pixel": 1076,
     "gate_x": 2562,
@@ -7113,8 +7113,8 @@
     "code": "P7/L2/36",
     "type": "OUTPUT/INPUT MODULE",
     "location": "كونفير 02-100",
-   "x_pixel": 2635,
-    "y_pixel": 1076,
+   "x_pixel": 3701,
+"y_pixel": 1036,
     "gate_x": 2562,
     "gate_y": 1160,
     "g_angle": 90
@@ -7123,8 +7123,8 @@
     "code": "P7/L2/37",
     "type": "OUTPUT/INPUT MODULE",
     "location": "كونفير 02-100",
-   "x_pixel": 2635,
-    "y_pixel": 1076,
+   "x_pixel": 3694,
+"y_pixel": 1035,
     "gate_x": 2562,
     "gate_y": 1160,
     "g_angle": 90
@@ -7133,23 +7133,20 @@
     "code": "P7/L2/38",
     "type": "OUTPUT/INPUT MODULE",
     "location": "كونفير 02-100",
-   "x_pixel": 2635,
-    "y_pixel": 1076,
+   "x_pixel": 3686,
+"y_pixel": 1036,
     "gate_x": 2562,
     "gate_y": 1160,
     "g_angle": 90
   },
 
 
-
-
-
   {
     "code": "P7/L2/39 NAC-1",
     "type": "NAC",
     "location": "هنجر الخام - الجهة الشمالية من الداخل",
-    "x_pixel": 1111,
-    "y_pixel": 22222,
+    "x_pixel": 3865,
+"y_pixel": 1047,
     "gate_x": 2562,
     "gate_y": 1160,
     "g_angle": 90
@@ -7158,8 +7155,8 @@
     "code": "P7/L2/40 NAC-1",
     "type": "NAC",
     "location": "هنجر الخام - الجهة الشرقية من الداخل",
-    "x_pixel": 1111,
-    "y_pixel": 22222,
+    "x_pixel": 4115,
+"y_pixel": 1095,
     "gate_x": 2562,
     "gate_y": 1160,
     "g_angle": 90
@@ -7168,8 +7165,8 @@
     "code": "P7/L2/41 NAC-1",
     "type": "NAC",
     "location": "هنجر الخام - الجهة الشمالية من الداخل",
-    "x_pixel": 1111,
-    "y_pixel": 22222,
+    "x_pixel": 3488,
+"y_pixel": 1045,
     "gate_x": 2562,
     "gate_y": 1160,
     "g_angle": 90
@@ -7178,8 +7175,8 @@
     "code": "P7/L2/42 NAC-1",
     "type": "NAC",
     "location": "هنجر الخام - الجهة الشمالية من الخارج",
-    "x_pixel": 1111,
-    "y_pixel": 22222,
+    "x_pixel": 3479,
+"y_pixel": 1034,
     "gate_x": 2562,
     "gate_y": 1160,
     "g_angle": 90
@@ -7188,8 +7185,8 @@
     "code": "P7/L2/42 NAC-2",
     "type": "NAC",
     "location": "هنجر الخام - الجهة الشمالية من الخارج",
-    "x_pixel": 1111,
-    "y_pixel": 22222,
+    "x_pixel": 3838,
+"y_pixel": 1035,
     "gate_x": 2562,
     "gate_y": 1160,
     "g_angle": 90
@@ -7198,8 +7195,8 @@
     "code": "P7/L2/42 NAC-3",
     "type": "NAC",
     "location": "هنجر الخام - الجهة الشرقية من الخارج",
-    "x_pixel": 1111,
-    "y_pixel": 22222,
+    "x_pixel": 4129,
+"y_pixel": 1095,
     "gate_x": 2562,
     "gate_y": 1160,
     "g_angle": 90
@@ -7208,8 +7205,8 @@
     "code": "P7/L2/43 NAC-1",
     "type": "NAC",
     "location": "هنجر الخام - الجهة الشمالية من الخارج",
-    "x_pixel": 1111,
-    "y_pixel": 22222,
+   "x_pixel": 3148,
+"y_pixel": 1035,
     "gate_x": 2562,
     "gate_y": 1160,
     "g_angle": 90
@@ -7218,8 +7215,8 @@
     "code": "P7/L2/43 NAC-2",
     "type": "NAC",
     "location": "هنجر الخام - الجهة الشمالية من الخارج",
-    "x_pixel": 1111,
-    "y_pixel": 22222,
+   "x_pixel": 2804,
+"y_pixel": 1036,
     "gate_x": 2562,
     "gate_y": 1160,
     "g_angle": 90
@@ -7228,8 +7225,8 @@
     "code": "P7/L2/43 NAC-3",
     "type": "NAC",
     "location": "هنجر الخام - الجهة الغربية من الخارج",
-    "x_pixel": 1111,
-    "y_pixel": 22222,
+    "x_pixel": 2556,
+"y_pixel": 1137,
     "gate_x": 2562,
     "gate_y": 1160,
     "g_angle": 90
@@ -7238,8 +7235,8 @@
     "code": "P7/L2/44-D1",
     "type": "MANUAL CALL POINT",
     "location": "هنجر الخام - الجهة الشمالية من الداخل",
-    "x_pixel": 1111,
-    "y_pixel": 22222,
+    "x_pixel": 3152,
+"y_pixel": 1041,
     "gate_x": 2562,
     "gate_y": 1160,
     "g_angle": 90
@@ -7248,8 +7245,8 @@
     "code": "P7/L2/44-D2",
     "type": "MANUAL CALL POINT",
     "location": "هنجر الخام - الجهة الشمالية من الداخل",
-    "x_pixel": 1111,
-    "y_pixel": 22222,
+   "x_pixel": 2817,
+"y_pixel": 1043,
     "gate_x": 2562,
     "gate_y": 1160,
     "g_angle": 90
@@ -7258,8 +7255,8 @@
     "code": "P7/L2/44-D3",
     "type": "MANUAL CALL POINT",
     "location": "هنجر الخام - الجهة الغربية من الداخل",
-    "x_pixel": 1111,
-    "y_pixel": 22222,
+   "x_pixel": 2567,
+"y_pixel": 1138,
     "gate_x": 2562,
     "gate_y": 1160,
     "g_angle": 90
@@ -7268,8 +7265,8 @@
     "code": "P7/L2/45-D1",
     "type": "MANUAL CALL POINT",
     "location": "هنجر الخام - الجهة الشمالية من الداخل",
-    "x_pixel": 1111,
-    "y_pixel": 22222,
+    "x_pixel": 3488,
+"y_pixel": 1040,
     "gate_x": 2562,
     "gate_y": 1160,
     "g_angle": 90
@@ -7278,8 +7275,8 @@
     "code": "P7/L2/45-D2",
     "type": "MANUAL CALL POINT",
     "location": "هنجر الخام - الجهة الشمالية من الداخل",
-    "x_pixel": 1111,
-    "y_pixel": 22222,
+    "x_pixel": 3865,
+"y_pixel": 1041,
     "gate_x": 2562,
     "gate_y": 1160,
     "g_angle": 90
@@ -7288,8 +7285,8 @@
     "code": "P7/L2/45-D3",
     "type": "MANUAL CALL POINT",
     "location": "هنجر الخام - الجهة الشرقية من الداخل",
-    "x_pixel": 1111,
-    "y_pixel": 22222,
+    "x_pixel": 4121,
+"y_pixel": 1095,
     "gate_x": 2562,
     "gate_y": 1160,
     "g_angle": 90
@@ -7298,38 +7295,38 @@
     "code": "P7/L2/46",
     "type": "LHSD",
     "location": "كونفير 02-100",
-    "x_pixel": 1111,
-    "y_pixel": 22222,
-    "gate_x": 2562,
-    "gate_y": 1160,
-    "g_angle": 90
+    "x_pixel": 2189,
+"y_pixel": 1060,
+    "gate_x": 2512,
+    "gate_y": 1060,
+    "g_angle": 270
   },
   {
     "code": "P7/L2/47",
     "type": "LHSD",
     "location": "كونفير 02-100",
-    "x_pixel": 1111,
-    "y_pixel": 22222,
-    "gate_x": 2562,
-    "gate_y": 1160,
-    "g_angle": 90
+    "x_pixel": 2342,
+"y_pixel": 1060,
+    "gate_x": 2512,
+    "gate_y": 1060,
+    "g_angle": 270
   },
   {
     "code": "P7/L2/48",
     "type": "LHSD",
     "location": "كونفير 02-100",
-    "x_pixel": 1111,
-    "y_pixel": 22222,
-    "gate_x": 2562,
-    "gate_y": 1160,
-    "g_angle": 90
+    "x_pixel": 2497,
+"y_pixel": 1060,
+    "gate_x": 2512,
+    "gate_y": 1060,
+    "g_angle": 270
   },
   {
     "code": "P7/L2/49 NAC-1",
     "type": "NAC",
     "location": "هنجر الخام - الجهة الشمالية من الداخل",
-    "x_pixel": 1111,
-    "y_pixel": 22222,
+    "x_pixel": 3171,
+"y_pixel": 1100,
     "gate_x": 2562,
     "gate_y": 1160,
     "g_angle": 90
@@ -7338,8 +7335,8 @@
     "code": "P7/L2/50 NAC-1",
     "type": "NAC",
     "location": "هنجر الخام - الجهة الغربية من الداخل",
-    "x_pixel": 1111,
-    "y_pixel": 22222,
+   "x_pixel": 2573,
+"y_pixel": 1138,
     "gate_x": 2562,
     "gate_y": 1160,
     "g_angle": 90
@@ -7348,8 +7345,8 @@
     "code": "P7/L2/51 NAC-1",
     "type": "NAC",
     "location": "هنجر الخام - الجهة الشمالية من الداخل",
-    "x_pixel": 1111,
-    "y_pixel": 22222,
+    "x_pixel": 2817,
+"y_pixel": 1048,
     "gate_x": 2562,
     "gate_y": 1160,
     "g_angle": 90
