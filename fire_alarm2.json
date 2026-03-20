@@ -7081,7 +7081,7 @@
   {
     "code": "P7/L2/33",
     "type": "OUTPUT/INPUT MODULE",
-    "location": "كونفير 02-100",
+    "location": "كونفير 010-03",
     "x_pixel": 2635,
 "y_pixel": 1084,
     "gate_x": 2562,
@@ -7091,7 +7091,7 @@
   {
     "code": "P7/L2/34",
     "type": "OUTPUT/INPUT MODULE",
-    "location": "كونفير 02-100",
+    "location": "كونفير 010-03",
    "x_pixel": 2635,
 "y_pixel": 1080,
     "gate_x": 2562,
@@ -7101,7 +7101,7 @@
   {
     "code": "P7/L2/35",
     "type": "OUTPUT/INPUT MODULE",
-    "location": "كونفير 02-100",
+    "location": "كونفير 010-03",
    "x_pixel": 2635,
 "y_pixel": 1076,
     "gate_x": 2562,
@@ -7112,7 +7112,7 @@
    {
     "code": "P7/L2/36",
     "type": "OUTPUT/INPUT MODULE",
-    "location": "كونفير 02-100",
+    "location": "كونفير 010-03",
    "x_pixel": 3701,
 "y_pixel": 1036,
     "gate_x": 2562,
@@ -7122,7 +7122,7 @@
    {
     "code": "P7/L2/37",
     "type": "OUTPUT/INPUT MODULE",
-    "location": "كونفير 02-100",
+    "location": "كونفير 010-03",
    "x_pixel": 3694,
 "y_pixel": 1035,
     "gate_x": 2562,
@@ -7132,7 +7132,7 @@
    {
     "code": "P7/L2/38",
     "type": "OUTPUT/INPUT MODULE",
-    "location": "كونفير 02-100",
+    "location": "كونفير 010-03",
    "x_pixel": 3686,
 "y_pixel": 1036,
     "gate_x": 2562,
@@ -7294,7 +7294,7 @@
   {
     "code": "P7/L2/46",
     "type": "LHSD",
-    "location": "كونفير 02-100",
+    "location": "كونفير 010-03",
     "x_pixel": 2189,
 "y_pixel": 1060,
     "gate_x": 2512,
@@ -7304,7 +7304,7 @@
   {
     "code": "P7/L2/47",
     "type": "LHSD",
-    "location": "كونفير 02-100",
+    "location": "كونفير 010-03",
     "x_pixel": 2342,
 "y_pixel": 1060,
     "gate_x": 2512,
@@ -7314,7 +7314,7 @@
   {
     "code": "P7/L2/48",
     "type": "LHSD",
-    "location": "كونفير 02-100",
+    "location": "كونفير 010-03",
     "x_pixel": 2497,
 "y_pixel": 1060,
     "gate_x": 2512,
