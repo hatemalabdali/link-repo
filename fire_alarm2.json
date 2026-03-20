@@ -7109,6 +7109,37 @@
     "g_angle": 90
   },
 
+   {
+    "code": "P7/L2/36",
+    "type": "OUTPUT/INPUT MODULE",
+    "location": "كونفير 02-100",
+   "x_pixel": 2635,
+    "y_pixel": 1076,
+    "gate_x": 2562,
+    "gate_y": 1160,
+    "g_angle": 90
+  },
+   {
+    "code": "P7/L2/37",
+    "type": "OUTPUT/INPUT MODULE",
+    "location": "كونفير 02-100",
+   "x_pixel": 2635,
+    "y_pixel": 1076,
+    "gate_x": 2562,
+    "gate_y": 1160,
+    "g_angle": 90
+  },
+   {
+    "code": "P7/L2/38",
+    "type": "OUTPUT/INPUT MODULE",
+    "location": "كونفير 02-100",
+   "x_pixel": 2635,
+    "y_pixel": 1076,
+    "gate_x": 2562,
+    "gate_y": 1160,
+    "g_angle": 90
+  },
+
 
 
 
