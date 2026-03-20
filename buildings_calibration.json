@@ -298,21 +298,10 @@
   "scaleX": 0.14615595,
   "scaleY": 0.14615595
 },
-
-
-
-
-
-
-
-
-
-
-
 {
-  "calibrationKey": "nullll",
+  "calibrationKey": "no_diagram",
   "calX": 2128.0,
-  "calY": 2256.0,
+  "calY": 2257.375,
   "rotation": 0.0,
   "scaleX": 1.0,
   "scaleY": 1.0
