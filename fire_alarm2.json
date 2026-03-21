@@ -7372,9 +7372,9 @@
     "location": "غرفة الكبريسرات CO2",
    "x_pixel": 2216,
 "y_pixel": 709,
-    "gate_x": 2219,
-    "gate_y": 752,
-    "g_angle": 270
+    "gate_x": 2214,
+    "gate_y": 636,
+    "g_angle":270
   },
   {
     "code": "P8/L1/05",
@@ -7382,9 +7382,9 @@
     "location": "غرفة الكبريسرات CO2",
    "x_pixel": 2215,
 "y_pixel": 705,
-    "gate_x": 2219,
-    "gate_y": 752,
-    "g_angle": 270
+    "gate_x": 2214,
+    "gate_y": 636,
+    "g_angle":270
   },
   {
     "code": "P8/L1/06",
@@ -7392,9 +7392,9 @@
     "location": "غرفة الكبريسرات CO2",
    "x_pixel": 2215,
 "y_pixel": 700,
-    "gate_x": 2219,
-    "gate_y": 752,
-    "g_angle": 270
+    "gate_x": 2214,
+    "gate_y": 636,
+    "g_angle":270
   },
   {
     "code": "P8/L1/07",
@@ -7402,9 +7402,9 @@
     "location": "غرفة الكبريسرات CO2",
    "x_pixel": 2216,
 "y_pixel": 696,
-    "gate_x": 2219,
-    "gate_y": 752,
-    "g_angle": 270
+    "gate_x": 2214,
+    "gate_y": 636,
+    "g_angle":270
   },
   {
     "code": "P8/L1/08 NAC-1",
@@ -7412,9 +7412,9 @@
     "location": "غرفة الكبريسرات CO2",
     "x_pixel": 2218,
 "y_pixel": 630,
-    "gate_x": 2219,
-    "gate_y": 752,
-    "g_angle": 270
+     "gate_x": 2214,
+    "gate_y": 636,
+    "g_angle":270
   },
   {
     "code": "P8/L1/09",
@@ -7422,9 +7422,9 @@
     "location": "مبنى الإنتاج - غرفة ضواغط CO2",
     "x_pixel": 2215,
 "y_pixel": 630,
-    "gate_x": 2219,
-    "gate_y": 752,
-    "g_angle": 270
+    "gate_x": 2214,
+    "gate_y": 636,
+    "g_angle":270
   },
   {
     "code": "P8/L1/10",
@@ -7432,9 +7432,9 @@
     "location": "مبنى الإنتاج - غرفة ضواغط CO2",
    "x_pixel": 2212,
 "y_pixel": 632,
-    "gate_x": 2219,
-    "gate_y": 752,
-    "g_angle": 270
+    "gate_x": 2214,
+    "gate_y": 636,
+    "g_angle":270
   },
   {
     "code": "P8/L1/11",
@@ -7442,9 +7442,9 @@
     "location": "مبنى الإنتاج - غرفة ضواغط CO2",
    "x_pixel": 2212,
 "y_pixel": 629,
-    "gate_x": 2219,
-    "gate_y": 752,
-    "g_angle": 270
+     "gate_x": 2214,
+    "gate_y": 636,
+    "g_angle":270
   },
   {
     "code": "P8/L1/12",
@@ -7452,9 +7452,9 @@
     "location": "مبنى الإنتاج - غرفة ضواغط CO2",
    "x_pixel": 2192,
 "y_pixel": 610,
-    "gate_x": 2219,
-    "gate_y": 752,
-    "g_angle": 270
+     "gate_x": 2214,
+    "gate_y": 636,
+    "g_angle":270
   },
   {
     "code": "P8/L1/13",
@@ -7462,9 +7462,9 @@
     "location": "مبنى الإنتاج - غرفة ضواغط CO2",
    "x_pixel": 2193,
 "y_pixel": 640,
-    "gate_x": 2219,
-    "gate_y": 752,
-    "g_angle": 270
+     "gate_x": 2214,
+    "gate_y": 636,
+    "g_angle":270
   },
   {
     "code": "P8/L1/14",
@@ -7472,9 +7472,9 @@
     "location": "مبنى الإنتاج - غرفة ضواغط CO2",
     "x_pixel": 2193,
 "y_pixel": 669,
-    "gate_x": 2219,
-    "gate_y": 752,
-    "g_angle": 270
+     "gate_x": 2214,
+    "gate_y": 636,
+    "g_angle":270
   },
   {
     "code": "P8/L1/15",
@@ -7482,9 +7482,10 @@
     "location": "مبنى الإنتاج - غرفة ضواغط CO2",
    "x_pixel": 2193,
 "y_pixel": 699,
-    "gate_x": 2219,
-    "gate_y": 752,
-    "g_angle": 270
+    "gate_x": 2214,
+    "gate_y": 636,
+    "g_angle":270
+    
   },
   {
     "code": "P8/L1/16",
@@ -7542,8 +7543,8 @@
     "location": "مبنى الإنتاج - مخزن الشؤون الصحية",
     "x_pixel": 2195,
 "y_pixel": 774,
-    "gate_x": 2219,
-    "gate_y": 752,
+    "gate_x": 2218,
+    "gate_y": 779,
     "g_angle": 270
   },
   {
@@ -7552,8 +7553,8 @@
     "location": "مبنى الإنتاج - مخزن الشؤون الصحية",
     "x_pixel": 2195,
 "y_pixel": 808,
-    "gate_x": 2219,
-    "gate_y": 752,
+    "gate_x": 2218,
+    "gate_y": 779,
     "g_angle": 270
   },
   {
@@ -7562,18 +7563,18 @@
     "location": "مبنى الإنتاج - غرفة تحضير الملح - من الخارج",
     "x_pixel": 2221,
 "y_pixel": 899,
-    "gate_x": 2219,
-    "gate_y": 752,
+    "gate_x": 2218,
+    "gate_y": 932,
     "g_angle": 270
   },
    {
-    "code": "P8/L1/26",
+    "code": "P8/L1/24",
     "type": "MANUAL CALL POINT",
     "location": "مبنى الإنتاج - غرفة تحضير الملح",
     "x_pixel": 2218,
 "y_pixel": 900,
-    "gate_x": 2219,
-    "gate_y": 752,
+    "gate_x": 2218,
+    "gate_y": 932,
     "g_angle": 270
   },
   {
@@ -7582,8 +7583,8 @@
     "location": "مبنى الإنتاج - غرفة تحضير الملح",
    "x_pixel": 2215,
 "y_pixel": 898,
-    "gate_x": 2219,
-    "gate_y": 752,
+    "gate_x": 2218,
+    "gate_y": 932,
     "g_angle": 270
   },
   {
@@ -7592,8 +7593,8 @@
     "location": "مبنى الإنتاج - غرفة تحضير الملح",
    "x_pixel": 2215,
 "y_pixel": 901,
-    "gate_x": 2219,
-    "gate_y": 752,
+    "gate_x": 2218,
+    "gate_y": 932,
     "g_angle": 270
   },
 
@@ -7612,7 +7613,7 @@
 
 
     {
-        "code": "P9/L1/01",
+        "code": "P8/L1/27",
         "type": "NAC",
         "location": "هنجر الخام - الجهة الشمالية من الداخل",
         "x_pixel": 2817,
