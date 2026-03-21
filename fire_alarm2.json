@@ -7722,6 +7722,127 @@
   },
 
 
+  {
+    "code": "P8/L1/39",
+    "type": "TAMPER SWITCH",
+    "location": "مبنى الإنتاج - الدور الثاني - ZONE 4",
+    "x_pixel": 2178,
+"y_pixel": 754,
+    "gate_x": 2189,
+    "gate_y": 747,
+    "g_angle": 90
+  },
+  {
+    "code": "P8/L1/40",
+    "type": "FLOW SWITCH",
+    "location": "مبنى الإنتاج - الدور الثاني - ZONE 4",
+    "x_pixel": 2178,
+"y_pixel": 749,
+    "gate_x": 2189,
+    "gate_y": 747,
+    "g_angle": 90
+  },
+  {
+    "code": "P8/L1/41",
+    "type": "FLASHER",
+    "location": "مبنى الإنتاج - الدور الثاني - مختبر السكر",
+    "x_pixel": 2180,
+"y_pixel": 742,
+    "gate_x": 2189,
+    "gate_y": 747,
+    "g_angle": 90
+  },
+  {
+    "code": "P8/L1/42",
+    "type": "SOUNDER",
+    "location": "مبنى الإنتاج - الدور الثاني - مختبر السكر",
+   "x_pixel": 2181,
+"y_pixel": 745,
+    "gate_x": 2189,
+    "gate_y": 747,
+    "g_angle": 90
+  },
+  {
+    "code": "P8/L1/43",
+    "type": "MANUAL CALL POINT",
+    "location": "مبنى الإنتاج - الدور الثاني - مختبر السكر",
+    "x_pixel": 2178,
+"y_pixel": 744,
+    "gate_x": 2189,
+    "gate_y": 747,
+    "g_angle": 90
+  },
+  {
+    "code": "P8/L1/44",
+    "type": "SMOKE DETECTOR",
+    "location": "مبنى الإنتاج - الدور الثاني - مختبر السكر",
+    "x_pixel": 2189,
+"y_pixel": 765,
+    "gate_x": 2189,
+    "gate_y": 747,
+    "g_angle": 90
+  },
+  {
+    "code": "P8/L1/45",
+    "type": "SMOKE DETECTOR",
+    "location": "مبنى الإنتاج - الدور الثاني - مختبر السكر",
+    "x_pixel": 2190,
+"y_pixel": 789,
+    "gate_x": 2189,
+    "gate_y": 747,
+    "g_angle": 90
+  },
+  {
+    "code": "P8/L1/46",
+    "type": "SMOKE DETECTOR",
+    "location": "مبنى الإنتاج - الدور الثاني - مختبر السكر",
+    "x_pixel": 2191,
+"y_pixel": 812,
+    "gate_x": 2189,
+    "gate_y": 747,
+    "g_angle": 90
+  },
+  {
+    "code": "P8/L1/47",
+    "type": "SMOKE DETECTOR",
+    "location": "مبنى الإنتاج - الدور الثاني - مختبر السكر",
+    "x_pixel": 2209,
+"y_pixel": 812,
+    "gate_x": 2189,
+    "gate_y": 747,
+    "g_angle": 90
+  },
+  {
+    "code": "P8/L1/48",
+    "type": "SMOKE DETECTOR",
+    "location": "مبنى الإنتاج - الدور الثاني - مختبر السكر",
+    "x_pixel": 2209,
+"y_pixel": 789,
+    "gate_x": 2189,
+    "gate_y": 747,
+    "g_angle": 90
+  },
+  {
+    "code": "P8/L1/49",
+    "type": "SMOKE DETECTOR",
+    "location": "مبنى الإنتاج - الدور الثاني - مختبر السكر",
+    "x_pixel": 2208,
+"y_pixel": 764,
+    "gate_x": 2189,
+    "gate_y": 747,
+    "g_angle": 90
+  },
+  {
+    "code": "P8/L1/50",
+    "type": "SMOKE DETECTOR",
+    "location": "مبنى الإنتاج - الدور الثاني - مختبر السكر",
+    "x_pixel": 2196,
+"y_pixel": 740,
+    "gate_x": 2189,
+    "gate_y": 747,
+    "g_angle": 90
+  },
+
 
 
 
@@ -7735,7 +7856,7 @@
 
 
     {
-        "code": "P8/L1/39",
+        "code": "P8/L2/01",
         "type": "NAC",
         "location": "هنجر الخام - الجهة الشمالية من الداخل",
         "x_pixel": 2817,
