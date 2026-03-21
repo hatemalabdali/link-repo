@@ -7599,6 +7599,128 @@
   },
 
 
+  
+  {
+    "code": "P8/L1/27",
+    "type": "SMOKE DETECTOR",
+    "location": "مبنى الإنتاج - غرفة الملح",
+    "x_pixel": 11111,
+    "y_pixel": 222222,
+    "gate_x": 2218,
+    "gate_y": 912,
+    "g_angle": 270
+  },
+  {
+    "code": "P8/L1/28",
+    "type": "SMOKE DETECTOR",
+    "location": "مبنى الإنتاج - الدور الأول - مكتب مدير الصيانة",
+    "x_pixel": 11111,
+    "y_pixel": 222222,
+    "gate_x": 2185,
+    "gate_y": 753,
+    "g_angle": 90
+  },
+  {
+    "code": "P8/L1/29",
+    "type": "SMOKE DETECTOR",
+    "location": "مبنى الإنتاج - الدور الأول - مكتب بجانب مدير الصيانة",
+    "x_pixel": 11111,
+    "y_pixel": 222222,
+    "gate_x": 2185,
+    "gate_y": 753,
+    "g_angle": 90
+  },
+  {
+    "code": "P8/L1/30",
+    "type": "SMOKE DETECTOR",
+    "location": "مبنى الإنتاج - الدور الأول - مكتب بجانب مشرفي الإنتاج",
+    "x_pixel": 11111,
+    "y_pixel": 222222,
+    "gate_x": 2185,
+    "gate_y": 753,
+    "g_angle": 90
+  },
+  {
+    "code": "P8/L1/31",
+    "type": "SMOKE DETECTOR",
+    "location": "مبنى الإنتاج - الدور الأول - مكتب مشرف الإنتاج",
+    "x_pixel": 11111,
+    "y_pixel": 222222,
+    "gate_x": 2185,
+    "gate_y": 753,
+    "g_angle": 90
+  },
+  {
+    "code": "P8/L1/32",
+    "type": "SMOKE DETECTOR",
+    "location": "مبنى الإنتاج - الدور الأول - صالة المكاتب",
+    "x_pixel": 11111,
+    "y_pixel": 222222,
+    "gate_x": 2185,
+    "gate_y": 753,
+    "g_angle": 90
+  },
+  {
+    "code": "P8/L1/33",
+    "type": "SMOKE DETECTOR",
+    "location": "مبنى الإنتاج - الدور الأول - مدخل المكاتب",
+    "x_pixel": 11111,
+    "y_pixel": 222222,
+    "gate_x": 2185,
+    "gate_y": 753,
+    "g_angle": 90
+  },
+  {
+    "code": "P8/L1/34",
+    "type": "FLOW SWITCH",
+    "location": "مبنى الإنتاج - الدور االاول - ZONE3",
+    "x_pixel": 11111,
+    "y_pixel": 222222,
+    "gate_x": 2185,
+    "gate_y": 753,
+    "g_angle": 90
+  },
+  {
+    "code": "P8/L1/35",
+    "type": "TAMPER SWITCH",
+    "location": "مبنى الإنتاج - الدور االاول - ZONE3",
+    "x_pixel": 11111,
+    "y_pixel": 222222,
+    "gate_x": 2185,
+    "gate_y": 753,
+    "g_angle": 90
+  },
+  {
+    "code": "P8/L1/36",
+    "type": "FLASHER",
+    "location": "مبنى الإنتاج - الدور الأول - صالة المكاتب",
+    "x_pixel": 11111,
+    "y_pixel": 222222,
+    "gate_x": 2185,
+    "gate_y": 753,
+    "g_angle": 90
+  },
+  {
+    "code": "P8/L1/37",
+    "type": "SOUNDER",
+    "location": "مبنى الإنتاج - الدور الأول - صالة المكاتب",
+    "x_pixel": 11111,
+    "y_pixel": 222222,
+    "gate_x": 2185,
+    "gate_y": 753,
+    "g_angle": 90
+  },
+  {
+    "code": "P8/L1/38",
+    "type": "MANUAL CALL POINT",
+    "location": "مبنى الإنتاج - الدور الأول - صالة المكاتب",
+    "x_pixel": 11111,
+    "y_pixel": 222222,
+    "gate_x": 2185,
+    "gate_y": 753,
+    "g_angle": 90
+  },
+
 
 
 
