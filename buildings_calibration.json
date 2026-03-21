@@ -308,11 +308,11 @@
     },
     {
   "calibrationKey": "p8_process_1",
-  "calX": 2069.0,
-  "calY": 794.125,
-  "rotation": -90.625,
-  "scaleX": 0.11965951,
-  "scaleY": 0.11965951
+  "calX": 2081.0,
+  "calY": 787.125,
+  "rotation": -91.875,
+  "scaleX": 0.09601655,
+  "scaleY": 0.09601655
 },
     {
   "calibrationKey": "p8_process_2",
@@ -332,6 +332,14 @@
   "scaleY": 0.08638531
 },
 {
+  "calibrationKey": "p8_process_5",
+  "calX": 2067.5,
+  "calY": 790.0,
+  "rotation": -271.125,
+  "scaleX": 0.09873982,
+  "scaleY": 0.09873982
+},
+{
   "calibrationKey": "p8_office_0",
   "calX": 2069.0,
   "calY": 794.125,
@@ -339,6 +347,49 @@
   "scaleX": 0.11965951,
   "scaleY": 0.11965951
 },
+{
+  "calibrationKey": "p8_office_1",
+  "calX": 2077.75,
+  "calY": 781.375,
+  "rotation": 89.25,
+  "scaleX": 0.11514204,
+  "scaleY": 0.11514204
+},
+{
+  "calibrationKey": "p8_office_2",
+  "calX": 2095.625,
+  "calY": 789.0,
+  "rotation": -271.375,
+  "scaleX": 0.11557585,
+  "scaleY": 0.11557585
+},
+{
+  "calibrationKey": "p8_office_3",
+  "calX": 2076.75,
+  "calY": 787.875,
+  "rotation": 269.0,
+  "scaleX": 0.114575274,
+  "scaleY": 0.114575274
+},
+{
+  "calibrationKey": "p8_office_4",
+  "calX": 2087.875,
+  "calY": 785.875,
+  "rotation": -91.125,
+  "scaleX": 0.11249596,
+  "scaleY": 0.11249596
+},
+
+
+
+
+
+
+
+
+
+
+
 
 
 
