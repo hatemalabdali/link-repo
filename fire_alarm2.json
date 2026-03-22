@@ -7844,6 +7844,147 @@
   },
 
 
+  {
+    "code": "P8/L1/51",
+    "type": "MANUAL CALL POINT",
+    "location": "مبنى الإنتاج -الهندسية",
+    "x_pixel": 2195,
+"y_pixel": 735,
+    "gate_x": 2202,
+    "gate_y": 754,
+    "g_angle": 90
+  },
+  {
+    "code": "P8/L1/52",
+    "type": "SOUNDER",
+    "location": "مبنى الإنتاج -الهندسية",
+    "x_pixel": 2193,
+"y_pixel": 738,
+    "gate_x": 2202,
+    "gate_y": 754,
+    "g_angle": 90
+  },
+  {
+    "code": "P8/L1/53",
+    "type": "FLASHER",
+    "location": "مبنى الإنتاج -الهندسية",
+    "x_pixel": 2196,
+"y_pixel": 738,
+    "gate_x": 2202,
+    "gate_y": 754,
+    "g_angle": 90
+  },
+  {
+    "code": "P8/L1/54",
+    "type": "SMOKE DETECTOR",
+    "location": "مبنى الإنتاج -الهندسية",
+    "x_pixel": 2200,
+"y_pixel": 743,
+    "gate_x": 2202,
+    "gate_y": 754,
+    "g_angle": 90
+  },
+  {
+    "code": "P8/L1/55",
+    "type": "FLOW SWITCH",
+    "location": "مبنى الإنتاج -الهندسية - ZONE 4",
+    "x_pixel": 2182,
+"y_pixel": 748,
+    "gate_x": 2202,
+    "gate_y": 754,
+    "g_angle": 90
+  },
+  {
+    "code": "P8/L1/56",
+    "type": "TAMPER SWITCH",
+    "location": "مبنى الإنتاج -الهندسية - ZONE 4",
+    "x_pixel": 2182,
+"y_pixel": 753,
+    "gate_x": 2202,
+    "gate_y": 754,
+    "g_angle": 90
+  },
+  {
+    "code": "P8/L1/57",
+    "type": "SMOKE DETECTOR",
+    "location": "مبنى الإنتاج -الهندسية",
+    "x_pixel": 2190,
+"y_pixel": 764,
+    "gate_x": 2202,
+    "gate_y": 754,
+    "g_angle": 90
+  },
+  {
+    "code": "P8/L1/58",
+    "type": "SMOKE DETECTOR",
+    "location": "مبنى الإنتاج -الهندسية",
+    "x_pixel": 2203,
+"y_pixel": 780,
+    "gate_x": 2202,
+    "gate_y": 754,
+    "g_angle": 90
+  },
+  {
+    "code": "P8/L1/59",
+    "type": "SMOKE DETECTOR",
+    "location": "مبنى الإنتاج -الهندسية",
+    "x_pixel": 2190,
+"y_pixel": 784,
+    "gate_x": 2202,
+    "gate_y": 754,
+    "g_angle": 90
+  },
+  {
+    "code": "P8/L1/60",
+    "type": "SMOKE DETECTOR",
+    "location": "مبنى الإنتاج -الهندسية",
+    "x_pixel": 2190,
+"y_pixel": 801,
+    "gate_x": 2202,
+    "gate_y": 754,
+    "g_angle": 90
+  },
+  {
+    "code": "P8/L1/61",
+    "type": "SMOKE DETECTOR",
+    "location": "مبنى الإنتاج -الهندسية",
+   "x_pixel": 2202,
+"y_pixel": 814,
+    "gate_x": 2202,
+    "gate_y": 754,
+    "g_angle": 90
+  },
+  {
+    "code": "P8/L1/62",
+    "type": "SMOKE DETECTOR",
+    "location": "مبنى الإنتاج -الهندسية",
+    "x_pixel": 2216,
+"y_pixel": 800,
+    "gate_x": 2202,
+    "gate_y": 754,
+    "g_angle": 90
+  },
+  {
+    "code": "P8/L1/63",
+    "type": "SMOKE DETECTOR",
+    "location": "مبنى الإنتاج -الهندسية",
+    "x_pixel": 2215,
+"y_pixel": 784,
+    "gate_x": 2202,
+    "gate_y": 754,
+    "g_angle": 90
+  },
+  {
+    "code": "P8/L1/64",
+    "type": "SMOKE DETECTOR",
+    "location": "مبنى الإنتاج -الهندسية",
+    "x_pixel": 2215,
+"y_pixel": 763,
+    "gate_x": 2202,
+    "gate_y": 754,
+    "g_angle": 90
+  },
+
 
 
 
@@ -7856,7 +7997,7 @@
 
 
     {
-        "code": "P8/L1/51",
+        "code": "P8/L1/65",
         "type": "NAC",
         "location": "هنجر الخام - الجهة الشمالية من الداخل",
         "x_pixel": 2817,
