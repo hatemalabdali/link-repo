@@ -7986,6 +7986,127 @@
   },
 
 
+  {
+    "code": "P8/L1/65",
+    "type": "TAMPER SWITCH",
+    "location": "مبنى الإنتاج - الدور الرابع - ZONE 5",
+    "x_pixel": 2173,
+"y_pixel": 734,
+    "gate_x": 2194,
+    "gate_y": 752,
+    "g_angle": 90
+  },
+  {
+    "code": "P8/L1/66",
+    "type": "TAMPER SWITCH",
+    "location": "مبنى الإنتاج - الدور الرابع - ZONE 5",
+    "x_pixel": 2178,
+"y_pixel": 734,
+    "gate_x": 2194,
+    "gate_y": 752,
+    "g_angle": 90
+  },
+  {
+    "code": "P8/L1/67",
+    "type": "SIREN",
+    "location": "سرينة الاخلاء في مبنى الإنتاج",
+   "x_pixel": 2182,
+"y_pixel": 734,
+    "gate_x": 2194,
+    "gate_y": 752,
+    "g_angle": 90
+  },
+  {
+    "code": "P8/L1/68",
+    "type": "MANUAL CALL POINT",
+    "location": "مبنى الإنتاج - الدور الرابع - مكاتب إدارة الإنتاج",
+    "x_pixel": 2189,
+"y_pixel": 734,
+    "gate_x": 2194,
+    "gate_y": 752,
+    "g_angle": 90
+  },
+  {
+    "code": "P8/L1/69",
+    "type": "SOUNDER",
+    "location": "مبنى الإنتاج - الدور الرابع - مكاتب إدارة الإنتاج",
+   "x_pixel": 2187,
+"y_pixel": 736,
+    "gate_x": 2194,
+    "gate_y": 752,
+    "g_angle": 90
+  },
+  {
+    "code": "P8/L1/70",
+    "type": "FLASHER",
+    "location": "مبنى الإنتاج - الدور الرابع - مكاتب إدارة الإنتاج",
+    "x_pixel": 2190,
+"y_pixel": 736,
+    "gate_x": 2194,
+    "gate_y": 752,
+    "g_angle": 90
+  },
+  {
+    "code": "P8/L1/71",
+    "type": "SMOKE DETECTOR",
+    "location": "مبنى الإنتاج - الدور الرابع - مكاتب إدارة الإنتاج",
+    "x_pixel": 2202,
+"y_pixel": 739,
+    "gate_x": 2194,
+    "gate_y": 752,
+    "g_angle": 90
+  },
+  {
+    "code": "P8/L1/72",
+    "type": "SMOKE DETECTOR",
+    "location": "مبنى الإنتاج - الدور الرابع - مكاتب إدارة الإنتاج",
+   "x_pixel": 2194,
+"y_pixel": 773,
+    "gate_x": 2194,
+    "gate_y": 752,
+    "g_angle": 90
+  },
+  {
+    "code": "P8/L1/73",
+    "type": "SMOKE DETECTOR",
+    "location": "مبنى الإنتاج - الدور الرابع - مكاتب إدارة الإنتاج",
+   "x_pixel": 2207,
+"y_pixel": 773,
+    "gate_x": 2194,
+    "gate_y": 752,
+    "g_angle": 90
+  },
+  {
+    "code": "P8/L1/74",
+    "type": "SMOKE DETECTOR",
+    "location": "مبنى الإنتاج - الدور الرابع - مكاتب إدارة الإنتاج",
+    "x_pixel": 2195,
+"y_pixel": 800,
+    "gate_x": 2194,
+    "gate_y": 752,
+    "g_angle": 90
+  },
+  {
+    "code": "P8/L1/75",
+    "type": "SMOKE DETECTOR",
+    "location": "مبنى الإنتاج - الدور الرابع - مكاتب إدارة الإنتاج",
+    "x_pixel": 2182,
+"y_pixel": 777,
+    "gate_x": 2194,
+    "gate_y": 752,
+    "g_angle": 90
+  },
+  {
+    "code": "P8/L1/76",
+    "type": "SMOKE DETECTOR",
+    "location": "مبنى الإنتاج - الدور الرابع - مكاتب إدارة الإنتاج",
+    "x_pixel": 2182,
+"y_pixel": 758,
+    "gate_x": 2194,
+    "gate_y": 752,
+    "g_angle": 90
+  },
+
 
 
 
@@ -7997,13 +8118,13 @@
 
 
     {
-        "code": "P8/L1/65",
+        "code": "P8/L2/01",
         "type": "NAC",
         "location": "هنجر الخام - الجهة الشمالية من الداخل",
         "x_pixel": 2817,
         "y_pixel": 1048,
-        "gate_x": 2562,
-        "gate_y": 1160,
+        "gate_x": 2194,
+        "gate_y": 752,
         "g_angle": 90
     }
 ]
