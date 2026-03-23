@@ -9255,6 +9255,560 @@
         "gate_y": 737,
         "g_angle": 270
     },
+    {
+        "code": "P8/L3/01",
+        "type": "SMOKE DETECTOR",
+        "location": "الكربنة الدور الثالث",
+        "x_pixel": 2152,
+        "y_pixel": 759,
+        "gate_x": 2172,
+        "gate_y": 749,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/02",
+        "type": "SMOKE DETECTOR",
+        "location": "الكربنة الدور الثالث",
+        "x_pixel": 2112,
+        "y_pixel": 760,
+        "gate_x": 2172,
+        "gate_y": 749,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/03",
+        "type": "MANUAL CALL POINT",
+        "location": "الكربنة الدور الثالث",
+        "x_pixel": 2081,
+        "y_pixel": 761,
+        "gate_x": 2172,
+        "gate_y": 749,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/04",
+        "type": "SOUNDER",
+        "location": "الكربنة الدور الثالث",
+        "x_pixel": 2078,
+        "y_pixel": 760,
+        "gate_x": 2172,
+        "gate_y": 749,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/05",
+        "type": "FLASHER",
+        "location": "الكربنة الدور الثالث",
+        "x_pixel": 2078,
+        "y_pixel": 762,
+        "gate_x": 2172,
+        "gate_y": 749,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/06",
+        "type": "SMOKE DETECTOR",
+        "location": "الكربنة الدور الثالث",
+        "x_pixel": 2114,
+        "y_pixel": 811,
+        "gate_x": 2172,
+        "gate_y": 749,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/07",
+        "type": "SMOKE DETECTOR",
+        "location": "الكربنة الدور الثالث",
+        "x_pixel": 2154,
+        "y_pixel": 810,
+        "gate_x": 2172,
+        "gate_y": 749,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/08",
+        "type": "SMOKE DETECTOR",
+        "location": "الكربنة الدور الثالث",
+        "x_pixel": 2155,
+        "y_pixel": 862,
+        "gate_x": 2172,
+        "gate_y": 749,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/09",
+        "type": "SMOKE DETECTOR",
+        "location": "الكربنة الدور الثالث",
+        "x_pixel": 2115,
+        "y_pixel": 863,
+        "gate_x": 2172,
+        "gate_y": 749,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/10",
+        "type": "SMOKE DETECTOR",
+        "location": "الكربنة الدور الثالث",
+        "x_pixel": 2117,
+        "y_pixel": 914,
+        "gate_x": 2172,
+        "gate_y": 749,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/11",
+        "type": "SMOKE DETECTOR",
+        "location": "الكربنة الدور الثالث",
+        "x_pixel": 2157,
+        "y_pixel": 913,
+        "gate_x": 2172,
+        "gate_y": 749,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/12",
+        "type": "SMOKE DETECTOR",
+        "location": "الكربنة الدور الثالث",
+        "x_pixel": 2158,
+        "y_pixel": 964,
+        "gate_x": 2172,
+        "gate_y": 749,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/13",
+        "type": "SMOKE DETECTOR",
+        "location": "الكربنة الدور الثالث",
+        "x_pixel": 2118,
+        "y_pixel": 965,
+        "gate_x": 2172,
+        "gate_y": 749,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/14",
+        "type": "SMOKE DETECTOR",
+        "location": "المبخرات - الدور الثالث",
+        "x_pixel": 2120,
+        "y_pixel": 1017,
+        "gate_x": 2172,
+        "gate_y": 749,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/15",
+        "type": "SMOKE DETECTOR",
+        "location": "المبخرات - الدور الثالث",
+        "x_pixel": 2160,
+        "y_pixel": 1015,
+        "gate_x": 2172,
+        "gate_y": 749,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/16",
+        "type": "SMOKE DETECTOR",
+        "location": "المبخرات - الدور الثالث",
+        "x_pixel": 2162,
+        "y_pixel": 1067,
+        "gate_x": 2172,
+        "gate_y": 749,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/17",
+        "type": "SMOKE DETECTOR",
+        "location": "المبخرات - الدور الثالث",
+        "x_pixel": 2121,
+        "y_pixel": 1068,
+        "gate_x": 2172,
+        "gate_y": 749,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/18",
+        "type": "SOUNDER",
+        "location": "المبخرات - الدور الثالث",
+        "x_pixel": 2135,
+        "y_pixel": 1089,
+        "gate_x": 2172,
+        "gate_y": 749,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/19",
+        "type": "FLASHER",
+        "location": "المبخرات - الدور الثالث",
+        "x_pixel": 2132,
+        "y_pixel": 1089,
+        "gate_x": 2172,
+        "gate_y": 749,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/20",
+        "type": "MANUAL CALL POINT",
+        "location": "المبخرات - الدور الثالث",
+        "x_pixel": 2134,
+        "y_pixel": 1092,
+        "gate_x": 2172,
+        "gate_y": 749,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/21",
+        "type": "TAMPER SWITCH",
+        "location": "الكولر",
+        "x_pixel": 2074,
+        "y_pixel": 1094,
+        "gate_x": 2172,
+        "gate_y": 749,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/22",
+        "type": "TAMPER SWITCH",
+        "location": "كونفير 11-010 من الإنتاج الى الصوامع ( غير محدد على المخططات  بدقه )",
+        "x_pixel": 2071,
+        "y_pixel": 1094,
+        "gate_x": 2172,
+        "gate_y": 749,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/23",
+        "type": "LHSD",
+        "location": "كونفير 11-010 من الإنتاج الى الصوامع ( غير محدد على المخططات  بدقه )",
+        "x_pixel": 2050,
+        "y_pixel": 1066,
+        "gate_x": 2172,
+        "gate_y": 749,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/24",
+        "type": "LHSD",
+        "location": "كونفير 11-010 من الإنتاج الى الصوامع ( غير محدد على المخططات  بدقه )",
+        "x_pixel": 2050,
+        "y_pixel": 1062,
+        "gate_x": 2172,
+        "gate_y": 749,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/29-NAC",
+        "type": "NAC",
+        "location": "كونفير 11-010 من الإنتاج الى الصوامع ( غير محدد على المخططات  بدقه )",
+        "x_pixel": 2049,
+        "y_pixel": 1040,
+        "gate_x": 2172,
+        "gate_y": 749,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/30-NAC",
+        "type": "NAC",
+        "location": "الكولر",
+        "x_pixel": 2038,
+        "y_pixel": 983,
+        "gate_x": 1973,
+        "gate_y": 872,
+        "g_angle": 180
+    },
+    {
+        "code": "P8/L3/31-D1",
+        "type": "HEAT DETECTOR",
+        "location": "الكولر",
+        "x_pixel": 2026,
+        "y_pixel": 1033,
+        "gate_x": 1973,
+        "gate_y": 872,
+        "g_angle": 180
+    },
+    {
+        "code": "P8/L3/31-D2",
+        "type": "HEAT DETECTOR",
+        "location": "الكولر",
+        "x_pixel": 2028,
+        "y_pixel": 1081,
+        "gate_x": 1973,
+        "gate_y": 872,
+        "g_angle": 180
+    },
+    {
+        "code": "P8/L3/32-D1",
+        "type": "HEAT DETECTOR",
+        "location": "الكولر",
+        "x_pixel": 2022,
+        "y_pixel": 887,
+        "gate_x": 1973,
+        "gate_y": 872,
+        "g_angle": 180
+    },
+    {
+        "code": "P8/L3/32-D2",
+        "type": "HEAT DETECTOR",
+        "location": "الكولر",
+        "x_pixel": 2024,
+        "y_pixel": 936,
+        "gate_x": 1973,
+        "gate_y": 872,
+        "g_angle": 180
+    },
+    {
+        "code": "P8/L3/32-D3",
+        "type": "HEAT DETECTOR",
+        "location": "الكولر",
+        "x_pixel": 2025,
+        "y_pixel": 984,
+        "gate_x": 1973,
+        "gate_y": 872,
+        "g_angle": 180
+    },
+    {
+        "code": "P8/L3/33",
+        "type": "SMOKE DETECTOR",
+        "location": "المستقبلات",
+        "x_pixel": 2021,
+        "y_pixel": 858,
+        "gate_x": 2172,
+        "gate_y": 749,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/34",
+        "type": "MANUAL CALL POINT",
+        "location": "المستقبلات الجهة الجنوبية",
+        "x_pixel": 1997,
+        "y_pixel": 870,
+        "gate_x": 2172,
+        "gate_y": 749,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/35-D1",
+        "type": "HEAT DETECTOR",
+        "location": "الكولر",
+        "x_pixel": 1987,
+        "y_pixel": 1034,
+        "gate_x": 1973,
+        "gate_y": 872,
+        "g_angle": 180
+    },
+    {
+        "code": "P8/L3/35-D2",
+        "type": "HEAT DETECTOR",
+        "location": "الكولر",
+        "x_pixel": 1988,
+        "y_pixel": 1082,
+        "gate_x": 1973,
+        "gate_y": 872,
+        "g_angle": 180
+    },
+    {
+        "code": "P8/L3/36-D1",
+        "type": "HEAT DETECTOR",
+        "location": "الكولر",
+        "x_pixel": 1982,
+        "y_pixel": 888,
+        "gate_x": 1973,
+        "gate_y": 872,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/36-D2",
+        "type": "HEAT DETECTOR",
+        "location": "الكولر",
+        "x_pixel": 1984,
+        "y_pixel": 937,
+        "gate_x": 1973,
+        "gate_y": 872,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/36-D3",
+        "type": "HEAT DETECTOR",
+        "location": "الكولر",
+        "x_pixel": 1985,
+        "y_pixel": 985,
+        "gate_x": 1973,
+        "gate_y": 872,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/37",
+        "type": "SMOKE DETECTOR",
+        "location": "المستقبلات",
+        "x_pixel": 1982,
+        "y_pixel": 859,
+        "gate_x": 2172,
+        "gate_y": 749,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/38",
+        "type": "SMOKE DETECTOR",
+        "location": "المستقبلات",
+        "x_pixel": 1980,
+        "y_pixel": 808,
+        "gate_x": 2172,
+        "gate_y": 749,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/39",
+        "type": "SMOKE DETECTOR",
+        "location": "المستقبلات",
+        "x_pixel": 2020,
+        "y_pixel": 806,
+        "gate_x": 2172,
+        "gate_y": 749,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/40",
+        "type": "SMOKE DETECTOR",
+        "location": "المستقبلات",
+        "x_pixel": 2018,
+        "y_pixel": 755,
+        "gate_x": 2172,
+        "gate_y": 749,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/41",
+        "type": "SMOKE DETECTOR",
+        "location": "المستقبلات",
+        "x_pixel": 1978,
+        "y_pixel": 757,
+        "gate_x": 2172,
+        "gate_y": 749,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/42",
+        "type": "SMOKE DETECTOR",
+        "location": "المستقبلات",
+        "x_pixel": 1977,
+        "y_pixel": 706,
+        "gate_x": 2172,
+        "gate_y": 749,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/43",
+        "type": "SMOKE DETECTOR",
+        "location": "المستقبلات",
+        "x_pixel": 2017,
+        "y_pixel": 705,
+        "gate_x": 2172,
+        "gate_y": 749,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/44",
+        "type": "SMOKE DETECTOR",
+        "location": "المستقبلات",
+        "x_pixel": 2015,
+        "y_pixel": 654,
+        "gate_x": 2172,
+        "gate_y": 749,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/45",
+        "type": "SMOKE DETECTOR",
+        "location": "المستقبلات",
+        "x_pixel": 1975,
+        "y_pixel": 655,
+        "gate_x": 2172,
+        "gate_y": 749,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/46",
+        "type": "SMOKE DETECTOR",
+        "location": "المستقبلات",
+        "x_pixel": 1973,
+        "y_pixel": 604,
+        "gate_x": 2172,
+        "gate_y": 749,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/47",
+        "type": "SMOKE DETECTOR",
+        "location": "المستقبلات",
+        "x_pixel": 2013,
+        "y_pixel": 602,
+        "gate_x": 2172,
+        "gate_y": 749,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/48",
+        "type": "SMOKE DETECTOR",
+        "location": "المستقبلات",
+        "x_pixel": 2012,
+        "y_pixel": 552,
+        "gate_x": 2172,
+        "gate_y": 749,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/49",
+        "type": "MANUAL CALL POINT",
+        "location": "المستقبلات الجهة الشمالية",
+        "x_pixel": 1985,
+        "y_pixel": 544,
+        "gate_x": 2172,
+        "gate_y": 749,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/50",
+        "type": "FLASHER",
+        "location": "المستقبلات الجهة الشمالية",
+        "x_pixel": 1986,
+        "y_pixel": 547,
+        "gate_x": 2172,
+        "gate_y": 749,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/51",
+        "type": "SOUNDER",
+        "location": "المستقبلات الجهة الشمالية",
+        "x_pixel": 1984,
+        "y_pixel": 547,
+        "gate_x": 2172,
+        "gate_y": 749,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/52",
+        "type": "SMOKE DETECTOR",
+        "location": "المستقبلات",
+        "x_pixel": 1971,
+        "y_pixel": 554,
+        "gate_x": 2172,
+        "gate_y": 749,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/53",
+        "type": "TAMPER SWITCH",
+        "location": "المستقبلات",
+        "x_pixel": 1967,
+        "y_pixel": 545,
+        "gate_x": 2172,
+        "gate_y": 749,
+        "g_angle": 270
+    },
+
+
+
+
 
 
 
@@ -9265,8 +9819,8 @@
 
     
     {
-        "code": "P8/L3/01",
-        "type": "NAC",
+        "code": "P8/L3/54",
+        "type": "MULTI SENSOR DETECTOR",
         "location": "هنجر الخام - الجهة الشمالية من الداخل",
         "x_pixel": 2817,
         "y_pixel": 1048,
