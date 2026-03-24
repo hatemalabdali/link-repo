@@ -70,14 +70,14 @@
         "g_angle": 90
     },
     {
-        "code": "P9/L1/FACP",
+        "code": "P8/L1/FACP",
         "type": "FACP",
         "location": "إدارة السلامة غرفة رجال الاطفاء",
-        "x_pixel": 1181,
-        "y_pixel": 504,
-        "gate_x": 1165,
-        "gate_y": 493,
-        "g_angle": 180
+        "x_pixel": 2140,
+        "y_pixel": 783,
+        "gate_x": 2136,
+        "gate_y": 765,
+        "g_angle": 90
     },
     {
         "code": "P1/L1/01",
@@ -10195,15 +10195,6 @@
         "gate_y": 736,
         "g_angle": 270
     },
-
-
-
-
-
-
-
-
-    
     {
         "code": "P8/L3/27-D1",
         "type": "MULTI SENSOR DETECTOR",
