@@ -10095,6 +10095,106 @@
         "gate_y": 755,
         "g_angle": 180
     },
+    {
+        "code": "P8/L3/57",
+        "type": "ALARM INFRARED BEAM DETECTOR",
+        "location": "الإنتاج السطح العلوي",
+        "x_pixel": 2134,
+        "y_pixel": 479,
+        "gate_x": 2180,
+        "gate_y": 736,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/58",
+        "type": "ALARM INFRARED BEAM DETECTOR",
+        "location": "الإنتاج السطح العلوي",
+        "x_pixel": 2093,
+        "y_pixel": 479,
+        "gate_x": 2180,
+        "gate_y": 736,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/59",
+        "type": "ALARM INFRARED BEAM DETECTOR",
+        "location": "الإنتاج السطح العلوي",
+        "x_pixel": 2052,
+        "y_pixel": 480,
+        "gate_x": 2180,
+        "gate_y": 736,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/60",
+        "type": "ALARM INFRARED BEAM DETECTOR",
+        "location": "الإنتاج السطح العلوي",
+        "x_pixel": 2011,
+        "y_pixel": 480,
+        "gate_x": 2180,
+        "gate_y": 736,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/61",
+        "type": "ALARM INFRARED BEAM DETECTOR",
+        "location": "الإنتاج السطح العلوي",
+        "x_pixel": 1970,
+        "y_pixel": 482,
+        "gate_x": 2180,
+        "gate_y": 736,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/72",
+        "type": "ALARM INFRARED BEAM DETECTOR",
+        "location": "الإنتاج السطح العلوي",
+        "x_pixel": 2019,
+        "y_pixel": 1094,
+        "gate_x": 2180,
+        "gate_y": 736,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/73",
+        "type": "ALARM INFRARED BEAM DETECTOR",
+        "location": "الإنتاج السطح العلوي",
+        "x_pixel": 1979,
+        "y_pixel": 1094,
+        "gate_x": 2180,
+        "gate_y": 736,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/74",
+        "type": "ALARM INFRARED BEAM DETECTOR",
+        "location": "الإنتاج السطح العلوي",
+        "x_pixel": 2064,
+        "y_pixel": 1093,
+        "gate_x": 2180,
+        "gate_y": 736,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/75",
+        "type": "ALARM INFRARED BEAM DETECTOR",
+        "location": "الإنتاج السطح العلوي",
+        "x_pixel": 2103,
+        "y_pixel": 1091,
+        "gate_x": 2180,
+        "gate_y": 736,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/76",
+        "type": "ALARM INFRARED BEAM DETECTOR",
+        "location": "الإنتاج السطح العلوي",
+        "x_pixel": 2144,
+        "y_pixel": 1091,
+        "gate_x": 2180,
+        "gate_y": 736,
+        "g_angle": 270
+    },
 
 
 
@@ -10105,7 +10205,7 @@
 
     
     {
-        "code": "P8/L3/57",
+        "code": "P8/L3/27-D1",
         "type": "MULTI SENSOR DETECTOR",
         "location": "هنجر الخام - الجهة الشمالية من الداخل",
         "x_pixel": 2817,
