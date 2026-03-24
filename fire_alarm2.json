@@ -73,10 +73,10 @@
         "code": "P8/L1/FACP",
         "type": "FACP",
         "location": "إدارة السلامة غرفة رجال الاطفاء",
-        "x_pixel": 2140,
-        "y_pixel": 783,
-        "gate_x": 2136,
-        "gate_y": 765,
+        "x_pixel": 2135,
+        "y_pixel": 767,
+        "gate_x": 2130,
+        "gate_y": 749,
         "g_angle": 90
     },
     {
