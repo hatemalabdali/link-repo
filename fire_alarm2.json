@@ -10226,7 +10226,7 @@
         "g_angle": 175
     },
     {
-        "code": "P8/L3/27/D1",
+        "code": "P8/L3/27-D1",
         "type": "MULTI SENSOR DETECTOR",
         "location": "كونفير 11-010 من الإنتاج الى الصوامع",
         "x_pixel": 1959,
@@ -10236,7 +10236,7 @@
         "g_angle": 175
     },
     {
-        "code": "P8/L3/27/D2",
+        "code": "P8/L3/27-D2",
         "type": "MULTI SENSOR DETECTOR",
         "location": "كونفير 11-010 من الإنتاج الى الصوامع",
         "x_pixel": 1964,
@@ -10246,7 +10246,7 @@
         "g_angle": 175
     },
     {
-        "code": "P8/L3/27/D3",
+        "code": "P8/L3/27-D3",
         "type": "MULTI SENSOR DETECTOR",
         "location": "كونفير 11-010 من الإنتاج الى الصوامع",
         "x_pixel": 1968,
@@ -10256,7 +10256,7 @@
         "g_angle": 175
     },
     {
-        "code": "P8/L3/28/D1",
+        "code": "P8/L3/28-D1",
         "type": "MULTI SENSOR DETECTOR",
         "location": "كونفير 11-010 من الإنتاج الى الصوامع",
         "x_pixel": 1974,
@@ -10266,7 +10266,7 @@
         "g_angle": 175
     },
     {
-        "code": "P8/L3/28/D2",
+        "code": "P8/L3/28-D2",
         "type": "MULTI SENSOR DETECTOR",
         "location": "كونفير 11-010 من الإنتاج الى الصوامع",
         "x_pixel": 1979,
