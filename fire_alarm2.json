@@ -10205,16 +10205,92 @@
         "gate_y": 752,
         "g_angle": 90
     },
-
-
-
-
-
-
-
-
+    {
+        "code": "P8/L3/25 NAC-1",
+        "type": "NAC",
+        "location": "كونفير 11-010 من الإنتاج الى الصوامع",
+        "x_pixel": 1961,
+        "y_pixel": 1245,
+        "gate_x": 1949,
+        "gate_y": 1089,
+        "g_angle": 180
+    },
     {
         "code": "P8/L3/26",
+        "type": "MANUAL CALL POINT",
+        "location": "كونفير 11-010 من الإنتاج الى الصوامع",
+        "x_pixel": 1961,
+        "y_pixel": 1248,
+        "gate_x": 1949,
+        "gate_y": 1089,
+        "g_angle": 180
+    },
+    {
+        "code": "P8/L3/27/D1",
+        "type": "MULTI SENSOR DETECTOR",
+        "location": "كونفير 11-010 من الإنتاج الى الصوامع",
+        "x_pixel": 1959,
+        "y_pixel": 1136,
+        "gate_x": 1949,
+        "gate_y": 1089,
+        "g_angle": 180
+    },
+    {
+        "code": "P8/L3/27/D2",
+        "type": "MULTI SENSOR DETECTOR",
+        "location": "كونفير 11-010 من الإنتاج الى الصوامع",
+        "x_pixel": 1964,
+        "y_pixel": 1192,
+        "gate_x": 1949,
+        "gate_y": 1089,
+        "g_angle": 180
+    },
+    {
+        "code": "P8/L3/27/D3",
+        "type": "MULTI SENSOR DETECTOR",
+        "location": "كونفير 11-010 من الإنتاج الى الصوامع",
+        "x_pixel": 1968,
+        "y_pixel": 1248,
+        "gate_x": 1949,
+        "gate_y": 1089,
+        "g_angle": 180
+    },
+    {
+        "code": "P8/L3/28/D1",
+        "type": "MULTI SENSOR DETECTOR",
+        "location": "كونفير 11-010 من الإنتاج الى الصوامع",
+        "x_pixel": 1974,
+        "y_pixel": 1303,
+        "gate_x": 1949,
+        "gate_y": 1089,
+        "g_angle": 180
+    },
+    {
+        "code": "P8/L3/28/D2",
+        "type": "MULTI SENSOR DETECTOR",
+        "location": "كونفير 11-010 من الإنتاج الى الصوامع",
+        "x_pixel": 1979,
+        "y_pixel": 1358,
+        "gate_x": 1949,
+        "gate_y": 1089,
+        "g_angle": 180
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    {
+        "code": "P9/L1/15",
         "type": "MULTI SENSOR DETECTOR",
         "location": "هنجر الخام - الجهة الشمالية من الداخل",
         "x_pixel": 2817,
