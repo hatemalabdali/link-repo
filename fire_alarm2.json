@@ -10204,5 +10204,23 @@
         "gate_x": 2194,
         "gate_y": 752,
         "g_angle": 90
+    },
+
+
+
+
+
+
+
+    
+    {
+        "code": "P9/L1/28",
+        "type": "MULTI SENSOR DETECTOR",
+        "location": "هنجر الخام - الجهة الشمالية من الداخل",
+        "x_pixel": 2817,
+        "y_pixel": 1048,
+        "gate_x": 2194,
+        "gate_y": 752,
+        "g_angle": 90
     }
 ]
