@@ -391,10 +391,34 @@
 {
   "calibrationKey": "p9_change_clothes_above_false",
   "calX": 1712.25,
-  "calY": 389.375,
-  "rotation": 0.0,
+  "calY": 404.75,
+  "rotation": 178.125,
   "scaleX": 0.05144893,
   "scaleY": 0.05144893
+},
+{
+  "calibrationKey": "p9_change_clothes_below_false",
+  "calX": 1703.375,
+  "calY": 404.25,
+  "rotation": 180.25,
+  "scaleX": 0.050928257,
+  "scaleY": 0.050928257
+},
+{
+  "calibrationKey": "p9_proposed_fire_pump_room",
+  "calX": 1062.25,
+  "calY": 231.75,
+  "rotation": -92.5,
+  "scaleX": 0.04206966,
+  "scaleY": 0.04206966
+},
+{
+  "calibrationKey": "p9_ro_plant",
+  "calX": 1240.875,
+  "calY": 232.375,
+  "rotation": 0.0,
+  "scaleX": 0.038662266,
+  "scaleY": 0.038662266
 },
 
 
