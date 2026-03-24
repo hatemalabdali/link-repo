@@ -388,7 +388,14 @@
   "scaleY": 0.08078336
 },
 
-
+{
+  "calibrationKey": "p9_change_clothes_above_false",
+  "calX": 1712.25,
+  "calY": 389.375,
+  "rotation": 0.0,
+  "scaleX": 0.05144893,
+  "scaleY": 0.05144893
+},
 
 
 
