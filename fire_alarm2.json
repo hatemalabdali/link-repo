@@ -10213,7 +10213,7 @@
         "y_pixel": 1245,
         "gate_x": 1949,
         "gate_y": 1089,
-        "g_angle": 180
+        "g_angle": 175
     },
     {
         "code": "P8/L3/26",
@@ -10223,7 +10223,7 @@
         "y_pixel": 1248,
         "gate_x": 1949,
         "gate_y": 1089,
-        "g_angle": 180
+        "g_angle": 175
     },
     {
         "code": "P8/L3/27/D1",
@@ -10233,7 +10233,7 @@
         "y_pixel": 1136,
         "gate_x": 1949,
         "gate_y": 1089,
-        "g_angle": 180
+        "g_angle": 175
     },
     {
         "code": "P8/L3/27/D2",
@@ -10243,7 +10243,7 @@
         "y_pixel": 1192,
         "gate_x": 1949,
         "gate_y": 1089,
-        "g_angle": 180
+        "g_angle": 175
     },
     {
         "code": "P8/L3/27/D3",
@@ -10253,7 +10253,7 @@
         "y_pixel": 1248,
         "gate_x": 1949,
         "gate_y": 1089,
-        "g_angle": 180
+        "g_angle": 175
     },
     {
         "code": "P8/L3/28/D1",
@@ -10263,7 +10263,7 @@
         "y_pixel": 1303,
         "gate_x": 1949,
         "gate_y": 1089,
-        "g_angle": 180
+        "g_angle": 175
     },
     {
         "code": "P8/L3/28/D2",
@@ -10273,7 +10273,7 @@
         "y_pixel": 1358,
         "gate_x": 1949,
         "gate_y": 1089,
-        "g_angle": 180
+        "g_angle": 175
     },
 
 
@@ -10288,7 +10288,7 @@
 
 
 
-    
+
     {
         "code": "P9/L1/15",
         "type": "MULTI SENSOR DETECTOR",
