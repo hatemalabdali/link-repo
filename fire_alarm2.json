@@ -10290,7 +10290,37 @@
 
 
     {
+        "code": "P9/L1/11",
+        "type": "MULTI SENSOR DETECTOR",
+        "location": "هنجر الخام - الجهة الشمالية من الداخل",
+        "x_pixel": 2817,
+        "y_pixel": 1048,
+        "gate_x": 2194,
+        "gate_y": 752,
+        "g_angle": 90
+    },
+     {
         "code": "P9/L1/15",
+        "type": "MULTI SENSOR DETECTOR",
+        "location": "هنجر الخام - الجهة الشمالية من الداخل",
+        "x_pixel": 2817,
+        "y_pixel": 1048,
+        "gate_x": 2194,
+        "gate_y": 752,
+        "g_angle": 90
+    },
+     {
+        "code": "P9/L2/25",
+        "type": "MULTI SENSOR DETECTOR",
+        "location": "هنجر الخام - الجهة الشمالية من الداخل",
+        "x_pixel": 2817,
+        "y_pixel": 1048,
+        "gate_x": 2194,
+        "gate_y": 752,
+        "g_angle": 90
+    },
+     {
+        "code": "P9/L2/01",
         "type": "MULTI SENSOR DETECTOR",
         "location": "هنجر الخام - الجهة الشمالية من الداخل",
         "x_pixel": 2817,
