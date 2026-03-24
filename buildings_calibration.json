@@ -414,11 +414,11 @@
 },
 {
   "calibrationKey": "p9_ro_plant",
-  "calX": 1240.875,
-  "calY": 232.375,
+  "calX": 1238.75,
+  "calY": 251.625,
   "rotation": 0.0,
-  "scaleX": 0.038662266,
-  "scaleY": 0.038662266
+  "scaleX": 0.037084363,
+  "scaleY": 0.047942847
 },
 
 
