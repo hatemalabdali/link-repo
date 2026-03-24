@@ -9805,10 +9805,296 @@
         "gate_y": 749,
         "g_angle": 270
     },
-
-
-
-
+    {
+        "code": "P8/L3/54",
+        "type": "MANUAL CALL POINT",
+        "location": "البانات",
+        "x_pixel": 1964,
+        "y_pixel": 587,
+        "gate_x": 2178,
+        "gate_y": 755,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/55",
+        "type": "SOUNDER",
+        "location": "البانات",
+        "x_pixel": 1966,
+        "y_pixel": 588,
+        "gate_x": 2178,
+        "gate_y": 755,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/56",
+        "type": "FLASHER",
+        "location": "البانات",
+        "x_pixel": 1966,
+        "y_pixel": 586,
+        "gate_x": 2178,
+        "gate_y": 755,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/62",
+        "type": "FLOW SWITCH",
+        "location": "البانات",
+        "x_pixel": 1967,
+        "y_pixel": 833,
+        "gate_x": 2178,
+        "gate_y": 755,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/63",
+        "type": "TAMPER SWITCH",
+        "location": "البانات",
+        "x_pixel": 1968,
+        "y_pixel": 837,
+        "gate_x": 2178,
+        "gate_y": 755,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/64",
+        "type": "MANUAL CALL POINT",
+        "location": "بجانب الباج فلتر",
+        "x_pixel": 1969,
+        "y_pixel": 917,
+        "gate_x": 2178,
+        "gate_y": 755,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/65",
+        "type": "FLASHER",
+        "location": "بجانب الباج فلتر",
+        "x_pixel": 1971,
+        "y_pixel": 916,
+        "gate_x": 2178,
+        "gate_y": 755,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/66",
+        "type": "SOUNDER",
+        "location": "بجانب الباج فلتر",
+        "x_pixel": 1971,
+        "y_pixel": 919,
+        "gate_x": 2178,
+        "gate_y": 755,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/67",
+        "type": "MANUAL CALL POINT",
+        "location": "بجانب باب الباج فلتر",
+        "x_pixel": 2023,
+        "y_pixel": 985,
+        "gate_x": 2178,
+        "gate_y": 755,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/68-D1",
+        "type": "HEAT DETECTOR",
+        "location": "الباج فلتر",
+        "x_pixel": 1986,
+        "y_pixel": 1003,
+        "gate_x": 2033,
+        "gate_y": 986,
+        "g_angle": 180
+    },
+    {
+        "code": "P8/L3/68-D2",
+        "type": "HEAT DETECTOR",
+        "location": "الباج فلتر",
+        "x_pixel": 1986,
+        "y_pixel": 1043,
+        "gate_x": 2033,
+        "gate_y": 986,
+        "g_angle": 180
+    },
+    {
+        "code": "P8/L3/68-D3",
+        "type": "HEAT DETECTOR",
+        "location": "الباج فلتر",
+        "x_pixel": 1987,
+        "y_pixel": 1083,
+        "gate_x": 2033,
+        "gate_y": 986,
+        "g_angle": 180
+    },
+    {
+        "code": "P8/L3/69-D1",
+        "type": "HEAT DETECTOR",
+        "location": "الباج فلتر",
+        "x_pixel": 2025,
+        "y_pixel": 1003,
+        "gate_x": 2033,
+        "gate_y": 986,
+        "g_angle": 180
+    },
+    {
+        "code": "P8/L3/69-D2",
+        "type": "HEAT DETECTOR",
+        "location": "الباج فلتر",
+        "x_pixel": 2026,
+        "y_pixel": 1043,
+        "gate_x": 2033,
+        "gate_y": 986,
+        "g_angle": 180
+    },
+    {
+        "code": "P8/L3/69-D3",
+        "type": "HEAT DETECTOR",
+        "location": "الباج فلتر",
+        "x_pixel": 2026,
+        "y_pixel": 1083,
+        "gate_x": 2033,
+        "gate_y": 986,
+        "g_angle": 180
+    },
+    {
+        "code": "P8/L3/70",
+        "type": "NAC",
+        "location": "الباج فلتر",
+        "x_pixel": 2045,
+        "y_pixel": 1041,
+        "gate_x": 2178,
+        "gate_y": 755,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/71",
+        "type": "TAMPER SWITCH",
+        "location": "الباج فلتر",
+        "x_pixel": 2054,
+        "y_pixel": 1096,
+        "gate_x": 2178,
+        "gate_y": 755,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/77",
+        "type": "MANUAL CALL POINT",
+        "location": "الجهة الجنوبية للإنتاج - الدور الرابع",
+        "x_pixel": 2138,
+        "y_pixel": 1095,
+        "gate_x": 2178,
+        "gate_y": 755,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/78",
+        "type": "FLASHER",
+        "location": "الجهة الجنوبية للإنتاج - الدور الرابع",
+        "x_pixel": 2137,
+        "y_pixel": 1092,
+        "gate_x": 2178,
+        "gate_y": 755,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/79",
+        "type": "SOUNDER",
+        "location": "الجهة الجنوبية للإنتاج - الدور الرابع",
+        "x_pixel": 2139,
+        "y_pixel": 1092,
+        "gate_x": 2178,
+        "gate_y": 755,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/80 NAC-1",
+        "type": "NAC",
+        "location": "الدراير - من الداخل",
+        "x_pixel": 2041,
+        "y_pixel": 1040,
+        "gate_x": 2033,
+        "gate_y": 986,
+        "g_angle": 180
+    },
+    {
+        "code": "P8/L3/81",
+        "type": "MULTI SENSOR DETECTOR",
+        "location": "بجانب DCS",
+        "x_pixel": 2136,
+        "y_pixel": 856,
+        "gate_x": 2178,
+        "gate_y": 755,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/82",
+        "type": "MULTI SENSOR DETECTOR",
+        "location": "بجانب DCS",
+        "x_pixel": 2136,
+        "y_pixel": 852,
+        "gate_x": 2178,
+        "gate_y": 755,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/83",
+        "type": "MULTI SENSOR DETECTOR",
+        "location": "بجانب DCS",
+        "x_pixel": 2135,
+        "y_pixel": 797,
+        "gate_x": 2178,
+        "gate_y": 755,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/84",
+        "type": "MULTI SENSOR DETECTOR",
+        "location": "بجانب DCS",
+        "x_pixel": 2135,
+        "y_pixel": 792,
+        "gate_x": 2178,
+        "gate_y": 755,
+        "g_angle": 270
+    },
+    {
+        "code": "P8/L3/85",
+        "type": "MULTI SENSOR DETECTOR",
+        "location": "بجانب DCS",
+        "x_pixel": 2135,
+        "y_pixel": 789,
+        "gate_x": 2178,
+        "gate_y": 755,
+        "g_angle": 180
+    },
+    {
+        "code": "P8/L3/86",
+        "type": "MANUAL CALL POINT",
+        "location": "بجانب DCS",
+        "x_pixel": 2090,
+        "y_pixel": 764,
+        "gate_x": 2178,
+        "gate_y": 755,
+        "g_angle": 180
+    },
+    {
+        "code": "P8/L3/87",
+        "type": "FLASHER",
+        "location": "بجانب DCS",
+        "x_pixel": 2092,
+        "y_pixel": 762,
+        "gate_x": 2178,
+        "gate_y": 755,
+        "g_angle": 180
+    },
+    {
+        "code": "P8/L3/88",
+        "type": "SOUNDER",
+        "location": "بجانب DCS",
+        "x_pixel": 2093,
+        "y_pixel": 765,
+        "gate_x": 2178,
+        "gate_y": 755,
+        "g_angle": 180
+    },
 
 
 
@@ -9819,7 +10105,7 @@
 
     
     {
-        "code": "P8/L3/54",
+        "code": "P8/L3/57",
         "type": "MULTI SENSOR DETECTOR",
         "location": "هنجر الخام - الجهة الشمالية من الداخل",
         "x_pixel": 2817,
