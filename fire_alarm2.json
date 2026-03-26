@@ -10952,7 +10952,7 @@
         "y_pixel": 247,
         "gate_x": 980,
         "gate_y": 267,
-        "g_angle": 270
+        "g_angle": 0
     },
     {
         "code": "P9/L2/26",
@@ -10962,7 +10962,7 @@
         "y_pixel": 247,
         "gate_x": 980,
         "gate_y": 267,
-        "g_angle": 270
+        "g_angle": 0
     },
     {
         "code": "P9/L2/27",
@@ -10972,7 +10972,7 @@
         "y_pixel": 244,
         "gate_x": 980,
         "gate_y": 267,
-        "g_angle": 270
+        "g_angle": 0
     },
     {
         "code": "P9/L2/28",
@@ -10982,7 +10982,7 @@
         "y_pixel": 241,
         "gate_x": 980,
         "gate_y": 267,
-        "g_angle": 270
+        "g_angle": 0
     },
     {
         "code": "P9/L2/29",
@@ -10992,7 +10992,7 @@
         "y_pixel": 239,
         "gate_x": 980,
         "gate_y": 267,
-        "g_angle": 270
+        "g_angle": 0
     },
     {
         "code": "P9/L2/30",
@@ -11002,7 +11002,7 @@
         "y_pixel": 236,
         "gate_x": 980,
         "gate_y": 267,
-        "g_angle": 270
+        "g_angle": 0
     },
     {
         "code": "P9/L2/31",
@@ -11012,7 +11012,7 @@
         "y_pixel": 233,
         "gate_x": 980,
         "gate_y": 267,
-        "g_angle": 270
+        "g_angle": 0
     },
     {
         "code": "P9/L2/32",
@@ -11022,7 +11022,7 @@
         "y_pixel": 231,
         "gate_x": 980,
         "gate_y": 267,
-        "g_angle": 270
+        "g_angle": 0
     },
     {
         "code": "P9/L2/33",
@@ -11032,7 +11032,7 @@
         "y_pixel": 233,
         "gate_x": 980,
         "gate_y": 267,
-        "g_angle": 270
+        "g_angle": 0
     },
     {
         "code": "P9/L2/34",
@@ -11042,7 +11042,7 @@
         "y_pixel": 236,
         "gate_x": 980,
         "gate_y": 267,
-        "g_angle": 270
+        "g_angle": 0
     },
     {
         "code": "P9/L2/35",
@@ -11052,7 +11052,7 @@
         "y_pixel": 239,
         "gate_x": 980,
         "gate_y": 267,
-        "g_angle": 270
+        "g_angle": 0
     },
     {
         "code": "P9/L2/36",
@@ -11062,7 +11062,7 @@
         "y_pixel": 241,
         "gate_x": 980,
         "gate_y": 267,
-        "g_angle": 270
+        "g_angle": 0
     },
     {
         "code": "P9/L2/37",
@@ -11072,7 +11072,7 @@
         "y_pixel": 244,
         "gate_x": 980,
         "gate_y": 267,
-        "g_angle": 270
+        "g_angle": 0
     },
     {
         "code": "P9/L2/38",
@@ -11082,7 +11082,7 @@
         "y_pixel": 247,
         "gate_x": 980,
         "gate_y": 267,
-        "g_angle": 270
+        "g_angle": 0
     },
     {
         "code": "P9/L2/39",
@@ -11092,7 +11092,7 @@
         "y_pixel": 247,
         "gate_x": 980,
         "gate_y": 267,
-        "g_angle": 270
+        "g_angle": 0
     },
     {
         "code": "P9/L2/40",
@@ -11102,7 +11102,7 @@
         "y_pixel": 244,
         "gate_x": 980,
         "gate_y": 267,
-        "g_angle": 270
+        "g_angle": 0
     },
     {
         "code": "P9/L2/41",
@@ -11112,7 +11112,7 @@
         "y_pixel": 241,
         "gate_x": 980,
         "gate_y": 267,
-        "g_angle": 270
+        "g_angle": 0
     },
     {
         "code": "P9/L2/42",
@@ -11122,7 +11122,7 @@
         "y_pixel": 238,
         "gate_x": 980,
         "gate_y": 267,
-        "g_angle": 270
+        "g_angle": 0
     },
     {
         "code": "P9/L2/43",
@@ -11132,7 +11132,7 @@
         "y_pixel": 236,
         "gate_x": 980,
         "gate_y": 267,
-        "g_angle": 270
+        "g_angle": 0
     },
     {
         "code": "P9/L2/44",
@@ -11142,7 +11142,7 @@
         "y_pixel": 233,
         "gate_x": 980,
         "gate_y": 267,
-        "g_angle": 270
+        "g_angle": 0
     },
     {
         "code": "P9/L2/45",
@@ -11152,7 +11152,7 @@
         "y_pixel": 230,
         "gate_x": 980,
         "gate_y": 267,
-        "g_angle": 270
+        "g_angle": 0
     },
     {
         "code": "P9/L2/46",
@@ -11162,7 +11162,7 @@
         "y_pixel": 214,
         "gate_x": 980,
         "gate_y": 267,
-        "g_angle": 270
+        "g_angle": 0
     },
     {
         "code": "P9/L2/47",
@@ -11172,7 +11172,7 @@
         "y_pixel": 214,
         "gate_x": 980,
         "gate_y": 267,
-        "g_angle": 270
+        "g_angle": 0
     },
     {
         "code": "P9/L2/48",
@@ -11182,7 +11182,7 @@
         "y_pixel": 247,
         "gate_x": 980,
         "gate_y": 267,
-        "g_angle": 270
+        "g_angle": 0
     },
     {
         "code": "P9/L2/49",
@@ -11192,7 +11192,7 @@
         "y_pixel": 258,
         "gate_x": 980,
         "gate_y": 267,
-        "g_angle": 270
+        "g_angle": 0
     },
     {
         "code": "P9/L2/50",
@@ -11202,7 +11202,7 @@
         "y_pixel": 258,
         "gate_x": 980,
         "gate_y": 267,
-        "g_angle": 270
+        "g_angle": 0
     },
     {
         "code": "P9/L2/51",
@@ -11212,7 +11212,7 @@
         "y_pixel": 260,
         "gate_x": 980,
         "gate_y": 267,
-        "g_angle": 270
+        "g_angle": 0
     },
     {
         "code": "P9/L2/52 NAC-1",
@@ -11222,6 +11222,6 @@
         "y_pixel": 264,
         "gate_x": 980,
         "gate_y": 267,
-        "g_angle": 270
+        "g_angle": 0
     }
 ]
