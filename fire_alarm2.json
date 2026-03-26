@@ -10291,6 +10291,120 @@
 
     
   {
+    "code": "P9/L1/01 NAC-1",
+    "type": "NAC",
+    "location": "امام مكتب البيئة والمشاريع",
+    "x_pixel": 1608,
+"y_pixel": 574,
+    "gate_x": 1604,
+    "gate_y": 572,
+    "g_angle": 180
+  },
+  {
+    "code": "P9/L1/01 NAC-2",
+    "type": "NAC",
+    "location": "امام إدارة السلامة",
+    "x_pixel": 1514,
+"y_pixel": 575,
+    "gate_x": 1532,
+    "gate_y": 573,
+    "g_angle": 180
+  },
+  {
+    "code": "P9/L1/02",
+    "type": "MANUAL CALL POINT",
+    "location": "صالة إدارة السلامة",
+    "x_pixel": 1524,
+"y_pixel": 579,
+    "gate_x": 1532,
+    "gate_y": 573,
+    "g_angle": 180
+  },
+  {
+    "code": "P9/L1/03",
+    "type": "FLASHER",
+    "location": "صالة إدارة السلامة",
+    "x_pixel": 1524,
+"y_pixel": 579,
+    "gate_x": 1532,
+    "gate_y": 573,
+    "g_angle": 180
+  },
+  {
+    "code": "P9/L1/04",
+    "type": "SOUNDER",
+    "location": "صالة إدارة السلامة",
+    "x_pixel": 1524,
+"y_pixel": 579,
+    "gate_x": 1532,
+    "gate_y": 573,
+    "g_angle": 180
+  },
+  {
+    "code": "P9/L1/05",
+    "type": "SMOKE DETECTOR",
+    "location": "صالة إدارة السلامة",
+    "x_pixel": 1532,
+"y_pixel": 583,
+    "gate_x": 1532,
+    "gate_y": 573,
+    "g_angle": 180
+  },
+  {
+    "code": "P9/L1/06",
+    "type": "SMOKE DETECTOR",
+    "location": "مكتب مراقبي السلامة",
+    "x_pixel": 1506,
+"y_pixel": 582,
+    "gate_x": 1532,
+    "gate_y": 573,
+    "g_angle": 180
+  },
+  {
+    "code": "P9/L1/07",
+    "type": "SMOKE DETECTOR",
+    "location": "قاعة تدريب السلامة",
+    "x_pixel": 1506,
+"y_pixel": 593,
+    "gate_x": 1532,
+    "gate_y": 573,
+    "g_angle": 180
+  },
+  {
+    "code": "P9/L1/08",
+    "type": "SMOKE DETECTOR",
+    "location": "مكتب مدير السلامة",
+   "x_pixel": 1540,
+"y_pixel": 593,
+    "gate_x": 1532,
+    "gate_y": 573,
+    "g_angle": 180
+  },
+  {
+    "code": "P9/L1/09",
+    "type": "SMOKE DETECTOR",
+    "location": "مخزن السلامة",
+    "x_pixel": 1570,
+"y_pixel": 594,
+    "gate_x": 1532,
+    "gate_y": 573,
+    "g_angle": 180
+  },
+  {
+    "code": "P9/L1/10",
+    "type": "SMOKE DETECTOR",
+    "location": "غرفة تبديل الملابس - السلامة",
+    "x_pixel": 1571,
+"y_pixel": 583,
+    "gate_x": 1532,
+    "gate_y": 573,
+    "g_angle": 180
+  },
+
+
+
+
+  {
     "code": "P9/L1/11",
     "type": "MANUAL CALL POINT",
     "location": "ضاغطة صالة سكن الفنيين القديم بجانب المدخل الغربي",
