@@ -228,17 +228,17 @@
 {
   "calibrationKey": "p5_workshop_spare_part_store_level_0",
   "calX": 1577.625,
-  "calY": 757.5,
+  "calY": 765.0,
   "rotation": -270.125,
-  "scaleX": 0.06473794,
-  "scaleY": 0.06473794
+  "scaleX": 0.059722837,
+  "scaleY": 0.06509483
 },
 {
   "calibrationKey": "p5_workshop_spare_part_store_level_1",
-  "calX": 1570.0,
-  "calY": 758.375,
+  "calX": 1573.25,
+  "calY": 770.75,
   "rotation": -269.5,
-  "scaleX": 0.065067545,
+  "scaleX": 0.05905967,
   "scaleY": 0.065067545
 },
 {
