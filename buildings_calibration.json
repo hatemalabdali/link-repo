@@ -235,11 +235,11 @@
 },
 {
   "calibrationKey": "p5_workshop_spare_part_store_level_1",
-  "calX": 1573.25,
-  "calY": 770.75,
-  "rotation": -269.5,
-  "scaleX": 0.05905967,
-  "scaleY": 0.065067545
+  "calX": 1577.625,
+  "calY": 765.0,
+  "rotation": -270.125,
+  "scaleX": 0.059722837,
+  "scaleY": 0.06509483
 },
 {
   "calibrationKey": "p5_auxilary_chemical_store",
