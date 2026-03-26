@@ -10275,737 +10275,953 @@
         "gate_y": 1089,
         "g_angle": 175
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-  {
-    "code": "P9/L1/01 NAC-1",
-    "type": "NAC",
-    "location": "امام مكتب البيئة والمشاريع",
-    "x_pixel": 1608,
-"y_pixel": 574,
-    "gate_x": 1604,
-    "gate_y": 572,
-    "g_angle": 180
-  },
-  {
-    "code": "P9/L1/01 NAC-2",
-    "type": "NAC",
-    "location": "امام إدارة السلامة",
-    "x_pixel": 1514,
-"y_pixel": 575,
-    "gate_x": 1532,
-    "gate_y": 573,
-    "g_angle": 180
-  },
-  {
-    "code": "P9/L1/02",
-    "type": "MANUAL CALL POINT",
-    "location": "صالة إدارة السلامة",
-    "x_pixel": 1524,
-"y_pixel": 579,
-    "gate_x": 1532,
-    "gate_y": 573,
-    "g_angle": 180
-  },
-  {
-    "code": "P9/L1/03",
-    "type": "FLASHER",
-    "location": "صالة إدارة السلامة",
-    "x_pixel": 1524,
-"y_pixel": 579,
-    "gate_x": 1532,
-    "gate_y": 573,
-    "g_angle": 180
-  },
-  {
-    "code": "P9/L1/04",
-    "type": "SOUNDER",
-    "location": "صالة إدارة السلامة",
-    "x_pixel": 1524,
-"y_pixel": 579,
-    "gate_x": 1532,
-    "gate_y": 573,
-    "g_angle": 180
-  },
-  {
-    "code": "P9/L1/05",
-    "type": "SMOKE DETECTOR",
-    "location": "صالة إدارة السلامة",
-    "x_pixel": 1532,
-"y_pixel": 583,
-    "gate_x": 1532,
-    "gate_y": 573,
-    "g_angle": 180
-  },
-  {
-    "code": "P9/L1/06",
-    "type": "SMOKE DETECTOR",
-    "location": "مكتب مراقبي السلامة",
-    "x_pixel": 1506,
-"y_pixel": 582,
-    "gate_x": 1532,
-    "gate_y": 573,
-    "g_angle": 180
-  },
-  {
-    "code": "P9/L1/07",
-    "type": "SMOKE DETECTOR",
-    "location": "قاعة تدريب السلامة",
-    "x_pixel": 1506,
-"y_pixel": 593,
-    "gate_x": 1532,
-    "gate_y": 573,
-    "g_angle": 180
-  },
-  {
-    "code": "P9/L1/08",
-    "type": "SMOKE DETECTOR",
-    "location": "مكتب مدير السلامة",
-   "x_pixel": 1540,
-"y_pixel": 593,
-    "gate_x": 1532,
-    "gate_y": 573,
-    "g_angle": 180
-  },
-  {
-    "code": "P9/L1/09",
-    "type": "SMOKE DETECTOR",
-    "location": "مخزن السلامة",
-    "x_pixel": 1570,
-"y_pixel": 594,
-    "gate_x": 1532,
-    "gate_y": 573,
-    "g_angle": 180
-  },
-  {
-    "code": "P9/L1/10",
-    "type": "SMOKE DETECTOR",
-    "location": "غرفة تبديل الملابس - السلامة",
-    "x_pixel": 1571,
-"y_pixel": 583,
-    "gate_x": 1532,
-    "gate_y": 573,
-    "g_angle": 180
-  },
-
-
-
-
-  {
-    "code": "P9/L1/11",
-    "type": "MANUAL CALL POINT",
-    "location": "ضاغطة صالة سكن الفنيين القديم بجانب المدخل الغربي",
-    "x_pixel": 1649,
-"y_pixel": 395,
-    "gate_x": 1640,
-    "gate_y": 400,
-    "g_angle": 90
-  },
-  {
-    "code": "P9/L1/12",
-    "type": "FLASHER",
-    "location": "فلاشر صالة سكن الفنيين القديم بجانب المدخل الغربي",
-    "x_pixel": 1650,
-"y_pixel": 397,
-    "gate_x": 1640,
-    "gate_y": 400,
-    "g_angle": 90
-  },
-  {
-    "code": "P9/L1/13",
-    "type": "SOUNDER",
-    "location": "سوندر صالة سكن الفنيين القديم بجانب المدخل الغربي",
-    "x_pixel": 1648,
-"y_pixel": 397,
-    "gate_x": 1640,
-    "gate_y": 400,
-    "g_angle": 90
-  },
-  {
-    "code": "P9/L1/14 NAC-1",
-    "type": "NAC",
-    "location": "خارج البوابة الشرقية لمبنى سكن الفنيين القديم",
-    "x_pixel": 1641,
-"y_pixel": 390,
-    "gate_x": 1640,
-    "gate_y": 400,
-    "g_angle": 90
-  },
-  {
-    "code": "P9/L1/14 NAC-2",
-    "type": "NAC",
-    "x_pixel": 1785,
-"y_pixel": 392,
-    "gate_x": 1640,
-    "gate_y": 400,
-    "g_angle": 90
-  },
-  {
-    "code": "P9/L1/24",
-    "type": "SMOKE DETECTOR",
-    "location": "سكن الفنيين القديم - غرفة رقم 1",
-    "x_pixel": 1652,
-"y_pixel": 419,
-    "gate_x": 1655,
-    "gate_y": 404,
-    "g_angle": 180
-  },
-  {
-    "code": "P9/L1/25",
-    "type": "SMOKE DETECTOR",
-    "location": "استراحة سكن الفنيين القديم",
-    "x_pixel": 1660,
-"y_pixel": 447,
-    "gate_x": 1670,
-    "gate_y": 461,
-    "g_angle": 0
-  },
-  {
-    "code": "P9/L1/26",
-    "type": "SMOKE DETECTOR",
-    "location": "سكن الفنيين القديم - غرفة رقم 2",
-    "x_pixel": 1669,
-"y_pixel": 420,
-    "gate_x": 1672,
-    "gate_y": 404,
-    "g_angle": 180
-  },
-  {
-    "code": "P9/L1/27",
-    "type": "SMOKE DETECTOR",
-    "location": "سكن الفنيين القديم - غرفة تغيير الملابس - الصيانة",
-    "x_pixel": 1695,
-"y_pixel": 418,
-    "gate_x": 1682,
-    "gate_y": 462,
-    "g_angle": 0
-  },
-  {
-    "code": "P9/L1/28",
-    "type": "SMOKE DETECTOR",
-    "location": "سكن الفنيين القديم - غرفة تغيير الملابس - الصيانة",
-    "x_pixel": 1695,
-"y_pixel": 447,
-    "gate_x": 1682,
-    "gate_y": 462,
-    "g_angle": 0
-  },
-  {
-    "code": "P9/L1/29",
-    "type": "SMOKE DETECTOR",
-    "location": "سكن الفنيين القديم - غرفة تغيير الملابس - الصيانة",
-    "x_pixel": 1735,
-"y_pixel": 447,
-    "gate_x": 1682,
-    "gate_y": 462,
-    "g_angle": 0
-  },
-  {
-    "code": "P9/L1/30",
-    "type": "SMOKE DETECTOR",
-    "location": "سكن الفنيين القديم - غرفة تغيير الملابس - الصيانة",
-    "x_pixel": 1736,
-"y_pixel": 418,
-    "gate_x": 1682,
-    "gate_y": 462,
-    "g_angle": 0
-  },
-  {
-    "code": "P9/L1/31",
-    "type": "MANUAL CALL POINT",
-    "location": "ضاغطة صالة سكن الفنيين القديم",
-    "x_pixel": 1775,
-"y_pixel": 395,
-    "gate_x": 1640,
-    "gate_y": 400,
-    "g_angle": 90
-  },
-  {
-    "code": "P9/L1/32",
-    "type": "SMOKE DETECTOR",
-    "location": "سكن الفنيين القديم - غرفة تغيير الملابس - الإنتاج",
-    "x_pixel": 1735,
-"y_pixel": 380,
-    "gate_x": 1681,
-    "gate_y": 335,
-    "g_angle": 180
-  },
-  {
-    "code": "P9/L1/33",
-    "type": "SMOKE DETECTOR",
-    "location": "سكن الفنيين القديم - غرفة تغيير الملابس - الإنتاج",
-   "x_pixel": 1735,
-"y_pixel": 350,
-    "gate_x": 1681,
-    "gate_y": 335,
-    "g_angle": 180
-  },
-  {
-    "code": "P9/L1/34",
-    "type": "SMOKE DETECTOR",
-    "location": "سكن الفنيين القديم - غرفة تغيير الملابس - الإنتاج",
-    "x_pixel": 1694,
-"y_pixel": 350,
-    "gate_x": 1681,
-    "gate_y": 335,
-    "g_angle": 180
-  },
-  {
-    "code": "P9/L1/35",
-    "type": "SMOKE DETECTOR",
-    "location": "سكن الفنيين القديم - غرفة تغيير الملابس - الإنتاج",
-    "x_pixel": 1694,
-"y_pixel": 380,
-    "gate_x": 1681,
-    "gate_y": 335,
-    "g_angle": 180
-  },
-  {
-    "code": "P9/L1/36",
-    "type": "SMOKE DETECTOR",
-    "location": "المغسلة",
-    "x_pixel": 1660,
-"y_pixel": 380,
-    "gate_x": 1647,
-    "gate_y": 336,
-    "g_angle": 180
-  },
-  {
-    "code": "P9/L1/37",
-    "type": "SMOKE DETECTOR",
-    "location": "المغسلة",
-    "x_pixel": 1660,
-"y_pixel": 350,
-    "gate_x": 1647,
-    "gate_y": 336,
-    "g_angle": 180
-  },
-  {
-    "code": "P9/L1/38",
-    "type": "PRESURE SWITCH",
-    "location": "مفتاح الضغط الخاص بشبكة المرشات في مبنى المغسلة (سكن الفنيين القديم)",
-   "x_pixel": 1644,
-"y_pixel": 342,
-    "gate_x": 1647,
-    "gate_y": 336,
-    "g_angle": 180
-  },
-  {
-    "code": "P9/L1/39",
-    "type": "TAMPER SWITCH",
-    "location": "حساس محبس رقم 139 لشبكة مرشات الحريق في مبنى المغسلة",
-    "x_pixel": 1644,
-"y_pixel": 344,
-    "gate_x": 1647,
-    "gate_y": 336,
-    "g_angle": 180
-  },
-  {
-    "code": "P9/L1/40",
-    "type": "FLOW SWITCH",
-    "location": "حساس التدفق لخط كبائن الإطفاء في مبنى المغسلة",
-    "x_pixel": 1644,
-"y_pixel": 349,
-    "gate_x": 1647,
-    "gate_y": 336,
-    "g_angle": 180
-  },
-  {
-    "code": "P9/L1/41",
-    "type": "TAMPER SWITCH",
-    "location": "حساس محبس رقم 138 لخط كبائن الإطفاء في مبنى المغسلة",
-    "x_pixel": 1644,
-"y_pixel": 352,
-    "gate_x": 1647,
-    "gate_y": 336,
-    "g_angle": 180
-  },
-
-     
-  {
-    "code": "P9/L1/15",
-    "type": "SMOKE DETECTOR",
-    "location": "سكن الفنيين القديم - اعلى السطح - الاستراحة",
-   "x_pixel": 1666,
-"y_pixel": 438,
-    "gate_x": 1640,
-    "gate_y": 400,
-    "g_angle": 90
-  },
-  {
-    "code": "P9/L1/16",
-    "type": "SMOKE DETECTOR",
-    "location": "سكن الفنيين القديم - اعلى السطح",
-   "x_pixel": 1713,
-"y_pixel": 437,
-    "gate_x": 1640,
-    "gate_y": 400,
-    "g_angle": 90
-  },
-  {
-    "code": "P9/L1/17",
-    "type": "SMOKE DETECTOR",
-    "location": "سكن الفنيين القديم - اعلى السطح",
-    "x_pixel": 1761,
-"y_pixel": 435,
-    "gate_x": 1640,
-    "gate_y": 400,
-    "g_angle": 90
-  },
-  {
-    "code": "P9/L1/18",
-    "type": "SMOKE DETECTOR",
-    "location": "سكن الفنيين القديم - اعلى السطح",
-    "x_pixel": 1759,
-"y_pixel": 394,
-    "gate_x": 1640,
-    "gate_y": 400,
-    "g_angle": 90
-  },
-  {
-    "code": "P9/L1/19",
-    "type": "SMOKE DETECTOR",
-    "location": "سكن الفنيين القديم - اعلى السطح - غرفة تغيير الملابس",
-    "x_pixel": 1758,
-"y_pixel": 352,
-    "gate_x": 1640,
-    "gate_y": 400,
-    "g_angle": 90
-  },
-  {
-    "code": "P9/L1/20",
-    "type": "SMOKE DETECTOR",
-    "location": "سكن الفنيين القديم - اعلى السطح - غرفة تغيير الملابس",
-    "x_pixel": 1710,
-"y_pixel": 354,
-    "gate_x": 1640,
-    "gate_y": 400,
-    "g_angle": 90
-  },
-  {
-    "code": "P9/L1/21",
-    "type": "SMOKE DETECTOR",
-    "location": "سكن الفنيين القديم - اعلى السطح - المغسلة",
-   "x_pixel": 1663,
-"y_pixel": 355,
-    "gate_x": 1640,
-    "gate_y": 400,
-    "g_angle": 90
-  },
-  {
-    "code": "P9/L1/22",
-    "type": "SMOKE DETECTOR",
-    "location": "سكن الفنيين القديم - اعلى السطح",
-   "x_pixel": 1712,
-"y_pixel": 395,
-    "gate_x": 1640,
-    "gate_y": 400,
-    "g_angle": 90
-  },
-  {
-    "code": "P9/L1/23",
-    "type": "SMOKE DETECTOR",
-    "location": "سكن الفنيين القديم - اعلى السطح - الصالة",
-    "x_pixel": 1664,
-"y_pixel": 397,
-    "gate_x": 1640,
-    "gate_y": 400,
-    "g_angle": 90
-  },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-  {
-    "code": "P9/L2/01",
-    "type": "FM200",
-    "location": "محطة التحلية - غرفة الكهرباء - اذنار المرحلة الأولى عند تفعيل ZONE1",
-   "x_pixel": 1326,
-"y_pixel": 168,
-    "gate_x": 1330,
-    "gate_y": 199,
-    "g_angle": 270
-  },
-  {
-    "code": "P9/L2/02",
-    "type": "FM200",
-    "location": "محطة التحلية - غرفة الكهرباء - اذنار المرحلة الأولى عند تفعيل ZONE1",
-    "x_pixel": 1326,
-"y_pixel": 164,
-    "gate_x": 1330,
-    "gate_y": 199,
-    "g_angle": 270
-  },
-  {
-    "code": "P9/L2/03",
-    "type": "FM200",
-    "location": "محطة التحلية - غرفة الكهرباء - اذنار المرحلة الأولى عند تفعيل ZONE1",
-    "x_pixel": 1326,
-"y_pixel": 159,
-    "gate_x": 1330,
-    "gate_y": 199,
-    "g_angle": 270
-  },
-  {
-    "code": "P9/L2/04",
-    "type": "SMOKE DETECTOR",
-    "location": "مكتب مشرف محطة التحلية RO",
-    "x_pixel": 1283,
-"y_pixel": 165,
-    "gate_x": 1330,
-    "gate_y": 199,
-    "g_angle": 270
-  },
-  {
-    "code": "P9/L2/05",
-    "type": "SMOKE DETECTOR",
-    "location": "محطة التحلية - الصالة امام غرفة الكهرباء",
-    "x_pixel": 1309,
-"y_pixel": 183,
-    "gate_x": 1330,
-    "gate_y": 199,
-    "g_angle": 270
-  },
-  {
-    "code": "P9/L2/06",
-    "type": "SMOKE DETECTOR",
-    "location": "محطة التحلية",
-   "x_pixel": 1256,
-"y_pixel": 183,
-    "gate_x": 1330,
-    "gate_y": 199,
-    "g_angle": 270
-  },
-  {
-    "code": "P9/L2/07",
-    "type": "SMOKE DETECTOR",
-    "location": "محطة التحلية",
-    "x_pixel": 1256,
-"y_pixel": 240,
-    "gate_x": 1330,
-    "gate_y": 199,
-    "g_angle": 270
-  },
-  {
-    "code": "P9/L2/08",
-    "type": "SMOKE DETECTOR",
-    "location": "محطة التحلية",
-    "x_pixel": 1203,
-"y_pixel": 240,
-    "gate_x": 1330,
-    "gate_y": 199,
-    "g_angle": 270
-  },
-  {
-    "code": "P9/L2/09",
-    "type": "SMOKE DETECTOR",
-    "location": "محطة التحلية",
-    "x_pixel": 1203,
-"y_pixel": 183,
-    "gate_x": 1330,
-    "gate_y": 199,
-    "g_angle": 270
-  },
-  {
-    "code": "P9/L2/10",
-    "type": "SMOKE DETECTOR",
-    "location": "محطة التحلية",
-    "x_pixel": 1151,
-"y_pixel": 183,
-    "gate_x": 1330,
-    "gate_y": 199,
-    "g_angle": 270
-  },
-  {
-    "code": "P9/L2/11",
-    "type": "SMOKE DETECTOR",
-    "location": "محطة التحلية",
-    "x_pixel": 1151,
-"y_pixel": 240,
-    "gate_x": 1330,
-    "gate_y": 199,
-    "g_angle": 270
-  },
-  {
-    "code": "P9/L2/12",
-    "type": "SMOKE DETECTOR",
-    "location": "محطة التحلية",
-    "x_pixel": 1151,
-"y_pixel": 298,
-    "gate_x": 1330,
-    "gate_y": 199,
-    "g_angle": 270
-  },
-  {
-    "code": "P9/L2/13",
-    "type": "SMOKE DETECTOR",
-    "location": "محطة التحلية",
-    "x_pixel": 1203,
-"y_pixel": 297,
-    "gate_x": 1330,
-    "gate_y": 199,
-    "g_angle": 270
-  },
-  {
-    "code": "P9/L2/14",
-    "type": "SMOKE DETECTOR",
-    "location": "محطة التحلية",
-    "x_pixel": 1256,
-"y_pixel": 297,
-    "gate_x": 1330,
-    "gate_y": 199,
-    "g_angle": 270
-  },
-  {
-    "code": "P9/L2/15",
-    "type": "SMOKE DETECTOR",
-    "location": "محطة التحلية",
-   "x_pixel": 1309,
-"y_pixel": 297,
-    "gate_x": 1330,
-    "gate_y": 199,
-    "g_angle": 270
-  },
-  {
-    "code": "P9/L2/16",
-    "type": "SMOKE DETECTOR",
-    "location": "محطة التحلية",
-    "x_pixel": 1309,
-"y_pixel": 240,
-    "gate_x": 1330,
-    "gate_y": 199,
-    "g_angle": 270
-  },
-  {
-    "code": "P9/L2/17 NAC-1",
-    "type": "NAC",
-    "location": "محطة التحلية - المدخل بجانب البوابة الشرقية",
-    "x_pixel": 1329,
-"y_pixel": 196,
-    "gate_x": 1330,
-    "gate_y": 199,
-    "g_angle": 270
-  },
-  {
-    "code": "P9/L2/18",
-    "type": "FLASHER",
-    "location": "محطة التحلية - المدخل بجانب البوابة الشرقية",
-    "x_pixel": 1326,
-"y_pixel": 232,
-    "gate_x": 1330,
-    "gate_y": 199,
-    "g_angle": 270
-  },
-  {
-    "code": "P9/L2/19",
-    "type": "SOUNDER",
-    "location": "محطة التحلية - المدخل بجانب البوابة الشرقية",
-    "x_pixel": 1326,
-"y_pixel": 228,
-    "gate_x": 1330,
-    "gate_y": 199,
-    "g_angle": 270
-  },
-  {
-    "code": "P9/L2/20",
-    "type": "MANUAL CALL POINT",
-    "location": "محطة التحلية - المدخل بجانب البوابة الشرقية",
-    "x_pixel": 1326,
-"y_pixel": 206,
-    "gate_x": 1330,
-    "gate_y": 199,
-    "g_angle": 270
-  },
-  {
-    "code": "P9/L2/21",
-    "type": "PRESURE SWITCH",
-    "location": "محطة التحلية - مفتاح الضغط الخاص بشبكة المرشات",
-   "x_pixel": 1299,
-"y_pixel": 175,
-    "gate_x": 1330,
-    "gate_y": 199,
-    "g_angle": 270
-  },
-  {
-    "code": "P9/L2/22",
-    "type": "TAMPER SWITCH",
-    "location": "محطة التحلية - حساس محبس رقم 141 الخاص بمرشات الإطفاء",
-   "x_pixel": 1294,
-"y_pixel": 175,
-    "gate_x": 1330,
-    "gate_y": 199,
-    "g_angle": 270
-  },
-  {
-    "code": "P9/L2/23",
-    "type": "FLOW SWITCH",
-    "location": "محطة التحلية - حساس التدفق الخاص ب كبائن الإطفاء",
-    "x_pixel": 1287,
-"y_pixel": 175,
-    "gate_x": 1330,
-    "gate_y": 199,
-    "g_angle": 270
-  },
-  {
-    "code": "P9/L2/24",
-    "type": "TAMPER SWITCH",
-    "location": "محطة التحلية - حساس محبس رقم 142 الخاص ب كبائن الإطفاء",
-    "x_pixel": 1283,
-"y_pixel": 175,
-    "gate_x": 1330,
-    "gate_y": 199,
-    "g_angle": 270
-  },
-
-
-
-
-
-
-
-
-
-
-
-
-     {
-        "code": "P9/L2/25",
-        "type": "MULTI SENSOR DETECTOR",
-        "location": "هنجر الخام - الجهة الشمالية من الداخل",
-        "x_pixel": 2817,
-        "y_pixel": 1048,
-        "gate_x": 2194,
-        "gate_y": 752,
+    {
+        "code": "P9/L1/01 NAC-1",
+        "type": "NAC",
+        "location": "امام مكتب البيئة والمشاريع",
+        "x_pixel": 1608,
+        "y_pixel": 574,
+        "gate_x": 1604,
+        "gate_y": 572,
+        "g_angle": 180
+    },
+    {
+        "code": "P9/L1/01 NAC-2",
+        "type": "NAC",
+        "location": "امام إدارة السلامة",
+        "x_pixel": 1514,
+        "y_pixel": 575,
+        "gate_x": 1532,
+        "gate_y": 573,
+        "g_angle": 180
+    },
+    {
+        "code": "P9/L1/02",
+        "type": "MANUAL CALL POINT",
+        "location": "صالة إدارة السلامة",
+        "x_pixel": 1524,
+        "y_pixel": 579,
+        "gate_x": 1532,
+        "gate_y": 573,
+        "g_angle": 180
+    },
+    {
+        "code": "P9/L1/03",
+        "type": "FLASHER",
+        "location": "صالة إدارة السلامة",
+        "x_pixel": 1524,
+        "y_pixel": 579,
+        "gate_x": 1532,
+        "gate_y": 573,
+        "g_angle": 180
+    },
+    {
+        "code": "P9/L1/04",
+        "type": "SOUNDER",
+        "location": "صالة إدارة السلامة",
+        "x_pixel": 1524,
+        "y_pixel": 579,
+        "gate_x": 1532,
+        "gate_y": 573,
+        "g_angle": 180
+    },
+    {
+        "code": "P9/L1/05",
+        "type": "SMOKE DETECTOR",
+        "location": "صالة إدارة السلامة",
+        "x_pixel": 1532,
+        "y_pixel": 583,
+        "gate_x": 1532,
+        "gate_y": 573,
+        "g_angle": 180
+    },
+    {
+        "code": "P9/L1/06",
+        "type": "SMOKE DETECTOR",
+        "location": "مكتب مراقبي السلامة",
+        "x_pixel": 1506,
+        "y_pixel": 582,
+        "gate_x": 1532,
+        "gate_y": 573,
+        "g_angle": 180
+    },
+    {
+        "code": "P9/L1/07",
+        "type": "SMOKE DETECTOR",
+        "location": "قاعة تدريب السلامة",
+        "x_pixel": 1506,
+        "y_pixel": 593,
+        "gate_x": 1532,
+        "gate_y": 573,
+        "g_angle": 180
+    },
+    {
+        "code": "P9/L1/08",
+        "type": "SMOKE DETECTOR",
+        "location": "مكتب مدير السلامة",
+        "x_pixel": 1540,
+        "y_pixel": 593,
+        "gate_x": 1532,
+        "gate_y": 573,
+        "g_angle": 180
+    },
+    {
+        "code": "P9/L1/09",
+        "type": "SMOKE DETECTOR",
+        "location": "مخزن السلامة",
+        "x_pixel": 1570,
+        "y_pixel": 594,
+        "gate_x": 1532,
+        "gate_y": 573,
+        "g_angle": 180
+    },
+    {
+        "code": "P9/L1/10",
+        "type": "SMOKE DETECTOR",
+        "location": "غرفة تبديل الملابس - السلامة",
+        "x_pixel": 1571,
+        "y_pixel": 583,
+        "gate_x": 1532,
+        "gate_y": 573,
+        "g_angle": 180
+    },
+    {
+        "code": "P9/L1/11",
+        "type": "MANUAL CALL POINT",
+        "location": "ضاغطة صالة سكن الفنيين القديم بجانب المدخل الغربي",
+        "x_pixel": 1649,
+        "y_pixel": 395,
+        "gate_x": 1640,
+        "gate_y": 400,
         "g_angle": 90
+    },
+    {
+        "code": "P9/L1/12",
+        "type": "FLASHER",
+        "location": "فلاشر صالة سكن الفنيين القديم بجانب المدخل الغربي",
+        "x_pixel": 1650,
+        "y_pixel": 397,
+        "gate_x": 1640,
+        "gate_y": 400,
+        "g_angle": 90
+    },
+    {
+        "code": "P9/L1/13",
+        "type": "SOUNDER",
+        "location": "سوندر صالة سكن الفنيين القديم بجانب المدخل الغربي",
+        "x_pixel": 1648,
+        "y_pixel": 397,
+        "gate_x": 1640,
+        "gate_y": 400,
+        "g_angle": 90
+    },
+    {
+        "code": "P9/L1/14 NAC-1",
+        "type": "NAC",
+        "location": "خارج البوابة الشرقية لمبنى سكن الفنيين القديم",
+        "x_pixel": 1641,
+        "y_pixel": 390,
+        "gate_x": 1640,
+        "gate_y": 400,
+        "g_angle": 90
+    },
+    {
+        "code": "P9/L1/14 NAC-2",
+        "type": "NAC",
+        "x_pixel": 1785,
+        "y_pixel": 392,
+        "gate_x": 1640,
+        "gate_y": 400,
+        "g_angle": 90
+    },
+    {
+        "code": "P9/L1/24",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن الفنيين القديم - غرفة رقم 1",
+        "x_pixel": 1652,
+        "y_pixel": 419,
+        "gate_x": 1655,
+        "gate_y": 404,
+        "g_angle": 180
+    },
+    {
+        "code": "P9/L1/25",
+        "type": "SMOKE DETECTOR",
+        "location": "استراحة سكن الفنيين القديم",
+        "x_pixel": 1660,
+        "y_pixel": 447,
+        "gate_x": 1670,
+        "gate_y": 461,
+        "g_angle": 0
+    },
+    {
+        "code": "P9/L1/26",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن الفنيين القديم - غرفة رقم 2",
+        "x_pixel": 1669,
+        "y_pixel": 420,
+        "gate_x": 1672,
+        "gate_y": 404,
+        "g_angle": 180
+    },
+    {
+        "code": "P9/L1/27",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن الفنيين القديم - غرفة تغيير الملابس - الصيانة",
+        "x_pixel": 1695,
+        "y_pixel": 418,
+        "gate_x": 1682,
+        "gate_y": 462,
+        "g_angle": 0
+    },
+    {
+        "code": "P9/L1/28",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن الفنيين القديم - غرفة تغيير الملابس - الصيانة",
+        "x_pixel": 1695,
+        "y_pixel": 447,
+        "gate_x": 1682,
+        "gate_y": 462,
+        "g_angle": 0
+    },
+    {
+        "code": "P9/L1/29",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن الفنيين القديم - غرفة تغيير الملابس - الصيانة",
+        "x_pixel": 1735,
+        "y_pixel": 447,
+        "gate_x": 1682,
+        "gate_y": 462,
+        "g_angle": 0
+    },
+    {
+        "code": "P9/L1/30",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن الفنيين القديم - غرفة تغيير الملابس - الصيانة",
+        "x_pixel": 1736,
+        "y_pixel": 418,
+        "gate_x": 1682,
+        "gate_y": 462,
+        "g_angle": 0
+    },
+    {
+        "code": "P9/L1/31",
+        "type": "MANUAL CALL POINT",
+        "location": "ضاغطة صالة سكن الفنيين القديم",
+        "x_pixel": 1775,
+        "y_pixel": 395,
+        "gate_x": 1640,
+        "gate_y": 400,
+        "g_angle": 90
+    },
+    {
+        "code": "P9/L1/32",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن الفنيين القديم - غرفة تغيير الملابس - الإنتاج",
+        "x_pixel": 1735,
+        "y_pixel": 380,
+        "gate_x": 1681,
+        "gate_y": 335,
+        "g_angle": 180
+    },
+    {
+        "code": "P9/L1/33",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن الفنيين القديم - غرفة تغيير الملابس - الإنتاج",
+        "x_pixel": 1735,
+        "y_pixel": 350,
+        "gate_x": 1681,
+        "gate_y": 335,
+        "g_angle": 180
+    },
+    {
+        "code": "P9/L1/34",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن الفنيين القديم - غرفة تغيير الملابس - الإنتاج",
+        "x_pixel": 1694,
+        "y_pixel": 350,
+        "gate_x": 1681,
+        "gate_y": 335,
+        "g_angle": 180
+    },
+    {
+        "code": "P9/L1/35",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن الفنيين القديم - غرفة تغيير الملابس - الإنتاج",
+        "x_pixel": 1694,
+        "y_pixel": 380,
+        "gate_x": 1681,
+        "gate_y": 335,
+        "g_angle": 180
+    },
+    {
+        "code": "P9/L1/36",
+        "type": "SMOKE DETECTOR",
+        "location": "المغسلة",
+        "x_pixel": 1660,
+        "y_pixel": 380,
+        "gate_x": 1647,
+        "gate_y": 336,
+        "g_angle": 180
+    },
+    {
+        "code": "P9/L1/37",
+        "type": "SMOKE DETECTOR",
+        "location": "المغسلة",
+        "x_pixel": 1660,
+        "y_pixel": 350,
+        "gate_x": 1647,
+        "gate_y": 336,
+        "g_angle": 180
+    },
+    {
+        "code": "P9/L1/38",
+        "type": "PRESURE SWITCH",
+        "location": "مفتاح الضغط الخاص بشبكة المرشات في مبنى المغسلة (سكن الفنيين القديم)",
+        "x_pixel": 1644,
+        "y_pixel": 342,
+        "gate_x": 1647,
+        "gate_y": 336,
+        "g_angle": 180
+    },
+    {
+        "code": "P9/L1/39",
+        "type": "TAMPER SWITCH",
+        "location": "حساس محبس رقم 139 لشبكة مرشات الحريق في مبنى المغسلة",
+        "x_pixel": 1644,
+        "y_pixel": 344,
+        "gate_x": 1647,
+        "gate_y": 336,
+        "g_angle": 180
+    },
+    {
+        "code": "P9/L1/40",
+        "type": "FLOW SWITCH",
+        "location": "حساس التدفق لخط كبائن الإطفاء في مبنى المغسلة",
+        "x_pixel": 1644,
+        "y_pixel": 349,
+        "gate_x": 1647,
+        "gate_y": 336,
+        "g_angle": 180
+    },
+    {
+        "code": "P9/L1/41",
+        "type": "TAMPER SWITCH",
+        "location": "حساس محبس رقم 138 لخط كبائن الإطفاء في مبنى المغسلة",
+        "x_pixel": 1644,
+        "y_pixel": 352,
+        "gate_x": 1647,
+        "gate_y": 336,
+        "g_angle": 180
+    },
+    {
+        "code": "P9/L1/15",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن الفنيين القديم - اعلى السطح - الاستراحة",
+        "x_pixel": 1666,
+        "y_pixel": 438,
+        "gate_x": 1640,
+        "gate_y": 400,
+        "g_angle": 90
+    },
+    {
+        "code": "P9/L1/16",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن الفنيين القديم - اعلى السطح",
+        "x_pixel": 1713,
+        "y_pixel": 437,
+        "gate_x": 1640,
+        "gate_y": 400,
+        "g_angle": 90
+    },
+    {
+        "code": "P9/L1/17",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن الفنيين القديم - اعلى السطح",
+        "x_pixel": 1761,
+        "y_pixel": 435,
+        "gate_x": 1640,
+        "gate_y": 400,
+        "g_angle": 90
+    },
+    {
+        "code": "P9/L1/18",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن الفنيين القديم - اعلى السطح",
+        "x_pixel": 1759,
+        "y_pixel": 394,
+        "gate_x": 1640,
+        "gate_y": 400,
+        "g_angle": 90
+    },
+    {
+        "code": "P9/L1/19",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن الفنيين القديم - اعلى السطح - غرفة تغيير الملابس",
+        "x_pixel": 1758,
+        "y_pixel": 352,
+        "gate_x": 1640,
+        "gate_y": 400,
+        "g_angle": 90
+    },
+    {
+        "code": "P9/L1/20",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن الفنيين القديم - اعلى السطح - غرفة تغيير الملابس",
+        "x_pixel": 1710,
+        "y_pixel": 354,
+        "gate_x": 1640,
+        "gate_y": 400,
+        "g_angle": 90
+    },
+    {
+        "code": "P9/L1/21",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن الفنيين القديم - اعلى السطح - المغسلة",
+        "x_pixel": 1663,
+        "y_pixel": 355,
+        "gate_x": 1640,
+        "gate_y": 400,
+        "g_angle": 90
+    },
+    {
+        "code": "P9/L1/22",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن الفنيين القديم - اعلى السطح",
+        "x_pixel": 1712,
+        "y_pixel": 395,
+        "gate_x": 1640,
+        "gate_y": 400,
+        "g_angle": 90
+    },
+    {
+        "code": "P9/L1/23",
+        "type": "SMOKE DETECTOR",
+        "location": "سكن الفنيين القديم - اعلى السطح - الصالة",
+        "x_pixel": 1664,
+        "y_pixel": 397,
+        "gate_x": 1640,
+        "gate_y": 400,
+        "g_angle": 90
+    },
+    {
+        "code": "P9/L2/01",
+        "type": "FM200",
+        "location": "محطة التحلية - غرفة الكهرباء - اذنار المرحلة الأولى عند تفعيل ZONE1",
+        "x_pixel": 1326,
+        "y_pixel": 168,
+        "gate_x": 1330,
+        "gate_y": 199,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/02",
+        "type": "FM200",
+        "location": "محطة التحلية - غرفة الكهرباء - اذنار المرحلة الأولى عند تفعيل ZONE1",
+        "x_pixel": 1326,
+        "y_pixel": 164,
+        "gate_x": 1330,
+        "gate_y": 199,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/03",
+        "type": "FM200",
+        "location": "محطة التحلية - غرفة الكهرباء - اذنار المرحلة الأولى عند تفعيل ZONE1",
+        "x_pixel": 1326,
+        "y_pixel": 159,
+        "gate_x": 1330,
+        "gate_y": 199,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/04",
+        "type": "SMOKE DETECTOR",
+        "location": "مكتب مشرف محطة التحلية RO",
+        "x_pixel": 1283,
+        "y_pixel": 165,
+        "gate_x": 1330,
+        "gate_y": 199,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/05",
+        "type": "SMOKE DETECTOR",
+        "location": "محطة التحلية - الصالة امام غرفة الكهرباء",
+        "x_pixel": 1309,
+        "y_pixel": 183,
+        "gate_x": 1330,
+        "gate_y": 199,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/06",
+        "type": "SMOKE DETECTOR",
+        "location": "محطة التحلية",
+        "x_pixel": 1256,
+        "y_pixel": 183,
+        "gate_x": 1330,
+        "gate_y": 199,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/07",
+        "type": "SMOKE DETECTOR",
+        "location": "محطة التحلية",
+        "x_pixel": 1256,
+        "y_pixel": 240,
+        "gate_x": 1330,
+        "gate_y": 199,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/08",
+        "type": "SMOKE DETECTOR",
+        "location": "محطة التحلية",
+        "x_pixel": 1203,
+        "y_pixel": 240,
+        "gate_x": 1330,
+        "gate_y": 199,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/09",
+        "type": "SMOKE DETECTOR",
+        "location": "محطة التحلية",
+        "x_pixel": 1203,
+        "y_pixel": 183,
+        "gate_x": 1330,
+        "gate_y": 199,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/10",
+        "type": "SMOKE DETECTOR",
+        "location": "محطة التحلية",
+        "x_pixel": 1151,
+        "y_pixel": 183,
+        "gate_x": 1330,
+        "gate_y": 199,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/11",
+        "type": "SMOKE DETECTOR",
+        "location": "محطة التحلية",
+        "x_pixel": 1151,
+        "y_pixel": 240,
+        "gate_x": 1330,
+        "gate_y": 199,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/12",
+        "type": "SMOKE DETECTOR",
+        "location": "محطة التحلية",
+        "x_pixel": 1151,
+        "y_pixel": 298,
+        "gate_x": 1330,
+        "gate_y": 199,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/13",
+        "type": "SMOKE DETECTOR",
+        "location": "محطة التحلية",
+        "x_pixel": 1203,
+        "y_pixel": 297,
+        "gate_x": 1330,
+        "gate_y": 199,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/14",
+        "type": "SMOKE DETECTOR",
+        "location": "محطة التحلية",
+        "x_pixel": 1256,
+        "y_pixel": 297,
+        "gate_x": 1330,
+        "gate_y": 199,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/15",
+        "type": "SMOKE DETECTOR",
+        "location": "محطة التحلية",
+        "x_pixel": 1309,
+        "y_pixel": 297,
+        "gate_x": 1330,
+        "gate_y": 199,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/16",
+        "type": "SMOKE DETECTOR",
+        "location": "محطة التحلية",
+        "x_pixel": 1309,
+        "y_pixel": 240,
+        "gate_x": 1330,
+        "gate_y": 199,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/17 NAC-1",
+        "type": "NAC",
+        "location": "محطة التحلية - المدخل بجانب البوابة الشرقية",
+        "x_pixel": 1329,
+        "y_pixel": 196,
+        "gate_x": 1330,
+        "gate_y": 199,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/18",
+        "type": "FLASHER",
+        "location": "محطة التحلية - المدخل بجانب البوابة الشرقية",
+        "x_pixel": 1326,
+        "y_pixel": 232,
+        "gate_x": 1330,
+        "gate_y": 199,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/19",
+        "type": "SOUNDER",
+        "location": "محطة التحلية - المدخل بجانب البوابة الشرقية",
+        "x_pixel": 1326,
+        "y_pixel": 228,
+        "gate_x": 1330,
+        "gate_y": 199,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/20",
+        "type": "MANUAL CALL POINT",
+        "location": "محطة التحلية - المدخل بجانب البوابة الشرقية",
+        "x_pixel": 1326,
+        "y_pixel": 206,
+        "gate_x": 1330,
+        "gate_y": 199,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/21",
+        "type": "PRESURE SWITCH",
+        "location": "محطة التحلية - مفتاح الضغط الخاص بشبكة المرشات",
+        "x_pixel": 1299,
+        "y_pixel": 175,
+        "gate_x": 1330,
+        "gate_y": 199,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/22",
+        "type": "TAMPER SWITCH",
+        "location": "محطة التحلية - حساس محبس رقم 141 الخاص بمرشات الإطفاء",
+        "x_pixel": 1294,
+        "y_pixel": 175,
+        "gate_x": 1330,
+        "gate_y": 199,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/23",
+        "type": "FLOW SWITCH",
+        "location": "محطة التحلية - حساس التدفق الخاص ب كبائن الإطفاء",
+        "x_pixel": 1287,
+        "y_pixel": 175,
+        "gate_x": 1330,
+        "gate_y": 199,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/24",
+        "type": "TAMPER SWITCH",
+        "location": "محطة التحلية - حساس محبس رقم 142 الخاص ب كبائن الإطفاء",
+        "x_pixel": 1283,
+        "y_pixel": 175,
+        "gate_x": 1330,
+        "gate_y": 199,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/25",
+        "type": "SMOKE DETECTOR",
+        "location": "مضخة الإطفاء",
+        "x_pixel": 992,
+        "y_pixel": 247,
+        "gate_x": 980,
+        "gate_y": 267,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/26",
+        "type": "TAMPER SWITCH",
+        "location": "مضخة الإطفاء",
+        "x_pixel": 999,
+        "y_pixel": 247,
+        "gate_x": 980,
+        "gate_y": 267,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/27",
+        "type": "TAMPER SWITCH",
+        "location": "مضخة الإطفاء",
+        "x_pixel": 999,
+        "y_pixel": 244,
+        "gate_x": 980,
+        "gate_y": 267,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/28",
+        "type": "TAMPER SWITCH",
+        "location": "مضخة الإطفاء",
+        "x_pixel": 999,
+        "y_pixel": 241,
+        "gate_x": 980,
+        "gate_y": 267,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/29",
+        "type": "TAMPER SWITCH",
+        "location": "مضخة الإطفاء",
+        "x_pixel": 999,
+        "y_pixel": 239,
+        "gate_x": 980,
+        "gate_y": 267,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/30",
+        "type": "TAMPER SWITCH",
+        "location": "مضخة الإطفاء",
+        "x_pixel": 999,
+        "y_pixel": 236,
+        "gate_x": 980,
+        "gate_y": 267,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/31",
+        "type": "TAMPER SWITCH",
+        "location": "مضخة الإطفاء",
+        "x_pixel": 999,
+        "y_pixel": 233,
+        "gate_x": 980,
+        "gate_y": 267,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/32",
+        "type": "TAMPER SWITCH",
+        "location": "مضخة الإطفاء",
+        "x_pixel": 1000,
+        "y_pixel": 231,
+        "gate_x": 980,
+        "gate_y": 267,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/33",
+        "type": "TAMPER SWITCH",
+        "location": "مضخة الإطفاء",
+        "x_pixel": 1000,
+        "y_pixel": 233,
+        "gate_x": 980,
+        "gate_y": 267,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/34",
+        "type": "TAMPER SWITCH",
+        "location": "مضخة الإطفاء",
+        "x_pixel": 1000,
+        "y_pixel": 236,
+        "gate_x": 980,
+        "gate_y": 267,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/35",
+        "type": "TAMPER SWITCH",
+        "location": "مضخة الإطفاء",
+        "x_pixel": 1001,
+        "y_pixel": 239,
+        "gate_x": 980,
+        "gate_y": 267,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/36",
+        "type": "TAMPER SWITCH",
+        "location": "مضخة الإطفاء",
+        "x_pixel": 1000,
+        "y_pixel": 241,
+        "gate_x": 980,
+        "gate_y": 267,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/37",
+        "type": "TAMPER SWITCH",
+        "location": "مضخة الإطفاء",
+        "x_pixel": 1001,
+        "y_pixel": 244,
+        "gate_x": 980,
+        "gate_y": 267,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/38",
+        "type": "TAMPER SWITCH",
+        "location": "مضخة الإطفاء",
+        "x_pixel": 1000,
+        "y_pixel": 247,
+        "gate_x": 980,
+        "gate_y": 267,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/39",
+        "type": "TAMPER SWITCH",
+        "location": "مضخة الإطفاء",
+        "x_pixel": 1002,
+        "y_pixel": 247,
+        "gate_x": 980,
+        "gate_y": 267,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/40",
+        "type": "TAMPER SWITCH",
+        "location": "مضخة الإطفاء",
+        "x_pixel": 1002,
+        "y_pixel": 244,
+        "gate_x": 980,
+        "gate_y": 267,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/41",
+        "type": "TAMPER SWITCH",
+        "location": "مضخة الإطفاء",
+        "x_pixel": 1002,
+        "y_pixel": 241,
+        "gate_x": 980,
+        "gate_y": 267,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/42",
+        "type": "TAMPER SWITCH",
+        "location": "مضخة الإطفاء",
+        "x_pixel": 1002,
+        "y_pixel": 238,
+        "gate_x": 980,
+        "gate_y": 267,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/43",
+        "type": "TAMPER SWITCH",
+        "location": "مضخة الإطفاء",
+        "x_pixel": 1002,
+        "y_pixel": 236,
+        "gate_x": 980,
+        "gate_y": 267,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/44",
+        "type": "TAMPER SWITCH",
+        "location": "مضخة الإطفاء",
+        "x_pixel": 1002,
+        "y_pixel": 233,
+        "gate_x": 980,
+        "gate_y": 267,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/45",
+        "type": "TAMPER SWITCH",
+        "location": "حساس محبس رقم 203 لخط المرشات في مضخة الإطفاء",
+        "x_pixel": 1002,
+        "y_pixel": 230,
+        "gate_x": 980,
+        "gate_y": 267,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/46",
+        "type": "SMOKE DETECTOR",
+        "location": "مضخة الإطفاء",
+        "x_pixel": 992,
+        "y_pixel": 214,
+        "gate_x": 980,
+        "gate_y": 267,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/47",
+        "type": "SMOKE DETECTOR",
+        "location": "مضخة الإطفاء",
+        "x_pixel": 967,
+        "y_pixel": 214,
+        "gate_x": 980,
+        "gate_y": 267,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/48",
+        "type": "SMOKE DETECTOR",
+        "location": "مضخة الإطفاء",
+        "x_pixel": 968,
+        "y_pixel": 247,
+        "gate_x": 980,
+        "gate_y": 267,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/49",
+        "type": "SOUNDER",
+        "location": "مضخة الإطفاء",
+        "x_pixel": 987,
+        "y_pixel": 258,
+        "gate_x": 980,
+        "gate_y": 267,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/50",
+        "type": "FLASHER",
+        "location": "مضخة الإطفاء",
+        "x_pixel": 989,
+        "y_pixel": 258,
+        "gate_x": 980,
+        "gate_y": 267,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/51",
+        "type": "MANUAL CALL POINT",
+        "location": "مضخة الإطفاء",
+        "x_pixel": 988,
+        "y_pixel": 260,
+        "gate_x": 980,
+        "gate_y": 267,
+        "g_angle": 270
+    },
+    {
+        "code": "P9/L2/52 NAC-1",
+        "type": "NAC",
+        "location": "مضخة الإطفاء",
+        "x_pixel": 988,
+        "y_pixel": 264,
+        "gate_x": 980,
+        "gate_y": 267,
+        "g_angle": 270
     }
 ]
