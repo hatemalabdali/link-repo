@@ -82,11 +82,11 @@
 },
 {
   "calibrationKey": "p4_packing_building_level_0_at_4_3_m",
-  "calX": 1956.0,
+  "calX": 1970.125,
   "calY": 1748.0,
   "rotation": 179.0,
-  "scaleX": 0.08042902,
-  "scaleY": 0.08042902
+  "scaleX": 0.081399575,
+  "scaleY": 0.081399575
 },
 {
   "calibrationKey": "p4_packing_building_level_1_at_8_3_m",
