@@ -10745,18 +10745,261 @@
 
 
 
+    
+  {
+    "code": "P9/L2/01",
+    "type": "FM200",
+    "location": "محطة التحلية - غرفة الكهرباء - اذنار المرحلة الأولى عند تفعيل ZONE1",
+   "x_pixel": 1326,
+"y_pixel": 168,
+    "gate_x": 1330,
+    "gate_y": 199,
+    "g_angle": 270
+  },
+  {
+    "code": "P9/L2/02",
+    "type": "FM200",
+    "location": "محطة التحلية - غرفة الكهرباء - اذنار المرحلة الأولى عند تفعيل ZONE1",
+    "x_pixel": 1326,
+"y_pixel": 164,
+    "gate_x": 1330,
+    "gate_y": 199,
+    "g_angle": 270
+  },
+  {
+    "code": "P9/L2/03",
+    "type": "FM200",
+    "location": "محطة التحلية - غرفة الكهرباء - اذنار المرحلة الأولى عند تفعيل ZONE1",
+    "x_pixel": 1326,
+"y_pixel": 159,
+    "gate_x": 1330,
+    "gate_y": 199,
+    "g_angle": 270
+  },
+  {
+    "code": "P9/L2/04",
+    "type": "SMOKE DETECTOR",
+    "location": "مكتب مشرف محطة التحلية RO",
+    "x_pixel": 1283,
+"y_pixel": 165,
+    "gate_x": 1330,
+    "gate_y": 199,
+    "g_angle": 270
+  },
+  {
+    "code": "P9/L2/05",
+    "type": "SMOKE DETECTOR",
+    "location": "محطة التحلية - الصالة امام غرفة الكهرباء",
+    "x_pixel": 1309,
+"y_pixel": 183,
+    "gate_x": 1330,
+    "gate_y": 199,
+    "g_angle": 270
+  },
+  {
+    "code": "P9/L2/06",
+    "type": "SMOKE DETECTOR",
+    "location": "محطة التحلية",
+   "x_pixel": 1256,
+"y_pixel": 183,
+    "gate_x": 1330,
+    "gate_y": 199,
+    "g_angle": 270
+  },
+  {
+    "code": "P9/L2/07",
+    "type": "SMOKE DETECTOR",
+    "location": "محطة التحلية",
+    "x_pixel": 1256,
+"y_pixel": 240,
+    "gate_x": 1330,
+    "gate_y": 199,
+    "g_angle": 270
+  },
+  {
+    "code": "P9/L2/08",
+    "type": "SMOKE DETECTOR",
+    "location": "محطة التحلية",
+    "x_pixel": 1203,
+"y_pixel": 240,
+    "gate_x": 1330,
+    "gate_y": 199,
+    "g_angle": 270
+  },
+  {
+    "code": "P9/L2/09",
+    "type": "SMOKE DETECTOR",
+    "location": "محطة التحلية",
+    "x_pixel": 1203,
+"y_pixel": 183,
+    "gate_x": 1330,
+    "gate_y": 199,
+    "g_angle": 270
+  },
+  {
+    "code": "P9/L2/10",
+    "type": "SMOKE DETECTOR",
+    "location": "محطة التحلية",
+    "x_pixel": 1151,
+"y_pixel": 183,
+    "gate_x": 1330,
+    "gate_y": 199,
+    "g_angle": 270
+  },
+  {
+    "code": "P9/L2/11",
+    "type": "SMOKE DETECTOR",
+    "location": "محطة التحلية",
+    "x_pixel": 1151,
+"y_pixel": 240,
+    "gate_x": 1330,
+    "gate_y": 199,
+    "g_angle": 270
+  },
+  {
+    "code": "P9/L2/12",
+    "type": "SMOKE DETECTOR",
+    "location": "محطة التحلية",
+    "x_pixel": 1151,
+"y_pixel": 298,
+    "gate_x": 1330,
+    "gate_y": 199,
+    "g_angle": 270
+  },
+  {
+    "code": "P9/L2/13",
+    "type": "SMOKE DETECTOR",
+    "location": "محطة التحلية",
+    "x_pixel": 1203,
+"y_pixel": 297,
+    "gate_x": 1330,
+    "gate_y": 199,
+    "g_angle": 270
+  },
+  {
+    "code": "P9/L2/14",
+    "type": "SMOKE DETECTOR",
+    "location": "محطة التحلية",
+    "x_pixel": 1256,
+"y_pixel": 297,
+    "gate_x": 1330,
+    "gate_y": 199,
+    "g_angle": 270
+  },
+  {
+    "code": "P9/L2/15",
+    "type": "SMOKE DETECTOR",
+    "location": "محطة التحلية",
+   "x_pixel": 1309,
+"y_pixel": 297,
+    "gate_x": 1330,
+    "gate_y": 199,
+    "g_angle": 270
+  },
+  {
+    "code": "P9/L2/16",
+    "type": "SMOKE DETECTOR",
+    "location": "محطة التحلية",
+    "x_pixel": 1309,
+"y_pixel": 240,
+    "gate_x": 1330,
+    "gate_y": 199,
+    "g_angle": 270
+  },
+  {
+    "code": "P9/L2/17 NAC-1",
+    "type": "NAC",
+    "location": "محطة التحلية - المدخل بجانب البوابة الشرقية",
+    "x_pixel": 1329,
+"y_pixel": 196,
+    "gate_x": 1330,
+    "gate_y": 199,
+    "g_angle": 270
+  },
+  {
+    "code": "P9/L2/18",
+    "type": "FLASHER",
+    "location": "محطة التحلية - المدخل بجانب البوابة الشرقية",
+    "x_pixel": 1326,
+"y_pixel": 232,
+    "gate_x": 1330,
+    "gate_y": 199,
+    "g_angle": 270
+  },
+  {
+    "code": "P9/L2/19",
+    "type": "SOUNDER",
+    "location": "محطة التحلية - المدخل بجانب البوابة الشرقية",
+    "x_pixel": 1326,
+"y_pixel": 228,
+    "gate_x": 1330,
+    "gate_y": 199,
+    "g_angle": 270
+  },
+  {
+    "code": "P9/L2/20",
+    "type": "MANUAL CALL POINT",
+    "location": "محطة التحلية - المدخل بجانب البوابة الشرقية",
+    "x_pixel": 1326,
+"y_pixel": 206,
+    "gate_x": 1330,
+    "gate_y": 199,
+    "g_angle": 270
+  },
+  {
+    "code": "P9/L2/21",
+    "type": "PRESURE SWITCH",
+    "location": "محطة التحلية - مفتاح الضغط الخاص بشبكة المرشات",
+   "x_pixel": 1299,
+"y_pixel": 175,
+    "gate_x": 1330,
+    "gate_y": 199,
+    "g_angle": 270
+  },
+  {
+    "code": "P9/L2/22",
+    "type": "TAMPER SWITCH",
+    "location": "محطة التحلية - حساس محبس رقم 141 الخاص بمرشات الإطفاء",
+   "x_pixel": 1294,
+"y_pixel": 175,
+    "gate_x": 1330,
+    "gate_y": 199,
+    "g_angle": 270
+  },
+  {
+    "code": "P9/L2/23",
+    "type": "FLOW SWITCH",
+    "location": "محطة التحلية - حساس التدفق الخاص ب كبائن الإطفاء",
+    "x_pixel": 1287,
+"y_pixel": 175,
+    "gate_x": 1330,
+    "gate_y": 199,
+    "g_angle": 270
+  },
+  {
+    "code": "P9/L2/24",
+    "type": "TAMPER SWITCH",
+    "location": "محطة التحلية - حساس محبس رقم 142 الخاص ب كبائن الإطفاء",
+    "x_pixel": 1283,
+"y_pixel": 175,
+    "gate_x": 1330,
+    "gate_y": 199,
+    "g_angle": 270
+  },
+
+
+
+
+
+
+
+
+
+
+
+
      {
         "code": "P9/L2/25",
-        "type": "MULTI SENSOR DETECTOR",
-        "location": "هنجر الخام - الجهة الشمالية من الداخل",
-        "x_pixel": 2817,
-        "y_pixel": 1048,
-        "gate_x": 2194,
-        "gate_y": 752,
-        "g_angle": 90
-    },
-     {
-        "code": "P9/L2/01",
         "type": "MULTI SENSOR DETECTOR",
         "location": "هنجر الخام - الجهة الشمالية من الداخل",
         "x_pixel": 2817,
