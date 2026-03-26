@@ -146,17 +146,9 @@
 },
 {
   "calibrationKey": "p4_silo_low_level",
-  "calX": 2128.0,
-  "calY": 1349.5,
-  "rotation": 0.0,
-  "scaleX": 0.16487888,
-  "scaleY": 0.16487888
-},
-{
-  "calibrationKey": "p4_silo_low_level",
   "calX": 1928.75,
-  "calY": 1346.125,
-  "rotation": -632.625,
+  "calY": 1355.125,
+  "rotation": -628.125,
   "scaleX": 0.03300579,
   "scaleY": 0.03300579
 },
@@ -167,14 +159,6 @@
   "rotation": 89.375,
   "scaleX": 0.031217752,
   "scaleY": 0.030388143
-},
-{
-  "calibrationKey": "p4_silos_high_level",
-  "calX": 2128.0,
-  "calY": 1435.25,
-  "rotation": 0.0,
-  "scaleX": 0.12696913,
-  "scaleY": 0.12696913
 },
 {
   "calibrationKey": "p4_silos_high_level",
