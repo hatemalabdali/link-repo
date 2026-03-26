@@ -10289,26 +10289,348 @@
 
 
 
-    {
-        "code": "P9/L1/11",
-        "type": "MULTI SENSOR DETECTOR",
-        "location": "هنجر الخام - الجهة الشمالية من الداخل",
-        "x_pixel": 2817,
-        "y_pixel": 1048,
-        "gate_x": 2194,
-        "gate_y": 752,
-        "g_angle": 90
-    },
-     {
-        "code": "P9/L1/15",
-        "type": "MULTI SENSOR DETECTOR",
-        "location": "هنجر الخام - الجهة الشمالية من الداخل",
-        "x_pixel": 2817,
-        "y_pixel": 1048,
-        "gate_x": 2194,
-        "gate_y": 752,
-        "g_angle": 90
-    },
+    
+  {
+    "code": "P9/L1/11",
+    "type": "MANUAL CALL POINT",
+    "location": "ضاغطة صالة سكن الفنيين القديم بجانب المدخل الغربي",
+    "x_pixel": 1649,
+"y_pixel": 395,
+    "gate_x": 1640,
+    "gate_y": 400,
+    "g_angle": 90
+  },
+  {
+    "code": "P9/L1/12",
+    "type": "FLASHER",
+    "location": "فلاشر صالة سكن الفنيين القديم بجانب المدخل الغربي",
+    "x_pixel": 1650,
+"y_pixel": 397,
+    "gate_x": 1640,
+    "gate_y": 400,
+    "g_angle": 90
+  },
+  {
+    "code": "P9/L1/13",
+    "type": "SOUNDER",
+    "location": "سوندر صالة سكن الفنيين القديم بجانب المدخل الغربي",
+    "x_pixel": 1648,
+"y_pixel": 397,
+    "gate_x": 1640,
+    "gate_y": 400,
+    "g_angle": 90
+  },
+  {
+    "code": "P9/L1/14 NAC-1",
+    "type": "NAC",
+    "location": "خارج البوابة الشرقية لمبنى سكن الفنيين القديم",
+    "x_pixel": 1641,
+"y_pixel": 390,
+    "gate_x": 1640,
+    "gate_y": 400,
+    "g_angle": 90
+  },
+  {
+    "code": "P9/L1/14 NAC-2",
+    "type": "NAC",
+    "x_pixel": 1785,
+"y_pixel": 392,
+    "gate_x": 1640,
+    "gate_y": 400,
+    "g_angle": 90
+  },
+  {
+    "code": "P9/L1/24",
+    "type": "SMOKE DETECTOR",
+    "location": "سكن الفنيين القديم - غرفة رقم 1",
+    "x_pixel": 1652,
+"y_pixel": 419,
+    "gate_x": 1655,
+    "gate_y": 404,
+    "g_angle": 180
+  },
+  {
+    "code": "P9/L1/25",
+    "type": "SMOKE DETECTOR",
+    "location": "استراحة سكن الفنيين القديم",
+    "x_pixel": 1660,
+"y_pixel": 447,
+    "gate_x": 1670,
+    "gate_y": 461,
+    "g_angle": 0
+  },
+  {
+    "code": "P9/L1/26",
+    "type": "SMOKE DETECTOR",
+    "location": "سكن الفنيين القديم - غرفة رقم 2",
+    "x_pixel": 1669,
+"y_pixel": 420,
+    "gate_x": 1672,
+    "gate_y": 404,
+    "g_angle": 180
+  },
+  {
+    "code": "P9/L1/27",
+    "type": "SMOKE DETECTOR",
+    "location": "سكن الفنيين القديم - غرفة تغيير الملابس - الصيانة",
+    "x_pixel": 1695,
+"y_pixel": 418,
+    "gate_x": 1682,
+    "gate_y": 462,
+    "g_angle": 0
+  },
+  {
+    "code": "P9/L1/28",
+    "type": "SMOKE DETECTOR",
+    "location": "سكن الفنيين القديم - غرفة تغيير الملابس - الصيانة",
+    "x_pixel": 1695,
+"y_pixel": 447,
+    "gate_x": 1682,
+    "gate_y": 462,
+    "g_angle": 0
+  },
+  {
+    "code": "P9/L1/29",
+    "type": "SMOKE DETECTOR",
+    "location": "سكن الفنيين القديم - غرفة تغيير الملابس - الصيانة",
+    "x_pixel": 1735,
+"y_pixel": 447,
+    "gate_x": 1682,
+    "gate_y": 462,
+    "g_angle": 0
+  },
+  {
+    "code": "P9/L1/30",
+    "type": "SMOKE DETECTOR",
+    "location": "سكن الفنيين القديم - غرفة تغيير الملابس - الصيانة",
+    "x_pixel": 1736,
+"y_pixel": 418,
+    "gate_x": 1682,
+    "gate_y": 462,
+    "g_angle": 0
+  },
+  {
+    "code": "P9/L1/31",
+    "type": "MANUAL CALL POINT",
+    "location": "ضاغطة صالة سكن الفنيين القديم",
+    "x_pixel": 1775,
+"y_pixel": 395,
+    "gate_x": 1640,
+    "gate_y": 400,
+    "g_angle": 90
+  },
+  {
+    "code": "P9/L1/32",
+    "type": "SMOKE DETECTOR",
+    "location": "سكن الفنيين القديم - غرفة تغيير الملابس - الإنتاج",
+    "x_pixel": 1735,
+"y_pixel": 380,
+    "gate_x": 1681,
+    "gate_y": 335,
+    "g_angle": 180
+  },
+  {
+    "code": "P9/L1/33",
+    "type": "SMOKE DETECTOR",
+    "location": "سكن الفنيين القديم - غرفة تغيير الملابس - الإنتاج",
+   "x_pixel": 1735,
+"y_pixel": 350,
+    "gate_x": 1681,
+    "gate_y": 335,
+    "g_angle": 180
+  },
+  {
+    "code": "P9/L1/34",
+    "type": "SMOKE DETECTOR",
+    "location": "سكن الفنيين القديم - غرفة تغيير الملابس - الإنتاج",
+    "x_pixel": 1694,
+"y_pixel": 350,
+    "gate_x": 1681,
+    "gate_y": 335,
+    "g_angle": 180
+  },
+  {
+    "code": "P9/L1/35",
+    "type": "SMOKE DETECTOR",
+    "location": "سكن الفنيين القديم - غرفة تغيير الملابس - الإنتاج",
+    "x_pixel": 1694,
+"y_pixel": 380,
+    "gate_x": 1681,
+    "gate_y": 335,
+    "g_angle": 180
+  },
+  {
+    "code": "P9/L1/36",
+    "type": "SMOKE DETECTOR",
+    "location": "المغسلة",
+    "x_pixel": 1660,
+"y_pixel": 380,
+    "gate_x": 1647,
+    "gate_y": 336,
+    "g_angle": 180
+  },
+  {
+    "code": "P9/L1/37",
+    "type": "SMOKE DETECTOR",
+    "location": "المغسلة",
+    "x_pixel": 1660,
+"y_pixel": 350,
+    "gate_x": 1647,
+    "gate_y": 336,
+    "g_angle": 180
+  },
+  {
+    "code": "P9/L1/38",
+    "type": "PRESURE SWITCH",
+    "location": "مفتاح الضغط الخاص بشبكة المرشات في مبنى المغسلة (سكن الفنيين القديم)",
+   "x_pixel": 1644,
+"y_pixel": 342,
+    "gate_x": 1647,
+    "gate_y": 336,
+    "g_angle": 180
+  },
+  {
+    "code": "P9/L1/39",
+    "type": "TAMPER SWITCH",
+    "location": "حساس محبس رقم 139 لشبكة مرشات الحريق في مبنى المغسلة",
+    "x_pixel": 1644,
+"y_pixel": 344,
+    "gate_x": 1647,
+    "gate_y": 336,
+    "g_angle": 180
+  },
+  {
+    "code": "P9/L1/40",
+    "type": "FLOW SWITCH",
+    "location": "حساس التدفق لخط كبائن الإطفاء في مبنى المغسلة",
+    "x_pixel": 1644,
+"y_pixel": 349,
+    "gate_x": 1647,
+    "gate_y": 336,
+    "g_angle": 180
+  },
+  {
+    "code": "P9/L1/41",
+    "type": "TAMPER SWITCH",
+    "location": "حساس محبس رقم 138 لخط كبائن الإطفاء في مبنى المغسلة",
+    "x_pixel": 1644,
+"y_pixel": 352,
+    "gate_x": 1647,
+    "gate_y": 336,
+    "g_angle": 180
+  },
+
+     
+  {
+    "code": "P9/L1/15",
+    "type": "SMOKE DETECTOR",
+    "location": "سكن الفنيين القديم - اعلى السطح - الاستراحة",
+   "x_pixel": 1666,
+"y_pixel": 438,
+    "gate_x": 1640,
+    "gate_y": 400,
+    "g_angle": 90
+  },
+  {
+    "code": "P9/L1/16",
+    "type": "SMOKE DETECTOR",
+    "location": "سكن الفنيين القديم - اعلى السطح",
+   "x_pixel": 1713,
+"y_pixel": 437,
+    "gate_x": 1640,
+    "gate_y": 400,
+    "g_angle": 90
+  },
+  {
+    "code": "P9/L1/17",
+    "type": "SMOKE DETECTOR",
+    "location": "سكن الفنيين القديم - اعلى السطح",
+    "x_pixel": 1761,
+"y_pixel": 435,
+    "gate_x": 1640,
+    "gate_y": 400,
+    "g_angle": 90
+  },
+  {
+    "code": "P9/L1/18",
+    "type": "SMOKE DETECTOR",
+    "location": "سكن الفنيين القديم - اعلى السطح",
+    "x_pixel": 1759,
+"y_pixel": 394,
+    "gate_x": 1640,
+    "gate_y": 400,
+    "g_angle": 90
+  },
+  {
+    "code": "P9/L1/19",
+    "type": "SMOKE DETECTOR",
+    "location": "سكن الفنيين القديم - اعلى السطح - غرفة تغيير الملابس",
+    "x_pixel": 1758,
+"y_pixel": 352,
+    "gate_x": 1640,
+    "gate_y": 400,
+    "g_angle": 90
+  },
+  {
+    "code": "P9/L1/20",
+    "type": "SMOKE DETECTOR",
+    "location": "سكن الفنيين القديم - اعلى السطح - غرفة تغيير الملابس",
+    "x_pixel": 1710,
+"y_pixel": 354,
+    "gate_x": 1640,
+    "gate_y": 400,
+    "g_angle": 90
+  },
+  {
+    "code": "P9/L1/21",
+    "type": "SMOKE DETECTOR",
+    "location": "سكن الفنيين القديم - اعلى السطح - المغسلة",
+   "x_pixel": 1663,
+"y_pixel": 355,
+    "gate_x": 1640,
+    "gate_y": 400,
+    "g_angle": 90
+  },
+  {
+    "code": "P9/L1/22",
+    "type": "SMOKE DETECTOR",
+    "location": "سكن الفنيين القديم - اعلى السطح",
+   "x_pixel": 1712,
+"y_pixel": 395,
+    "gate_x": 1640,
+    "gate_y": 400,
+    "g_angle": 90
+  },
+  {
+    "code": "P9/L1/23",
+    "type": "SMOKE DETECTOR",
+    "location": "سكن الفنيين القديم - اعلى السطح - الصالة",
+    "x_pixel": 1664,
+"y_pixel": 397,
+    "gate_x": 1640,
+    "gate_y": 400,
+    "g_angle": 90
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
      {
         "code": "P9/L2/25",
         "type": "MULTI SENSOR DETECTOR",
