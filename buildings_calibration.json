@@ -406,11 +406,11 @@
 },
 {
   "calibrationKey": "p9_proposed_fire_pump_room",
-  "calX": 973.75,
-  "calY": 240.0,
-  "rotation": -183.375,
-  "scaleX": 0.028699832,
-  "scaleY": 0.028699832
+  "calX": 976.125,
+  "calY": 236.75,
+  "rotation": -91.0,
+  "scaleX": 0.02940625,
+  "scaleY": 0.026449224
 },
 {
   "calibrationKey": "p9_ro_plant",
