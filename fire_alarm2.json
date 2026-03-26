@@ -3645,21 +3645,645 @@
         "gate_y": 2748,
         "g_angle": -12
     },
-
-
-
-
     {
         "code": "P4/L1/01",
-        "type": "BEAM DETECTOR",
-        "location": "2222222222222",
-        "x_pixel": 1942,
-        "y_pixel": 2725,
-        "gate_x": 2011,
-        "gate_y": 1685,
+        "type": "FLASHER",
+        "location": "التعبئة - المدخل",
+        "x_pixel": 2012,
+"y_pixel": 1697,
+        "gate_x": 2008,
+        "gate_y": 1686,
         "g_angle": 180
     },
-   
+    {
+        "code": "P4/L1/02",
+        "type": "SOUNDER",
+        "location": "التعبئة - المدخل",
+        "x_pixel": 2017,
+"y_pixel": 1697,
+        "gate_x": 2008,
+        "gate_y": 1686,
+        "g_angle": 180
+    },
+    {
+        "code": "P4/L1/03",
+        "type": "MANUAL CALL POINT",
+        "location": "التعبئة - المدخل",
+       "x_pixel": 2015,
+"y_pixel": 1692,
+        "gate_x": 2008,
+        "gate_y": 1686,
+        "g_angle": 180
+    },
+    {
+        "code": "P4/L1/04",
+        "type": "SMOKE DETECTOR",
+        "location": "التعبئة - صالة 1 كجم",
+        "x_pixel": 1833,
+"y_pixel": 1669,
+        "gate_x": 1862,
+        "gate_y": 1651,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/05",
+        "type": "HEAT DETECTOR",
+        "location": "التعبئة - صالة 1 كجم",
+        "x_pixel": 1833,
+"y_pixel": 1650,
+        "gate_x": 1862,
+        "gate_y": 1651,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/06",
+        "type": "MANUAL CALL POINT",
+        "location": "التعبئة - غرفة الكمبريسرات",
+        "x_pixel": 1840,
+"y_pixel": 1639,
+        "gate_x": 1758,
+        "gate_y": 1594,
+        "g_angle": 180
+    },
+    {
+        "code": "P4/L1/07",
+        "type": "SMOKE DETECTOR",
+        "location": "التعبئة - غرفة الكمبريسرات",
+       "x_pixel": 1846,
+"y_pixel": 1619,
+        "gate_x": 1758,
+        "gate_y": 1594,
+        "g_angle": 180
+    },
+    {
+        "code": "P4/L1/08",
+        "type": "SMOKE DETECTOR",
+        "location": "التعبئة - غرفة الكمبريسرات",
+        "x_pixel": 1821,
+"y_pixel": 1619,
+        "gate_x": 1758,
+        "gate_y": 1594,
+        "g_angle": 180
+    },
+    {
+        "code": "P4/L1/09",
+        "type": "MANUAL CALL POINT",
+        "location": "التعبئة - غرفة الكمبريسرات",
+        "x_pixel": 1765,
+"y_pixel": 1600,
+        "gate_x": 1758,
+        "gate_y": 1594,
+        "g_angle": 180
+    },
+    {
+        "code": "P4/L1/10",
+        "type": "FLASHER",
+        "location": "التعبئة - غرفة الكمبريسرات",
+        "x_pixel": 1763,
+"y_pixel": 1605,
+        "gate_x": 1758,
+        "gate_y": 1594,
+        "g_angle": 180
+    },
+    {
+        "code": "P4/L1/11",
+        "type": "SOUNDER",
+        "location": "التعبئة - غرفة الكمبريسرات",
+       "x_pixel": 1768,
+"y_pixel": 1605,
+        "gate_x": 1758,
+        "gate_y": 1594,
+        "g_angle": 180
+    },
+    {
+        "code": "P4/L1/12",
+        "type": "SMOKE DETECTOR",
+        "location": "التعبئة - غرفة الكمبريسرات",
+        "x_pixel": 1782,
+"y_pixel": 1619,
+        "gate_x": 1758,
+        "gate_y": 1594,
+        "g_angle": 180
+    },
+    {
+        "code": "P4/L1/13",
+        "type": "SMOKE DETECTOR",
+        "location": "التعبئة - صالة 1 كجم",
+        "x_pixel": 1782,
+"y_pixel": 1651,
+        "gate_x": 1862,
+        "gate_y": 1651,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/14",
+        "type": "SMOKE DETECTOR",
+        "location": "التعبئة - صالة 1 كجم",
+        "x_pixel": 1783,
+"y_pixel": 1670,
+        "gate_x": 1862,
+        "gate_y": 1651,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/15 NAC-1",
+        "type": "NAC",
+        "location": "التعبئة - صالة 1 كجم",
+        "x_pixel": 1756,
+"y_pixel": 1692,
+        "gate_x": 1862,
+        "gate_y": 1651,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/16-D1",
+        "type": "MANUAL CALL POINT",
+        "location": "التعبئة - صالة 1 كجم",
+       "x_pixel": 1764,
+"y_pixel": 1748,
+        "gate_x": 1862,
+        "gate_y": 1651,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/19",
+        "type": "PRESURE SWITCH",
+        "location": "MAIN PIPE حساس الضغط للمحبس رقم 125",
+        "x_pixel": 1788,
+"y_pixel": 1768,
+        "gate_x": 1862,
+        "gate_y": 1651,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/20",
+        "type": "TAMPER SWITCH",
+        "location": "MAIN PIPE حساس محبس رقم 125",
+        "x_pixel": 1793,
+"y_pixel": 1768,
+        "gate_x": 1862,
+        "gate_y": 1651,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/21",
+        "type": "FLOW SWITCH",
+        "location": "مكاتب الجودة",
+        "x_pixel": 1799,
+"y_pixel": 1768,
+        "gate_x": 1862,
+        "gate_y": 1651,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/22",
+        "type": "TAMPER SWITCH",
+        "location": "مكاتب الجودة",
+       "x_pixel": 1805,
+"y_pixel": 1768,
+        "gate_x": 1862,
+        "gate_y": 1651,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/23",
+        "type": "FLOW SWITCH",
+        "location": "صالة 1 ك",
+       "x_pixel": 1811,
+"y_pixel": 1767,
+        "gate_x": 1862,
+        "gate_y": 1651,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/24",
+        "type": "TAMPER SWITCH",
+        "location": "صالة 1 ك",
+       "x_pixel": 1817,
+"y_pixel": 1767,
+        "gate_x": 1862,
+        "gate_y": 1651,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/25",
+        "type": "FLOW SWITCH",
+        "location": "الدور الأول",
+        "x_pixel": 1787,
+"y_pixel": 1772,
+        "gate_x": 1862,
+        "gate_y": 1651,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/26",
+        "type": "TAMPER SWITCH",
+        "location": "الدور الأول",
+       "x_pixel": 1793,
+"y_pixel": 1771,
+        "gate_x": 1862,
+        "gate_y": 1651,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/27",
+        "type": "FLOW SWITCH",
+        "location": "دكة التحميل",
+        "x_pixel": 1799,
+"y_pixel": 1771,
+        "gate_x": 1862,
+        "gate_y": 1651,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/28",
+        "type": "TAMPER SWITCH",
+        "location": "دكة التحميل",
+       "x_pixel": 1805,
+"y_pixel": 1771,
+        "gate_x": 1862,
+        "gate_y": 1651,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/29",
+        "type": "FLOW SWITCH",
+        "location": "HOSE REEL",
+       "x_pixel": 1811,
+"y_pixel": 1771,
+        "gate_x": 1862,
+        "gate_y": 1651,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/30",
+        "type": "TAMPER SWITCH",
+        "location": "HOSE REEL",
+        "x_pixel": 1817,
+"y_pixel": 1771,
+        "gate_x": 1862,
+        "gate_y": 1651,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/31",
+        "type": "MANUAL CALL POINT",
+        "location": "دكة التحميل",
+        "x_pixel": 1970,
+"y_pixel": 1772,
+        "gate_x": 1862,
+        "gate_y": 1651,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/32",
+        "type": "MANUAL CALL POINT",
+        "location": "إدارة الجودة - الصالة",
+       "x_pixel": 2170,
+"y_pixel": 1753,
+        "gate_x": 2175,
+        "gate_y": 1758,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/33",
+        "type": "FLASHER",
+        "location": "إدارة الجودة - الصالة",
+        "x_pixel": 2165,
+"y_pixel": 1751,
+        "gate_x": 2175,
+        "gate_y": 1758,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/34",
+        "type": "SOUNDER",
+        "location": "إدارة الجودة - الصالة",
+       "x_pixel": 2165,
+"y_pixel": 1756,
+        "gate_x": 2175,
+        "gate_y": 1758,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/35",
+        "type": "SMOKE DETECTOR",
+        "location": "إدارة الجودة - الصالة",
+        "x_pixel": 2158,
+"y_pixel": 1758,
+        "gate_x": 2175,
+        "gate_y": 1758,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/36",
+        "type": "SMOKE DETECTOR",
+        "location": "إدارة الجودة - الصالة",
+        "x_pixel": 2151,
+"y_pixel": 1758,
+        "gate_x": 2175,
+        "gate_y": 1758,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/37",
+        "type": "SMOKE DETECTOR",
+        "location": "إدارة الجودة - غرفة العينات",
+       "x_pixel": 2133,
+"y_pixel": 1743,
+        "gate_x": 2175,
+        "gate_y": 1758,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/38",
+        "type": "SMOKE DETECTOR",
+        "location": "إدارة الجودة - غرفة العينات",
+       "x_pixel": 2133,
+"y_pixel": 1736,
+        "gate_x": 2175,
+        "gate_y": 1758,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/39",
+        "type": "SMOKE DETECTOR",
+        "location": "إدارة الجودة - الصالة",
+        "x_pixel": 2147,
+"y_pixel": 1737,
+        "gate_x": 2175,
+        "gate_y": 1758,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/40",
+        "type": "SMOKE DETECTOR",
+        "location": "إدارة الجودة - الصالة",
+        "x_pixel": 2147,
+"y_pixel": 1743,
+        "gate_x": 2175,
+        "gate_y": 1758,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/41",
+        "type": "SMOKE DETECTOR",
+        "location": "إدارة الجودة - مكتب هيثم الوصابي",
+        "x_pixel": 2155,
+"y_pixel": 1742,
+        "gate_x": 2175,
+        "gate_y": 1758,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/42",
+        "type": "SMOKE DETECTOR",
+        "location": "إدارة الجودة - مكتب هيثم الوصابي",
+        "x_pixel": 2162,
+"y_pixel": 1742,
+        "gate_x": 2175,
+        "gate_y": 1758,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/43",
+        "type": "SMOKE DETECTOR",
+        "location": "إدارة الجودة - قاعة الاجتماعات",
+        "x_pixel": 2162,
+"y_pixel": 1717,
+        "gate_x": 2175,
+        "gate_y": 1758,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/44",
+        "type": "SMOKE DETECTOR",
+        "location": "إدارة الجودة - قاعة الاجتماعات",
+        "x_pixel": 2162,
+"y_pixel": 1710,
+        "gate_x": 2175,
+        "gate_y": 1758,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/45",
+        "type": "SMOKE DETECTOR",
+        "location": "إدارة الجودة - مكتب مدير الجودة",
+        "x_pixel": 2137,
+"y_pixel": 1698,
+        "gate_x": 2175,
+        "gate_y": 1758,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/46",
+        "type": "SMOKE DETECTOR",
+        "location": "إدارة الجودة - مكتب مدير الجودة",
+        "x_pixel": 2130,
+"y_pixel": 1698,
+        "gate_x": 2175,
+        "gate_y": 1758,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/47",
+        "type": "SMOKE DETECTOR",
+        "location": "التعبئة - مخزن الاكياس",
+       "x_pixel": 2098,
+"y_pixel": 1700,
+        "gate_x": 2046,
+        "gate_y": 1684,
+        "g_angle": 180
+    },
+    {
+        "code": "P4/L1/48",
+        "type": "SMOKE DETECTOR",
+        "location": "التعبئة - مخزن الاكياس",
+        "x_pixel": 2097,
+"y_pixel": 1723,
+        "gate_x": 2046,
+        "gate_y": 1684,
+        "g_angle": 180
+    },
+    {
+        "code": "P4/L1/49",
+        "type": "SMOKE DETECTOR",
+        "location": "التعبئة - مخزن الاكياس",
+       "x_pixel": 2056,
+"y_pixel": 1722,
+        "gate_x": 2046,
+        "gate_y": 1684,
+        "g_angle": 180
+    },
+    {
+        "code": "P4/L1/50",
+        "type": "SMOKE DETECTOR",
+        "location": "التعبئة - مخزن الاكياس",
+        "x_pixel": 2055,
+"y_pixel": 1701,
+        "gate_x": 2046,
+        "gate_y": 1684,
+        "g_angle": 180
+    },
+    {
+        "code": "P4/L1/51",
+        "type": "MANUAL CALL POINT",
+        "location": "التعبئة - مخزن الاكياس",
+       "x_pixel": 2027,
+"y_pixel": 1706,
+        "gate_x": 2046,
+        "gate_y": 1684,
+        "g_angle": 180
+    },
+    {
+        "code": "P4/L1/52",
+        "type": "FLASHER",
+        "location": "التعبئة - مخزن الاكياس",
+        "x_pixel": 2035,
+"y_pixel": 1710,
+        "gate_x": 2046,
+        "gate_y": 1684,
+        "g_angle": 180
+    },
+    {
+        "code": "P4/L1/53",
+        "type": "SOUNDER",
+        "location": "التعبئة - مخزن الاكياس",
+       "x_pixel": 2034,
+"y_pixel": 1702,
+        "gate_x": 2046,
+        "gate_y": 1684,
+        "g_angle": 180
+    },
+    {
+        "code": "P4/L1/54",
+        "type": "SMOKE DETECTOR",
+        "x_pixel": 1995,
+"y_pixel": 1725,
+        "gate_x": 2046,
+        "gate_y": 1684,
+        "g_angle": 180
+    },
+    {
+        "code": "P4/L1/55",
+        "type": "SMOKE DETECTOR",
+        "location": "التعبئة - مخزن الاكياس",
+        "x_pixel": 1944,
+"y_pixel": 1726,
+        "gate_x": 2046,
+        "gate_y": 1684,
+        "g_angle": 180
+    },
+    {
+        "code": "P4/L1/56",
+        "type": "SMOKE DETECTOR",
+        "location": "التعبئة - ورشة الصيانة",
+       "x_pixel": 1947,
+"y_pixel": 1703,
+        "gate_x": 2008,
+        "gate_y": 1686,
+        "g_angle": 180
+    },
+    {
+        "code": "P4/L1/57",
+        "type": "SMOKE DETECTOR",
+        "location": "التعبئة - ورشة الكهرباء",
+        "x_pixel": 1971,
+"y_pixel": 1702,
+        "gate_x": 2008,
+        "gate_y": 1686,
+        "g_angle": 180
+    },
+    {
+        "code": "P4/L1/58 NAC-1",
+        "type": "NAC",
+        "location": "التعبئة - مخزن الاكياس بجانب البوابة - من الخارج",
+       "x_pixel": 2014,
+"y_pixel": 1685,
+        "gate_x": 2046,
+        "gate_y": 1684,
+        "g_angle": 180
+    },
+    {
+        "code": "P4/L1/58 NAC-2",
+        "type": "NAC",
+        "location": "إدارة الجودة - خارج الباب",
+       "x_pixel": 2177,
+"y_pixel": 1753,
+        "gate_x": 2175,
+        "gate_y": 1758,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/58 NAC-3",
+        "type": "NAC",
+        "location": "دكة التحميل",
+        "x_pixel": 1970,
+"y_pixel": 1777,
+        "gate_x": 1862,
+        "gate_y": 1651,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/58 NAC-4",
+        "type": "NAC",
+        "location": "التعبئة - صالة 1 كجم",
+       "x_pixel": 1767,
+"y_pixel": 1781,
+        "gate_x": 1862,
+        "gate_y": 1651,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/58 NAC-5",
+        "type": "NAC",
+        "location": "التعبئة - غرفة الكمبريسرات - من الخارج",
+       "x_pixel": 1765,
+"y_pixel": 1594,
+        "gate_x": 1758,
+        "gate_y": 1594,
+        "g_angle": 180
+    },
+    {
+        "code": "P4/L1/70-D1",
+        "type": "HEAT DETECTOR",
+        "location": "التعبئة - صالة 1 كجم",
+        "x_pixel": 1794,
+"y_pixel": 1705,
+        "gate_x": 1862,
+        "gate_y": 1651,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/70-D2",
+        "type": "HEAT DETECTOR",
+        "location": "التعبئة - صالة 1 كجم",
+        "x_pixel": 1844,
+"y_pixel": 1704,
+        "gate_x": 1862,
+        "gate_y": 1651,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/70-D3",
+        "type": "HEAT DETECTOR",
+        "location": "التعبئة - صالة 1 كجم",
+        "x_pixel": 1845,
+"y_pixel": 1743,
+        "gate_x": 1862,
+        "gate_y": 1651,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/70-D4",
+        "type": "HEAT DETECTOR",
+        "location": "التعبئة - صالة 1 كجم",
+        "x_pixel": 1795,
+"y_pixel": 1743,
+        "gate_x": 1862,
+        "gate_y": 1651,
+        "g_angle": 270
+    },
 
 
 
@@ -3670,20 +4294,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    
     {
         "code": "P5/L1/01",
         "type": "SMOKE DETECTOR",
