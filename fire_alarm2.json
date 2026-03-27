@@ -5476,7 +5476,7 @@
 "y_pixel": 2087,
         "gate_x": 1619,
         "gate_y": 2101,
-        "g_angle": 80
+        "g_angle": 70
     },
     {
         "code": "P4/L3/31",
@@ -5486,7 +5486,7 @@
 "y_pixel": 2099,
         "gate_x": 1619,
         "gate_y": 2101,
-        "g_angle": 80
+        "g_angle": 70
     },
     {
         "code": "P4/L3/32 NAC-01",
@@ -5496,7 +5496,7 @@
 "y_pixel": 2107,
         "gate_x": 1619,
         "gate_y": 2101,
-        "g_angle": 80
+        "g_angle": 70
     },
     {
         "code": "P4/L3/33",
@@ -5506,7 +5506,7 @@
 "y_pixel": 2111,
         "gate_x": 1619,
         "gate_y": 2101,
-        "g_angle": 80
+        "g_angle": 70
     },
     {
         "code": "P4/L3/34",
@@ -5516,7 +5516,7 @@
 "y_pixel": 2105,
         "gate_x": 1619,
         "gate_y": 2101,
-        "g_angle": 80
+        "g_angle": 70
     },
     {
         "code": "P4/L3/35",
@@ -5526,7 +5526,7 @@
 "y_pixel": 2107,
         "gate_x": 1619,
         "gate_y": 2101,
-        "g_angle": 80
+        "g_angle": 70
     },
     {
         "code": "P4/L3/36",
@@ -5536,7 +5536,7 @@
 "y_pixel": 2069,
         "gate_x": 1619,
         "gate_y": 2101,
-        "g_angle": 80
+        "g_angle": 70
     },
     {
         "code": "P4/L3/37",
@@ -5546,7 +5546,7 @@
 "y_pixel": 2030,
         "gate_x": 1619,
         "gate_y": 2101,
-        "g_angle": 80
+        "g_angle": 70
     },
     {
         "code": "P4/L3/38",
@@ -5556,7 +5556,7 @@
 "y_pixel": 2015,
         "gate_x": 1619,
         "gate_y": 2101,
-        "g_angle": 80
+        "g_angle": 70
     },
     {
         "code": "P4/L3/39",
@@ -5566,7 +5566,7 @@
 "y_pixel": 2053,
         "gate_x": 1619,
         "gate_y": 2101,
-        "g_angle": 80
+        "g_angle": 70
     },
     {
         "code": "P4/L3/40",
@@ -5576,7 +5576,7 @@
 "y_pixel": 2050,
         "gate_x": 1619,
         "gate_y": 2101,
-        "g_angle": 80
+        "g_angle": 70
     },
     {
         "code": "P4/L3/41",
@@ -5586,7 +5586,7 @@
 "y_pixel": 2056,
         "gate_x": 1619,
         "gate_y": 2101,
-        "g_angle": 80
+        "g_angle": 70
     },
 
 
