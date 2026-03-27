@@ -4395,7 +4395,7 @@
         "g_angle": 270
     },
     {
-        "code": "P4/L1/62 NAC-01",
+        "code": "P4/L1/62 NAC-1",
         "type": "NAC",
         "location": "التعبئة الدور الأول",
         "x_pixel": 2150,
@@ -4405,7 +4405,7 @@
         "g_angle": 270
     },
     {
-        "code": "P4/L1/63 NAC-01",
+        "code": "P4/L1/63 NAC-1",
         "type": "NAC",
         "location": "التعبئة - الدور الأول - جهة صالة 1 ك",
         "x_pixel": 1785,
@@ -6216,7 +6216,7 @@
         "g_angle": 236
     },
     {
-        "code": "P5/L3/68/NAC-01",
+        "code": "P5/L3/68/NAC-1",
         "type": "NAC",
         "location": "مخزن الكيماويات",
         "x_pixel": 756,
