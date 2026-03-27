@@ -5134,15 +5134,316 @@
         "gate_y": 1701,
         "g_angle": 270
     },
-
-
-
-
-
-
-
-
-
+    {
+        "code": "P4/L3/01",
+        "type": "FAULT INFRARED BEAM DETECTOR",
+        "location": "هنجر التام - الجهة الشمالية",
+        "x_pixel": 1719,
+        "y_pixel": 1947,
+        "gate_x": 1559,
+        "gate_y": 1958,
+        "g_angle": 0
+    },
+    {
+        "code": "P4/L3/02",
+        "type": "FAULT INFRARED BEAM DETECTOR",
+        "location": "هنجر التام - الجهة الشمالية",
+        "x_pixel": 1658,
+        "y_pixel": 1949,
+        "gate_x": 1559,
+        "gate_y": 1958,
+        "g_angle": 0
+    },
+    {
+        "code": "P4/L3/03",
+        "type": "PRESURE SWITCH",
+        "location": "هنجر السكر التام - حساس الضغط لخط المرشات",
+        "x_pixel": 1640,
+        "y_pixel": 1948,
+        "gate_x": 1559,
+        "gate_y": 1958,
+        "g_angle": 0
+    },
+    {
+        "code": "P4/L3/04",
+        "type": "FLOW SWITCH",
+        "location": "هنجر السكر التام - حساس التدفق لخط المرشات",
+        "x_pixel": 1630,
+        "y_pixel": 1949,
+        "gate_x": 1559,
+        "gate_y": 1958,
+        "g_angle": 0
+    },
+    {
+        "code": "P4/L3/05",
+        "type": "FLOW SWITCH",
+        "location": "هنجر السكر التام - حساس التدفق لخط كبائن الإطفاء",
+        "x_pixel": 1621,
+        "y_pixel": 1949,
+        "gate_x": 1559,
+        "gate_y": 1958,
+        "g_angle": 0
+    },
+    {
+        "code": "P4/L3/06",
+        "type": "TAMPER SWITCH",
+        "location": "هنجر السكر التام - حساس محبس خط كبائن الإطفاء",
+        "x_pixel": 1612,
+        "y_pixel": 1949,
+        "gate_x": 1559,
+        "gate_y": 1958,
+        "g_angle": 0
+    },
+    {
+        "code": "P4/L3/07",
+        "type": "FAULT INFRARED BEAM DETECTOR",
+        "location": "هنجر التام - الجهة الشمالية",
+        "x_pixel": 1598,
+        "y_pixel": 1950,
+        "gate_x": 1559,
+        "gate_y": 1958,
+        "g_angle": 0
+    },
+    {
+        "code": "P4/L3/08",
+        "type": "MANUAL CALL POINT",
+        "location": "هنجر السكر التام - بجانب البوابة الجنوبية للهنجر جهة الجامع",
+        "x_pixel": 1512,
+        "y_pixel": 1937,
+        "gate_x": 1559,
+        "gate_y": 1958,
+        "g_angle": 0
+    },
+    {
+        "code": "P4/L3/09",
+        "type": "FLASHER",
+        "location": "هنجر السكر التام - بجانب البوابة الجنوبية للهنجر جهة الجامع",
+        "x_pixel": 1519,
+        "y_pixel": 1939,
+        "gate_x": 1559,
+        "gate_y": 1958,
+        "g_angle": 0
+    },
+    {
+        "code": "P4/L3/10",
+        "type": "SOUNDER",
+        "location": "هنجر السكر التام - بجانب البوابة الجنوبية للهنجر جهة الجامع",
+        "x_pixel": 1519,
+        "y_pixel": 1932,
+        "gate_x": 1559,
+        "gate_y": 1958,
+        "g_angle": 0
+    },
+    {
+        "code": "P4/L3/11",
+        "type": "FAULT INFRARED BEAM DETECTOR",
+        "location": "هنجر التام - الجهة الشمالية",
+        "x_pixel": 1537,
+        "y_pixel": 1952,
+        "gate_x": 1559,
+        "gate_y": 1958,
+        "g_angle": 0
+    },
+    {
+        "code": "P4/L3/12",
+        "type": "MANUAL CALL POINT",
+        "location": "هنجر السكر التام- الجهة الشمالية - بجانب مخزن الدعاية",
+        "x_pixel": 1546,
+        "y_pixel": 1602,
+        "gate_x": 1559,
+        "gate_y": 1958,
+        "g_angle": 0
+    },
+    {
+        "code": "P4/L3/13",
+        "type": "FLASHER",
+        "location": "هنجر السكر التام- الجهة الشمالية - بجانب مخزن الدعاية",
+        "x_pixel": 1543,
+        "y_pixel": 1609,
+        "gate_x": 1559,
+        "gate_y": 1958,
+        "g_angle": 0
+    },
+    {
+        "code": "P4/L3/14",
+        "type": "SOUNDER",
+        "location": "هنجر السكر التام- الجهة الشمالية - بجانب مخزن الدعاية",
+        "x_pixel": 1550,
+        "y_pixel": 1609,
+        "gate_x": 1559,
+        "gate_y": 1958,
+        "g_angle": 0
+    },
+    {
+        "code": "P4/L3/15",
+        "type": "SMOKE DETECTOR",
+        "location": "هنجر التام - صالة التسليمات",
+        "x_pixel": 1520,
+        "y_pixel": 1579,
+        "gate_x": 1559,
+        "gate_y": 1958,
+        "g_angle": 0
+    },
+    {
+        "code": "P4/L3/16",
+        "type": "SMOKE DETECTOR",
+        "location": "هنجر التام - صالة التسليمات",
+        "x_pixel": 1568,
+        "y_pixel": 1577,
+        "gate_x": 1559,
+        "gate_y": 1958,
+        "g_angle": 0
+    },
+    {
+        "code": "P4/L3/17",
+        "type": "SMOKE DETECTOR",
+        "location": "هنجر التام - صالة التسليمات",
+        "x_pixel": 1616,
+        "y_pixel": 1576,
+        "gate_x": 1559,
+        "gate_y": 1958,
+        "g_angle": 0
+    },
+    {
+        "code": "P4/L3/18",
+        "type": "SMOKE DETECTOR",
+        "location": "هنجر التام - صالة التسليمات",
+        "x_pixel": 1665,
+        "y_pixel": 1574,
+        "gate_x": 1559,
+        "gate_y": 1958,
+        "g_angle": 0
+    },
+    {
+        "code": "P4/L3/19",
+        "type": "SMOKE DETECTOR",
+        "location": "هنجر التام - صالة التسليمات",
+        "x_pixel": 1713,
+        "y_pixel": 1572,
+        "gate_x": 1559,
+        "gate_y": 1958,
+        "g_angle": 0
+    },
+    {
+        "code": "P4/L3/20",
+        "type": "FLASHER",
+        "location": "هنجر التام - صالة التسليمات",
+        "x_pixel": 1729,
+        "y_pixel": 1584,
+        "gate_x": 1559,
+        "gate_y": 1958,
+        "g_angle": 0
+    },
+    {
+        "code": "P4/L3/21",
+        "type": "SOUNDER",
+        "location": "هنجر التام - صالة التسليمات",
+        "x_pixel": 1729,
+        "y_pixel": 1588,
+        "gate_x": 1559,
+        "gate_y": 1958,
+        "g_angle": 0
+    },
+    {
+        "code": "P4/L3/22",
+        "type": "MANUAL CALL POINT",
+        "location": "هنجر التام - صالة التسليمات",
+        "x_pixel": 1734,
+        "y_pixel": 1586,
+        "gate_x": 1559,
+        "gate_y": 1958,
+        "g_angle": 0
+    },
+    {
+        "code": "P4/L3/23",
+        "type": "FLASHER",
+        "location": "هنجر السكر التام - الجهة الشمالية - بجانب صالة التسليمات",
+        "x_pixel": 1730,
+        "y_pixel": 1605,
+        "gate_x": 1559,
+        "gate_y": 1958,
+        "g_angle": 0
+    },
+    {
+        "code": "P4/L3/24",
+        "type": "SOUNDER",
+        "location": "هنجر السكر التام - الجهة الشمالية - بجانب صالة التسليمات",
+        "x_pixel": 1730,
+        "y_pixel": 1609,
+        "gate_x": 1559,
+        "gate_y": 1958,
+        "g_angle": 0
+    },
+    {
+        "code": "P4/L3/25",
+        "type": "MANUAL CALL POINT",
+        "location": "هنجر السكر التام - الجهة الشمالية - بجانب صالة التسليمات",
+        "x_pixel": 1735,
+        "y_pixel": 1607,
+        "gate_x": 1559,
+        "gate_y": 1958,
+        "g_angle": 0
+    },
+    {
+        "code": "P4/L3/26 NAC-1",
+        "type": "NAC",
+        "location": "هنجر السكر التام - بجانب مخزن الدعاية من الخارج",
+        "x_pixel": 1750,
+        "y_pixel": 1914,
+        "gate_x": 1559,
+        "gate_y": 1958,
+        "g_angle": 0
+    },
+    {
+        "code": "P4/L3/26 NAC-2",
+        "type": "NAC",
+        "location": "هنجر السكر التام - بجانب البوابة الجنوبية للهنجر جهة الجامع",
+        "x_pixel": 1545,
+        "y_pixel": 1958,
+        "gate_x": 1559,
+        "gate_y": 1958,
+        "g_angle": 0
+    },
+    {
+        "code": "P4/L3/26 NAC-3",
+        "type": "NAC",
+        "location": "هنجر السكر التام - بجانب البوابة الشرقية جهة الدكة",
+        "x_pixel": 1493,
+        "y_pixel": 1615,
+        "gate_x": 1559,
+        "gate_y": 1958,
+        "g_angle": 0
+    },
+    {
+        "code": "P4/L3/27",
+        "type": "FLASHER",
+        "location": "هنجر السكر التام - بجانب البوابة الشرقية جهة الدكة",
+        "x_pixel": 1740,
+        "y_pixel": 1937,
+        "gate_x": 1559,
+        "gate_y": 1958,
+        "g_angle": 0
+    },
+    {
+        "code": "P4/L3/28",
+        "type": "SOUNDER",
+        "location": "هنجر السكر التام - بجانب البوابة الشرقية جهة الدكة",
+        "x_pixel": 1741,
+        "y_pixel": 1941,
+        "gate_x": 1559,
+        "gate_y": 1958,
+        "g_angle": 0
+    },
+    {
+        "code": "P4/L3/29",
+        "type": "MANUAL CALL POINT",
+        "location": "هنجر السكر التام - بجانب البوابة الشرقية جهة الدكة",
+        "x_pixel": 1745,
+        "y_pixel": 1939,
+        "gate_x": 1559,
+        "gate_y": 1958,
+        "g_angle": 0
+    },
 
 
 
@@ -5170,7 +5471,7 @@
 
 
     {
-        "code": "P4/L3/27",
+        "code": "P4/L3/30",
         "type": "HEAT DETECTOR",
         "location": "التعبئة الدور الثاني",
         "x_pixel": 2150,
@@ -5202,6 +5503,12 @@
 
 
 
+
+
+
+
+
+    
     {
         "code": "P5/L1/01",
         "type": "SMOKE DETECTOR",
