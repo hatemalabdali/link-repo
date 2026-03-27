@@ -5564,28 +5564,12 @@
         "gate_y": 2101,
         "g_angle": 70
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     {
         "code": "P4/L4/01",
         "type": "TAMPER SWITCH",
         "location": "الصوامع",
         "x_pixel": 1909,
-"y_pixel": 1393,
+        "y_pixel": 1393,
         "gate_x": 1944,
         "gate_y": 1270,
         "g_angle": 185
@@ -5595,7 +5579,7 @@
         "type": "PRESURE SWITCH",
         "location": "حساس الضغط لمحبس الديلوج رقم ..........لكونفيرات الصوامع",
         "x_pixel": 1909,
-"y_pixel": 1390,
+        "y_pixel": 1390,
         "gate_x": 1944,
         "gate_y": 1270,
         "g_angle": 185
@@ -5604,8 +5588,8 @@
         "code": "P4/L4/03",
         "type": "FLOW SWITCH",
         "location": "الصوامع",
-       "x_pixel": 1909,
-"y_pixel": 1386,
+        "x_pixel": 1909,
+        "y_pixel": 1386,
         "gate_x": 1944,
         "gate_y": 1270,
         "g_angle": 185
@@ -5615,7 +5599,7 @@
         "type": "TAMPER SWITCH",
         "location": "الصوامع",
         "x_pixel": 1909,
-"y_pixel": 1384,
+        "y_pixel": 1384,
         "gate_x": 1944,
         "gate_y": 1270,
         "g_angle": 185
@@ -5625,7 +5609,7 @@
         "type": "TAMPER SWITCH",
         "location": "الصوامع",
         "x_pixel": 1909,
-"y_pixel": 1380,
+        "y_pixel": 1380,
         "gate_x": 1944,
         "gate_y": 1270,
         "g_angle": 185
@@ -5635,7 +5619,7 @@
         "type": "TAMPER SWITCH",
         "location": "الصوامع",
         "x_pixel": 1912,
-"y_pixel": 1310,
+        "y_pixel": 1310,
         "gate_x": 1944,
         "gate_y": 1270,
         "g_angle": 185
@@ -5645,7 +5629,7 @@
         "type": "NAC",
         "location": "الكونفير من الإنتاج الى الصوامع",
         "x_pixel": 1931,
-"y_pixel": 1291,
+        "y_pixel": 1291,
         "gate_x": 1944,
         "gate_y": 1270,
         "g_angle": 185
@@ -5655,7 +5639,7 @@
         "type": "NAC",
         "location": "الكونفير من الإنتاج الى الصوامع",
         "x_pixel": 1930,
-"y_pixel": 1296,
+        "y_pixel": 1296,
         "gate_x": 1944,
         "gate_y": 1270,
         "g_angle": 185
@@ -5664,8 +5648,8 @@
         "code": "P4/L4/10-D1",
         "type": "HEAT DETECTOR",
         "location": "الكونفير من الإنتاج الى الصوامع",
-       "x_pixel": 1936,
-"y_pixel": 1318,
+        "x_pixel": 1936,
+        "y_pixel": 1318,
         "gate_x": 1944,
         "gate_y": 1270,
         "g_angle": 185
@@ -5675,7 +5659,7 @@
         "type": "HEAT DETECTOR",
         "location": "الكونفير من الإنتاج الى الصوامع",
         "x_pixel": 1934,
-"y_pixel": 1376,
+        "y_pixel": 1376,
         "gate_x": 1944,
         "gate_y": 1270,
         "g_angle": 185
@@ -5685,11 +5669,14 @@
         "type": "MANUAL CALL POINT",
         "location": "الكونفير من الإنتاج الى الصوامع",
         "x_pixel": 1931,
-"y_pixel": 1293,
+        "y_pixel": 1293,
         "gate_x": 1944,
         "gate_y": 1270,
         "g_angle": 185
     },
+
+
+
 
 
 
@@ -5715,12 +5702,61 @@
     {
         "code": "P4/L4/23-D1",
         "type": "HEAT DETECTOR",
-        "location": "التعبئة الدور الثاني",
-        "x_pixel": 2150,
-        "y_pixel": 1734,
-        "gate_x": 1619,
-        "gate_y": 2101,
-        "g_angle": 80
+        "location": "الكونفيرات اعلى الصوامع",
+        "x_pixel": 2088,
+"y_pixel": 1389,
+        "gate_x": 2034,
+        "gate_y": 1389,
+        "g_angle": 90
+    },
+    {
+        "code": "P4/L4/23-D2",
+        "type": "HEAT DETECTOR",
+        "location": "الكونفيرات اعلى الصوامع",
+        "x_pixel": 2064,
+"y_pixel": 1413,
+        "gate_x": 2034,
+        "gate_y": 1389,
+        "g_angle": 90
+    },
+    {
+        "code": "P4/L4/23-D3",
+        "type": "HEAT DETECTOR",
+        "location": "الكونفيرات اعلى الصوامع",
+        "x_pixel": 2122,
+"y_pixel": 1412,
+        "gate_x": 2034,
+        "gate_y": 1389,
+        "g_angle": 90
+    },
+    {
+        "code": "P4/L4/24-D1",
+        "type": "HEAT DETECTOR",
+        "location": "الكونفيرات اعلى الصوامع",
+       "x_pixel": 2122,
+"y_pixel": 1361,
+        "gate_x": 2034,
+        "gate_y": 1389,
+        "g_angle": 90
+    },
+    {
+        "code": "P4/L4/24-D2",
+        "type": "HEAT DETECTOR",
+        "location": "الكونفيرات اعلى الصوامع",
+        "x_pixel": 2122,
+"y_pixel": 1309,
+        "gate_x": 2034,
+        "gate_y": 1389,
+        "g_angle": 90
+    },
+    {
+        "code": "P4/L4/24-D3",
+        "type": "HEAT DETECTOR",
+        "location": "الكونفيرات اعلى الصوامع",
+        "x_pixel": 2063,
+"y_pixel": 1310,
+        "gate_y": 1389,
+        "g_angle": 90
     },
 
 
@@ -5750,6 +5786,26 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+    {
+        "code": "P4/L4/21-D1",
+        "type": "HEAT DETECTOR",
+        "location": "التعبئة الدور الثاني",
+        "x_pixel": 2150,
+        "y_pixel": 1734,
+        "gate_x": 1619,
+        "gate_y": 2101,
+        "g_angle": 80
+    },
     {
         "code": "P5/L1/01",
         "type": "SMOKE DETECTOR",
