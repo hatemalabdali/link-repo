@@ -4714,6 +4714,217 @@
         "gate_y": 1703,
         "g_angle": 270
     },
+    {
+        "code": "P4/L2/08-D1",
+        "type": "HEAT DETECTOR",
+        "location": "التعبئة الدور الثالث",
+        "x_pixel": 1952,
+        "y_pixel": 1692,
+        "gate_x": 1988,
+        "gate_y": 1700,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L2/09-D1",
+        "type": "HEAT DETECTOR",
+        "location": "التعبئة الدور الثالث",
+        "x_pixel": 1998,
+        "y_pixel": 1713,
+        "gate_x": 1988,
+        "gate_y": 1700,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L2/09-D2",
+        "type": "HEAT DETECTOR",
+        "location": "التعبئة الدور الثالث",
+        "x_pixel": 2048,
+        "y_pixel": 1714,
+        "gate_x": 1988,
+        "gate_y": 1700,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L2/09-D3",
+        "type": "HEAT DETECTOR",
+        "location": "التعبئة الدور الثالث",
+        "x_pixel": 2097,
+        "y_pixel": 1714,
+        "gate_x": 1988,
+        "gate_y": 1700,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L2/09-D4",
+        "type": "HEAT DETECTOR",
+        "location": "التعبئة الدور الثالث",
+        "x_pixel": 2147,
+        "y_pixel": 1714,
+        "gate_x": 1988,
+        "gate_y": 1700,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L2/10-D1",
+        "type": "MANUAL CALL POINT",
+        "location": "التعبئة الدور الثالث",
+        "x_pixel": 1972,
+        "y_pixel": 1710,
+        "gate_x": 1988,
+        "gate_y": 1700,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L2/11-D1",
+        "type": "HEAT DETECTOR",
+        "location": "التعبئة الدور الثالث",
+        "x_pixel": 1800,
+        "y_pixel": 1713,
+        "gate_x": 1988,
+        "gate_y": 1700,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L2/11-D2",
+        "type": "HEAT DETECTOR",
+        "location": "التعبئة الدور الثالث",
+        "x_pixel": 1850,
+        "y_pixel": 1713,
+        "gate_x": 1988,
+        "gate_y": 1700,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L2/11-D3",
+        "type": "HEAT DETECTOR",
+        "location": "التعبئة الدور الثالث",
+        "x_pixel": 1899,
+        "y_pixel": 1713,
+        "gate_x": 1988,
+        "gate_y": 1700,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L2/11-D4",
+        "type": "HEAT DETECTOR",
+        "location": "التعبئة الدور الثالث",
+        "x_pixel": 1948,
+        "y_pixel": 1713,
+        "gate_x": 1988,
+        "gate_y": 1700,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L2/12/NAC-1",
+        "type": "NAC",
+        "location": "التعبئة الدور الثالث",
+        "x_pixel": 1789,
+        "y_pixel": 1707,
+        "gate_x": 1988,
+        "gate_y": 1700,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L2/13/NAC-1",
+        "type": "TAMPER SWITCH",
+        "location": "التعبئة الدور الثالث",
+        "x_pixel": 2167,
+        "y_pixel": 1735,
+        "gate_x": 1988,
+        "gate_y": 1700,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L2/14",
+        "type": "TAMPER SWITCH",
+        "location": "التعبئة الدور الثالث",
+        "x_pixel": 1779,
+        "y_pixel": 1755,
+        "gate_x": 1988,
+        "gate_y": 1700,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L2/15-D1",
+        "type": "HEAT DETECTOR",
+        "location": "التعبئة الدور الثالث",
+        "x_pixel": 1800,
+        "y_pixel": 1756,
+        "gate_x": 1988,
+        "gate_y": 1700,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L2/15-D2",
+        "type": "HEAT DETECTOR",
+        "location": "التعبئة الدور الثالث",
+        "x_pixel": 1849,
+        "y_pixel": 1755,
+        "gate_x": 1988,
+        "gate_y": 1700,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L2/15-D3",
+        "type": "HEAT DETECTOR",
+        "location": "التعبئة الدور الثالث",
+        "x_pixel": 1899,
+        "y_pixel": 1756,
+        "gate_x": 1988,
+        "gate_y": 1700,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L2/15-D4",
+        "type": "HEAT DETECTOR",
+        "location": "التعبئة الدور الثالث",
+        "x_pixel": 1949,
+        "y_pixel": 1756,
+        "gate_x": 1988,
+        "gate_y": 1700,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L2/16-D1",
+        "type": "HEAT DETECTOR",
+        "location": "التعبئة الدور الثالث",
+        "x_pixel": 1998,
+        "y_pixel": 1756,
+        "gate_x": 1988,
+        "gate_y": 1700,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L2/16-D2",
+        "type": "HEAT DETECTOR",
+        "location": "التعبئة الدور الثالث",
+        "x_pixel": 2048,
+        "y_pixel": 1756,
+        "gate_x": 1988,
+        "gate_y": 1700,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L2/16-D3",
+        "type": "HEAT DETECTOR",
+        "location": "التعبئة الدور الثالث",
+        "x_pixel": 2097,
+        "y_pixel": 1756,
+        "gate_x": 1988,
+        "gate_y": 1700,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L2/16-D4",
+        "type": "HEAT DETECTOR",
+        "location": "التعبئة الدور الثالث",
+        "x_pixel": 2147,
+        "y_pixel": 1756,
+        "gate_x": 1988,
+        "gate_y": 1700,
+        "g_angle": 270
+    },
+
 
 
 
@@ -4731,7 +4942,7 @@
 
 
     {
-        "code": "P4/L2/08-D1",
+        "code": "P4/L2/17-D1",
         "type": "HEAT DETECTOR",
         "location": "التعبئة الدور الثاني",
         "x_pixel": 2150,
@@ -4761,9 +4972,7 @@
 
 
 
-
-
-
+    
     {
         "code": "P5/L1/01",
         "type": "SMOKE DETECTOR",
