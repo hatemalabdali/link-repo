@@ -5588,7 +5588,7 @@
 "y_pixel": 1393,
         "gate_x": 1944,
         "gate_y": 1270,
-        "g_angle": 170
+        "g_angle": 185
     },
     {
         "code": "P4/L4/02",
@@ -5598,7 +5598,7 @@
 "y_pixel": 1390,
         "gate_x": 1944,
         "gate_y": 1270,
-        "g_angle": 170
+        "g_angle": 185
     },
     {
         "code": "P4/L4/03",
@@ -5608,7 +5608,7 @@
 "y_pixel": 1386,
         "gate_x": 1944,
         "gate_y": 1270,
-        "g_angle": 170
+        "g_angle": 185
     },
     {
         "code": "P4/L4/04",
@@ -5618,7 +5618,7 @@
 "y_pixel": 1384,
         "gate_x": 1944,
         "gate_y": 1270,
-        "g_angle": 170
+        "g_angle": 185
     },
     {
         "code": "P4/L4/05",
@@ -5628,7 +5628,7 @@
 "y_pixel": 1380,
         "gate_x": 1944,
         "gate_y": 1270,
-        "g_angle": 170
+        "g_angle": 185
     },
     {
         "code": "P4/L4/06",
@@ -5638,7 +5638,7 @@
 "y_pixel": 1310,
         "gate_x": 1944,
         "gate_y": 1270,
-        "g_angle": 170
+        "g_angle": 185
     },
     {
         "code": "P4/L4/07 NAC-1",
@@ -5648,7 +5648,7 @@
 "y_pixel": 1291,
         "gate_x": 1944,
         "gate_y": 1270,
-        "g_angle": 170
+        "g_angle": 185
     },
     {
         "code": "P4/L4/08 NAC-1",
@@ -5658,7 +5658,7 @@
 "y_pixel": 1296,
         "gate_x": 1944,
         "gate_y": 1270,
-        "g_angle": 170
+        "g_angle": 185
     },
     {
         "code": "P4/L4/10-D1",
@@ -5668,7 +5668,7 @@
 "y_pixel": 1318,
         "gate_x": 1944,
         "gate_y": 1270,
-        "g_angle": 170
+        "g_angle": 185
     },
     {
         "code": "P4/L4/10-D2",
@@ -5678,7 +5678,7 @@
 "y_pixel": 1376,
         "gate_x": 1944,
         "gate_y": 1270,
-        "g_angle": 170
+        "g_angle": 185
     },
     {
         "code": "P4/L4/11-D1",
@@ -5688,7 +5688,7 @@
 "y_pixel": 1293,
         "gate_x": 1944,
         "gate_y": 1270,
-        "g_angle": 170
+        "g_angle": 185
     },
 
 
@@ -5713,7 +5713,7 @@
 
 
     {
-        "code": "P4/L4/23/D1",
+        "code": "P4/L4/23-D1",
         "type": "HEAT DETECTOR",
         "location": "التعبئة الدور الثاني",
         "x_pixel": 2150,
