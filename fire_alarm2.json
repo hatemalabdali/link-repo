@@ -4279,7 +4279,25 @@
         "type": "HEAT DETECTOR",
         "location": "التعبئة - صالة 1 كجم",
         "x_pixel": 1795,
-"y_pixel": 1743,
+        "y_pixel": 1743,
+        "gate_x": 1862,
+        "gate_y": 1651,
+        "g_angle": 270
+    },
+
+
+
+
+
+
+
+
+     {
+        "code": "P4/L1/17",
+        "type": "HEAT DETECTOR",
+        "location": "التعبئة - صالة 1 كجم",
+        "x_pixel": 1795,
+        "y_pixel": 1743,
         "gate_x": 1862,
         "gate_y": 1651,
         "g_angle": 270
@@ -4294,7 +4312,7 @@
 
 
 
-    
+
     {
         "code": "P5/L1/01",
         "type": "SMOKE DETECTOR",
