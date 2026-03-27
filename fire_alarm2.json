@@ -5470,10 +5470,120 @@
 
     {
         "code": "P4/L3/30",
-        "type": "HEAT DETECTOR",
-        "location": "التعبئة الدور الثاني",
-        "x_pixel": 2150,
-        "y_pixel": 1734,
+        "type": "SMOKE DETECTOR",
+        "location": "صالة الجامع",
+        "x_pixel": 1673,
+"y_pixel": 2087,
+        "gate_x": 1619,
+        "gate_y": 2101,
+        "g_angle": 80
+    },
+    {
+        "code": "P4/L3/31",
+        "type": "SMOKE DETECTOR",
+        "location": "صالة الجامع",
+       "x_pixel": 1640,
+"y_pixel": 2099,
+        "gate_x": 1619,
+        "gate_y": 2101,
+        "g_angle": 80
+    },
+    {
+        "code": "P4/L3/32 NAC-01",
+        "type": "NAC",
+        "location": "خارج الجامع",
+        "x_pixel": 1619,
+"y_pixel": 2107,
+        "gate_x": 1619,
+        "gate_y": 2101,
+        "g_angle": 80
+    },
+    {
+        "code": "P4/L3/33",
+        "type": "MANUAL CALL POINT",
+        "location": "صالة الجامع",
+       "x_pixel": 1634,
+"y_pixel": 2111,
+        "gate_x": 1619,
+        "gate_y": 2101,
+        "g_angle": 80
+    },
+    {
+        "code": "P4/L3/34",
+        "type": "FLASHER",
+        "location": "صالة الجامع",
+        "x_pixel": 1634,
+"y_pixel": 2105,
+        "gate_x": 1619,
+        "gate_y": 2101,
+        "g_angle": 80
+    },
+    {
+        "code": "P4/L3/35",
+        "type": "SOUNDER",
+        "location": "صالة الجامع",
+        "x_pixel": 1630,
+"y_pixel": 2107,
+        "gate_x": 1619,
+        "gate_y": 2101,
+        "g_angle": 80
+    },
+    {
+        "code": "P4/L3/36",
+        "type": "SMOKE DETECTOR",
+        "location": "داخل الجامع",
+        "x_pixel": 1623,
+"y_pixel": 2069,
+        "gate_x": 1619,
+        "gate_y": 2101,
+        "g_angle": 80
+    },
+    {
+        "code": "P4/L3/37",
+        "type": "SMOKE DETECTOR",
+        "location": "داخل الجامع",
+        "x_pixel": 1609,
+"y_pixel": 2030,
+        "gate_x": 1619,
+        "gate_y": 2101,
+        "g_angle": 80
+    },
+    {
+        "code": "P4/L3/38",
+        "type": "SMOKE DETECTOR",
+        "location": "داخل الجامع",
+        "x_pixel": 1654,
+"y_pixel": 2015,
+        "gate_x": 1619,
+        "gate_y": 2101,
+        "g_angle": 80
+    },
+    {
+        "code": "P4/L3/39",
+        "type": "SMOKE DETECTOR",
+        "location": "داخل الجامع",
+        "x_pixel": 1667,
+"y_pixel": 2053,
+        "gate_x": 1619,
+        "gate_y": 2101,
+        "g_angle": 80
+    },
+    {
+        "code": "P4/L3/40",
+        "type": "FLOW SWITCH",
+        "location": "الجامع - خط كبائن الإطفاء",
+       "x_pixel": 1689,
+"y_pixel": 2050,
+        "gate_x": 1619,
+        "gate_y": 2101,
+        "g_angle": 80
+    },
+    {
+        "code": "P4/L3/41",
+        "type": "TAMPER SWITCH",
+        "location": "الجامع - حساس محبس لخط كبائن الإطفاء",
+        "x_pixel": 1691,
+"y_pixel": 2056,
         "gate_x": 1619,
         "gate_y": 2101,
         "g_angle": 80
@@ -5505,8 +5615,16 @@
 
 
 
-
-
+    {
+        "code": "P4/L4/01",
+        "type": "HEAT DETECTOR",
+        "location": "التعبئة الدور الثاني",
+        "x_pixel": 2150,
+        "y_pixel": 1734,
+        "gate_x": 1619,
+        "gate_y": 2101,
+        "g_angle": 80
+    },
     {
         "code": "P5/L1/01",
         "type": "SMOKE DETECTOR",
