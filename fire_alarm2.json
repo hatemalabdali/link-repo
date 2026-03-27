@@ -33,11 +33,11 @@
         "code": "P4/L1/FACP",
         "type": "FACP",
         "location": "التعبئة الدور الأول غرفة الصيانة بجانب MCC",
-        "x_pixel": 1975,
-        "y_pixel": 1782,
-        "gate_x": 1968,
-        "gate_y": 1673,
-        "g_angle": 180
+        "x_pixel": 1961,
+        "y_pixel": 1712,
+        "gate_x": 1965,
+        "gate_y": 1705,
+        "g_angle": 270
     },
     {
         "code": "P5/L1/FACP",
@@ -3650,7 +3650,7 @@
         "type": "FLASHER",
         "location": "التعبئة - المدخل",
         "x_pixel": 2012,
-"y_pixel": 1697,
+        "y_pixel": 1697,
         "gate_x": 2008,
         "gate_y": 1686,
         "g_angle": 180
@@ -3660,7 +3660,7 @@
         "type": "SOUNDER",
         "location": "التعبئة - المدخل",
         "x_pixel": 2017,
-"y_pixel": 1697,
+        "y_pixel": 1697,
         "gate_x": 2008,
         "gate_y": 1686,
         "g_angle": 180
@@ -3669,8 +3669,8 @@
         "code": "P4/L1/03",
         "type": "MANUAL CALL POINT",
         "location": "التعبئة - المدخل",
-       "x_pixel": 2015,
-"y_pixel": 1692,
+        "x_pixel": 2015,
+        "y_pixel": 1692,
         "gate_x": 2008,
         "gate_y": 1686,
         "g_angle": 180
@@ -3680,7 +3680,7 @@
         "type": "SMOKE DETECTOR",
         "location": "التعبئة - صالة 1 كجم",
         "x_pixel": 1833,
-"y_pixel": 1669,
+        "y_pixel": 1669,
         "gate_x": 1862,
         "gate_y": 1651,
         "g_angle": 270
@@ -3690,7 +3690,7 @@
         "type": "HEAT DETECTOR",
         "location": "التعبئة - صالة 1 كجم",
         "x_pixel": 1833,
-"y_pixel": 1650,
+        "y_pixel": 1650,
         "gate_x": 1862,
         "gate_y": 1651,
         "g_angle": 270
@@ -3700,7 +3700,7 @@
         "type": "MANUAL CALL POINT",
         "location": "التعبئة - غرفة الكمبريسرات",
         "x_pixel": 1840,
-"y_pixel": 1639,
+        "y_pixel": 1639,
         "gate_x": 1758,
         "gate_y": 1594,
         "g_angle": 180
@@ -3709,8 +3709,8 @@
         "code": "P4/L1/07",
         "type": "SMOKE DETECTOR",
         "location": "التعبئة - غرفة الكمبريسرات",
-       "x_pixel": 1846,
-"y_pixel": 1619,
+        "x_pixel": 1846,
+        "y_pixel": 1619,
         "gate_x": 1758,
         "gate_y": 1594,
         "g_angle": 180
@@ -3720,7 +3720,7 @@
         "type": "SMOKE DETECTOR",
         "location": "التعبئة - غرفة الكمبريسرات",
         "x_pixel": 1821,
-"y_pixel": 1619,
+        "y_pixel": 1619,
         "gate_x": 1758,
         "gate_y": 1594,
         "g_angle": 180
@@ -3730,7 +3730,7 @@
         "type": "MANUAL CALL POINT",
         "location": "التعبئة - غرفة الكمبريسرات",
         "x_pixel": 1765,
-"y_pixel": 1600,
+        "y_pixel": 1600,
         "gate_x": 1758,
         "gate_y": 1594,
         "g_angle": 180
@@ -3740,7 +3740,7 @@
         "type": "FLASHER",
         "location": "التعبئة - غرفة الكمبريسرات",
         "x_pixel": 1763,
-"y_pixel": 1605,
+        "y_pixel": 1605,
         "gate_x": 1758,
         "gate_y": 1594,
         "g_angle": 180
@@ -3749,8 +3749,8 @@
         "code": "P4/L1/11",
         "type": "SOUNDER",
         "location": "التعبئة - غرفة الكمبريسرات",
-       "x_pixel": 1768,
-"y_pixel": 1605,
+        "x_pixel": 1768,
+        "y_pixel": 1605,
         "gate_x": 1758,
         "gate_y": 1594,
         "g_angle": 180
@@ -3760,7 +3760,7 @@
         "type": "SMOKE DETECTOR",
         "location": "التعبئة - غرفة الكمبريسرات",
         "x_pixel": 1782,
-"y_pixel": 1619,
+        "y_pixel": 1619,
         "gate_x": 1758,
         "gate_y": 1594,
         "g_angle": 180
@@ -3770,7 +3770,7 @@
         "type": "SMOKE DETECTOR",
         "location": "التعبئة - صالة 1 كجم",
         "x_pixel": 1782,
-"y_pixel": 1651,
+        "y_pixel": 1651,
         "gate_x": 1862,
         "gate_y": 1651,
         "g_angle": 270
@@ -3780,7 +3780,7 @@
         "type": "SMOKE DETECTOR",
         "location": "التعبئة - صالة 1 كجم",
         "x_pixel": 1783,
-"y_pixel": 1670,
+        "y_pixel": 1670,
         "gate_x": 1862,
         "gate_y": 1651,
         "g_angle": 270
@@ -3790,7 +3790,7 @@
         "type": "NAC",
         "location": "التعبئة - صالة 1 كجم",
         "x_pixel": 1756,
-"y_pixel": 1692,
+        "y_pixel": 1692,
         "gate_x": 1862,
         "gate_y": 1651,
         "g_angle": 270
@@ -3799,8 +3799,8 @@
         "code": "P4/L1/16-D1",
         "type": "MANUAL CALL POINT",
         "location": "التعبئة - صالة 1 كجم",
-       "x_pixel": 1764,
-"y_pixel": 1748,
+        "x_pixel": 1764,
+        "y_pixel": 1748,
         "gate_x": 1862,
         "gate_y": 1651,
         "g_angle": 270
@@ -3810,7 +3810,7 @@
         "type": "PRESURE SWITCH",
         "location": "MAIN PIPE حساس الضغط للمحبس رقم 125",
         "x_pixel": 1788,
-"y_pixel": 1768,
+        "y_pixel": 1768,
         "gate_x": 1862,
         "gate_y": 1651,
         "g_angle": 270
@@ -3820,7 +3820,7 @@
         "type": "TAMPER SWITCH",
         "location": "MAIN PIPE حساس محبس رقم 125",
         "x_pixel": 1793,
-"y_pixel": 1768,
+        "y_pixel": 1768,
         "gate_x": 1862,
         "gate_y": 1651,
         "g_angle": 270
@@ -3830,7 +3830,7 @@
         "type": "FLOW SWITCH",
         "location": "مكاتب الجودة",
         "x_pixel": 1799,
-"y_pixel": 1768,
+        "y_pixel": 1768,
         "gate_x": 1862,
         "gate_y": 1651,
         "g_angle": 270
@@ -3839,8 +3839,8 @@
         "code": "P4/L1/22",
         "type": "TAMPER SWITCH",
         "location": "مكاتب الجودة",
-       "x_pixel": 1805,
-"y_pixel": 1768,
+        "x_pixel": 1805,
+        "y_pixel": 1768,
         "gate_x": 1862,
         "gate_y": 1651,
         "g_angle": 270
@@ -3849,8 +3849,8 @@
         "code": "P4/L1/23",
         "type": "FLOW SWITCH",
         "location": "صالة 1 ك",
-       "x_pixel": 1811,
-"y_pixel": 1767,
+        "x_pixel": 1811,
+        "y_pixel": 1767,
         "gate_x": 1862,
         "gate_y": 1651,
         "g_angle": 270
@@ -3859,8 +3859,8 @@
         "code": "P4/L1/24",
         "type": "TAMPER SWITCH",
         "location": "صالة 1 ك",
-       "x_pixel": 1817,
-"y_pixel": 1767,
+        "x_pixel": 1817,
+        "y_pixel": 1767,
         "gate_x": 1862,
         "gate_y": 1651,
         "g_angle": 270
@@ -3870,7 +3870,7 @@
         "type": "FLOW SWITCH",
         "location": "الدور الأول",
         "x_pixel": 1787,
-"y_pixel": 1772,
+        "y_pixel": 1772,
         "gate_x": 1862,
         "gate_y": 1651,
         "g_angle": 270
@@ -3879,8 +3879,8 @@
         "code": "P4/L1/26",
         "type": "TAMPER SWITCH",
         "location": "الدور الأول",
-       "x_pixel": 1793,
-"y_pixel": 1771,
+        "x_pixel": 1793,
+        "y_pixel": 1771,
         "gate_x": 1862,
         "gate_y": 1651,
         "g_angle": 270
@@ -3890,7 +3890,7 @@
         "type": "FLOW SWITCH",
         "location": "دكة التحميل",
         "x_pixel": 1799,
-"y_pixel": 1771,
+        "y_pixel": 1771,
         "gate_x": 1862,
         "gate_y": 1651,
         "g_angle": 270
@@ -3899,8 +3899,8 @@
         "code": "P4/L1/28",
         "type": "TAMPER SWITCH",
         "location": "دكة التحميل",
-       "x_pixel": 1805,
-"y_pixel": 1771,
+        "x_pixel": 1805,
+        "y_pixel": 1771,
         "gate_x": 1862,
         "gate_y": 1651,
         "g_angle": 270
@@ -3909,8 +3909,8 @@
         "code": "P4/L1/29",
         "type": "FLOW SWITCH",
         "location": "HOSE REEL",
-       "x_pixel": 1811,
-"y_pixel": 1771,
+        "x_pixel": 1811,
+        "y_pixel": 1771,
         "gate_x": 1862,
         "gate_y": 1651,
         "g_angle": 270
@@ -3920,7 +3920,7 @@
         "type": "TAMPER SWITCH",
         "location": "HOSE REEL",
         "x_pixel": 1817,
-"y_pixel": 1771,
+        "y_pixel": 1771,
         "gate_x": 1862,
         "gate_y": 1651,
         "g_angle": 270
@@ -3930,7 +3930,7 @@
         "type": "MANUAL CALL POINT",
         "location": "دكة التحميل",
         "x_pixel": 1970,
-"y_pixel": 1772,
+        "y_pixel": 1772,
         "gate_x": 1862,
         "gate_y": 1651,
         "g_angle": 270
@@ -3939,8 +3939,8 @@
         "code": "P4/L1/32",
         "type": "MANUAL CALL POINT",
         "location": "إدارة الجودة - الصالة",
-       "x_pixel": 2170,
-"y_pixel": 1753,
+        "x_pixel": 2170,
+        "y_pixel": 1753,
         "gate_x": 2175,
         "gate_y": 1758,
         "g_angle": 270
@@ -3950,7 +3950,7 @@
         "type": "FLASHER",
         "location": "إدارة الجودة - الصالة",
         "x_pixel": 2165,
-"y_pixel": 1751,
+        "y_pixel": 1751,
         "gate_x": 2175,
         "gate_y": 1758,
         "g_angle": 270
@@ -3959,8 +3959,8 @@
         "code": "P4/L1/34",
         "type": "SOUNDER",
         "location": "إدارة الجودة - الصالة",
-       "x_pixel": 2165,
-"y_pixel": 1756,
+        "x_pixel": 2165,
+        "y_pixel": 1756,
         "gate_x": 2175,
         "gate_y": 1758,
         "g_angle": 270
@@ -3970,7 +3970,7 @@
         "type": "SMOKE DETECTOR",
         "location": "إدارة الجودة - الصالة",
         "x_pixel": 2158,
-"y_pixel": 1758,
+        "y_pixel": 1758,
         "gate_x": 2175,
         "gate_y": 1758,
         "g_angle": 270
@@ -3980,7 +3980,7 @@
         "type": "SMOKE DETECTOR",
         "location": "إدارة الجودة - الصالة",
         "x_pixel": 2151,
-"y_pixel": 1758,
+        "y_pixel": 1758,
         "gate_x": 2175,
         "gate_y": 1758,
         "g_angle": 270
@@ -3989,8 +3989,8 @@
         "code": "P4/L1/37",
         "type": "SMOKE DETECTOR",
         "location": "إدارة الجودة - غرفة العينات",
-       "x_pixel": 2133,
-"y_pixel": 1743,
+        "x_pixel": 2133,
+        "y_pixel": 1743,
         "gate_x": 2175,
         "gate_y": 1758,
         "g_angle": 270
@@ -3999,8 +3999,8 @@
         "code": "P4/L1/38",
         "type": "SMOKE DETECTOR",
         "location": "إدارة الجودة - غرفة العينات",
-       "x_pixel": 2133,
-"y_pixel": 1736,
+        "x_pixel": 2133,
+        "y_pixel": 1736,
         "gate_x": 2175,
         "gate_y": 1758,
         "g_angle": 270
@@ -4010,7 +4010,7 @@
         "type": "SMOKE DETECTOR",
         "location": "إدارة الجودة - الصالة",
         "x_pixel": 2147,
-"y_pixel": 1737,
+        "y_pixel": 1737,
         "gate_x": 2175,
         "gate_y": 1758,
         "g_angle": 270
@@ -4020,7 +4020,7 @@
         "type": "SMOKE DETECTOR",
         "location": "إدارة الجودة - الصالة",
         "x_pixel": 2147,
-"y_pixel": 1743,
+        "y_pixel": 1743,
         "gate_x": 2175,
         "gate_y": 1758,
         "g_angle": 270
@@ -4030,7 +4030,7 @@
         "type": "SMOKE DETECTOR",
         "location": "إدارة الجودة - مكتب هيثم الوصابي",
         "x_pixel": 2155,
-"y_pixel": 1742,
+        "y_pixel": 1742,
         "gate_x": 2175,
         "gate_y": 1758,
         "g_angle": 270
@@ -4040,7 +4040,7 @@
         "type": "SMOKE DETECTOR",
         "location": "إدارة الجودة - مكتب هيثم الوصابي",
         "x_pixel": 2162,
-"y_pixel": 1742,
+        "y_pixel": 1742,
         "gate_x": 2175,
         "gate_y": 1758,
         "g_angle": 270
@@ -4050,7 +4050,7 @@
         "type": "SMOKE DETECTOR",
         "location": "إدارة الجودة - قاعة الاجتماعات",
         "x_pixel": 2162,
-"y_pixel": 1717,
+        "y_pixel": 1717,
         "gate_x": 2175,
         "gate_y": 1758,
         "g_angle": 270
@@ -4060,7 +4060,7 @@
         "type": "SMOKE DETECTOR",
         "location": "إدارة الجودة - قاعة الاجتماعات",
         "x_pixel": 2162,
-"y_pixel": 1710,
+        "y_pixel": 1710,
         "gate_x": 2175,
         "gate_y": 1758,
         "g_angle": 270
@@ -4070,7 +4070,7 @@
         "type": "SMOKE DETECTOR",
         "location": "إدارة الجودة - مكتب مدير الجودة",
         "x_pixel": 2137,
-"y_pixel": 1698,
+        "y_pixel": 1698,
         "gate_x": 2175,
         "gate_y": 1758,
         "g_angle": 270
@@ -4080,7 +4080,7 @@
         "type": "SMOKE DETECTOR",
         "location": "إدارة الجودة - مكتب مدير الجودة",
         "x_pixel": 2130,
-"y_pixel": 1698,
+        "y_pixel": 1698,
         "gate_x": 2175,
         "gate_y": 1758,
         "g_angle": 270
@@ -4089,8 +4089,8 @@
         "code": "P4/L1/47",
         "type": "SMOKE DETECTOR",
         "location": "التعبئة - مخزن الاكياس",
-       "x_pixel": 2098,
-"y_pixel": 1700,
+        "x_pixel": 2098,
+        "y_pixel": 1700,
         "gate_x": 2046,
         "gate_y": 1684,
         "g_angle": 180
@@ -4100,7 +4100,7 @@
         "type": "SMOKE DETECTOR",
         "location": "التعبئة - مخزن الاكياس",
         "x_pixel": 2097,
-"y_pixel": 1723,
+        "y_pixel": 1723,
         "gate_x": 2046,
         "gate_y": 1684,
         "g_angle": 180
@@ -4109,8 +4109,8 @@
         "code": "P4/L1/49",
         "type": "SMOKE DETECTOR",
         "location": "التعبئة - مخزن الاكياس",
-       "x_pixel": 2056,
-"y_pixel": 1722,
+        "x_pixel": 2056,
+        "y_pixel": 1722,
         "gate_x": 2046,
         "gate_y": 1684,
         "g_angle": 180
@@ -4120,7 +4120,7 @@
         "type": "SMOKE DETECTOR",
         "location": "التعبئة - مخزن الاكياس",
         "x_pixel": 2055,
-"y_pixel": 1701,
+        "y_pixel": 1701,
         "gate_x": 2046,
         "gate_y": 1684,
         "g_angle": 180
@@ -4129,8 +4129,8 @@
         "code": "P4/L1/51",
         "type": "MANUAL CALL POINT",
         "location": "التعبئة - مخزن الاكياس",
-       "x_pixel": 2027,
-"y_pixel": 1706,
+        "x_pixel": 2027,
+        "y_pixel": 1706,
         "gate_x": 2046,
         "gate_y": 1684,
         "g_angle": 180
@@ -4140,7 +4140,7 @@
         "type": "FLASHER",
         "location": "التعبئة - مخزن الاكياس",
         "x_pixel": 2035,
-"y_pixel": 1710,
+        "y_pixel": 1710,
         "gate_x": 2046,
         "gate_y": 1684,
         "g_angle": 180
@@ -4149,8 +4149,8 @@
         "code": "P4/L1/53",
         "type": "SOUNDER",
         "location": "التعبئة - مخزن الاكياس",
-       "x_pixel": 2034,
-"y_pixel": 1702,
+        "x_pixel": 2034,
+        "y_pixel": 1702,
         "gate_x": 2046,
         "gate_y": 1684,
         "g_angle": 180
@@ -4159,7 +4159,7 @@
         "code": "P4/L1/54",
         "type": "SMOKE DETECTOR",
         "x_pixel": 1995,
-"y_pixel": 1725,
+        "y_pixel": 1725,
         "gate_x": 2046,
         "gate_y": 1684,
         "g_angle": 180
@@ -4169,7 +4169,7 @@
         "type": "SMOKE DETECTOR",
         "location": "التعبئة - مخزن الاكياس",
         "x_pixel": 1944,
-"y_pixel": 1726,
+        "y_pixel": 1726,
         "gate_x": 2046,
         "gate_y": 1684,
         "g_angle": 180
@@ -4178,8 +4178,8 @@
         "code": "P4/L1/56",
         "type": "SMOKE DETECTOR",
         "location": "التعبئة - ورشة الصيانة",
-       "x_pixel": 1947,
-"y_pixel": 1703,
+        "x_pixel": 1947,
+        "y_pixel": 1703,
         "gate_x": 2008,
         "gate_y": 1686,
         "g_angle": 180
@@ -4189,7 +4189,7 @@
         "type": "SMOKE DETECTOR",
         "location": "التعبئة - ورشة الكهرباء",
         "x_pixel": 1971,
-"y_pixel": 1702,
+        "y_pixel": 1702,
         "gate_x": 2008,
         "gate_y": 1686,
         "g_angle": 180
@@ -4198,8 +4198,8 @@
         "code": "P4/L1/58 NAC-1",
         "type": "NAC",
         "location": "التعبئة - مخزن الاكياس بجانب البوابة - من الخارج",
-       "x_pixel": 2014,
-"y_pixel": 1685,
+        "x_pixel": 2014,
+        "y_pixel": 1685,
         "gate_x": 2046,
         "gate_y": 1684,
         "g_angle": 180
@@ -4208,8 +4208,8 @@
         "code": "P4/L1/58 NAC-2",
         "type": "NAC",
         "location": "إدارة الجودة - خارج الباب",
-       "x_pixel": 2177,
-"y_pixel": 1753,
+        "x_pixel": 2177,
+        "y_pixel": 1753,
         "gate_x": 2175,
         "gate_y": 1758,
         "g_angle": 270
@@ -4219,7 +4219,7 @@
         "type": "NAC",
         "location": "دكة التحميل",
         "x_pixel": 1970,
-"y_pixel": 1777,
+        "y_pixel": 1777,
         "gate_x": 1862,
         "gate_y": 1651,
         "g_angle": 270
@@ -4228,8 +4228,8 @@
         "code": "P4/L1/58 NAC-4",
         "type": "NAC",
         "location": "التعبئة - صالة 1 كجم",
-       "x_pixel": 1767,
-"y_pixel": 1781,
+        "x_pixel": 1767,
+        "y_pixel": 1781,
         "gate_x": 1862,
         "gate_y": 1651,
         "g_angle": 270
@@ -4238,8 +4238,8 @@
         "code": "P4/L1/58 NAC-5",
         "type": "NAC",
         "location": "التعبئة - غرفة الكمبريسرات - من الخارج",
-       "x_pixel": 1765,
-"y_pixel": 1594,
+        "x_pixel": 1765,
+        "y_pixel": 1594,
         "gate_x": 1758,
         "gate_y": 1594,
         "g_angle": 180
@@ -4249,7 +4249,7 @@
         "type": "HEAT DETECTOR",
         "location": "التعبئة - صالة 1 كجم",
         "x_pixel": 1794,
-"y_pixel": 1705,
+        "y_pixel": 1705,
         "gate_x": 1862,
         "gate_y": 1651,
         "g_angle": 270
@@ -4259,7 +4259,7 @@
         "type": "HEAT DETECTOR",
         "location": "التعبئة - صالة 1 كجم",
         "x_pixel": 1844,
-"y_pixel": 1704,
+        "y_pixel": 1704,
         "gate_x": 1862,
         "gate_y": 1651,
         "g_angle": 270
@@ -4269,7 +4269,7 @@
         "type": "HEAT DETECTOR",
         "location": "التعبئة - صالة 1 كجم",
         "x_pixel": 1845,
-"y_pixel": 1743,
+        "y_pixel": 1743,
         "gate_x": 1862,
         "gate_y": 1651,
         "g_angle": 270
@@ -4284,24 +4284,326 @@
         "gate_y": 1651,
         "g_angle": 270
     },
-
-
-
-
-
-
-
-
-     {
-        "code": "P4/L1/17",
+    {
+        "code": "P4/L1/17-D1",
         "type": "HEAT DETECTOR",
-        "location": "التعبئة - صالة 1 كجم",
-        "x_pixel": 1795,
-        "y_pixel": 1743,
-        "gate_x": 1862,
-        "gate_y": 1651,
+        "location": "دكة التحميل",
+        "x_pixel": 1991,
+        "y_pixel": 1791,
+        "gate_x": 1780,
+        "gate_y": 1779,
+        "g_angle": 90
+    },
+    {
+        "code": "P4/L1/17-D2",
+        "type": "HEAT DETECTOR",
+        "location": "دكة التحميل",
+        "x_pixel": 2038,
+        "y_pixel": 1791,
+        "gate_x": 1780,
+        "gate_y": 1779,
+        "g_angle": 90
+    },
+    {
+        "code": "P4/L1/17-D3",
+        "type": "HEAT DETECTOR",
+        "location": "دكة التحميل",
+        "x_pixel": 2084,
+        "y_pixel": 1790,
+        "gate_x": 1780,
+        "gate_y": 1779,
+        "g_angle": 90
+    },
+    {
+        "code": "P4/L1/17-D4",
+        "type": "HEAT DETECTOR",
+        "location": "دكة التحميل",
+        "x_pixel": 2131,
+        "y_pixel": 1789,
+        "gate_x": 1780,
+        "gate_y": 1779,
+        "g_angle": 90
+    },
+    {
+        "code": "P4/L1/18-D1",
+        "type": "HEAT DETECTOR",
+        "location": "دكة التحميل",
+        "x_pixel": 1806,
+        "y_pixel": 1796,
+        "gate_x": 1780,
+        "gate_y": 1779,
+        "g_angle": 90
+    },
+    {
+        "code": "P4/L1/18-D2",
+        "type": "HEAT DETECTOR",
+        "location": "دكة التحميل",
+        "x_pixel": 1852,
+        "y_pixel": 1794,
+        "gate_x": 1780,
+        "gate_y": 1779,
+        "g_angle": 90
+    },
+    {
+        "code": "P4/L1/18-D3",
+        "type": "HEAT DETECTOR",
+        "location": "دكة التحميل",
+        "x_pixel": 1898,
+        "y_pixel": 1793,
+        "gate_x": 1780,
+        "gate_y": 1779,
+        "g_angle": 90
+    },
+    {
+        "code": "P4/L1/18-D4",
+        "type": "HEAT DETECTOR",
+        "location": "دكة التحميل",
+        "x_pixel": 1945,
+        "y_pixel": 1793,
+        "gate_x": 1780,
+        "gate_y": 1779,
+        "g_angle": 90
+    },
+    {
+        "code": "P4/L1/59",
+        "type": "FM200",
+        "location": "التعبئة الدور الأول - غرفة الكهرباء - المراقبة الاشرافية",
+        "x_pixel": 1946,
+        "y_pixel": 1718,
+        "gate_x": 1965,
+        "gate_y": 1705,
         "g_angle": 270
     },
+    {
+        "code": "P4/L1/60",
+        "type": "FM200",
+        "location": "التعبئة الدور الأول - غرفة الكهرباء - انذار المرحلة الثانية",
+        "x_pixel": 1941,
+        "y_pixel": 1718,
+        "gate_x": 1965,
+        "gate_y": 1705,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/61",
+        "type": "FM200",
+        "location": "التعبئة الدور الأول - غرفة الكهرباء - انذار بوجود عطل",
+        "x_pixel": 1938,
+        "y_pixel": 1718,
+        "gate_x": 1965,
+        "gate_y": 1705,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/62 NAC-01",
+        "type": "NAC",
+        "location": "التعبئة الدور الأول",
+        "x_pixel": 2150,
+        "y_pixel": 1744,
+        "gate_x": 1986,
+        "gate_y": 1719,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/63 NAC-01",
+        "type": "NAC",
+        "location": "التعبئة - الدور الأول - جهة صالة 1 ك",
+        "x_pixel": 1785,
+        "y_pixel": 1752,
+        "gate_x": 1986,
+        "gate_y": 1719,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/64-D1",
+        "type": "HEAT DETECTOR",
+        "location": "التعبئة الدور الأول",
+        "x_pixel": 1977,
+        "y_pixel": 1716,
+        "gate_x": 1986,
+        "gate_y": 1719,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/64-D2",
+        "type": "HEAT DETECTOR",
+        "location": "التعبئة الدور الأول",
+        "x_pixel": 2036,
+        "y_pixel": 1715,
+        "gate_x": 1986,
+        "gate_y": 1719,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/64-D3",
+        "type": "HEAT DETECTOR",
+        "location": "التعبئة الدور الأول",
+        "x_pixel": 2083,
+        "y_pixel": 1713,
+        "gate_x": 1986,
+        "gate_y": 1719,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/64-D4",
+        "type": "HEAT DETECTOR",
+        "location": "التعبئة الدور الأول",
+        "x_pixel": 2130,
+        "y_pixel": 1713,
+        "gate_x": 1986,
+        "gate_y": 1719,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/65-D1",
+        "type": "MANUAL CALL POINT",
+        "location": "التعبئة الدور الأول - الصالة",
+        "x_pixel": 1965,
+        "y_pixel": 1726,
+        "gate_x": 1986,
+        "gate_y": 1719,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/66-D1",
+        "type": "HEAT DETECTOR",
+        "location": "التعبئة الدور الأول",
+        "x_pixel": 1804,
+        "y_pixel": 1720,
+        "gate_x": 1986,
+        "gate_y": 1719,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/66-D2",
+        "type": "HEAT DETECTOR",
+        "location": "التعبئة الدور الأول",
+        "x_pixel": 1850,
+        "y_pixel": 1719,
+        "gate_x": 1986,
+        "gate_y": 1719,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/66-D3",
+        "type": "HEAT DETECTOR",
+        "location": "التعبئة الدور الأول",
+        "x_pixel": 1896,
+        "y_pixel": 1718,
+        "gate_x": 1986,
+        "gate_y": 1719,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/67",
+        "type": "TAMPER SWITCH",
+        "location": "غرفة الكمبريسرات",
+        "x_pixel": 1784,
+        "y_pixel": 1763,
+        "gate_x": 1986,
+        "gate_y": 1719,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/68-D1",
+        "type": "HEAT DETECTOR",
+        "location": "التعبئة الدور الأول",
+        "x_pixel": 1805,
+        "y_pixel": 1758,
+        "gate_x": 1986,
+        "gate_y": 1719,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/68-D2",
+        "type": "HEAT DETECTOR",
+        "location": "التعبئة الدور الأول",
+        "x_pixel": 1851,
+        "y_pixel": 1757,
+        "gate_x": 1986,
+        "gate_y": 1719,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/68-D3",
+        "type": "HEAT DETECTOR",
+        "location": "التعبئة الدور الأول",
+        "x_pixel": 1897,
+        "y_pixel": 1756,
+        "gate_x": 1986,
+        "gate_y": 1719,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/68-D4",
+        "type": "HEAT DETECTOR",
+        "location": "التعبئة الدور الأول",
+        "x_pixel": 1944,
+        "y_pixel": 1755,
+        "gate_x": 1986,
+        "gate_y": 1719,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/69-D1",
+        "type": "HEAT DETECTOR",
+        "location": "التعبئة الدور الأول",
+        "x_pixel": 1990,
+        "y_pixel": 1754,
+        "gate_x": 1986,
+        "gate_y": 1719,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/69-D2",
+        "type": "HEAT DETECTOR",
+        "location": "التعبئة الدور الأول",
+        "x_pixel": 2037,
+        "y_pixel": 1753,
+        "gate_x": 1986,
+        "gate_y": 1719,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/69-D3",
+        "type": "HEAT DETECTOR",
+        "location": "التعبئة الدور الأول",
+        "x_pixel": 2083,
+        "y_pixel": 1752,
+        "gate_x": 1986,
+        "gate_y": 1719,
+        "g_angle": 270
+    },
+    {
+        "code": "P4/L1/69-D4",
+        "type": "HEAT DETECTOR",
+        "location": "التعبئة الدور الأول",
+        "x_pixel": 2131,
+        "y_pixel": 1751,
+        "gate_x": 1986,
+        "gate_y": 1719,
+        "g_angle": 270
+    },
+
+
+
+
+
+
+
+
+
+    {
+        "code": "P4/L2/01",
+        "type": "HEAT DETECTOR",
+        "location": "التعبئة الدور الأول",
+        "x_pixel": 2131,
+        "y_pixel": 1751,
+        "gate_x": 1986,
+        "gate_y": 1719,
+        "g_angle": 270
+    },
+
 
 
 
