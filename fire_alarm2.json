@@ -5468,17 +5468,15 @@
 
 
 
-
-
     {
         "code": "P4/L3/30",
         "type": "HEAT DETECTOR",
         "location": "التعبئة الدور الثاني",
         "x_pixel": 2150,
         "y_pixel": 1734,
-        "gate_x": 1988,
-        "gate_y": 1703,
-        "g_angle": 270
+        "gate_x": 1619,
+        "gate_y": 2101,
+        "g_angle": 135
     },
 
 
@@ -5508,7 +5506,7 @@
 
 
 
-    
+
     {
         "code": "P5/L1/01",
         "type": "SMOKE DETECTOR",
