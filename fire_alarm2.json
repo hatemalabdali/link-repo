@@ -4815,7 +4815,7 @@
         "g_angle": 270
     },
     {
-        "code": "P4/L2/12/NAC-1",
+        "code": "P4/L2/12 NAC-1",
         "type": "NAC",
         "location": "التعبئة الدور الثالث",
         "x_pixel": 1789,
@@ -4825,7 +4825,7 @@
         "g_angle": 270
     },
     {
-        "code": "P4/L2/13/NAC-1",
+        "code": "P4/L2/13 NAC-1",
         "type": "TAMPER SWITCH",
         "location": "التعبئة الدور الثالث",
         "x_pixel": 2167,
@@ -5025,7 +5025,7 @@
         "g_angle": 270
     },
     {
-        "code": "P4/L2/21/ NAC-1",
+        "code": "P4/L2/21 NAC-1",
         "type": "NAC",
         "location": "التعبئة الدور الرابع",
         "x_pixel": 1791,
@@ -5125,7 +5125,7 @@
         "g_angle": 270
     },
     {
-        "code": "P4/L2/25/NAC-1",
+        "code": "P4/L2/25 NAC-1",
         "type": "NAC",
         "location": "التعبئة الدور الرابع",
         "x_pixel": 2166,
@@ -5201,7 +5201,7 @@
 
 
 
-    
+
     {
         "code": "P5/L1/01",
         "type": "SMOKE DETECTOR",
@@ -6803,7 +6803,7 @@
         "g_angle": 236
     },
     {
-        "code": "P5/L3/68/NAC-1",
+        "code": "P5/L3/68 NAC-1",
         "type": "NAC",
         "location": "مخزن الكيماويات",
         "x_pixel": 756,
