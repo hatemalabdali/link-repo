@@ -5444,36 +5444,12 @@
         "gate_y": 1958,
         "g_angle": 0
     },
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     {
         "code": "P4/L3/30",
         "type": "SMOKE DETECTOR",
         "location": "صالة الجامع",
         "x_pixel": 1673,
-"y_pixel": 2087,
+        "y_pixel": 2087,
         "gate_x": 1619,
         "gate_y": 2101,
         "g_angle": 70
@@ -5482,8 +5458,8 @@
         "code": "P4/L3/31",
         "type": "SMOKE DETECTOR",
         "location": "صالة الجامع",
-       "x_pixel": 1640,
-"y_pixel": 2099,
+        "x_pixel": 1640,
+        "y_pixel": 2099,
         "gate_x": 1619,
         "gate_y": 2101,
         "g_angle": 70
@@ -5493,7 +5469,7 @@
         "type": "NAC",
         "location": "خارج الجامع",
         "x_pixel": 1619,
-"y_pixel": 2107,
+        "y_pixel": 2107,
         "gate_x": 1619,
         "gate_y": 2101,
         "g_angle": 70
@@ -5502,8 +5478,8 @@
         "code": "P4/L3/33",
         "type": "MANUAL CALL POINT",
         "location": "صالة الجامع",
-       "x_pixel": 1634,
-"y_pixel": 2111,
+        "x_pixel": 1634,
+        "y_pixel": 2111,
         "gate_x": 1619,
         "gate_y": 2101,
         "g_angle": 70
@@ -5513,7 +5489,7 @@
         "type": "FLASHER",
         "location": "صالة الجامع",
         "x_pixel": 1634,
-"y_pixel": 2105,
+        "y_pixel": 2105,
         "gate_x": 1619,
         "gate_y": 2101,
         "g_angle": 70
@@ -5523,7 +5499,7 @@
         "type": "SOUNDER",
         "location": "صالة الجامع",
         "x_pixel": 1630,
-"y_pixel": 2107,
+        "y_pixel": 2107,
         "gate_x": 1619,
         "gate_y": 2101,
         "g_angle": 70
@@ -5533,7 +5509,7 @@
         "type": "SMOKE DETECTOR",
         "location": "داخل الجامع",
         "x_pixel": 1623,
-"y_pixel": 2069,
+        "y_pixel": 2069,
         "gate_x": 1619,
         "gate_y": 2101,
         "g_angle": 70
@@ -5543,7 +5519,7 @@
         "type": "SMOKE DETECTOR",
         "location": "داخل الجامع",
         "x_pixel": 1609,
-"y_pixel": 2030,
+        "y_pixel": 2030,
         "gate_x": 1619,
         "gate_y": 2101,
         "g_angle": 70
@@ -5553,7 +5529,7 @@
         "type": "SMOKE DETECTOR",
         "location": "داخل الجامع",
         "x_pixel": 1654,
-"y_pixel": 2015,
+        "y_pixel": 2015,
         "gate_x": 1619,
         "gate_y": 2101,
         "g_angle": 70
@@ -5563,7 +5539,7 @@
         "type": "SMOKE DETECTOR",
         "location": "داخل الجامع",
         "x_pixel": 1667,
-"y_pixel": 2053,
+        "y_pixel": 2053,
         "gate_x": 1619,
         "gate_y": 2101,
         "g_angle": 70
@@ -5572,8 +5548,8 @@
         "code": "P4/L3/40",
         "type": "FLOW SWITCH",
         "location": "الجامع - خط كبائن الإطفاء",
-       "x_pixel": 1689,
-"y_pixel": 2050,
+        "x_pixel": 1689,
+        "y_pixel": 2050,
         "gate_x": 1619,
         "gate_y": 2101,
         "g_angle": 70
@@ -5583,22 +5559,11 @@
         "type": "TAMPER SWITCH",
         "location": "الجامع - حساس محبس لخط كبائن الإطفاء",
         "x_pixel": 1691,
-"y_pixel": 2056,
+        "y_pixel": 2056,
         "gate_x": 1619,
         "gate_y": 2101,
         "g_angle": 70
     },
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -5617,6 +5582,138 @@
 
     {
         "code": "P4/L4/01",
+        "type": "TAMPER SWITCH",
+        "location": "الصوامع",
+        "x_pixel": 1909,
+"y_pixel": 1393,
+        "gate_x": 1944,
+        "gate_y": 1270,
+        "g_angle": 170
+    },
+    {
+        "code": "P4/L4/02",
+        "type": "PRESURE SWITCH",
+        "location": "حساس الضغط لمحبس الديلوج رقم ..........لكونفيرات الصوامع",
+        "x_pixel": 1909,
+"y_pixel": 1390,
+        "gate_x": 1944,
+        "gate_y": 1270,
+        "g_angle": 170
+    },
+    {
+        "code": "P4/L4/03",
+        "type": "FLOW SWITCH",
+        "location": "الصوامع",
+       "x_pixel": 1909,
+"y_pixel": 1386,
+        "gate_x": 1944,
+        "gate_y": 1270,
+        "g_angle": 170
+    },
+    {
+        "code": "P4/L4/04",
+        "type": "TAMPER SWITCH",
+        "location": "الصوامع",
+        "x_pixel": 1909,
+"y_pixel": 1384,
+        "gate_x": 1944,
+        "gate_y": 1270,
+        "g_angle": 170
+    },
+    {
+        "code": "P4/L4/05",
+        "type": "TAMPER SWITCH",
+        "location": "الصوامع",
+        "x_pixel": 1909,
+"y_pixel": 1380,
+        "gate_x": 1944,
+        "gate_y": 1270,
+        "g_angle": 170
+    },
+    {
+        "code": "P4/L4/06",
+        "type": "TAMPER SWITCH",
+        "location": "الصوامع",
+        "x_pixel": 1912,
+"y_pixel": 1310,
+        "gate_x": 1944,
+        "gate_y": 1270,
+        "g_angle": 170
+    },
+    {
+        "code": "P4/L4/07 NAC-1",
+        "type": "NAC",
+        "location": "الكونفير من الإنتاج الى الصوامع",
+        "x_pixel": 1931,
+"y_pixel": 1291,
+        "gate_x": 1944,
+        "gate_y": 1270,
+        "g_angle": 170
+    },
+    {
+        "code": "P4/L4/08 NAC-1",
+        "type": "NAC",
+        "location": "الكونفير من الإنتاج الى الصوامع",
+        "x_pixel": 1930,
+"y_pixel": 1296,
+        "gate_x": 1944,
+        "gate_y": 1270,
+        "g_angle": 170
+    },
+    {
+        "code": "P4/L4/10-D1",
+        "type": "HEAT DETECTOR",
+        "location": "الكونفير من الإنتاج الى الصوامع",
+       "x_pixel": 1936,
+"y_pixel": 1318,
+        "gate_x": 1944,
+        "gate_y": 1270,
+        "g_angle": 170
+    },
+    {
+        "code": "P4/L4/10-D2",
+        "type": "HEAT DETECTOR",
+        "location": "الكونفير من الإنتاج الى الصوامع",
+        "x_pixel": 1934,
+"y_pixel": 1376,
+        "gate_x": 1944,
+        "gate_y": 1270,
+        "g_angle": 170
+    },
+    {
+        "code": "P4/L4/11-D1",
+        "type": "MANUAL CALL POINT",
+        "location": "الكونفير من الإنتاج الى الصوامع",
+        "x_pixel": 1931,
+"y_pixel": 1293,
+        "gate_x": 1944,
+        "gate_y": 1270,
+        "g_angle": 170
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        "code": "P4/L4/23/D1",
         "type": "HEAT DETECTOR",
         "location": "التعبئة الدور الثاني",
         "x_pixel": 2150,
@@ -5625,6 +5722,34 @@
         "gate_y": 2101,
         "g_angle": 80
     },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     {
         "code": "P5/L1/01",
         "type": "SMOKE DETECTOR",
