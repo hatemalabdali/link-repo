@@ -5841,6 +5841,97 @@
 
 
 
+  {
+    "code": "P4/L4/09 NAC-1",
+    "type": "NAC",
+    "location": "الكونفير من الصوامع الى التعبئة",
+    "x_pixel": 1953,
+"y_pixel": 1495,
+    "gate_x": 1916,
+    "gate_y": 1290,
+    "g_angle": 180
+  },
+  {
+    "code": "P4/L4/12-D1",
+    "type": "HEAT DETECTOR",
+    "location": "الكونفير من الصوامع الى التعبئة",
+   "x_pixel": 1931,
+"y_pixel": 1413,
+    "gate_x": 1916,
+    "gate_y": 1290,
+    "g_angle": 180
+  },
+  {
+    "code": "P4/L4/12-D2",
+    "type": "HEAT DETECTOR",
+    "location": "الكونفير من الصوامع الى التعبئة",
+    "x_pixel": 1936,
+"y_pixel": 1456,
+    "gate_x": 1916,
+    "gate_y": 1290,
+    "g_angle": 180
+  },
+  {
+    "code": "P4/L4/12-D3",
+    "type": "HEAT DETECTOR",
+    "location": "الكونفير من الصوامع الى التعبئة",
+   "x_pixel": 1942,
+"y_pixel": 1501,
+    "gate_x": 1916,
+    "gate_y": 1290,
+    "g_angle": 180
+  },
+  {
+    "code": "P4/L4/13-D1",
+    "type": "HEAT DETECTOR",
+    "location": "الكونفير من الصوامع الى التعبئة",
+   "x_pixel": 1947,
+"y_pixel": 1544,
+    "gate_x": 1916,
+    "gate_y": 1290,
+    "g_angle": 180
+  },
+  {
+    "code": "P4/L4/13-D2",
+    "type": "HEAT DETECTOR",
+    "location": "الكونفير من الصوامع الى التعبئة",
+   "x_pixel": 1953,
+"y_pixel": 1588,
+    "gate_x": 1916,
+    "gate_y": 1290,
+    "g_angle": 180
+  },
+  {
+    "code": "P4/L4/13-D3",
+    "type": "HEAT DETECTOR",
+    "location": "الكونفير من الصوامع الى التعبئة",
+    "x_pixel": 1958,
+"y_pixel": 1632,
+    "gate_x": 1916,
+    "gate_y": 1290,
+    "g_angle": 180
+  },
+  {
+    "code": "P4/L4/13-D4",
+    "type": "HEAT DETECTOR",
+    "location": "الكونفير من الصوامع الى التعبئة",
+    "x_pixel": 1964,
+"y_pixel": 1676,
+    "gate_x": 1916,
+    "gate_y": 1290,
+    "g_angle": 180
+  },
+  {
+    "code": "P4/L4/14-D1",
+    "type": "MANUAL CALL POINT",
+    "location": "الكونفير من الصوامع الى التعبئة",
+    "x_pixel": 1953,
+"y_pixel": 1499,
+    "gate_x": 1916,
+    "gate_y": 1290,
+    "g_angle": 180
+  },
+
 
 
 
@@ -5849,7 +5940,7 @@
 
 
     {
-        "code": "P4/L4/12-D1",
+        "code": "P4/L4/30",
         "type": "HEAT DETECTOR",
         "location": "التعبئة الدور الثاني",
         "x_pixel": 2150,
