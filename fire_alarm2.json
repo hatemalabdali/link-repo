@@ -5874,6 +5874,96 @@
         "g_angle": 180
     },
     {
+        "code": "P4/L4/15",
+        "type": "OUTPUT/INPUT MODULE",
+        "location": "الكونفير من الصوامع الى التعبئة",
+        "x_pixel": 1932,
+        "y_pixel": 1312,
+        "gate_x": 1916,
+        "gate_y": 1290,
+        "g_angle": 180
+    },
+    {
+        "code": "P4/L4/16",
+        "type": "OUTPUT/INPUT MODULE",
+        "location": "الكونفير من الصوامع الى التعبئة",
+        "x_pixel": 1933,
+        "y_pixel": 1316,
+        "gate_x": 1916,
+        "gate_y": 1290,
+        "g_angle": 180
+    },
+    {
+        "code": "P4/L4/17",
+        "type": "OUTPUT/INPUT MODULE",
+        "location": "الكونفير من الصوامع الى التعبئة",
+        "x_pixel": 1933,
+        "y_pixel": 1319,
+        "gate_x": 1916,
+        "gate_y": 1290,
+        "g_angle": 180
+    },
+    {
+        "code": "P4/L4/18",
+        "type": "OUTPUT/INPUT MODULE",
+        "location": "الكونفير من الصوامع الى التعبئة",
+        "x_pixel": 1933,
+        "y_pixel": 1323,
+        "gate_x": 1916,
+        "gate_y": 1290,
+        "g_angle": 180
+    },
+    {
+        "code": "P4/L4/19",
+        "type": "OUTPUT/INPUT MODULE",
+        "location": "الكونفير من الصوامع الى التعبئة",
+        "x_pixel": 1934,
+        "y_pixel": 1327,
+        "gate_x": 1916,
+        "gate_y": 1290,
+        "g_angle": 180
+    },
+    {
+        "code": "P4/L4/20",
+        "type": "OUTPUT/INPUT MODULE",
+        "location": "الكونفير من الصوامع الى التعبئة",
+        "x_pixel": 1934,
+        "y_pixel": 1331,
+        "gate_x": 1916,
+        "gate_y": 1290,
+        "g_angle": 180
+    },
+    {
+        "code": "P4/L4/26",
+        "type": "FM200",
+        "location": "غرفة كهرباء الصوامع",
+        "x_pixel": 1977,
+        "y_pixel": 1442,
+        "gate_x": 1961,
+        "gate_y": 1450,
+        "g_angle": 0
+    },
+    {
+        "code": "P4/L4/27",
+        "type": "FM200",
+        "location": "غرفة كهرباء الصوامع",
+        "x_pixel": 1977,
+        "y_pixel": 1442,
+        "gate_x": 1961,
+        "gate_y": 1450,
+        "g_angle": 0
+    },
+    {
+        "code": "P4/L4/28",
+        "type": "FM200",
+        "location": "غرفة كهرباء الصوامع",
+        "x_pixel": 1977,
+        "y_pixel": 1442,
+        "gate_x": 1961,
+        "gate_y": 1450,
+        "g_angle": 0
+    },
+    {
         "code": "P4/L4/29 NAC-1",
         "type": "NAC",
         "location": "مخزن الجير ",
