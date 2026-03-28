@@ -171,8 +171,8 @@
 {
   "calibrationKey": "p4_convyeor_belt_from_silos",
   "calX": 1941.875,
-  "calY": 1506.875,
-  "rotation": -100.25,
+  "calY": 1498.0,
+  "rotation": 82.875,
   "scaleX": 0.080361016,
   "scaleY": 0.080361016
 },
