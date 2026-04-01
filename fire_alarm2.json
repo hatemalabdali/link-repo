@@ -13031,6 +13031,38 @@
         "gate_x": 1640,
         "gate_y": 400,
         "g_angle": 90
+    }, 
+    {
+        "code": "P9/L1/44",
+        "type": "SOUNDER",
+        "location": "مكتب الجودة",
+        "x_pixel": 1605,
+        "y_pixel": 576,
+        "gate_x": 1616,
+        "gate_y": 577,
+        "g_angle": 90
+    },
+    
+    {
+        "code": "P9/L1/45",
+        "type": "FLSHER",
+        "location": "مكتب الجودة",
+        "x_pixel": 1605,
+        "y_pixel": 576,
+        "gate_x": 1616,
+        "gate_y": 577,
+        "g_angle": 90
+    },
+    
+    {
+        "code": "P9/L1/46",
+        "type": "MANUAL CALL POINT",
+        "location": "مكتب الجودة",
+        "x_pixel": 1605,
+        "y_pixel": 576,
+        "gate_x": 1616,
+        "gate_y": 577,
+        "g_angle": 90
     },
     {
         "code": "P9/L2/01",
