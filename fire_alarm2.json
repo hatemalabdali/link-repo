@@ -13129,7 +13129,7 @@
         "type": "SMOKE DETECTOR",
         "location": "محطة التحلية",
         "x_pixel": 1256,
-        "y_pixel": 240,
+        "y_pixel": 227,
         "gate_x": 1330,
         "gate_y": 199,
         "g_angle": 270
@@ -13139,7 +13139,7 @@
         "type": "SMOKE DETECTOR",
         "location": "محطة التحلية",
         "x_pixel": 1203,
-        "y_pixel": 240,
+        "y_pixel": 227,
         "gate_x": 1330,
         "gate_y": 199,
         "g_angle": 270
@@ -13169,7 +13169,7 @@
         "type": "SMOKE DETECTOR",
         "location": "محطة التحلية",
         "x_pixel": 1151,
-        "y_pixel": 240,
+        "y_pixel": 227,
         "gate_x": 1330,
         "gate_y": 199,
         "g_angle": 270
