@@ -13109,7 +13109,7 @@
         "type": "SMOKE DETECTOR",
         "location": "محطة التحلية - الصالة امام غرفة الكهرباء",
         "x_pixel": 1309,
-        "y_pixel": 183,
+        "y_pixel": 180,
         "gate_x": 1330,
         "gate_y": 199,
         "g_angle": 270
@@ -13119,7 +13119,7 @@
         "type": "SMOKE DETECTOR",
         "location": "محطة التحلية",
         "x_pixel": 1256,
-        "y_pixel": 183,
+        "y_pixel": 180,
         "gate_x": 1330,
         "gate_y": 199,
         "g_angle": 270
@@ -13149,7 +13149,7 @@
         "type": "SMOKE DETECTOR",
         "location": "محطة التحلية",
         "x_pixel": 1203,
-        "y_pixel": 183,
+        "y_pixel": 180,
         "gate_x": 1330,
         "gate_y": 199,
         "g_angle": 270
@@ -13159,7 +13159,7 @@
         "type": "SMOKE DETECTOR",
         "location": "محطة التحلية",
         "x_pixel": 1151,
-        "y_pixel": 183,
+        "y_pixel": 180,
         "gate_x": 1330,
         "gate_y": 199,
         "g_angle": 270
