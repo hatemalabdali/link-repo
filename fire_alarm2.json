@@ -13228,8 +13228,8 @@
         "code": "P9/L2/17 NAC-1",
         "type": "NAC",
         "location": "محطة التحلية - المدخل بجانب البوابة الشرقية",
-        "x_pixel": 190,
-        "y_pixel": 189.5,
+        "x_pixel": 1330,
+        "y_pixel": 190,
         "gate_x": 1330,
         "gate_y": 199,
         "g_angle": 270
