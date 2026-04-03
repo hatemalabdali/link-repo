@@ -13259,7 +13259,7 @@
         "type": "MANUAL CALL POINT",
         "location": "محطة التحلية - المدخل بجانب البوابة الشرقية",
         "x_pixel": 1326,
-        "y_pixel": 200  ,
+        "y_pixel": 201  ,
         "gate_x": 1330,
         "gate_y": 199,
         "g_angle": 270
@@ -13269,7 +13269,7 @@
         "type": "PRESURE SWITCH",
         "location": "محطة التحلية - مفتاح الضغط الخاص بشبكة المرشات",
         "x_pixel": 1299,
-        "y_pixel": 173,
+        "y_pixel": 173.5,
         "gate_x": 1330,
         "gate_y": 199,
         "g_angle": 270
