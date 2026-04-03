@@ -13259,7 +13259,7 @@
         "type": "MANUAL CALL POINT",
         "location": "محطة التحلية - المدخل بجانب البوابة الشرقية",
         "x_pixel": 1326,
-        "y_pixel": 200,
+        "y_pixel": 199,
         "gate_x": 1330,
         "gate_y": 199,
         "g_angle": 270
@@ -13269,7 +13269,7 @@
         "type": "PRESURE SWITCH",
         "location": "محطة التحلية - مفتاح الضغط الخاص بشبكة المرشات",
         "x_pixel": 1299,
-        "y_pixel": 175,
+        "y_pixel": 174,
         "gate_x": 1330,
         "gate_y": 199,
         "g_angle": 270
@@ -13279,7 +13279,7 @@
         "type": "TAMPER SWITCH",
         "location": "محطة التحلية - حساس محبس رقم 141 الخاص بمرشات الإطفاء",
         "x_pixel": 1294,
-        "y_pixel": 175,
+        "y_pixel": 174,
         "gate_x": 1330,
         "gate_y": 199,
         "g_angle": 270
@@ -13289,7 +13289,7 @@
         "type": "FLOW SWITCH",
         "location": "محطة التحلية - حساس التدفق الخاص ب كبائن الإطفاء",
         "x_pixel": 1287,
-        "y_pixel": 175,
+        "y_pixel": 174,
         "gate_x": 1330,
         "gate_y": 199,
         "g_angle": 270
@@ -13299,9 +13299,9 @@
         "type": "TAMPER SWITCH",
         "location": "محطة التحلية - حساس محبس رقم 142 الخاص ب كبائن الإطفاء",
         "x_pixel": 1283,
-        "y_pixel": 175,
+        "y_pixel": 174,
         "gate_x": 1330,
-        "gate_y": 200,
+        "gate_y": 199,
         "g_angle": 270
     },
     {
