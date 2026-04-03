@@ -13229,7 +13229,7 @@
         "type": "NAC",
         "location": "محطة التحلية - المدخل بجانب البوابة الشرقية",
         "x_pixel": 1329,
-        "y_pixel": 189,
+        "y_pixel": 189.5,
         "gate_x": 1330,
         "gate_y": 199,
         "g_angle": 270
@@ -13259,7 +13259,7 @@
         "type": "MANUAL CALL POINT",
         "location": "محطة التحلية - المدخل بجانب البوابة الشرقية",
         "x_pixel": 1326,
-        "y_pixel": 201  ,
+        "y_pixel": 200  ,
         "gate_x": 1330,
         "gate_y": 199,
         "g_angle": 270
