@@ -13219,7 +13219,7 @@
         "type": "SMOKE DETECTOR",
         "location": "محطة التحلية",
         "x_pixel": 1309,
-        "y_pixel": 240,
+        "y_pixel": 227,
         "gate_x": 1330,
         "gate_y": 199,
         "g_angle": 270
@@ -13239,7 +13239,7 @@
         "type": "FLASHER",
         "location": "محطة التحلية - المدخل بجانب البوابة الشرقية",
         "x_pixel": 1326,
-        "y_pixel": 232,
+        "y_pixel": 220,
         "gate_x": 1330,
         "gate_y": 199,
         "g_angle": 270
@@ -13249,7 +13249,7 @@
         "type": "SOUNDER",
         "location": "محطة التحلية - المدخل بجانب البوابة الشرقية",
         "x_pixel": 1326,
-        "y_pixel": 228,
+        "y_pixel": 216,
         "gate_x": 1330,
         "gate_y": 199,
         "g_angle": 270
@@ -13259,7 +13259,7 @@
         "type": "MANUAL CALL POINT",
         "location": "محطة التحلية - المدخل بجانب البوابة الشرقية",
         "x_pixel": 1326,
-        "y_pixel": 206,
+        "y_pixel": 200,
         "gate_x": 1330,
         "gate_y": 199,
         "g_angle": 270
@@ -13301,7 +13301,7 @@
         "x_pixel": 1283,
         "y_pixel": 175,
         "gate_x": 1330,
-        "gate_y": 199,
+        "gate_y": 200,
         "g_angle": 270
     },
     {
